@@ -77,32 +77,35 @@ input[type=search]{
   font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;
   color:var(--muted);padding:10px 4px;border-bottom:1px solid var(--line);text-align:center}
 .gantt thead th.name,.gantt tbody th.name{
-  text-align:left;padding:8px 12px;width:230px;min-width:230px;
+  text-align:left;padding:6px 14px;width:290px;min-width:290px;max-width:290px;
   position:sticky;left:0;background:var(--card);z-index:2}
 .gantt thead th.name{z-index:4}
 .gantt thead th.yr{border-left:1px solid var(--line)}
 .gantt tbody th.name{font-weight:500;font-size:13px;border-right:1px solid var(--line2)}
 .gantt tbody tr:hover th.name,.gantt tbody tr:hover td{background:var(--line2)}
-.tname{display:block;line-height:1.3}
-.tmeta{display:block;color:var(--muted);font-size:11px;margin-top:1px}
-.track{position:relative;height:34px;padding:0;
+.tname{display:block;line-height:1.25;white-space:nowrap;overflow:hidden;
+  text-overflow:ellipsis}
+.tmeta{display:block;color:var(--muted);font-size:10.5px;margin-top:0;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.track{position:relative;height:30px;padding:0;
   background-image:repeating-linear-gradient(to right,
     var(--line2) 0 1px, transparent 1px var(--mw));
   background-position:left top}
 .bar{
-  position:absolute;top:9px;height:16px;border-radius:8px;
+  position:absolute;top:7px;height:16px;min-width:10px;border-radius:8px;
   display:flex;align-items:center;padding:0 7px;overflow:hidden;
   font-size:10.5px;font-weight:650;color:#fff;white-space:nowrap;
   box-shadow:0 1px 3px rgba(0,0,0,.22)}
 .bar.hot{outline:1.5px solid var(--hot);outline-offset:1px}
+/* a short tour gets a bar a few pixels wide; its name goes beside it instead */
+.barlabel{position:absolute;top:7px;height:16px;display:flex;align-items:center;
+  font-size:10.5px;font-weight:600;color:var(--muted);white-space:nowrap;
+  padding-left:5px;pointer-events:none}
 .today-line{position:absolute;top:0;bottom:0;width:2px;background:var(--hot);
-  opacity:.75;z-index:1;pointer-events:none}
-.mcount{text-align:right;padding:8px 12px;font-size:12.5px;color:var(--muted);
-  font-variant-numeric:tabular-nums;white-space:nowrap}
-.mcount b{color:var(--ink);font-weight:640}
+  opacity:.7;z-index:1;pointer-events:none}
 
 /* ---------- month grid ---------- */
-.months{display:grid;gap:20px;grid-template-columns:repeat(auto-fill,minmax(330px,1fr))}
+.months{display:grid;gap:20px;grid-template-columns:repeat(auto-fill,minmax(400px,1fr))}
 .month{background:var(--card);border:1px solid var(--line);border-radius:12px;
   box-shadow:var(--shadow);overflow:hidden}
 .month h3{margin:0;padding:11px 14px;font-size:13px;letter-spacing:.05em;
@@ -112,19 +115,40 @@ input[type=search]{
 .grid{display:grid;grid-template-columns:repeat(7,1fr)}
 .dow{font-size:10px;color:var(--muted);text-align:center;padding:6px 0;
   letter-spacing:.04em;border-bottom:1px solid var(--line2)}
-.day{min-height:52px;border-right:1px solid var(--line2);border-bottom:1px solid var(--line2);
-  padding:3px 4px;position:relative}
+.day{min-height:64px;border-right:1px solid var(--line2);
+  border-bottom:1px solid var(--line2);padding:4px 5px 6px;position:relative;
+  background:none;border-top:0;border-left:0;font:inherit;color:inherit;
+  text-align:left;width:100%;display:block}
 .day:nth-child(7n){border-right:0}
-.day.pad{background:linear-gradient(135deg,transparent 46%,var(--line2) 46%,var(--line2) 54%,transparent 54%);
-  background-size:7px 7px;opacity:.5}
+.day.pad{background:linear-gradient(135deg,transparent 46%,var(--line2) 46%,
+  var(--line2) 54%,transparent 54%);background-size:7px 7px;opacity:.5}
+.day.has{cursor:pointer}
+.day.has:hover{background:var(--line2)}
+.day.has:focus-visible{outline:2px solid var(--hot);outline-offset:-2px}
 .day.today{box-shadow:inset 0 0 0 2px var(--ink)}
-.dnum{font-size:10px;color:var(--muted);font-variant-numeric:tabular-nums}
-.day.hasm .dnum{color:var(--ink);font-weight:600}
-.dots{display:flex;flex-wrap:wrap;gap:2px;margin-top:2px}
-.dot{width:6px;height:6px;border-radius:50%}
-.dot.hot{box-shadow:0 0 0 1.5px var(--hot)}
-.daycount{position:absolute;right:4px;top:3px;font-size:9.5px;color:var(--muted);
+.dnum{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+.day.has .dnum{color:var(--ink);font-weight:640}
+.dots{display:flex;flex-wrap:wrap;gap:3px;margin-top:4px;align-items:center}
+.dot{width:11px;height:11px;border-radius:50%;flex:0 0 auto}
+.dot.hot{box-shadow:0 0 0 2px var(--hot)}
+.more{font-size:10px;color:var(--muted);font-weight:640;margin-left:1px}
+.daycount{position:absolute;right:5px;top:4px;font-size:10px;color:var(--muted);
   font-variant-numeric:tabular-nums}
+
+/* ---------- day detail dialog ---------- */
+.backdrop{position:fixed;inset:0;background:rgba(12,11,9,.55);z-index:40;
+  display:flex;align-items:flex-start;justify-content:center;padding:5vh 16px}
+.sheet{background:var(--card);border:1px solid var(--line);border-radius:14px;
+  box-shadow:0 24px 60px -18px rgba(0,0,0,.6);width:min(680px,100%);
+  max-height:82vh;overflow:auto}
+.sheethead{position:sticky;top:0;background:var(--card);z-index:1;
+  padding:14px 18px;border-bottom:1px solid var(--line);
+  display:flex;justify-content:space-between;align-items:center;gap:12px}
+.sheethead b{font-size:15px}
+.sheethead span{color:var(--muted);font-size:12.5px}
+.xbtn{border:1px solid var(--line);background:transparent;color:var(--muted);
+  font:inherit;font-size:13px;border-radius:8px;padding:4px 11px;cursor:pointer}
+.xbtn:hover{color:var(--ink);border-color:var(--ink)}
 
 /* ---------- list ---------- */
 .list{background:var(--card);border:1px solid var(--line);border-radius:12px;
@@ -245,6 +269,29 @@ const isHot = f => f.india || (T[f.tour] && T[f.tour].world);
 const el = (h) => { const d = document.createElement("div"); d.innerHTML = h.trim(); return d.firstChild; };
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
+// ESPN's names carry their own bookkeeping: a bracketed disambiguator and the
+// season, both of which the calendar already shows on the axis.
+//   "Netherlands Women tour of Scotland [Aug 2026] 2026" -> "Netherlands Women tour of Scotland"
+const cleanName = n => String(n || "")
+  .replace(/\s*\[[^\]]*\]/g, "")
+  .replace(/\s+20\d\d(?:\/\d\d)?$/, "")
+  .replace(/\s+unofficial\b/ig, "")
+  .trim();
+
+const GROUP_LABEL = {Discovered: "Other"};
+const groupOf = t => GROUP_LABEL[t.group] || t.group;
+
+// "Franchise T20 · T20" says one thing twice; only add the format when it adds
+// something the group name has not already said.
+function metaOf(t) {
+  const bits = [groupOf(t)];
+  const f = (t.formats || []).join("/");
+  if (f && !(t.formats.length === 1 && groupOf(t).includes(t.formats[0]))) bits.push(f);
+  if (t.india) bits.push("India");
+  if (t.world) bits.push("ICC");
+  return bits.join(" · ");
+}
+
 function matches() {
   const q = state.q.toLowerCase();
   return DATA.fixtures.filter(f => {
@@ -317,21 +364,28 @@ function renderSeason(fx) {
     const hot = t.india || t.world;
     const color = (t.color && t.color !== "#7a8899")
       ? t.color : (FMT_COLOR[(t.formats||[])[0]] || "var(--muted)");
-    const title = `${t.name} — ${t.start} to ${t.end}, ${counts[t.key]} matches`;
+    const title = `${cleanName(t.name)} — ${t.start} to ${t.end}, ${counts[t.key]} matches`;
     // a three-day tour gets a bar a few pixels wide; a clipped single letter in
     // it reads as breakage, so the label only appears when it can be read
-    // roughly one character per 0.55% of axis width at this type size
-    const room  = Math.floor(width / 0.55);
-    const label = room >= 4 ? esc((t.short||"").slice(0, room)) : "";
+    // A bar too narrow for its own name gets the name printed beside it rather
+    // than a clipped fragment inside it. The axis is about 1000px wide, so one
+    // percent is ~10px; bold 10.5px averages ~6.6px a character and the bar
+    // carries 14px of its own padding. Erring wide keeps labels off the edge.
+    const nm    = cleanName(t.name);
+    const room  = Math.floor((width - 1.6) / 0.72);
+    const inside  = room >= (t.short || "").length;
+    const label   = inside ? esc(t.short || "") : "";
+    const outside = inside ? ""
+      : `<div class="barlabel" style="left:${Math.min(left + width, 97)}%">${esc(nm)}</div>`;
     return `<tr>
-      <th class="name">
-        <span class="tname">${esc(t.name)}</span>
-        <span class="tmeta">${esc(t.group)}${(t.formats||[]).length ? " · " + esc(t.formats.join("/")) : ""}${t.india ? " · India" : ""}${t.world ? " · ICC" : ""}</span>
+      <th class="name" title="${esc(cleanName(t.name))}">
+        <span class="tname">${esc(cleanName(t.name))}</span>
+        <span class="tmeta">${esc(metaOf(t))}</span>
       </th>
       <td class="track" colspan="${cols.length}">
         ${tpos === null ? "" : `<div class="today-line" style="left:${tpos}%"></div>`}
         <div class="bar${hot ? " hot" : ""}" style="left:${left}%;width:${width}%;background:${color}"
-             title="${esc(title)}">${label}</div>
+             title="${esc(title)}">${label}</div>${outside}
       </td>
       <td class="mcount"><b>${counts[t.key]}</b></td></tr>`;
   }).join("");
@@ -348,6 +402,7 @@ function renderMonth(fx) {
   const days = Object.keys(byDay).sort();
   const cols = monthsBetween(days[0].slice(0,7), days[days.length-1].slice(0,7));
   const today = new Date().toISOString().slice(0,10);
+  const DOTS = 8;                       // beyond this a count reads better than dots
 
   return `<div class="months">` + cols.map(m => {
     const [y, mm] = m.split("-").map(Number);
@@ -359,18 +414,20 @@ function renderMonth(fx) {
     let total = 0;
     for (let d = 1; d <= dim; d++) {
       const key = `${y}-${String(mm).padStart(2,"0")}-${String(d).padStart(2,"0")}`;
-      const list = byDay[key] || [];
+      const list = (byDay[key] || []).slice().sort((a,b) => a.ts - b.ts);
       total += list.length;
-      const dots = list.slice(0,10).map(f => {
+      const dots = list.slice(0, DOTS).map(f => {
         const t = T[f.tour];
         const color = (t && t.color !== "#7a8899" && t.color) || FMT_COLOR[f.format] || "var(--muted)";
-        return `<span class="dot${isHot(f) ? " hot" : ""}" style="background:${color}"
-                 title="${esc(f.home)} v ${esc(f.away)} — ${esc(t ? t.name : "")}"></span>`;
-      }).join("");
-      cells += `<div class="day${list.length ? " hasm" : ""}${key === today ? " today" : ""}">
+        return `<span class="dot${isHot(f) ? " hot" : ""}" style="background:${color}"></span>`;
+      }).join("") + (list.length > DOTS ? `<span class="more">+${list.length - DOTS}</span>` : "");
+      const has = list.length > 0;
+      cells += `<${has ? "button type=\"button\"" : "div"} class="day${has ? " has" : ""}${key === today ? " today" : ""}"
+          ${has ? `data-day="${key}" title="${list.length} match${list.length===1?"":"es"} — click for detail"` : ""}>
         <span class="dnum">${d}</span>
         ${list.length > 1 ? `<span class="daycount">${list.length}</span>` : ""}
-        <div class="dots">${dots}</div></div>`;
+        <div class="dots">${dots}</div>
+      </${has ? "button" : "div"}>`;
     }
     const tail = (7 - ((lead + dim) % 7)) % 7;
     for (let i = 0; i < tail; i++) cells += `<div class="day pad"></div>`;
@@ -379,7 +436,34 @@ function renderMonth(fx) {
   }).join("") + `</div>`;
 }
 
-/* ---------------- match list ---------------- */
+/* ---------------- match rows (list view + day sheet) ---------------- */
+function matchRow(f) {
+  const t = T[f.tour] || {};
+  const time = f.tbd ? "TBC" : f.utc.slice(11,16);
+  const score = (f.home_score || f.away_score)
+    ? `<div class="score">${esc(f.home_score)}${f.away_score ? " &nbsp;·&nbsp; " + esc(f.away_score) : ""}</div>` : "";
+  const tags = [];
+  if (f.format) tags.push(`<span class="tag" style="background:${FMT_COLOR[f.format]||"var(--muted)"}">${esc(f.format)}</span>`);
+  if (isHot(f)) tags.push(`<span class="tag hot">${f.india ? "India" : "ICC"}</span>`);
+  if (f.disrupted) tags.push(`<span class="tag bad">${esc(f.status)}</span>`);
+  else if (f.status === "LIVE") tags.push(`<span class="tag live">Live</span>`);
+  else if (f.finished) tags.push(`<span class="tag o">${esc(f.status)}</span>`);
+  return `<div class="m${isHot(f) ? " hot" : ""}">
+    <div class="mtime">${time}${f.tbd ? "" : "<br><span style='font-size:9.5px'>UTC</span>"}</div>
+    <div>
+      <div class="teams">${esc(f.home)} <span style="color:var(--muted);font-weight:400">v</span> ${esc(f.away)}</div>
+      <div class="mline">${esc(cleanName(t.name||""))}${f.round ? " · " + esc(f.round) : ""}${f.city ? " · " + esc(f.city) : ""}</div>
+      ${score}
+    </div>
+    <div class="tags">${tags.join("")}</div>
+  </div>`;
+}
+
+function dayLabel(day) {
+  const d = new Date(day + "T00:00:00Z");
+  return `${DOW[(d.getUTCDay()+6)%7]} ${d.getUTCDate()} ${MON[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
+}
+
 function renderList(fx) {
   if (!fx.length) return `<div class="list"><div class="empty">Nothing matches those filters.</div></div>`;
   const byDay = {};
@@ -388,35 +472,40 @@ function renderList(fx) {
 
   let html = `<div class="list">`;
   Object.keys(byDay).sort().forEach(day => {
-    const d = new Date(day + "T00:00:00Z");
-    const label = `${DOW[(d.getUTCDay()+6)%7]} ${d.getUTCDate()} ${MON[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
-    html += `<div class="dayhead">${label}${day === today ? " <span>today</span>" : ""}
+    html += `<div class="dayhead">${dayLabel(day)}${day === today ? " <span>today</span>" : ""}
              <span>${byDay[day].length} match${byDay[day].length===1?"":"es"}</span></div>`;
-    byDay[day].sort((a,b) => a.ts - b.ts).forEach(f => {
-      const t = T[f.tour] || {};
-      const time = f.tbd ? "TBC" : f.utc.slice(11,16);
-      const score = (f.home_score || f.away_score)
-        ? `<div class="score">${esc(f.home_score)}${f.away_score ? " &nbsp;·&nbsp; " + esc(f.away_score) : ""}</div>` : "";
-      const tags = [];
-      if (f.format) tags.push(`<span class="tag" style="background:${FMT_COLOR[f.format]||"var(--muted)"}">${esc(f.format)}</span>`);
-      if (isHot(f)) tags.push(`<span class="tag hot">${f.india ? "India" : "ICC"}</span>`);
-      if (f.disrupted) tags.push(`<span class="tag bad">${esc(f.status)}</span>`);
-      else if (f.status === "LIVE") tags.push(`<span class="tag live">Live</span>`);
-      else if (!f.finished) tags.push(`<span class="tag o">${esc(t.short||"")}</span>`);
-      else tags.push(`<span class="tag o">${esc(f.status)}</span>`);
-      html += `<div class="m${isHot(f) ? " hot" : ""}">
-        <div class="mtime">${time}${f.tbd ? "" : "<br><span style='font-size:9.5px'>UTC</span>"}</div>
-        <div>
-          <div class="teams">${esc(f.home)} <span style="color:var(--muted);font-weight:400">v</span> ${esc(f.away)}</div>
-          <div class="mline">${esc(t.name||"")}${f.round ? " · " + esc(f.round) : ""}${f.city ? " · " + esc(f.city) : ""}</div>
-          ${score}
-        </div>
-        <div class="tags">${tags.join("")}</div>
-      </div>`;
-    });
+    byDay[day].sort((a,b) => a.ts - b.ts).forEach(f => { html += matchRow(f); });
   });
   return html + `</div>`;
 }
+
+/* ---------------- day sheet ---------------- */
+let sheetOpen = null;
+
+function openDay(day) {
+  const fx = matches().filter(f => f.utc.slice(0,10) === day).sort((a,b) => a.ts - b.ts);
+  if (!fx.length) return;
+  closeDay();
+  const back = el(`<div class="backdrop" role="dialog" aria-modal="true" aria-label="Matches on ${dayLabel(day)}">
+    <div class="sheet">
+      <div class="sheethead">
+        <div><b>${dayLabel(day)}</b> <span>${fx.length} match${fx.length===1?"":"es"}</span></div>
+        <button class="xbtn" data-close>Close</button>
+      </div>
+      <div class="list" style="border:0;box-shadow:none;border-radius:0">${fx.map(matchRow).join("")}</div>
+    </div></div>`);
+  back.addEventListener("click", e => {
+    if (e.target === back || e.target.closest("[data-close]")) closeDay();
+  });
+  document.body.appendChild(back);
+  back.querySelector("[data-close]").focus();
+  sheetOpen = back;
+}
+
+function closeDay() {
+  if (sheetOpen) { sheetOpen.remove(); sheetOpen = null; }
+}
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeDay(); });
 
 /* ---------------- chrome ---------------- */
 function renderChanges() {
@@ -433,7 +522,7 @@ function renderChanges() {
 
 function chips(host, values, set, cls) {
   document.getElementById(host).innerHTML = values.map(v =>
-    `<button class="chip ${cls||""}" data-v="${esc(v)}" aria-pressed="${set.has(v)}">${esc(v)}</button>`
+    `<button class="chip ${cls||""}" data-v="${esc(v)}" aria-pressed="${set.has(v)}">${esc(GROUP_LABEL[v] || v)}</button>`
   ).join(" ");
   document.getElementById(host).onclick = e => {
     const b = e.target.closest("button"); if (!b) return;
@@ -445,6 +534,7 @@ function chips(host, values, set, cls) {
 }
 
 function draw() {
+  closeDay();
   const fx = matches().sort((a,b) => a.ts - b.ts);
   document.getElementById("view").innerHTML =
     state.view === "season" ? renderSeason(fx)
@@ -466,6 +556,12 @@ function init() {
 
   chips("groupchips", GROUPS, state.groups);
   chips("formatchips", FORMATS, state.formats);
+
+  // one delegated handler: the grid is re-rendered on every filter change
+  document.getElementById("view").addEventListener("click", e => {
+    const cell = e.target.closest("[data-day]");
+    if (cell) openDay(cell.dataset.day);
+  });
 
   document.getElementById("views").onclick = e => {
     const b = e.target.closest("button"); if (!b) return;
