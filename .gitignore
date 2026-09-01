@@ -1,0 +1,8 @@
+.env
+data/raw/
+logs/
+preview.html
+calendar.html
+site/
+__pycache__/
+*.pyc

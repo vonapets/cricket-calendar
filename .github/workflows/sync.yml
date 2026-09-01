@@ -1,0 +1,71 @@
+name: Sync cricket fixtures
+
+# Runs on GitHub's servers, not on anyone's laptop, so the published page stays
+# current whether or not the Mac that built it is switched on.
+on:
+  schedule:
+    - cron: "20 2 * * *"    # 02:20 UTC - after Australian/NZ play
+    - cron: "20 8 * * *"    # 08:20 UTC - before the subcontinent evening
+    - cron: "20 14 * * *"   # 20:20 UTC in India, after most day games
+    - cron: "50 23 * * *"   # 23:50 UTC - after Caribbean night games finish
+  workflow_dispatch:        # and a "Run workflow" button, for when you can't wait
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: cricket-wallchart
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # sync.py diffs against data/fixtures.json from the previous run, and
+      # data/registry.json is how a finished bilateral tour stays on the chart
+      # after it drops off ESPN's live header. Both are committed on purpose:
+      # they are this pipeline's memory of yesterday.
+      - name: Pull fixtures and rebuild
+        run: |
+          python sync.py
+          python build.py
+
+      - name: Commit the new snapshot
+        run: |
+          git config user.name  "wallchart bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/fixtures.json data/changes.json data/registry.json
+          if git diff --staged --quiet; then
+            echo "no fixture changes to record"
+          else
+            git commit -m "sync $(date -u '+%Y-%m-%d %H:%MZ')"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - name: Assemble the site
+        run: |
+          mkdir -p site
+          cp calendar.html site/index.html
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: sync
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

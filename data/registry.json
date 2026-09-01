@@ -1,0 +1,258 @@
+{
+ "24263": {
+  "id": "24263",
+  "key": "t24263",
+  "name": "Afghanistan tour of Ireland 2026",
+  "short": "AFG in IRE",
+  "group": "International",
+  "color": "#a8321f"
+ },
+ "24375": {
+  "id": "24375",
+  "key": "t24375",
+  "name": "Australia A tour of India 2026/27",
+  "short": "AUS in IND",
+  "group": "Development",
+  "color": "#6d675d"
+ },
+ "24377": {
+  "id": "24377",
+  "key": "t24377",
+  "name": "Australia Under-19s tour of India 2026/27",
+  "short": "AUS in IND",
+  "group": "Development",
+  "color": "#6d675d"
+ },
+ "24281": {
+  "id": "24281",
+  "key": "t24281",
+  "name": "Australia tour of India 2026/27",
+  "short": "AUS in IND",
+  "group": "India",
+  "color": "#c8801a"
+ },
+ "24203": {
+  "id": "24203",
+  "key": "t24203",
+  "name": "Australia tour of South Africa 2026/27",
+  "short": "AUS in SA",
+  "group": "International",
+  "color": "#a8321f"
+ },
+ "24303": {
+  "id": "24303",
+  "key": "t24303",
+  "name": "Australia tour of Zimbabwe 2026",
+  "short": "AUS in ZIM",
+  "group": "International",
+  "color": "#a8321f"
+ },
+ "24276": {
+  "id": "24276",
+  "key": "t24276",
+  "name": "Bangladesh Women tour of Australia 2026/27",
+  "short": "BAN in AUS",
+  "group": "Women's",
+  "color": "#b5306f"
+ },
+ "24231": {
+  "id": "24231",
+  "key": "t24231",
+  "name": "Bangladesh tour of Australia 2026",
+  "short": "BAN in AUS",
+  "group": "International",
+  "color": "#a8321f"
+ },
+ "24273": {
+  "id": "24273",
+  "key": "t24273",
+  "name": "England tour of Australia 2026/27",
+  "short": "ENG in AUS",
+  "group": "International",
+  "color": "#a8321f"
+ },
+ "24265": {
+  "id": "24265",
+  "key": "t24265",
+  "name": "England tour of Australia [Mar 2027] 2026/27",
+  "short": "ENG in AUS",
+  "group": "International",
+  "color": "#a8321f"
+ },
+ "24198": {
+  "id": "24198",
+  "key": "t24198",
+  "name": "England tour of South Africa 2026/27",
+  "short": "ENG in SA",
+  "group": "International",
+  "color": "#a8321f"
+ },
+ "24268": {
+  "id": "24268",
+  "key": "t24268",
+  "name": "New Zealand Women tour of Australia 2026/27",
+  "short": "NZ in AUS",
+  "group": "Women's",
+  "color": "#b5306f"
+ },
+ "24270": {
+  "id": "24270",
+  "key": "t24270",
+  "name": "New Zealand tour of Australia 2026/27",
+  "short": "NZ in AUS",
+  "group": "International",
+  "color": "#a8321f"
+ },
+ "24286": {
+  "id": "24286",
+  "key": "t24286",
+  "name": "Sri Lanka tour of India 2026/27",
+  "short": "SL in IND",
+  "group": "India",
+  "color": "#c8801a"
+ },
+ "24289": {
+  "id": "24289",
+  "key": "t24289",
+  "name": "West Indies tour of India 2026/27",
+  "short": "WI in IND",
+  "group": "India",
+  "color": "#c8801a"
+ },
+ "24371": {
+  "id": "24371",
+  "key": "t24371",
+  "name": "Zimbabwe Women tour of India 2026/27",
+  "short": "ZIM in IND",
+  "group": "Women's",
+  "color": "#b5306f"
+ },
+ "24283": {
+  "id": "24283",
+  "key": "t24283",
+  "name": "Zimbabwe tour of India 2026/27",
+  "short": "ZIM in IND",
+  "group": "India",
+  "color": "#c8801a"
+ },
+ "21342": {
+  "id": "21342",
+  "key": "acc_pc",
+  "name": "ACC Men's Premier Cup",
+  "short": "ACCPC",
+  "group": "ICC",
+  "color": "#c8801a"
+ },
+ "8623": {
+  "id": "8623",
+  "key": "cpl",
+  "name": "Caribbean Premier League",
+  "short": "CPL",
+  "group": "Franchise T20",
+  "color": "#7d3fa0"
+ },
+ "8052": {
+  "id": "8052",
+  "key": "cc1",
+  "name": "County Championship Div One",
+  "short": "CC1",
+  "group": "Domestic",
+  "color": "#6d675d"
+ },
+ "8630": {
+  "id": "8630",
+  "key": "duleep",
+  "name": "Duleep Trophy",
+  "short": "DULEEP",
+  "group": "Domestic",
+  "color": "#6d675d"
+ },
+ "24698": {
+  "id": "24698",
+  "key": "eutpl",
+  "name": "European T20 Premier League",
+  "short": "ETPL",
+  "group": "Franchise T20",
+  "color": "#2f6fb5"
+ },
+ "19943": {
+  "id": "19943",
+  "key": "lpl",
+  "name": "Lanka Premier League",
+  "short": "LPL",
+  "group": "Franchise T20",
+  "color": "#1f7a6b"
+ },
+ "8626": {
+  "id": "8626",
+  "key": "marsh",
+  "name": "Marsh One-Day Cup",
+  "short": "MARSH",
+  "group": "Domestic",
+  "color": "#6d675d"
+ },
+ "18851": {
+  "id": "18851",
+  "key": "slt20",
+  "name": "SLC T20 League",
+  "short": "SLCT20",
+  "group": "Domestic",
+  "color": "#6d675d"
+ },
+ "19663": {
+  "id": "19663",
+  "key": "hun_w",
+  "name": "The Hundred, Women's",
+  "short": "100W",
+  "group": "Franchise T20",
+  "color": "#b5306f"
+ },
+ "8659": {
+  "id": "8659",
+  "key": "asia_w",
+  "name": "Women's Twenty20 Asia Cup",
+  "short": "WASIA",
+  "group": "ICC",
+  "color": "#c8801a"
+ },
+ "24694": {
+  "id": "24694",
+  "key": "t24694",
+  "name": "Bangladesh A tour of South Africa 2026",
+  "short": "Bangladesh A in South Africa 2026",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "23803": {
+  "id": "23803",
+  "key": "t23803",
+  "name": "Ireland Women tour of England 2026",
+  "short": "Ireland Women in England 2026",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "24688": {
+  "id": "24688",
+  "key": "t24688",
+  "name": "Netherlands Women tour of Scotland [Aug 2026] 2026",
+  "short": "Netherlands Women in Scotland 2026",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "18479": {
+  "id": "18479",
+  "key": "t18479",
+  "name": "Ahmad Shah Abdali First-class Trophy",
+  "short": "AFG First-class",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "8859": {
+  "id": "8859",
+  "key": "t8859",
+  "name": "Second Eleven Championship",
+  "short": "Second Eleven Championship",
+  "group": "Discovered",
+  "color": "#7a8899"
+ }
+}

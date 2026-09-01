@@ -1,0 +1,501 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cricket Wallchart</title>
+<style>
+:root{
+  --paper:#f6f3ec; --card:#fffdf8; --ink:#1c1a17; --muted:#6d675d;
+  --line:#e0d9cb; --line2:#efe9dd;
+  --ball:#a8321f;      /* red ball: Tests */
+  --white:#2f6fb5;     /* white ball: ODI */
+  --t20:#7d3fa0;       /* franchise T20 */
+  --hot:#c8801a;       /* India + ICC: the two things that draw a crowd */
+  --hotbg:#fbf1dd;
+  --ok:#3f7d4e; --bad:#b23a2e;
+  --shadow:0 1px 2px rgba(28,26,23,.06),0 8px 24px -12px rgba(28,26,23,.18);
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --paper:#14130f; --card:#1c1a16; --ink:#ece7dc; --muted:#9a9285;
+    --line:#33302a; --line2:#26241f;
+    --ball:#e0705a; --white:#6ba6e0; --t20:#b681d8;
+    --hot:#e0a94e; --hotbg:#2b2214;
+    --ok:#6fb583; --bad:#e08272;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -12px rgba(0,0,0,.7);
+  }
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--paper); color:var(--ink);
+  font:15px/1.5 ui-sans-serif,-apple-system,"Segoe UI",Inter,Roboto,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1320px;margin:0 auto;padding:28px 20px 80px}
+a{color:inherit}
+
+/* ---------- masthead ---------- */
+header.top{border-bottom:2px solid var(--ink);padding-bottom:14px;margin-bottom:22px}
+.brandrow{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+h1{
+  margin:0;font-size:clamp(26px,4.6vw,42px);letter-spacing:-.02em;font-weight:680;
+  font-family:ui-serif,Georgia,"Iowan Old Style","Times New Roman",serif;
+}
+.sub{color:var(--muted);font-size:13px}
+.stats{display:flex;gap:22px;flex-wrap:wrap;margin-top:12px;font-size:13px}
+.stat b{font-size:20px;font-weight:660;display:block;line-height:1.2;
+  font-variant-numeric:tabular-nums}
+.stat span{color:var(--muted)}
+
+/* ---------- controls ---------- */
+.controls{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:0 0 18px}
+.seg{display:flex;border:1px solid var(--line);border-radius:9px;overflow:hidden;background:var(--card)}
+.seg button{
+  border:0;background:transparent;color:var(--muted);font:inherit;font-size:13px;
+  padding:7px 15px;cursor:pointer;border-right:1px solid var(--line)}
+.seg button:last-child{border-right:0}
+.seg button[aria-pressed=true]{background:var(--ink);color:var(--paper);font-weight:600}
+.chip{
+  border:1px solid var(--line);background:var(--card);color:var(--muted);
+  font:inherit;font-size:12.5px;padding:6px 12px;border-radius:999px;cursor:pointer}
+.chip[aria-pressed=true]{border-color:var(--ink);color:var(--ink);font-weight:600}
+.chip.hot[aria-pressed=true]{border-color:var(--hot);background:var(--hotbg);color:var(--hot)}
+input[type=search]{
+  border:1px solid var(--line);background:var(--card);color:var(--ink);
+  font:inherit;font-size:13px;padding:7px 12px;border-radius:9px;min-width:190px}
+.spacer{flex:1 1 auto}
+
+/* ---------- season / gantt ---------- */
+.gantt{background:var(--card);border:1px solid var(--line);border-radius:12px;
+  box-shadow:var(--shadow);overflow-x:auto}
+.gantt table{border-collapse:collapse;width:100%;min-width:880px}
+.gantt th,.gantt td{padding:0;border-bottom:1px solid var(--line2)}
+.gantt thead th{
+  position:sticky;top:0;z-index:3;background:var(--card);
+  font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;
+  color:var(--muted);padding:10px 4px;border-bottom:1px solid var(--line);text-align:center}
+.gantt thead th.name,.gantt tbody th.name{
+  text-align:left;padding:8px 12px;width:230px;min-width:230px;
+  position:sticky;left:0;background:var(--card);z-index:2}
+.gantt thead th.name{z-index:4}
+.gantt thead th.yr{border-left:1px solid var(--line)}
+.gantt tbody th.name{font-weight:500;font-size:13px;border-right:1px solid var(--line2)}
+.gantt tbody tr:hover th.name,.gantt tbody tr:hover td{background:var(--line2)}
+.tname{display:block;line-height:1.3}
+.tmeta{display:block;color:var(--muted);font-size:11px;margin-top:1px}
+.track{position:relative;height:34px;padding:0;
+  background-image:repeating-linear-gradient(to right,
+    var(--line2) 0 1px, transparent 1px var(--mw));
+  background-position:left top}
+.bar{
+  position:absolute;top:9px;height:16px;border-radius:8px;
+  display:flex;align-items:center;padding:0 7px;overflow:hidden;
+  font-size:10.5px;font-weight:650;color:#fff;white-space:nowrap;
+  box-shadow:0 1px 3px rgba(0,0,0,.22)}
+.bar.hot{outline:1.5px solid var(--hot);outline-offset:1px}
+.today-line{position:absolute;top:0;bottom:0;width:2px;background:var(--hot);
+  opacity:.75;z-index:1;pointer-events:none}
+.mcount{text-align:right;padding:8px 12px;font-size:12.5px;color:var(--muted);
+  font-variant-numeric:tabular-nums;white-space:nowrap}
+.mcount b{color:var(--ink);font-weight:640}
+
+/* ---------- month grid ---------- */
+.months{display:grid;gap:20px;grid-template-columns:repeat(auto-fill,minmax(330px,1fr))}
+.month{background:var(--card);border:1px solid var(--line);border-radius:12px;
+  box-shadow:var(--shadow);overflow:hidden}
+.month h3{margin:0;padding:11px 14px;font-size:13px;letter-spacing:.05em;
+  text-transform:uppercase;border-bottom:1px solid var(--line);
+  display:flex;justify-content:space-between;align-items:baseline}
+.month h3 em{font-style:normal;color:var(--muted);font-size:11.5px;font-weight:500}
+.grid{display:grid;grid-template-columns:repeat(7,1fr)}
+.dow{font-size:10px;color:var(--muted);text-align:center;padding:6px 0;
+  letter-spacing:.04em;border-bottom:1px solid var(--line2)}
+.day{min-height:52px;border-right:1px solid var(--line2);border-bottom:1px solid var(--line2);
+  padding:3px 4px;position:relative}
+.day:nth-child(7n){border-right:0}
+.day.pad{background:linear-gradient(135deg,transparent 46%,var(--line2) 46%,var(--line2) 54%,transparent 54%);
+  background-size:7px 7px;opacity:.5}
+.day.today{box-shadow:inset 0 0 0 2px var(--ink)}
+.dnum{font-size:10px;color:var(--muted);font-variant-numeric:tabular-nums}
+.day.hasm .dnum{color:var(--ink);font-weight:600}
+.dots{display:flex;flex-wrap:wrap;gap:2px;margin-top:2px}
+.dot{width:6px;height:6px;border-radius:50%}
+.dot.hot{box-shadow:0 0 0 1.5px var(--hot)}
+.daycount{position:absolute;right:4px;top:3px;font-size:9.5px;color:var(--muted);
+  font-variant-numeric:tabular-nums}
+
+/* ---------- list ---------- */
+.list{background:var(--card);border:1px solid var(--line);border-radius:12px;
+  box-shadow:var(--shadow);overflow:hidden}
+.dayhead{
+  padding:9px 16px;background:var(--line2);font-size:12px;font-weight:640;
+  letter-spacing:.04em;position:sticky;top:0;z-index:2;
+  border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.dayhead span{color:var(--muted);font-weight:500;margin-left:8px}
+.m{display:grid;grid-template-columns:58px 1fr auto;gap:12px;align-items:center;
+  padding:10px 16px;border-bottom:1px solid var(--line2)}
+.m:last-child{border-bottom:0}
+.m:hover{background:var(--line2)}
+.m.hot{background:var(--hotbg)}
+.mtime{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.teams{font-size:14px;font-weight:560}
+.mline{font-size:11.5px;color:var(--muted);margin-top:2px}
+.score{font-size:11.5px;color:var(--ink);margin-top:2px;font-variant-numeric:tabular-nums}
+.tags{display:flex;gap:6px;align-items:center;flex-wrap:wrap;justify-content:flex-end}
+.tag{font-size:10px;font-weight:660;letter-spacing:.05em;text-transform:uppercase;
+  padding:2px 7px;border-radius:5px;color:#fff;white-space:nowrap}
+.tag.o{background:transparent;border:1px solid var(--line);color:var(--muted)}
+.tag.hot{background:var(--hot)}
+.tag.bad{background:var(--bad)}
+.tag.live{background:var(--ok)}
+
+/* ---------- changes + footer ---------- */
+.panel{background:var(--card);border:1px solid var(--line);border-radius:12px;
+  box-shadow:var(--shadow);padding:16px 18px;margin-bottom:20px}
+.panel h2{margin:0 0 10px;font-size:13px;letter-spacing:.06em;text-transform:uppercase;
+  color:var(--muted)}
+.chg{font-size:13px;padding:5px 0;border-bottom:1px solid var(--line2)}
+.chg:last-child{border-bottom:0}
+.chg b{font-weight:620}
+.chg .k{font-size:10px;text-transform:uppercase;letter-spacing:.05em;
+  padding:1px 6px;border-radius:4px;margin-right:8px;color:#fff}
+.k.moved{background:var(--hot)} .k.added{background:var(--ok)}
+.k.dropped{background:var(--muted)} .k.disrupted{background:var(--bad)}
+.legend{display:flex;gap:16px;flex-wrap:wrap;font-size:12px;color:var(--muted);
+  margin:16px 0 0;align-items:center}
+.legend i{width:11px;height:11px;border-radius:3px;display:inline-block;
+  vertical-align:-1px;margin-right:5px}
+footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
+  font-size:12px;color:var(--muted);line-height:1.7}
+.empty{padding:44px 20px;text-align:center;color:var(--muted);font-size:14px}
+.hidden{display:none !important}
+@media (max-width:640px){
+  .m{grid-template-columns:50px 1fr;row-gap:6px}
+  .tags{grid-column:1/-1;justify-content:flex-start}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="top">
+  <div class="brandrow">
+    <h1>Cricket Wallchart</h1>
+    <span class="sub" id="window"></span>
+  </div>
+  <div class="stats">
+    <div class="stat"><b id="s-fix">—</b><span>matches</span></div>
+    <div class="stat"><b id="s-tour">—</b><span>tournaments</span></div>
+    <div class="stat"><b id="s-india">—</b><span>India matches</span></div>
+    <div class="stat"><b id="s-next">—</b><span>next 7 days</span></div>
+    <div class="stat"><b id="s-gen">—</b><span>last sync</span></div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="seg" id="views">
+    <button data-view="season" aria-pressed="true">Season</button>
+    <button data-view="month" aria-pressed="false">Months</button>
+    <button data-view="list" aria-pressed="false">Matches</button>
+  </div>
+  <span id="groupchips"></span>
+  <span id="formatchips"></span>
+  <button class="chip hot" id="indiaOnly" aria-pressed="false">India &amp; ICC only</button>
+  <div class="spacer"></div>
+  <input type="search" id="q" placeholder="Search team, tournament, venue">
+</div>
+
+<div id="changes"></div>
+<div id="view"></div>
+
+<div class="legend" id="legend"></div>
+
+<footer>
+  <div><b>Source.</b> ESPN's public cricket feed, the same JSON their own site reads. No key, no vendor.</div>
+  <div><b>Refresh.</b> A GitHub Action re-syncs four times a day and republishes this page, so it stays current whether or not any laptop is switched on.</div>
+  <div><b>Amber</b> marks India fixtures and ICC world tournaments — on Polymarket those two draw multiples of everything else, which is why they get their own colour rather than a footnote.</div>
+  <div id="warn"></div>
+</footer>
+
+</div>
+<script>
+const DATA = __DATA__;
+
+const MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const DOW = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"];
+const FMT_COLOR = {"Test":"var(--ball)","ODI":"var(--white)","T20":"var(--t20)",
+                   "T20I":"var(--t20)","ODM":"var(--white)","FC":"var(--ball)"};
+
+const T = {};                       // tournament key -> meta
+DATA.tournaments.forEach(t => T[t.key] = t);
+const GROUPS  = [...new Set(DATA.tournaments.map(t => t.group))].sort();
+const FORMATS = [...new Set(DATA.fixtures.map(f => f.format).filter(Boolean))].sort();
+
+const state = {
+  view: "season",
+  groups: new Set(GROUPS),
+  formats: new Set(FORMATS),
+  indiaOnly: false,
+  q: ""
+};
+
+const isHot = f => f.india || (T[f.tour] && T[f.tour].world);
+const el = (h) => { const d = document.createElement("div"); d.innerHTML = h.trim(); return d.firstChild; };
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function matches() {
+  const q = state.q.toLowerCase();
+  return DATA.fixtures.filter(f => {
+    const t = T[f.tour];
+    if (!t || !state.groups.has(t.group)) return false;
+    if (f.format && !state.formats.has(f.format)) return false;
+    if (state.indiaOnly && !isHot(f)) return false;
+    if (q) {
+      const hay = (f.home + " " + f.away + " " + (t.name||"") + " " + (f.venue||"") +
+                   " " + (f.city||"") + " " + (f.round||"")).toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+/* ---------------- season / gantt ---------------- */
+function monthsBetween(a, b) {
+  const out = [];
+  let d = new Date(a + "-01T00:00:00Z");
+  const end = new Date(b + "-01T00:00:00Z");
+  while (d <= end) { out.push(d.toISOString().slice(0,7)); d.setUTCMonth(d.getUTCMonth()+1); }
+  return out;
+}
+
+function daysIn(y, m) { return new Date(Date.UTC(y, m, 0)).getUTCDate(); }
+
+function renderSeason(fx) {
+  const live = new Set(fx.map(f => f.tour));
+  const tours = DATA.tournaments.filter(t => live.has(t.key) && t.start && t.end);
+  if (!tours.length) return `<div class="list"><div class="empty">Nothing matches those filters.</div></div>`;
+
+  const counts = {};
+  fx.forEach(f => counts[f.tour] = (counts[f.tour]||0) + 1);
+
+  // span the axis over what is actually shown, not the whole configured window
+  const lo = tours.reduce((m,t) => t.start < m ? t.start : m, tours[0].start).slice(0,7);
+  const hi = tours.reduce((m,t) => t.end   > m ? t.end   : m, tours[0].end).slice(0,7);
+  const cols = monthsBetween(lo, hi);
+  const idx = Object.fromEntries(cols.map((m,i) => [m,i]));
+  const W = 100 / cols.length;
+
+  // a date -> its position along the whole axis, in percent
+  const pos = (iso) => {
+    const mk = iso.slice(0,7);
+    if (!(mk in idx)) return null;
+    const [y,m] = mk.split("-").map(Number);
+    return (idx[mk] + (+iso.slice(8,10) - 1) / daysIn(y,m)) * W;
+  };
+
+  let head = `<tr><th class="name">Tournament</th>`;
+  cols.forEach((m,i) => {
+    const [y,mm] = m.split("-");
+    const newYear = i === 0 || mm === "01";
+    head += `<th class="${newYear ? "yr" : ""}">${MON[+mm-1]}` +
+            `${newYear ? `<br><span style="font-weight:500">${y}</span>` : ""}</th>`;
+  });
+  head += `<th style="text-align:right;padding-right:12px">Games</th></tr>`;
+
+  const today = new Date().toISOString().slice(0,10);
+  const tpos = pos(today);
+
+  const rows = tours.map(t => {
+    const left  = pos(t.start);
+    const right = pos(t.end);
+    if (left === null || right === null) return "";
+    const [ey,em] = t.end.slice(0,7).split("-").map(Number);
+    // a one-day tour still needs a visible bar, so give every bar the end day's width
+    const width = Math.max(right - left + W / daysIn(ey,em), W * 0.10);
+    const hot = t.india || t.world;
+    const color = (t.color && t.color !== "#7a8899")
+      ? t.color : (FMT_COLOR[(t.formats||[])[0]] || "var(--muted)");
+    const title = `${t.name} — ${t.start} to ${t.end}, ${counts[t.key]} matches`;
+    // a three-day tour gets a bar a few pixels wide; a clipped single letter in
+    // it reads as breakage, so the label only appears when it can be read
+    // roughly one character per 0.55% of axis width at this type size
+    const room  = Math.floor(width / 0.55);
+    const label = room >= 4 ? esc((t.short||"").slice(0, room)) : "";
+    return `<tr>
+      <th class="name">
+        <span class="tname">${esc(t.name)}</span>
+        <span class="tmeta">${esc(t.group)}${(t.formats||[]).length ? " · " + esc(t.formats.join("/")) : ""}${t.india ? " · India" : ""}${t.world ? " · ICC" : ""}</span>
+      </th>
+      <td class="track" colspan="${cols.length}">
+        ${tpos === null ? "" : `<div class="today-line" style="left:${tpos}%"></div>`}
+        <div class="bar${hot ? " hot" : ""}" style="left:${left}%;width:${width}%;background:${color}"
+             title="${esc(title)}">${label}</div>
+      </td>
+      <td class="mcount"><b>${counts[t.key]}</b></td></tr>`;
+  }).join("");
+
+  return `<div class="gantt"><table style="--mw:${W}%">
+    <thead>${head}</thead><tbody>${rows}</tbody></table></div>`;
+}
+
+/* ---------------- month grid ---------------- */
+function renderMonth(fx) {
+  if (!fx.length) return `<div class="list"><div class="empty">Nothing matches those filters.</div></div>`;
+  const byDay = {};
+  fx.forEach(f => (byDay[f.utc.slice(0,10)] ||= []).push(f));
+  const days = Object.keys(byDay).sort();
+  const cols = monthsBetween(days[0].slice(0,7), days[days.length-1].slice(0,7));
+  const today = new Date().toISOString().slice(0,10);
+
+  return `<div class="months">` + cols.map(m => {
+    const [y, mm] = m.split("-").map(Number);
+    const first = new Date(Date.UTC(y, mm-1, 1));
+    const dim = new Date(Date.UTC(y, mm, 0)).getUTCDate();
+    const lead = (first.getUTCDay() + 6) % 7;          // Monday-first
+    let cells = DOW.map(d => `<div class="dow">${d}</div>`).join("");
+    for (let i = 0; i < lead; i++) cells += `<div class="day pad"></div>`;
+    let total = 0;
+    for (let d = 1; d <= dim; d++) {
+      const key = `${y}-${String(mm).padStart(2,"0")}-${String(d).padStart(2,"0")}`;
+      const list = byDay[key] || [];
+      total += list.length;
+      const dots = list.slice(0,10).map(f => {
+        const t = T[f.tour];
+        const color = (t && t.color !== "#7a8899" && t.color) || FMT_COLOR[f.format] || "var(--muted)";
+        return `<span class="dot${isHot(f) ? " hot" : ""}" style="background:${color}"
+                 title="${esc(f.home)} v ${esc(f.away)} — ${esc(t ? t.name : "")}"></span>`;
+      }).join("");
+      cells += `<div class="day${list.length ? " hasm" : ""}${key === today ? " today" : ""}">
+        <span class="dnum">${d}</span>
+        ${list.length > 1 ? `<span class="daycount">${list.length}</span>` : ""}
+        <div class="dots">${dots}</div></div>`;
+    }
+    const tail = (7 - ((lead + dim) % 7)) % 7;
+    for (let i = 0; i < tail; i++) cells += `<div class="day pad"></div>`;
+    return `<div class="month"><h3>${MON[mm-1]} ${y}<em>${total} match${total===1?"":"es"}</em></h3>
+      <div class="grid">${cells}</div></div>`;
+  }).join("") + `</div>`;
+}
+
+/* ---------------- match list ---------------- */
+function renderList(fx) {
+  if (!fx.length) return `<div class="list"><div class="empty">Nothing matches those filters.</div></div>`;
+  const byDay = {};
+  fx.forEach(f => (byDay[f.utc.slice(0,10)] ||= []).push(f));
+  const today = new Date().toISOString().slice(0,10);
+
+  let html = `<div class="list">`;
+  Object.keys(byDay).sort().forEach(day => {
+    const d = new Date(day + "T00:00:00Z");
+    const label = `${DOW[(d.getUTCDay()+6)%7]} ${d.getUTCDate()} ${MON[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
+    html += `<div class="dayhead">${label}${day === today ? " <span>today</span>" : ""}
+             <span>${byDay[day].length} match${byDay[day].length===1?"":"es"}</span></div>`;
+    byDay[day].sort((a,b) => a.ts - b.ts).forEach(f => {
+      const t = T[f.tour] || {};
+      const time = f.tbd ? "TBC" : f.utc.slice(11,16);
+      const score = (f.home_score || f.away_score)
+        ? `<div class="score">${esc(f.home_score)}${f.away_score ? " &nbsp;·&nbsp; " + esc(f.away_score) : ""}</div>` : "";
+      const tags = [];
+      if (f.format) tags.push(`<span class="tag" style="background:${FMT_COLOR[f.format]||"var(--muted)"}">${esc(f.format)}</span>`);
+      if (isHot(f)) tags.push(`<span class="tag hot">${f.india ? "India" : "ICC"}</span>`);
+      if (f.disrupted) tags.push(`<span class="tag bad">${esc(f.status)}</span>`);
+      else if (f.status === "LIVE") tags.push(`<span class="tag live">Live</span>`);
+      else if (!f.finished) tags.push(`<span class="tag o">${esc(t.short||"")}</span>`);
+      else tags.push(`<span class="tag o">${esc(f.status)}</span>`);
+      html += `<div class="m${isHot(f) ? " hot" : ""}">
+        <div class="mtime">${time}${f.tbd ? "" : "<br><span style='font-size:9.5px'>UTC</span>"}</div>
+        <div>
+          <div class="teams">${esc(f.home)} <span style="color:var(--muted);font-weight:400">v</span> ${esc(f.away)}</div>
+          <div class="mline">${esc(t.name||"")}${f.round ? " · " + esc(f.round) : ""}${f.city ? " · " + esc(f.city) : ""}</div>
+          ${score}
+        </div>
+        <div class="tags">${tags.join("")}</div>
+      </div>`;
+    });
+  });
+  return html + `</div>`;
+}
+
+/* ---------------- chrome ---------------- */
+function renderChanges() {
+  const c = (DATA.changes || []).filter(x => x.kind !== "added").slice(0, 12);
+  if (!c.length) return "";
+  return `<div class="panel"><h2>Changed since the last sync</h2>` + c.map(x =>
+    `<div class="chg"><span class="k ${x.kind}">${x.kind}</span>
+      <b>${esc(x.what)}</b>
+      ${x.from && x.to ? ` — ${esc(String(x.from).slice(0,16))} → ${esc(String(x.to).slice(0,16))}`
+        : x.from ? ` — was ${esc(String(x.from).slice(0,16))}`
+        : x.to ? ` — ${esc(String(x.to).slice(0,16))}` : ""}
+    </div>`).join("") + `</div>`;
+}
+
+function chips(host, values, set, cls) {
+  document.getElementById(host).innerHTML = values.map(v =>
+    `<button class="chip ${cls||""}" data-v="${esc(v)}" aria-pressed="${set.has(v)}">${esc(v)}</button>`
+  ).join(" ");
+  document.getElementById(host).onclick = e => {
+    const b = e.target.closest("button"); if (!b) return;
+    const v = b.dataset.v;
+    set.has(v) ? set.delete(v) : set.add(v);
+    b.setAttribute("aria-pressed", set.has(v));
+    draw();
+  };
+}
+
+function draw() {
+  const fx = matches().sort((a,b) => a.ts - b.ts);
+  document.getElementById("view").innerHTML =
+    state.view === "season" ? renderSeason(fx)
+    : state.view === "month" ? renderMonth(fx)
+    : renderList(fx);
+
+  document.getElementById("s-fix").textContent = fx.length.toLocaleString();
+  document.getElementById("s-tour").textContent = new Set(fx.map(f => f.tour)).size;
+  document.getElementById("s-india").textContent = fx.filter(isHot).length.toLocaleString();
+  const now = Date.now()/1000, wk = now + 7*86400;
+  document.getElementById("s-next").textContent = fx.filter(f => f.ts >= now && f.ts <= wk).length;
+}
+
+function init() {
+  document.getElementById("window").textContent =
+    `${DATA.window_start} to ${DATA.window_end} · ESPN public feed`;
+  document.getElementById("s-gen").textContent = (DATA.generated_at||"").slice(5,10).replace("-","/");
+  document.getElementById("changes").innerHTML = renderChanges();
+
+  chips("groupchips", GROUPS, state.groups);
+  chips("formatchips", FORMATS, state.formats);
+
+  document.getElementById("views").onclick = e => {
+    const b = e.target.closest("button"); if (!b) return;
+    state.view = b.dataset.view;
+    [...e.currentTarget.children].forEach(x => x.setAttribute("aria-pressed", x === b));
+    draw();
+  };
+  const io = document.getElementById("indiaOnly");
+  io.onclick = () => { state.indiaOnly = !state.indiaOnly;
+                       io.setAttribute("aria-pressed", state.indiaOnly); draw(); };
+  let tmr;
+  document.getElementById("q").oninput = e => {
+    clearTimeout(tmr);
+    tmr = setTimeout(() => { state.q = e.target.value.trim(); draw(); }, 150);
+  };
+
+  document.getElementById("legend").innerHTML =
+    Object.entries({Test:"var(--ball)",ODI:"var(--white)",T20:"var(--t20)"})
+      .map(([k,v]) => `<span><i style="background:${v}"></i>${k}</span>`).join("") +
+    `<span><i style="background:var(--hot)"></i>India / ICC</span>` +
+    `<span style="margin-left:auto">${DATA.counts.fixtures.toLocaleString()} matches from ${DATA.counts.tournaments} tournaments</span>`;
+
+  const warn = [];
+  if (DATA.failures && DATA.failures.length) warn.push(`${DATA.failures.length} feed(s) failed on the last sync.`);
+  if (DATA.warnings && DATA.warnings.length) warn.push(DATA.warnings.join(" "));
+  if (warn.length) document.getElementById("warn").innerHTML = `<b>Note.</b> ${esc(warn.join(" "))}`;
+
+  draw();
+}
+init();
+</script>
+</body>
+</html>
