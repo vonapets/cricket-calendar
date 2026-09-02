@@ -254,5 +254,21 @@
   "short": "Second Eleven Championship",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24740": {
+  "id": "24740",
+  "key": "t24740",
+  "name": "Pakistan Under-19s tour of England 2026",
+  "short": "Pakistan Under-19s in England 2026",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "8204": {
+  "id": "8204",
+  "key": "t8204",
+  "name": "County Championship Division Two",
+  "short": "County Championship Division Two",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
