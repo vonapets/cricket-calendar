@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T01:27:05Z",
+ "generated_at": "2026-09-02T07:10:05Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -3534,8 +3534,8 @@
    "round": "2nd Semi-Final",
    "home": "South Zone",
    "away": "North Zone",
-   "home_score": "312",
-   "away_score": "195 & 256/7 (66 ov)",
+   "home_score": "312 & 72/2 (20 ov, target 181)",
+   "away_score": "195 & 297",
    "venue": "BCCI Centre of Excellence Ground 2, Bengaluru",
    "city": "Bengaluru",
    "country": "India",
@@ -4233,18 +4233,18 @@
    "tour": "cpl",
    "utc": "2026-09-01T23:00:00Z",
    "ts": 1788303600,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "23rd Match",
    "home": "St Kitts and Nevis Patriots",
    "away": "Barbados Tridents",
-   "home_score": "",
-   "away_score": "217/4 (20 ov)",
+   "home_score": "220/4 (19.1/20 ov, target 218)",
+   "away_score": "217/4",
    "venue": "Warner Park, Basseterre, St Kitts",
    "city": "Basseterre",
    "country": "West Indies",
    "format": "T20",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -4255,8 +4255,8 @@
    "tour": "acc_pc",
    "utc": "2026-09-02T01:30:00Z",
    "ts": 1788312600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "7th Match, Group A",
    "home": "Bahrain",
    "away": "Hong Kong",
@@ -4266,7 +4266,7 @@
    "city": "Kuala Lumpur",
    "country": "Malaysia",
    "format": "ODI",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -4277,8 +4277,8 @@
    "tour": "acc_pc",
    "utc": "2026-09-02T01:30:00Z",
    "ts": 1788312600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "8th Match, Group B",
    "home": "Oman",
    "away": "Qatar",
@@ -4288,7 +4288,7 @@
    "city": "Bangi",
    "country": "Malaysia",
    "format": "ODI",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -9487,211 +9487,7 @@
    "india": false
   }
  ],
- "changes": [
-  {
-   "kind": "added",
-   "id": "1552317",
-   "tour": "t24740",
-   "what": "England Under-19s v Pakistan Under-19s",
-   "to": "2026-09-02T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552318",
-   "tour": "t24740",
-   "what": "England Under-19s v Pakistan Under-19s",
-   "to": "2026-09-09T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552319",
-   "tour": "t24740",
-   "what": "England Under-19s v Pakistan Under-19s",
-   "to": "2026-09-12T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552320",
-   "tour": "t24740",
-   "what": "England Under-19s v Pakistan Under-19s",
-   "to": "2026-09-14T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552321",
-   "tour": "t24740",
-   "what": "England Under-19s v Pakistan Under-19s",
-   "to": "2026-09-16T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513428",
-   "tour": "t8204",
-   "what": "Middlesex v Kent",
-   "to": "2026-08-20T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513429",
-   "tour": "t8204",
-   "what": "Derbyshire v Durham",
-   "to": "2026-08-20T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513430",
-   "tour": "t8204",
-   "what": "Lancashire v Northamptonshire",
-   "to": "2026-08-20T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513431",
-   "tour": "t8204",
-   "what": "Gloucestershire v Worcestershire",
-   "to": "2026-08-20T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513432",
-   "tour": "t8204",
-   "what": "Derbyshire v Middlesex",
-   "to": "2026-08-27T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513433",
-   "tour": "t8204",
-   "what": "Northamptonshire v Kent",
-   "to": "2026-08-27T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513434",
-   "tour": "t8204",
-   "what": "Worcestershire v Lancashire",
-   "to": "2026-08-27T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513435",
-   "tour": "t8204",
-   "what": "Durham v Gloucestershire",
-   "to": "2026-08-27T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513436",
-   "tour": "t8204",
-   "what": "Gloucestershire v Derbyshire",
-   "to": "2026-09-02T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513437",
-   "tour": "t8204",
-   "what": "Kent v Worcestershire",
-   "to": "2026-09-02T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513438",
-   "tour": "t8204",
-   "what": "Northamptonshire v Durham",
-   "to": "2026-09-02T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513439",
-   "tour": "t8204",
-   "what": "Middlesex v Lancashire",
-   "to": "2026-09-02T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513440",
-   "tour": "t8204",
-   "what": "Derbyshire v Kent",
-   "to": "2026-09-08T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513442",
-   "tour": "t8204",
-   "what": "Durham v Middlesex",
-   "to": "2026-09-08T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513443",
-   "tour": "t8204",
-   "what": "Lancashire v Gloucestershire",
-   "to": "2026-09-08T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513441",
-   "tour": "t8204",
-   "what": "Worcestershire v Northamptonshire",
-   "to": "2026-09-08T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513444",
-   "tour": "t8204",
-   "what": "Durham v Worcestershire",
-   "to": "2026-09-15T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513446",
-   "tour": "t8204",
-   "what": "Gloucestershire v Middlesex",
-   "to": "2026-09-15T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513447",
-   "tour": "t8204",
-   "what": "Kent v Lancashire",
-   "to": "2026-09-15T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513445",
-   "tour": "t8204",
-   "what": "Northamptonshire v Derbyshire",
-   "to": "2026-09-15T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513448",
-   "tour": "t8204",
-   "what": "Kent v Gloucestershire",
-   "to": "2026-09-24T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513451",
-   "tour": "t8204",
-   "what": "Lancashire v Durham",
-   "to": "2026-09-24T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513449",
-   "tour": "t8204",
-   "what": "Middlesex v Northamptonshire",
-   "to": "2026-09-24T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513450",
-   "tour": "t8204",
-   "what": "Worcestershire v Derbyshire",
-   "to": "2026-09-24T10:00:00Z"
-  }
- ],
+ "changes": [],
  "counts": {
   "tournaments": 34,
   "fixtures": 406,
