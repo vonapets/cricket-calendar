@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "kind": "moved",
+  "id": "1547444",
+  "tour": "t8832",
+  "what": "Colombo Cricket Club v Sinhalese Sports Club",
+  "from": "2026-09-07T09:00:00Z",
+  "to": "2026-09-07T00:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1547445",
+  "tour": "t8832",
+  "what": "Moors Sports Club v Colts Cricket Club",
+  "from": "2026-09-07T09:00:00Z",
+  "to": "2026-09-07T00:00:00Z"
+ }
+]
