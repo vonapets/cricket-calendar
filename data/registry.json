@@ -270,5 +270,21 @@
   "short": "County Championship Division Two",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "23080": {
+  "id": "23080",
+  "key": "t23080",
+  "name": "ECB Women's One-Day Cup",
+  "short": "Women's One-Day Cup",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "8832": {
+  "id": "8832",
+  "key": "t8832",
+  "name": "Premier Limited Over Tournament",
+  "short": "Premier Limited Over Tournament",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
