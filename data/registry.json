@@ -302,5 +302,13 @@
   "short": "Serbia Women's T20I Tri-Series",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1549518": {
+  "id": "1549518",
+  "key": "t1549518",
+  "name": "Namibia T20I Tri-Series",
+  "short": "Namibia T20I Tri-Series",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }

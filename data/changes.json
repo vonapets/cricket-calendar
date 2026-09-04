@@ -1,116 +1,59 @@
 [
  {
   "kind": "moved",
-  "id": "1547444",
-  "tour": "t8832",
-  "what": "Colombo Cricket Club v Sinhalese Sports Club",
-  "from": "2026-09-07T00:00:00Z",
-  "to": "2026-09-07T04:15:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1547445",
-  "tour": "t8832",
-  "what": "Moors Sports Club v Colts Cricket Club",
-  "from": "2026-09-07T00:00:00Z",
-  "to": "2026-09-07T04:15:00Z"
+  "id": "1535537",
+  "tour": "slt20",
+  "what": "Sinhalese Sports Club v TBA",
+  "from": "2026-09-09T08:30:00Z",
+  "to": "2026-09-09T00:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551072",
-  "tour": "t24742",
-  "what": "Belgium Women v Portugal Women",
-  "to": "2026-09-04T07:30:00Z"
+  "id": "1549524",
+  "tour": "t1549518",
+  "what": "Namibia v South Africa",
+  "to": "2026-08-28T12:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551073",
-  "tour": "t24742",
-  "what": "Czech Republic Women v Portugal Women",
-  "to": "2026-09-04T11:30:00Z"
+  "id": "1549525",
+  "tour": "t1549518",
+  "what": "South Africa v Zimbabwe",
+  "to": "2026-08-29T12:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551074",
-  "tour": "t24742",
-  "what": "Czech Republic Women v Belgium Women",
-  "to": "2026-09-04T14:30:00Z"
+  "id": "1549526",
+  "tour": "t1549518",
+  "what": "Namibia v Zimbabwe",
+  "to": "2026-08-31T12:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551075",
-  "tour": "t24742",
-  "what": "Belgium Women v Portugal Women",
-  "to": "2026-09-05T07:00:00Z"
+  "id": "1549527",
+  "tour": "t1549518",
+  "what": "South Africa v Zimbabwe",
+  "to": "2026-09-01T12:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551076",
-  "tour": "t24742",
-  "what": "Czech Republic Women v Belgium Women",
-  "to": "2026-09-05T11:30:00Z"
+  "id": "1549528",
+  "tour": "t1549518",
+  "what": "Namibia v Zimbabwe",
+  "to": "2026-09-03T12:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551077",
-  "tour": "t24742",
-  "what": "Czech Republic Women v Portugal Women",
-  "to": "2026-09-05T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551078",
-  "tour": "t24742",
-  "what": "TBA v TBA",
-  "to": "2026-09-06T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551079",
-  "tour": "t24742",
-  "what": "TBA v TBA",
-  "to": "2026-09-06T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551066",
-  "tour": "t24741",
-  "what": "Serbia Women v Croatia Women",
-  "to": "2026-09-04T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551067",
-  "tour": "t24741",
-  "what": "Bulgaria Women v Croatia Women",
+  "id": "1549529",
+  "tour": "t1549518",
+  "what": "Namibia v South Africa",
   "to": "2026-09-04T12:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551068",
-  "tour": "t24741",
-  "what": "Bulgaria Women v Croatia Women",
-  "to": "2026-09-05T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551069",
-  "tour": "t24741",
-  "what": "Serbia Women v Bulgaria Women",
-  "to": "2026-09-05T12:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551070",
-  "tour": "t24741",
-  "what": "Serbia Women v Croatia Women",
-  "to": "2026-09-06T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551071",
-  "tour": "t24741",
-  "what": "Serbia Women v Bulgaria Women",
+  "id": "1549530",
+  "tour": "t1549518",
+  "what": "TBA v TBA",
   "to": "2026-09-06T12:00:00Z"
  }
 ]
