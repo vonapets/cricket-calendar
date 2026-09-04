@@ -286,5 +286,21 @@
   "short": "Premier Limited Over Tournament",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24742": {
+  "id": "24742",
+  "key": "t24742",
+  "name": "Czech Republic Women's T20I Tri-Series",
+  "short": "Czech Republic WT20I Tri",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "24741": {
+  "id": "24741",
+  "key": "t24741",
+  "name": "Serbia Women's T20I Tri-Series",
+  "short": "Serbia Women's T20I Tri-Series",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
