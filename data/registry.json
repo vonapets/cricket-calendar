@@ -310,5 +310,13 @@
   "short": "Namibia T20I Tri-Series",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "20898": {
+  "id": "20898",
+  "key": "t20898",
+  "name": "Women's Caribbean Premier League",
+  "short": "WCPL",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
