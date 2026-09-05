@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "kind": "moved",
+  "id": "1535539",
+  "tour": "slt20",
+  "what": "Ace Capital Cricket Club v Colombo Cricket Club",
+  "from": "2026-09-09T08:30:00Z",
+  "to": "2026-09-09T00:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1535538",
+  "tour": "slt20",
+  "what": "Moors Sports Club v Nondescripts Cricket Club",
+  "from": "2026-09-09T04:15:00Z",
+  "to": "2026-09-09T00:00:00Z"
+ }
+]
