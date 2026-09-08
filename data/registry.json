@@ -318,5 +318,13 @@
   "short": "WCPL",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1552900": {
+  "id": "1552900",
+  "key": "t1552900",
+  "name": "ILT20 Africa Continent cup 2026",
+  "short": "ILT20 Africa Conti",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }

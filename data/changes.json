@@ -1,1 +1,149 @@
-[]
+[
+ {
+  "kind": "added",
+  "id": "1552906",
+  "tour": "t1552900",
+  "what": "Rwanda v Botswana",
+  "to": "2026-09-08T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552907",
+  "tour": "t1552900",
+  "what": "Kenya v Sierra Leone",
+  "to": "2026-09-08T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552908",
+  "tour": "t1552900",
+  "what": "Sierra Leone v Uganda",
+  "to": "2026-09-09T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552909",
+  "tour": "t1552900",
+  "what": "Rwanda v Kenya",
+  "to": "2026-09-09T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552910",
+  "tour": "t1552900",
+  "what": "Botswana v Uganda",
+  "to": "2026-09-10T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552911",
+  "tour": "t1552900",
+  "what": "Rwanda v Sierra Leone",
+  "to": "2026-09-10T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552912",
+  "tour": "t1552900",
+  "what": "Rwanda v Uganda",
+  "to": "2026-09-11T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552913",
+  "tour": "t1552900",
+  "what": "Botswana v Kenya",
+  "to": "2026-09-11T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552914",
+  "tour": "t1552900",
+  "what": "Kenya v Uganda",
+  "to": "2026-09-12T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552915",
+  "tour": "t1552900",
+  "what": "Botswana v Sierra Leone",
+  "to": "2026-09-12T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552916",
+  "tour": "t1552900",
+  "what": "Kenya v Sierra Leone",
+  "to": "2026-09-13T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552917",
+  "tour": "t1552900",
+  "what": "Rwanda v Botswana",
+  "to": "2026-09-13T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552918",
+  "tour": "t1552900",
+  "what": "Sierra Leone v Uganda",
+  "to": "2026-09-15T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552919",
+  "tour": "t1552900",
+  "what": "Rwanda v Kenya",
+  "to": "2026-09-15T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552920",
+  "tour": "t1552900",
+  "what": "Botswana v Uganda",
+  "to": "2026-09-16T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552921",
+  "tour": "t1552900",
+  "what": "Rwanda v Sierra Leone",
+  "to": "2026-09-16T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552922",
+  "tour": "t1552900",
+  "what": "Rwanda v Uganda",
+  "to": "2026-09-17T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552923",
+  "tour": "t1552900",
+  "what": "Botswana v Kenya",
+  "to": "2026-09-17T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552924",
+  "tour": "t1552900",
+  "what": "Kenya v Uganda",
+  "to": "2026-09-18T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552925",
+  "tour": "t1552900",
+  "what": "Botswana v Sierra Leone",
+  "to": "2026-09-18T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552926",
+  "tour": "t1552900",
+  "what": "TBA v TBA",
+  "to": "2026-09-19T11:30:00Z"
+ }
+]
