@@ -1,51 +1,10 @@
 [
  {
-  "kind": "added",
-  "id": "1549496",
-  "tour": "t23806",
-  "what": "Professional County Club Select XI v Pakistan",
-  "to": "2026-08-13T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1496582",
-  "tour": "t23806",
-  "what": "England v Pakistan",
-  "to": "2026-08-19T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1496583",
-  "tour": "t23806",
-  "what": "England v Pakistan",
-  "to": "2026-08-27T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1496584",
-  "tour": "t23806",
-  "what": "England v Pakistan",
-  "to": "2026-09-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1549531",
-  "tour": "t24670",
-  "what": "Namibia v South Africa",
-  "to": "2026-09-09T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1549532",
-  "tour": "t24670",
-  "what": "Namibia v South Africa",
-  "to": "2026-09-11T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1549533",
-  "tour": "t24670",
-  "what": "Namibia v South Africa",
-  "to": "2026-09-13T07:30:00Z"
+  "kind": "moved",
+  "id": "1547894",
+  "tour": "eutpl",
+  "what": "Dublin Guardians v Glasgow Cosmic",
+  "from": "2026-09-12T13:35:00Z",
+  "to": "2026-09-12T13:15:00Z"
  }
 ]
