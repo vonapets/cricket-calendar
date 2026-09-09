@@ -326,5 +326,21 @@
   "short": "ILT20 Africa Conti",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "23806": {
+  "id": "23806",
+  "key": "t23806",
+  "name": "Pakistan tour of England 2026",
+  "short": "Pakistan tour in England 2026",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "24670": {
+  "id": "24670",
+  "key": "t24670",
+  "name": "South Africa tour of Namibia 2026",
+  "short": "South Africa in Namibia 2026",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
