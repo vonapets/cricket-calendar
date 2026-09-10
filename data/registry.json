@@ -358,5 +358,13 @@
   "short": "CSA 4-Day Series Division 1",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24737": {
+  "id": "24737",
+  "key": "t24737",
+  "name": "Malaysia Women tour of Japan 2026",
+  "short": "Malaysia Women in Japan 2026",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
