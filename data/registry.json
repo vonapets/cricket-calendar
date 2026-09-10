@@ -342,5 +342,21 @@
   "short": "South Africa in Namibia 2026",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1551603": {
+  "id": "1551603",
+  "key": "t1551603",
+  "name": "CSA 3-Day Series Division 2 2026/27",
+  "short": "CSA 3-Day Series D",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "21185": {
+  "id": "21185",
+  "key": "t21185",
+  "name": "CSA 4-Day Series Division 1",
+  "short": "CSA 4-Day Series Division 1",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
