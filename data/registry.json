@@ -366,5 +366,21 @@
   "short": "Malaysia Women in Japan 2026",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24565": {
+  "id": "24565",
+  "key": "t24565",
+  "name": "South Africa Women tour of Zimbabwe 2026",
+  "short": "South Africa Women in Zimbabwe 2026",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "23802": {
+  "id": "23802",
+  "key": "t23802",
+  "name": "Sri Lanka tour of England 2026",
+  "short": "Sri Lanka in England 2026",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }

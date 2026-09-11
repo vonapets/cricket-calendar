@@ -1,149 +1,219 @@
 [
  {
   "kind": "added",
-  "id": "1552311",
-  "tour": "t24737",
-  "what": "Japan Women v Malaysia Women",
-  "to": "2026-09-11T01:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552312",
-  "tour": "t24737",
-  "what": "Japan Women v Malaysia Women",
-  "to": "2026-09-12T01:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552313",
-  "tour": "t24737",
-  "what": "Japan Women v Malaysia Women",
-  "to": "2026-09-13T01:00:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1535515",
   "tour": "slt20",
   "what": "Burgher Recreation Club v Police Sports Club",
-  "from": "2026-08-12T04:15:00Z"
+  "to": "2026-08-12T04:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535517",
   "tour": "slt20",
   "what": "Colts Cricket Club v Sinhalese Sports Club",
-  "from": "2026-08-12T08:30:00Z"
+  "to": "2026-08-12T08:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535521",
   "tour": "slt20",
   "what": "Ace Capital Cricket Club v Colts Cricket Club",
-  "from": "2026-08-16T04:15:00Z"
+  "to": "2026-08-16T04:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535518",
   "tour": "slt20",
   "what": "Colombo Cricket Club v Tamil Union Cricket and Athletic Club",
-  "from": "2026-08-16T04:15:00Z"
+  "to": "2026-08-16T04:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535523",
   "tour": "slt20",
   "what": "Kurunegala Youth Cricket Club v Moors Sports Club",
-  "from": "2026-08-16T04:15:00Z"
+  "to": "2026-08-16T04:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535522",
   "tour": "slt20",
   "what": "Nondescripts Cricket Club v Badureliya Sports Club",
-  "from": "2026-08-16T08:30:00Z"
+  "to": "2026-08-16T08:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535520",
   "tour": "slt20",
   "what": "Nugegoda Sports Welfare Club v Burgher Recreation Club",
-  "from": "2026-08-17T08:30:00Z"
+  "to": "2026-08-17T08:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535529",
   "tour": "slt20",
   "what": "Sinhalese Sports Club v Badureliya Sports Club",
-  "from": "2026-08-20T04:15:00Z"
+  "to": "2026-08-20T04:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535528",
   "tour": "slt20",
   "what": "Police Sports Club v Kurunegala Youth Cricket Club",
-  "from": "2026-08-20T08:30:00Z"
+  "to": "2026-08-20T08:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535530",
   "tour": "slt20",
   "what": "Nondescripts Cricket Club v Panadura Sports Club",
-  "from": "2026-08-24T04:15:00Z"
+  "to": "2026-08-24T04:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535533",
   "tour": "slt20",
   "what": "Bloomfield Cricket and Athletic Club v Sinhalese Sports Club",
-  "from": "2026-08-24T08:30:00Z"
+  "to": "2026-08-24T08:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535496",
   "tour": "slt20",
   "what": "Burgher Recreation Club v Kurunegala Youth Cricket Club",
-  "from": "2026-08-28T04:15:00Z"
+  "to": "2026-08-28T04:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535494",
   "tour": "slt20",
   "what": "Moors Sports Club v Police Sports Club",
-  "from": "2026-08-28T04:15:00Z"
+  "to": "2026-08-28T04:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535498",
   "tour": "slt20",
   "what": "Nugegoda Sports Welfare Club v Tamil Union Cricket and Athletic Club",
-  "from": "2026-08-28T04:15:00Z"
+  "to": "2026-08-28T04:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535497",
   "tour": "slt20",
   "what": "Badureliya Sports Club v Colts Cricket Club",
-  "from": "2026-08-28T08:30:00Z"
+  "to": "2026-08-28T08:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535495",
   "tour": "slt20",
   "what": "Sinhalese Sports Club v Nondescripts Cricket Club",
-  "from": "2026-08-28T08:30:00Z"
+  "to": "2026-08-28T08:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535504",
   "tour": "slt20",
   "what": "Tamil Union Cricket and Athletic Club v Burgher Recreation Club",
-  "from": "2026-09-01T04:15:00Z"
+  "to": "2026-09-01T04:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535503",
   "tour": "slt20",
   "what": "Ace Capital Cricket Club v Nondescripts Cricket Club",
-  "from": "2026-09-01T08:30:00Z"
+  "to": "2026-09-01T08:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1543887",
+  "tour": "t24565",
+  "what": "Zimbabwe Women v South Africa Women",
+  "to": "2026-09-11T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1543888",
+  "tour": "t24565",
+  "what": "Zimbabwe Women v South Africa Women",
+  "to": "2026-09-13T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1543889",
+  "tour": "t24565",
+  "what": "Zimbabwe Women v South Africa Women",
+  "to": "2026-09-15T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1543890",
+  "tour": "t24565",
+  "what": "Zimbabwe Women v South Africa Women",
+  "to": "2026-09-17T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1543891",
+  "tour": "t24565",
+  "what": "Zimbabwe Women v South Africa Women",
+  "to": "2026-09-19T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1553239",
+  "tour": "t23802",
+  "what": "England Lions v Sri Lanka",
+  "to": "2026-09-11T17:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1553240",
+  "tour": "t23802",
+  "what": "England Lions v Sri Lanka",
+  "to": "2026-09-13T13:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1496585",
+  "tour": "t23802",
+  "what": "England v Sri Lanka",
+  "to": "2026-09-15T17:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1496586",
+  "tour": "t23802",
+  "what": "England v Sri Lanka",
+  "to": "2026-09-17T17:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1496587",
+  "tour": "t23802",
+  "what": "England v Sri Lanka",
+  "to": "2026-09-19T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1496588",
+  "tour": "t23802",
+  "what": "England v Sri Lanka",
+  "to": "2026-09-22T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1496589",
+  "tour": "t23802",
+  "what": "England v Sri Lanka",
+  "to": "2026-09-24T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1496590",
+  "tour": "t23802",
+  "what": "England v Sri Lanka",
+  "to": "2026-09-27T09:30:00Z"
  }
 ]
