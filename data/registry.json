@@ -382,5 +382,21 @@
   "short": "Sri Lanka in England 2026",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24725": {
+  "id": "24725",
+  "key": "t24725",
+  "name": "Australia A Women tour of India 2026/27",
+  "short": "Australia A Women in India 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "8836": {
+  "id": "8836",
+  "key": "t8836",
+  "name": "President's Trophy",
+  "short": "President's Trophy",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
