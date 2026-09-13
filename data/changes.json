@@ -1,73 +1,10 @@
 [
  {
   "kind": "moved",
-  "id": "1535684",
+  "id": "1535685",
   "tour": "t24377",
   "what": "India Under-19s v Australia Under-19s",
-  "from": "2026-09-27T03:30:00Z",
-  "to": "2026-09-27T04:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551734",
-  "tour": "t1551603",
-  "what": "KwaZulu-Natal Inland v Easterns",
-  "to": "2027-03-04T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551737",
-  "tour": "t1551603",
-  "what": "South Western Districts v KwaZulu-Natal Inland",
-  "to": "2027-03-11T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551740",
-  "tour": "t1551603",
-  "what": "Mpumalanga v Easterns",
-  "to": "2027-03-18T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551742",
-  "tour": "t1551603",
-  "what": "KwaZulu-Natal Inland v Northern Cape",
-  "to": "2027-03-25T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551743",
-  "tour": "t1551603",
-  "what": "Mpumalanga v Border",
-  "to": "2027-03-25T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551741",
-  "tour": "t1551603",
-  "what": "South Western Districts v Limpopo",
-  "to": "2027-03-25T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551744",
-  "tour": "t1551603",
-  "what": "TBA v TBA",
-  "to": "2027-04-08T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547411",
-  "tour": "t8832",
-  "what": "Sinhalese Sports Club v Police Sports Club",
-  "to": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547433",
-  "tour": "t8832",
-  "what": "Moors Sports Club v Ace Capital Cricket Club",
-  "to": "2026-08-30T04:15:00Z"
+  "from": "2026-10-05T03:30:00Z",
+  "to": "2026-10-05T04:00:00Z"
  }
 ]
