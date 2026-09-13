@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T01:28:30Z",
+ "generated_at": "2026-09-13T07:33:56Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -93,7 +93,7 @@
    "color": "#7a8899",
    "start": "2026-08-10",
    "end": "2026-09-11",
-   "matches": 45,
+   "matches": 43,
    "india": false,
    "world": false,
    "formats": [
@@ -448,8 +448,8 @@
    "group": "Discovered",
    "color": "#7a8899",
    "start": "2026-09-10",
-   "end": "2027-04-08",
-   "matches": 41,
+   "end": "2027-03-11",
+   "matches": 36,
    "india": false,
    "world": false,
    "formats": [
@@ -465,7 +465,7 @@
    "color": "#7a8899",
    "start": "2026-09-10",
    "end": "2027-04-26",
-   "matches": 37,
+   "matches": 41,
    "india": false,
    "world": false,
    "formats": [
@@ -2004,28 +2004,6 @@
    "away_score": "",
    "venue": "Panadura Esplanade",
    "city": "Panadura",
-   "country": "Sri Lanka",
-   "format": "ODI",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1547411",
-   "tour": "t8832",
-   "utc": "2026-08-14T04:15:00Z",
-   "ts": 1786680900,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "Group B",
-   "home": "Sinhalese Sports Club",
-   "away": "Police Sports Club",
-   "home_score": "136 (27.3/46 ov, target 199)",
-   "away_score": "205 (49 ov)",
-   "venue": "Police Park Ground, Colombo",
-   "city": "Colombo",
    "country": "Sri Lanka",
    "format": "ODI",
    "note": "Final",
@@ -4819,28 +4797,6 @@
    "home_score": "185/2 (35.2/50 ov, target 185)",
    "away_score": "184",
    "venue": "Colts Cricket Club Ground, Colombo",
-   "city": "Colombo",
-   "country": "Sri Lanka",
-   "format": "ODI",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1547433",
-   "tour": "t8832",
-   "utc": "2026-08-30T04:15:00Z",
-   "ts": 1788063300,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "Group A",
-   "home": "Moors Sports Club",
-   "away": "Ace Capital Cricket Club",
-   "home_score": "207 (46.5/50 ov, target 252)",
-   "away_score": "251/9",
-   "venue": "Moors Sports Club Ground, Colombo",
    "city": "Colombo",
    "country": "Sri Lanka",
    "format": "ODI",
@@ -8381,7 +8337,7 @@
    "home": "Maiwand Champions",
    "away": "Hindukush Strikers",
    "home_score": "109 & 404/9d",
-   "away_score": "169 & 196/1 (48.1 ov, target 345)",
+   "away_score": "169 & 303/5 (78 ov, target 345)",
    "venue": "Rahmat Wali Masroor Cricket Stadium, Khost",
    "city": "Khost",
    "country": "Afghanistan",
@@ -8969,18 +8925,18 @@
    "tour": "t24737",
    "utc": "2026-09-12T01:00:00Z",
    "ts": 1789174800,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "2nd T20I",
    "home": "Japan Women",
    "away": "Malaysia Women",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "82/6 (20 ov, target 101)",
+   "away_score": "100/4",
    "venue": "Sano International Cricket Ground",
    "city": "Sano",
    "country": "Japan",
    "format": "T20",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -9387,18 +9343,18 @@
    "tour": "cpl",
    "utc": "2026-09-13T00:00:00Z",
    "ts": 1789257600,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "34th Match",
    "home": "Barbados Tridents",
    "away": "Jamaica Kingsmen",
-   "home_score": "",
-   "away_score": "112/5 (15.2/20 ov)",
+   "home_score": "151/8 (20 ov, target 151)",
+   "away_score": "150/9",
    "venue": "Kensington Oval, Bridgetown, Barbados",
    "city": "Bridgetown",
    "country": "West Indies",
    "format": "T20",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -9407,8 +9363,8 @@
   {
    "id": "1552313",
    "tour": "t24737",
-   "utc": "2026-09-13T01:00:00Z",
-   "ts": 1789261200,
+   "utc": "2026-09-13T05:00:00Z",
+   "ts": 1789275600,
    "status": "Live",
    "status_long": "Live",
    "round": "3rd T20I",
@@ -9431,8 +9387,8 @@
    "tour": "t1552900",
    "utc": "2026-09-13T07:30:00Z",
    "ts": 1789284600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "11th Match",
    "home": "Kenya",
    "away": "Sierra Leone",
@@ -9442,7 +9398,7 @@
    "city": "Kigali City",
    "country": "Rwanda",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -9453,8 +9409,8 @@
    "tour": "t24670",
    "utc": "2026-09-13T07:30:00Z",
    "ts": 1789284600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "3rd ODI",
    "home": "Namibia",
    "away": "South Africa",
@@ -9464,7 +9420,7 @@
    "city": "Windhoek",
    "country": "Namibia",
    "format": "ODI",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -10402,8 +10358,8 @@
    "status": "Schedu",
    "status_long": "Scheduled",
    "round": "Eliminator",
-   "home": "TBA",
-   "away": "TBA",
+   "home": "Barbados Tridents",
+   "away": "Jamaica Kingsmen",
    "home_score": "",
    "away_score": "",
    "venue": "Kensington Oval, Bridgetown, Barbados",
@@ -10798,8 +10754,8 @@
    "status": "Schedu",
    "status_long": "Scheduled",
    "round": "Qualifier 1",
-   "home": "TBA",
-   "away": "TBA",
+   "home": "Antigua and Barbuda Falcons",
+   "away": "Guyana Amazon Warriors",
    "home_score": "",
    "away_score": "",
    "venue": "Kensington Oval, Bridgetown, Barbados",
@@ -14663,6 +14619,28 @@
    "india": true
   },
   {
+   "id": "1551717",
+   "tour": "t1551603",
+   "utc": "2027-01-07T08:00:00Z",
+   "ts": 1799308800,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "16th Match",
+   "home": "KwaZulu-Natal Inland",
+   "away": "South Western Districts",
+   "home_score": "",
+   "away_score": "",
+   "venue": "City Oval, Pietermaritzburg",
+   "city": "Pietermaritzburg",
+   "country": "South Africa",
+   "format": "Test",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1551718",
    "tour": "t1551603",
    "utc": "2027-01-07T08:00:00Z",
@@ -15741,28 +15719,6 @@
    "india": true
   },
   {
-   "id": "1551734",
-   "tour": "t1551603",
-   "utc": "2027-03-04T08:00:00Z",
-   "ts": 1804147200,
-   "status": "Schedu",
-   "status_long": "Scheduled",
-   "round": "33rd Match",
-   "home": "KwaZulu-Natal Inland",
-   "away": "Easterns",
-   "home_score": "",
-   "away_score": "",
-   "venue": "City Oval, Pietermaritzburg",
-   "city": "Pietermaritzburg",
-   "country": "South Africa",
-   "format": "Test",
-   "note": "Scheduled",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1551736",
    "tour": "t1551603",
    "utc": "2027-03-04T08:00:00Z",
@@ -16005,28 +15961,6 @@
    "india": false
   },
   {
-   "id": "1551737",
-   "tour": "t1551603",
-   "utc": "2027-03-11T08:00:00Z",
-   "ts": 1804752000,
-   "status": "Schedu",
-   "status_long": "Scheduled",
-   "round": "36th Match",
-   "home": "South Western Districts",
-   "away": "KwaZulu-Natal Inland",
-   "home_score": "",
-   "away_score": "",
-   "venue": "Recreation Ground, Oudtshoorn",
-   "city": "Oudtshoorn",
-   "country": "South Africa",
-   "format": "Test",
-   "note": "Scheduled",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1551825",
    "tour": "t20676",
    "utc": "2027-03-14T08:00:00Z",
@@ -16093,28 +16027,6 @@
    "india": false
   },
   {
-   "id": "1551740",
-   "tour": "t1551603",
-   "utc": "2027-03-18T08:00:00Z",
-   "ts": 1805356800,
-   "status": "Schedu",
-   "status_long": "Scheduled",
-   "round": "39th Match",
-   "home": "Mpumalanga",
-   "away": "Easterns",
-   "home_score": "",
-   "away_score": "",
-   "venue": "Uplands College, White River",
-   "city": "White River",
-   "country": "South Africa",
-   "format": "Test",
-   "note": "Scheduled",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1551827",
    "tour": "t20676",
    "utc": "2027-03-21T08:00:00Z",
@@ -16132,50 +16044,6 @@
    "format": "ODI",
    "note": "Scheduled",
    "tbd": true,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1551742",
-   "tour": "t1551603",
-   "utc": "2027-03-25T08:00:00Z",
-   "ts": 1805961600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
-   "round": "41st Match",
-   "home": "KwaZulu-Natal Inland",
-   "away": "Northern Cape",
-   "home_score": "",
-   "away_score": "",
-   "venue": "City Oval, Pietermaritzburg",
-   "city": "Pietermaritzburg",
-   "country": "South Africa",
-   "format": "Test",
-   "note": "Scheduled",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1551743",
-   "tour": "t1551603",
-   "utc": "2027-03-25T08:00:00Z",
-   "ts": 1805961600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
-   "round": "42nd Match",
-   "home": "Mpumalanga",
-   "away": "Border",
-   "home_score": "",
-   "away_score": "",
-   "venue": "Uplands College, White River",
-   "city": "White River",
-   "country": "South Africa",
-   "format": "Test",
-   "note": "Scheduled",
-   "tbd": false,
    "disrupted": false,
    "finished": false,
    "india": false
@@ -16291,6 +16159,28 @@
    "india": false
   },
   {
+   "id": "1551690",
+   "tour": "t21185",
+   "utc": "2027-04-03T08:00:00Z",
+   "ts": 1806739200,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "30th Match",
+   "home": "Warriors",
+   "away": "Boland",
+   "home_score": "",
+   "away_score": "",
+   "venue": "St George's Park, Gqeberha",
+   "city": "Gqeberha",
+   "country": "South Africa",
+   "format": "Test",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1551689",
    "tour": "t21185",
    "utc": "2027-04-03T08:00:00Z",
@@ -16313,28 +16203,6 @@
    "india": false
   },
   {
-   "id": "1551744",
-   "tour": "t1551603",
-   "utc": "2027-04-08T08:00:00Z",
-   "ts": 1807171200,
-   "status": "Schedu",
-   "status_long": "Scheduled",
-   "round": "Final",
-   "home": "TBA",
-   "away": "TBA",
-   "home_score": "",
-   "away_score": "",
-   "venue": "",
-   "city": "",
-   "country": "",
-   "format": "Test",
-   "note": "Scheduled",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1551693",
    "tour": "t21185",
    "utc": "2027-04-10T08:00:00Z",
@@ -16348,6 +16216,28 @@
    "away_score": "",
    "venue": "Boland Park, Paarl",
    "city": "Paarl",
+   "country": "South Africa",
+   "format": "Test",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1551696",
+   "tour": "t21185",
+   "utc": "2027-04-10T08:00:00Z",
+   "ts": 1807344000,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "36th Match",
+   "home": "Dolphins",
+   "away": "Knights",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Kingsmead, Durban",
+   "city": "Durban",
    "country": "South Africa",
    "format": "Test",
    "note": "Scheduled",
@@ -16401,6 +16291,28 @@
    "india": false
   },
   {
+   "id": "1551697",
+   "tour": "t21185",
+   "utc": "2027-04-17T08:00:00Z",
+   "ts": 1807948800,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "37th Match",
+   "home": "Dolphins",
+   "away": "Warriors",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Kingsmead, Durban",
+   "city": "Durban",
+   "country": "South Africa",
+   "format": "Test",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1551698",
    "tour": "t21185",
    "utc": "2027-04-17T08:00:00Z",
@@ -16445,6 +16357,28 @@
    "india": false
   },
   {
+   "id": "1551699",
+   "tour": "t21185",
+   "utc": "2027-04-17T08:00:00Z",
+   "ts": 1807948800,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "39th Match",
+   "home": "Titans",
+   "away": "Western Province",
+   "home_score": "",
+   "away_score": "",
+   "venue": "SuperSport Park, Centurion",
+   "city": "Centurion",
+   "country": "South Africa",
+   "format": "Test",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1551701",
    "tour": "t21185",
    "utc": "2027-04-26T08:00:00Z",
@@ -16469,366 +16403,108 @@
  ],
  "changes": [
   {
-   "kind": "added",
-   "id": "1549586",
-   "tour": "t24677",
-   "what": "India v Afghanistan",
-   "to": "2026-09-13T14:00:00Z"
+   "kind": "moved",
+   "id": "1552313",
+   "tour": "t24737",
+   "what": "Japan Women v Malaysia Women",
+   "from": "2026-09-13T01:00:00Z",
+   "to": "2026-09-13T05:00:00Z"
   },
   {
    "kind": "added",
-   "id": "1549587",
-   "tour": "t24677",
-   "what": "India v Afghanistan",
-   "to": "2026-09-15T14:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1549588",
-   "tour": "t24677",
-   "what": "India v Afghanistan",
-   "to": "2026-09-17T14:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551789",
-   "tour": "t20676",
-   "what": "Easterns v South Western Districts",
-   "to": "2026-09-13T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551790",
-   "tour": "t20676",
-   "what": "Limpopo v Border",
-   "to": "2026-09-13T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551791",
-   "tour": "t20676",
-   "what": "Mpumalanga v KwaZulu-Natal Inland",
-   "to": "2026-09-13T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551793",
-   "tour": "t20676",
-   "what": "Easterns v Border",
-   "to": "2026-09-20T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551794",
-   "tour": "t20676",
-   "what": "Mpumalanga v South Western Districts",
-   "to": "2026-09-20T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551792",
-   "tour": "t20676",
-   "what": "Northern Cape v Limpopo",
-   "to": "2026-09-20T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551797",
-   "tour": "t20676",
-   "what": "Easterns v Northern Cape",
-   "to": "2026-11-22T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551796",
-   "tour": "t20676",
-   "what": "Limpopo v KwaZulu-Natal Inland",
-   "to": "2026-11-22T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551795",
-   "tour": "t20676",
-   "what": "South Western Districts v Border",
-   "to": "2026-11-22T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551799",
-   "tour": "t20676",
-   "what": "KwaZulu-Natal Inland v Mpumalanga",
-   "to": "2026-12-13T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551800",
-   "tour": "t20676",
-   "what": "Limpopo v Easterns",
-   "to": "2026-12-13T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551798",
-   "tour": "t20676",
-   "what": "South Western Districts v Northern Cape",
-   "to": "2026-12-13T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551801",
-   "tour": "t20676",
-   "what": "Border v Easterns",
-   "to": "2026-12-20T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551803",
-   "tour": "t20676",
-   "what": "Mpumalanga v Limpopo",
-   "to": "2026-12-20T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551802",
-   "tour": "t20676",
-   "what": "Northern Cape v KwaZulu-Natal Inland",
-   "to": "2026-12-20T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551804",
-   "tour": "t20676",
-   "what": "KwaZulu-Natal Inland v South Western Districts",
-   "to": "2027-01-10T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551805",
-   "tour": "t20676",
-   "what": "Limpopo v Northern Cape",
-   "to": "2027-01-10T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551806",
-   "tour": "t20676",
-   "what": "Border v Mpumalanga",
-   "to": "2027-01-17T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551808",
-   "tour": "t20676",
-   "what": "Easterns v KwaZulu-Natal Inland",
-   "to": "2027-01-17T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551807",
-   "tour": "t20676",
-   "what": "Northern Cape v South Western Districts",
-   "to": "2027-01-17T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551810",
-   "tour": "t20676",
-   "what": "Border v Northern Cape",
-   "to": "2027-01-24T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551811",
-   "tour": "t20676",
-   "what": "KwaZulu-Natal Inland v Limpopo",
-   "to": "2027-01-24T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551809",
-   "tour": "t20676",
-   "what": "South Western Districts v Mpumalanga",
-   "to": "2027-01-24T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551813",
-   "tour": "t20676",
-   "what": "Border v KwaZulu-Natal Inland",
-   "to": "2027-02-07T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551814",
-   "tour": "t20676",
-   "what": "Northern Cape v Mpumalanga",
-   "to": "2027-02-07T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551812",
-   "tour": "t20676",
-   "what": "South Western Districts v Easterns",
-   "to": "2027-02-07T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551816",
-   "tour": "t20676",
-   "what": "Easterns v Limpopo",
-   "to": "2027-02-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551815",
-   "tour": "t20676",
-   "what": "KwaZulu-Natal Inland v Border",
-   "to": "2027-02-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551817",
-   "tour": "t20676",
-   "what": "Mpumalanga v Northern Cape",
-   "to": "2027-02-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551818",
-   "tour": "t20676",
-   "what": "Border v South Western Districts",
-   "to": "2027-02-21T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551820",
-   "tour": "t20676",
-   "what": "Limpopo v Mpumalanga",
-   "to": "2027-02-21T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551819",
-   "tour": "t20676",
-   "what": "Northern Cape v Easterns",
-   "to": "2027-02-21T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551821",
-   "tour": "t20676",
-   "what": "KwaZulu-Natal Inland v Easterns",
-   "to": "2027-03-07T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551823",
-   "tour": "t20676",
-   "what": "Limpopo v South Western Districts",
-   "to": "2027-03-07T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551822",
-   "tour": "t20676",
-   "what": "Northern Cape v Border",
-   "to": "2027-03-07T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551825",
-   "tour": "t20676",
-   "what": "Border v Limpopo",
-   "to": "2027-03-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551826",
-   "tour": "t20676",
-   "what": "Easterns v Mpumalanga",
-   "to": "2027-03-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551824",
-   "tour": "t20676",
-   "what": "South Western Districts v KwaZulu-Natal Inland",
-   "to": "2027-03-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551827",
-   "tour": "t20676",
-   "what": "Mpumalanga v Easterns",
-   "to": "2027-03-21T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551829",
-   "tour": "t20676",
-   "what": "KwaZulu-Natal Inland v Northern Cape",
-   "to": "2027-03-28T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551830",
-   "tour": "t20676",
-   "what": "Mpumalanga v Border",
-   "to": "2027-03-28T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551828",
-   "tour": "t20676",
-   "what": "South Western Districts v Limpopo",
-   "to": "2027-03-28T08:00:00Z"
-  },
-  {
-   "kind": "dropped",
    "id": "1551717",
    "tour": "t1551603",
    "what": "KwaZulu-Natal Inland v South Western Districts",
-   "from": "2027-01-07T08:00:00Z"
+   "to": "2027-01-07T08:00:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1551690",
+   "tour": "t21185",
+   "what": "Warriors v Boland",
+   "to": "2027-04-03T08:00:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1551696",
+   "tour": "t21185",
+   "what": "Dolphins v Knights",
+   "to": "2027-04-10T08:00:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1551697",
+   "tour": "t21185",
+   "what": "Dolphins v Warriors",
+   "to": "2027-04-17T08:00:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1551699",
+   "tour": "t21185",
+   "what": "Titans v Western Province",
+   "to": "2027-04-17T08:00:00Z"
   },
   {
    "kind": "dropped",
-   "id": "1551741",
+   "id": "1547411",
+   "tour": "t8832",
+   "what": "Sinhalese Sports Club v Police Sports Club",
+   "from": "2026-08-14T04:15:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1547433",
+   "tour": "t8832",
+   "what": "Moors Sports Club v Ace Capital Cricket Club",
+   "from": "2026-08-30T04:15:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1551734",
    "tour": "t1551603",
-   "what": "South Western Districts v Limpopo",
+   "what": "KwaZulu-Natal Inland v Easterns",
+   "from": "2027-03-04T08:00:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1551737",
+   "tour": "t1551603",
+   "what": "South Western Districts v KwaZulu-Natal Inland",
+   "from": "2027-03-11T08:00:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1551740",
+   "tour": "t1551603",
+   "what": "Mpumalanga v Easterns",
+   "from": "2027-03-18T08:00:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1551742",
+   "tour": "t1551603",
+   "what": "KwaZulu-Natal Inland v Northern Cape",
    "from": "2027-03-25T08:00:00Z"
   },
   {
    "kind": "dropped",
-   "id": "1551690",
-   "tour": "t21185",
-   "what": "Warriors v Boland",
-   "from": "2027-04-03T08:00:00Z"
+   "id": "1551743",
+   "tour": "t1551603",
+   "what": "Mpumalanga v Border",
+   "from": "2027-03-25T08:00:00Z"
   },
   {
    "kind": "dropped",
-   "id": "1551696",
-   "tour": "t21185",
-   "what": "Dolphins v Knights",
-   "from": "2027-04-10T08:00:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1551697",
-   "tour": "t21185",
-   "what": "Dolphins v Warriors",
-   "from": "2027-04-17T08:00:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1551699",
-   "tour": "t21185",
-   "what": "Titans v Western Province",
-   "from": "2027-04-17T08:00:00Z"
+   "id": "1551744",
+   "tour": "t1551603",
+   "what": "TBA v TBA",
+   "from": "2027-04-08T08:00:00Z"
   }
  ],
  "counts": {
   "tournaments": 52,
-  "fixtures": 710,
+  "fixtures": 707,
   "india": 25,
   "failures": 0
  },
