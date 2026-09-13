@@ -398,5 +398,21 @@
   "short": "President's Trophy",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24677": {
+  "id": "24677",
+  "key": "t24677",
+  "name": "Afghanistan tour of India [Sep 2026] 2026",
+  "short": "Afghanistan in India 2026",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "20676": {
+  "id": "20676",
+  "key": "t20676",
+  "name": "CSA Provincial One-Day Challenge Division Two",
+  "short": "CSA Provincial One-Day Div2",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
