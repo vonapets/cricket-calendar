@@ -1,101 +1,73 @@
 [
  {
   "kind": "moved",
-  "id": "1552313",
-  "tour": "t24737",
-  "what": "Japan Women v Malaysia Women",
-  "from": "2026-09-13T01:00:00Z",
-  "to": "2026-09-13T05:00:00Z"
+  "id": "1535684",
+  "tour": "t24377",
+  "what": "India Under-19s v Australia Under-19s",
+  "from": "2026-09-27T03:30:00Z",
+  "to": "2026-09-27T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551717",
-  "tour": "t1551603",
-  "what": "KwaZulu-Natal Inland v South Western Districts",
-  "to": "2027-01-07T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551690",
-  "tour": "t21185",
-  "what": "Warriors v Boland",
-  "to": "2027-04-03T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551696",
-  "tour": "t21185",
-  "what": "Dolphins v Knights",
-  "to": "2027-04-10T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551697",
-  "tour": "t21185",
-  "what": "Dolphins v Warriors",
-  "to": "2027-04-17T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551699",
-  "tour": "t21185",
-  "what": "Titans v Western Province",
-  "to": "2027-04-17T08:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547411",
-  "tour": "t8832",
-  "what": "Sinhalese Sports Club v Police Sports Club",
-  "from": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547433",
-  "tour": "t8832",
-  "what": "Moors Sports Club v Ace Capital Cricket Club",
-  "from": "2026-08-30T04:15:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1551734",
   "tour": "t1551603",
   "what": "KwaZulu-Natal Inland v Easterns",
-  "from": "2027-03-04T08:00:00Z"
+  "to": "2027-03-04T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551737",
   "tour": "t1551603",
   "what": "South Western Districts v KwaZulu-Natal Inland",
-  "from": "2027-03-11T08:00:00Z"
+  "to": "2027-03-11T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551740",
   "tour": "t1551603",
   "what": "Mpumalanga v Easterns",
-  "from": "2027-03-18T08:00:00Z"
+  "to": "2027-03-18T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551742",
   "tour": "t1551603",
   "what": "KwaZulu-Natal Inland v Northern Cape",
-  "from": "2027-03-25T08:00:00Z"
+  "to": "2027-03-25T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551743",
   "tour": "t1551603",
   "what": "Mpumalanga v Border",
-  "from": "2027-03-25T08:00:00Z"
+  "to": "2027-03-25T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
+  "id": "1551741",
+  "tour": "t1551603",
+  "what": "South Western Districts v Limpopo",
+  "to": "2027-03-25T08:00:00Z"
+ },
+ {
+  "kind": "added",
   "id": "1551744",
   "tour": "t1551603",
   "what": "TBA v TBA",
-  "from": "2027-04-08T08:00:00Z"
+  "to": "2027-04-08T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547411",
+  "tour": "t8832",
+  "what": "Sinhalese Sports Club v Police Sports Club",
+  "to": "2026-08-14T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547433",
+  "tour": "t8832",
+  "what": "Moors Sports Club v Ace Capital Cricket Club",
+  "to": "2026-08-30T04:15:00Z"
  }
 ]
