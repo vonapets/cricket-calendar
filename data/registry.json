@@ -414,5 +414,13 @@
   "short": "CSA Provincial One-Day Div2",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24681": {
+  "id": "24681",
+  "key": "t24681",
+  "name": "United Arab Emirates tour of Malaysia 2026",
+  "short": "United Arab Emirates in Malaysia 2026",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
