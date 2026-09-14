@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T15:08:03Z",
+ "generated_at": "2026-09-14T19:24:48Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -597,7 +597,7 @@
    "color": "#7a8899",
    "start": "2026-09-13",
    "end": "2027-03-28",
-   "matches": 41,
+   "matches": 42,
    "india": false,
    "world": false,
    "formats": [
@@ -9822,18 +9822,18 @@
    "tour": "t24740",
    "utc": "2026-09-14T09:30:00Z",
    "ts": 1789378200,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "3rd Youth ODI",
    "home": "England Under-19s",
    "away": "Pakistan Under-19s",
    "home_score": "302/6",
-   "away_score": "64/3 (12.3/50 ov, target 303)",
+   "away_score": "300/9 (50 ov, target 303)",
    "venue": "Sir Paul Getty's Ground, Wormsley",
    "city": "Wormsley",
    "country": "England",
    "format": "ODI",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -14086,6 +14086,28 @@
    "india": false
   },
   {
+   "id": "1551799",
+   "tour": "t20676",
+   "utc": "2026-12-13T08:00:00Z",
+   "ts": 1797148800,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "11th Match",
+   "home": "KwaZulu-Natal Inland",
+   "away": "Mpumalanga",
+   "home_score": "",
+   "away_score": "",
+   "venue": "City Oval, Pietermaritzburg",
+   "city": "Pietermaritzburg",
+   "country": "South Africa",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": true,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1551800",
    "tour": "t20676",
    "utc": "2026-12-13T08:00:00Z",
@@ -16662,16 +16684,16 @@
  ],
  "changes": [
   {
-   "kind": "dropped",
+   "kind": "added",
    "id": "1551799",
    "tour": "t20676",
    "what": "KwaZulu-Natal Inland v Mpumalanga",
-   "from": "2026-12-13T08:00:00Z"
+   "to": "2026-12-13T08:00:00Z"
   }
  ],
  "counts": {
   "tournaments": 53,
-  "fixtures": 718,
+  "fixtures": 719,
   "india": 25,
   "failures": 0
  },
