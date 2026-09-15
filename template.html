@@ -97,6 +97,17 @@ input[type=search]{
   font-size:10.5px;font-weight:650;color:#fff;white-space:nowrap;
   box-shadow:0 1px 3px rgba(0,0,0,.22)}
 .bar.hot{outline:1.5px solid var(--hot);outline-offset:1px}
+/* A projected band: the PDF's dates for a season nobody has published yet. It
+   is drawn hollow so it can never be mistaken for a confirmed fixture run -
+   the same distinction the PDF made with its "dates not confirmed" bars. */
+.bar.planned{background:transparent!important;box-shadow:none;
+  border:1.5px dashed currentColor;font-weight:600}
+.bar.planned::before{content:"";position:absolute;inset:0;
+  background:repeating-linear-gradient(135deg,currentColor 0 1px,transparent 1px 5px);
+  opacity:.22;pointer-events:none}
+.mcount.proj b{color:var(--muted);font-weight:600}
+.mcount.proj small{display:block;font-size:8.5px;letter-spacing:.05em;
+  text-transform:uppercase;color:var(--muted);font-weight:700;margin-top:1px}
 /* a short tour gets a bar a few pixels wide; its name goes beside it instead */
 .barlabel{position:absolute;top:7px;height:16px;display:flex;align-items:center;
   font-size:10.5px;font-weight:600;color:var(--muted);white-space:nowrap;
@@ -211,7 +222,7 @@ footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
   </div>
   <div class="stats">
     <div class="stat"><b id="s-fix">—</b><span>matches</span></div>
-    <div class="stat"><b id="s-tour">—</b><span>tournaments</span></div>
+    <div class="stat"><b id="s-tour">—</b><span id="s-tour-l">tournaments</span></div>
     <div class="stat"><b id="s-india">—</b><span>India matches</span></div>
     <div class="stat"><b id="s-next">—</b><span>next 7 days</span></div>
     <div class="stat"><b id="s-gen">—</b><span>last sync</span></div>
@@ -227,6 +238,7 @@ footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
   <span id="groupchips"></span>
   <span id="formatchips"></span>
   <button class="chip hot" id="indiaOnly" aria-pressed="false">India &amp; ICC only</button>
+  <button class="chip" id="showMinor" aria-pressed="false">Show minor cricket</button>
   <div class="spacer"></div>
   <input type="search" id="q" placeholder="Search team, tournament, venue">
 </div>
@@ -239,7 +251,9 @@ footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
 <footer>
   <div><b>Source.</b> ESPN's public cricket feed, the same JSON their own site reads. No key, no vendor.</div>
   <div><b>Refresh.</b> A GitHub Action re-syncs four times a day and republishes this page, so it stays current whether or not any laptop is switched on.</div>
-  <div><b>Amber</b> marks India fixtures and ICC world tournaments — on Polymarket those two draw multiples of everything else, which is why they get their own colour rather than a footnote.</div>
+  <div><b>Amber</b> marks India fixtures and ICC world tournaments — on Polymarket those two draw multiples of everything else, which is why they get their own colour rather than a footnote. The IPL and the WPL count as India here even though no team is called India.</div>
+  <div><b>Hollow bars are projections</b>, not fixtures. A season ESPN has not published yet — the IPL spends most of the year in that state — is drawn from the wallchart in <i>The Cricket Window</i> (28 Aug 2026) with its expected match count, and is replaced by real fixtures the moment the feed has them. Nothing beyond <span id="horizon">the horizon</span> is projected at all: that far out a guess is worth less than an honest gap.</div>
+  <div><b>Minor cricket is hidden</b> by default — second-XI, provincial, A-team and age-group fixtures, which the feed returns in bulk. The toggle above brings them back.</div>
   <div id="warn"></div>
 </footer>
 
@@ -262,10 +276,13 @@ const state = {
   groups: new Set(GROUPS),
   formats: new Set(FORMATS),
   indiaOnly: false,
+  showMinor: false,
   q: ""
 };
 
-const isHot = f => f.india || (T[f.tour] && T[f.tour].world);
+// "Mumbai Indians" is not "India", so a fixture-level test alone leaves the IPL
+// outside the India filter - the one competition the memo calls the prize.
+const isHot = f => f.india || (T[f.tour] && (T[f.tour].world || T[f.tour].in_india));
 const el = (h) => { const d = document.createElement("div"); d.innerHTML = h.trim(); return d.firstChild; };
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
@@ -297,6 +314,7 @@ function matches() {
   return DATA.fixtures.filter(f => {
     const t = T[f.tour];
     if (!t || !state.groups.has(t.group)) return false;
+    if (!state.showMinor && t.tier === "minor") return false;
     if (f.format && !state.formats.has(f.format)) return false;
     if (state.indiaOnly && !isHot(f)) return false;
     if (q) {
@@ -319,9 +337,33 @@ function monthsBetween(a, b) {
 
 function daysIn(y, m) { return new Date(Date.UTC(y, m, 0)).getUTCDate(); }
 
+// The projected rows that pass the current filters. A projection has no
+// fixtures, so it cannot be counted out of the fixture list the way every other
+// row is; the chart and the header stat both ask for it here so they agree.
+function plannedRows() {
+  const ql = state.q.toLowerCase();
+  return DATA.tournaments.filter(t => {
+    if (!t.planned || !t.start || !t.end) return false;
+    if (!state.groups.has(t.group)) return false;
+    if (!state.showMinor && t.tier === "minor") return false;
+    if (state.indiaOnly && !(t.world || t.in_india)) return false;
+    return !ql || `${t.name} ${t.short}`.toLowerCase().includes(ql);
+  });
+}
+
 function renderSeason(fx) {
   const live = new Set(fx.map(f => f.tour));
-  const tours = DATA.tournaments.filter(t => live.has(t.key) && t.start && t.end);
+  // Every other row earns its place by having fixtures. A projected one has
+  // none by definition, so it is filtered on its own terms and carries the
+  // expected match count from the PDF instead of a count of what arrived.
+  const planned = new Set(plannedRows().map(t => t.key));
+  const tours = DATA.tournaments.filter(t => {
+    if (!t.start || !t.end) return false;
+    if (t.planned) return planned.has(t.key);
+    if (!state.groups.has(t.group)) return false;
+    if (!state.showMinor && t.tier === "minor") return false;
+    return live.has(t.key);
+  });
   if (!tours.length) return `<div class="list"><div class="empty">Nothing matches those filters.</div></div>`;
 
   const counts = {};
@@ -361,10 +403,15 @@ function renderSeason(fx) {
     const [ey,em] = t.end.slice(0,7).split("-").map(Number);
     // a one-day tour still needs a visible bar, so give every bar the end day's width
     const width = Math.max(right - left + W / daysIn(ey,em), W * 0.10);
-    const hot = t.india || t.world;
+    const hot = t.india || t.world || t.in_india;
+    const n   = t.planned ? t.matches : counts[t.key];
     const color = (t.color && t.color !== "#7a8899")
       ? t.color : (FMT_COLOR[(t.formats||[])[0]] || "var(--muted)");
-    const title = `${cleanName(t.name)} — ${t.start} to ${t.end}, ${counts[t.key]} matches`;
+    const title = t.planned
+      ? `${cleanName(t.name)} — projected ${t.start} to ${t.end}, ` +
+        `${t.expected == null ? "match count" : t.expected + " matches"} expected. ` +
+        `Not yet published by the feed; dates from The Cricket Window, 28 Aug 2026.`
+      : `${cleanName(t.name)} — ${t.start} to ${t.end}, ${n} matches`;
     // a three-day tour gets a bar a few pixels wide; a clipped single letter in
     // it reads as breakage, so the label only appears when it can be read
     // A bar too narrow for its own name gets the name printed beside it rather
@@ -384,10 +431,14 @@ function renderSeason(fx) {
       </th>
       <td class="track" colspan="${cols.length}">
         ${tpos === null ? "" : `<div class="today-line" style="left:${tpos}%"></div>`}
-        <div class="bar${hot ? " hot" : ""}" style="left:${left}%;width:${width}%;background:${color}"
+        <div class="bar${hot ? " hot" : ""}${t.planned ? " planned" : ""}"
+             style="left:${left}%;width:${width}%;${t.planned
+               ? `color:${color}` : `background:${color}`}"
              title="${esc(title)}">${label}</div>${outside}
       </td>
-      <td class="mcount"><b>${counts[t.key]}</b></td></tr>`;
+      <td class="mcount${t.planned ? " proj" : ""}">
+        <b>${t.planned && t.expected == null ? "TBC" : n}</b>
+        ${t.planned ? "<small>projected</small>" : ""}</td></tr>`;
   }).join("");
 
   return `<div class="gantt"><table style="--mw:${W}%">
@@ -543,6 +594,11 @@ function draw() {
 
   document.getElementById("s-fix").textContent = fx.length.toLocaleString();
   document.getElementById("s-tour").textContent = new Set(fx.map(f => f.tour)).size;
+  // the chart carries projected rows the fixture list cannot account for, so
+  // the label says so rather than letting the two numbers disagree in silence
+  const np = state.view === "season" ? plannedRows().length : 0;
+  document.getElementById("s-tour-l").textContent =
+    np ? `tournaments + ${np} projected` : "tournaments";
   document.getElementById("s-india").textContent = fx.filter(isHot).length.toLocaleString();
   const now = Date.now()/1000, wk = now + 7*86400;
   document.getElementById("s-next").textContent = fx.filter(f => f.ts >= now && f.ts <= wk).length;
@@ -572,6 +628,12 @@ function init() {
   const io = document.getElementById("indiaOnly");
   io.onclick = () => { state.indiaOnly = !state.indiaOnly;
                        io.setAttribute("aria-pressed", state.indiaOnly); draw(); };
+
+  // Off by default: the feed returns second-XI, provincial and age-group
+  // cricket in bulk, and left in it outnumbers the cricket that trades.
+  const mi = document.getElementById("showMinor");
+  mi.onclick = () => { state.showMinor = !state.showMinor;
+                       mi.setAttribute("aria-pressed", state.showMinor); draw(); };
   let tmr;
   document.getElementById("q").oninput = e => {
     clearTimeout(tmr);
@@ -582,11 +644,28 @@ function init() {
     Object.entries({Test:"var(--ball)",ODI:"var(--white)",T20:"var(--t20)"})
       .map(([k,v]) => `<span><i style="background:${v}"></i>${k}</span>`).join("") +
     `<span><i style="background:var(--hot)"></i>India / ICC</span>` +
-    `<span style="margin-left:auto">${DATA.counts.fixtures.toLocaleString()} matches from ${DATA.counts.tournaments} tournaments</span>`;
+    (DATA.counts.projected
+      ? `<span><i style="border:1.5px dashed var(--muted);background:transparent"></i>` +
+        `Projected — season not published yet</span>` : "") +
+    `<span style="margin-left:auto">${DATA.counts.fixtures.toLocaleString()} confirmed matches from ` +
+    `${DATA.counts.tournaments - (DATA.counts.projected||0)} tournaments` +
+    (DATA.counts.projected
+      ? `, plus ${DATA.counts.projected} projected (${DATA.counts.projected_matches} matches)` : "") +
+    `</span>`;
+
+  const hz = document.getElementById("horizon");
+  if (hz && DATA.projection_horizon) hz.textContent = DATA.projection_horizon;
 
   const warn = [];
   if (DATA.failures && DATA.failures.length) warn.push(`${DATA.failures.length} feed(s) failed on the last sync.`);
   if (DATA.warnings && DATA.warnings.length) warn.push(DATA.warnings.join(" "));
+  // between seasons a competition has fixtures, just none inside the window.
+  // Worth saying once, with names, rather than once per competition.
+  const up = DATA.unpublished || [];
+  if (up.length) warn.push(
+    `${up.length} competitions have no published season inside the window — ` +
+    up.slice(0,3).map(u => cleanName(u.name)).join(", ") + (up.length > 3 ? ", and others" : "") +
+    `. The feed still lists their last season, so they are between schedules rather than missing.`);
   if (warn.length) document.getElementById("warn").innerHTML = `<b>Note.</b> ${esc(warn.join(" "))}`;
 
   draw();

@@ -424,5 +424,231 @@
    "group": "Development",
    "color": "#6d675d"
   }
+ ],
+ "projection_horizon": "2027-03-31",
+ "projection_note": "Planned entries come from the wallchart in The-Cricket-Window.pdf (28 Aug 2026). They are drawn as hollow 'projected' bars carrying an expected match count, never as individual fixtures, and a planned row is dropped the moment the feed supplies the real tournament (see detect/not below). Only competitions starting on or before projection_horizon are projected: past that the PDF's dates are a guess about a season nobody has published, and a guess that far out is worth less than an honest gap.",
+ "planned": [
+  {
+   "key": "p_asiangames",
+   "name": "Asian Games cricket",
+   "short": "ASIAN G",
+   "group": "ICC",
+   "color": "#c8801a",
+   "start": "2026-09-24",
+   "end": "2026-10-03",
+   "matches": 14,
+   "detect": [
+    "asian games"
+   ],
+   "not": []
+  },
+  {
+   "key": "p_engsl_pak",
+   "name": "England & Sri Lanka in Pakistan",
+   "short": "ENG/SL in PAK",
+   "group": "International",
+   "color": "#a8321f",
+   "start": "2026-10-09",
+   "end": "2026-11-21",
+   "matches": 11,
+   "detect": [
+    "england tour of pakistan",
+    "sri lanka tour of pakistan"
+   ],
+   "not": [
+    "a tour",
+    "women",
+    "under"
+   ]
+  },
+  {
+   "key": "p_adt10",
+   "name": "Abu Dhabi T10",
+   "short": "AD T10",
+   "group": "Franchise T20",
+   "color": "#8a6f2e",
+   "start": "2026-11-07",
+   "end": "2026-11-20",
+   "matches": null,
+   "detect": [
+    "abu dhabi t10"
+   ],
+   "not": []
+  },
+  {
+   "key": "p_ban_sa",
+   "name": "Bangladesh tour of South Africa",
+   "short": "BAN in SA",
+   "group": "International",
+   "color": "#a8321f",
+   "start": "2026-11-15",
+   "end": "2026-12-13",
+   "matches": 8,
+   "detect": [
+    "bangladesh tour of south africa"
+   ],
+   "not": [
+    "a tour",
+    "women",
+    "under"
+   ]
+  },
+  {
+   "key": "p_ilt20",
+   "name": "ILT20",
+   "short": "ILT20",
+   "group": "Franchise T20",
+   "color": "#1f7a6b",
+   "start": "2026-11-22",
+   "end": "2026-12-20",
+   "matches": 34,
+   "detect": [
+    "ilt20",
+    "international league t20"
+   ],
+   "not": [
+    "africa continent",
+    "women"
+   ]
+  },
+  {
+   "key": "p_bbl",
+   "name": "Big Bash League",
+   "short": "BBL",
+   "group": "Franchise T20",
+   "color": "#2f6fb5",
+   "start": "2026-12-12",
+   "end": "2027-01-26",
+   "matches": 44,
+   "detect": [
+    "big bash"
+   ],
+   "not": [
+    "women",
+    "wbbl"
+   ]
+  },
+  {
+   "key": "p_wpl",
+   "name": "Women's Premier League",
+   "short": "WPL",
+   "group": "Franchise T20",
+   "color": "#b5306f",
+   "start": "2027-01-09",
+   "end": "2027-02-05",
+   "matches": 22,
+   "detect": [
+    "women's premier league",
+    "womens premier league"
+   ],
+   "not": []
+  },
+  {
+   "key": "p_sa20",
+   "name": "SA20",
+   "short": "SA20",
+   "group": "Franchise T20",
+   "color": "#5c7d2e",
+   "start": "2027-01-17",
+   "end": "2027-02-21",
+   "matches": 34,
+   "detect": [
+    "sa20"
+   ],
+   "not": [
+    "women"
+   ]
+  },
+  {
+   "key": "p_wcq",
+   "name": "ICC World Cup Qualifier",
+   "short": "WCQ",
+   "group": "ICC",
+   "color": "#c8801a",
+   "start": "2027-02-22",
+   "end": "2027-03-23",
+   "matches": 34,
+   "detect": [
+    "world cup qualifier"
+   ],
+   "not": [
+    "women"
+   ]
+  },
+  {
+   "key": "p_ipl",
+   "name": "Indian Premier League",
+   "short": "IPL",
+   "group": "Franchise T20",
+   "color": "#1a3a8f",
+   "start": "2027-03-14",
+   "end": "2027-05-30",
+   "matches": 74,
+   "detect": [
+    "indian premier league"
+   ],
+   "not": [
+    "women"
+   ]
+  }
+ ],
+ "major_competitions": [
+  "indian premier league",
+  "women's premier league",
+  "caribbean premier league",
+  "european t20 premier league",
+  "lanka premier league",
+  "pakistan super league",
+  "bangladesh premier league",
+  "big bash",
+  "sa20",
+  "ilt20",
+  "international league t20",
+  "major league cricket",
+  "the hundred",
+  "t20 blast",
+  "vitality blast",
+  "abu dhabi t10",
+  "world cup",
+  "champions trophy",
+  "world test championship",
+  "asia cup",
+  "asian games",
+  "olympic",
+  "commonwealth",
+  "world cup qualifier"
+ ],
+ "full_members": [
+  "india",
+  "australia",
+  "england",
+  "south africa",
+  "pakistan",
+  "new zealand",
+  "sri lanka",
+  "west indies",
+  "bangladesh",
+  "afghanistan",
+  "ireland",
+  "zimbabwe"
+ ],
+ "india_competitions": [
+  "indian premier league",
+  "women's premier league",
+  "duleep trophy",
+  "ranji trophy",
+  "syed mushtaq ali",
+  "vijay hazare",
+  "irani cup",
+  "deodhar trophy"
+ ],
+ "tier_note": "A tournament is 'major' if its name is in major_competitions, or if it is a senior bilateral tour whose two sides are both full_members. minor_overrides wins first, because the feed names associate events after the league that sanctions them - 'ILT20 Africa Continent cup' is Rwanda v Botswana, not the ILT20. Women's cricket is minor unless listed in major_women_competitions, which is the line the PDF drew: of its 27 rows exactly one, the WPL, is women's. Everything minor is hidden behind a toggle, not discarded.",
+ "minor_overrides": [
+  "africa continent",
+  "rising stars",
+  "continental cup"
+ ],
+ "major_women_competitions": [
+  "women's premier league"
  ]
 }

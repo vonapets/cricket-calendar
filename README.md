@@ -82,7 +82,35 @@ Three views over the same filtered set:
 - **Matches** — the chronological list, with venue, format and result.
 
 Filter by group, by format (Test / ODI / T20), by text, or narrow to India and
-ICC fixtures only.
+ICC fixtures only. The IPL and the WPL count as India there even though no team
+in either is called India — a fixture-level name test puts "Mumbai Indians"
+outside the India filter, which is the wrong answer for the one competition that
+matters most.
+
+### Solid bars and hollow ones
+
+A **solid** bar is fixtures ESPN has published. A **hollow, dashed** one is a
+projection: a tournament the wallchart carries because it is going to happen,
+drawn from `config.planned` with an expected match count and no individual
+fixtures at all. It is replaced by the real thing the moment the feed has it.
+
+This exists because a feed can only show what somebody has already published,
+and a season is published surprisingly late. Asked for the IPL in 2027, ESPN
+returns an empty list — not next April — so for most of the year the biggest
+competition in the sport is simply absent. Ten tournaments are in that state
+today, 275 matches' worth.
+
+Nothing past `projection_horizon` is projected at all. Past that the dates are a
+guess about a season nobody has scheduled, and a guess that far out is worth
+less to a trading desk than an honest gap.
+
+### Minor cricket
+
+The feed returns second-XI, provincial, A-team and age-group fixtures in bulk —
+about 610 matches of it, enough to bury the IPL on a chart that shows everything.
+Those rows are tagged `minor` and hidden behind a toggle rather than discarded.
+The line is drawn in `config.json`, not in code: see `major_competitions`,
+`full_members`, `minor_overrides` and `major_women_competitions`.
 
 ## Running it
 
@@ -112,6 +140,20 @@ to GitHub Pages. Nothing depends on a laptop being switched on.
   de-duplicates by match id.
 - `tournaments` — the recurring competitions, with `group` and `color` used by
   the page.
+- `planned` — tournaments to project when the feed has no fixtures for them.
+  Each carries `start`, `end`, an expected `matches` count (`null` renders as
+  TBC), and `detect` / `not`: the substrings that identify the real tournament
+  when it arrives, at which point the projection disappears. `not` matters more
+  than it looks — "ILT20 Africa Continent cup" is Rwanda v Botswana and must not
+  be allowed to satisfy the ILT20.
+- `projection_horizon` — the last start date worth projecting.
+- `major_competitions` / `full_members` / `minor_overrides` /
+  `major_women_competitions` — the tiering lists described above.
+- `india_competitions` — competitions that count as India regardless of who is
+  batting, which is how the IPL and the WPL reach the India filter.
 
 Anything ESPN reports as live that is not in `config.json` arrives on its own,
-grouped as `Discovered`, and is remembered from then on.
+grouped as `Discovered`, and is remembered from then on. That is also the
+limitation the projections work around: discovery reads ESPN's *live* header, so
+without projections a tournament cannot appear on the chart until the day it has
+already started.

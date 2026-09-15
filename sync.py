@@ -143,6 +143,59 @@ def is_india(*names: str) -> bool:
     return False
 
 
+# A tour between two Test nations is worth charting. The same countries' A,
+# Under-19 and second-XI sides are not, and nor is provincial cricket: the feed
+# hands back 610 matches of it, which is enough to bury the IPL. Both are kept,
+# but the page shows only the first by default - the line the PDF drew when it
+# charted "every club league and major tour worth knowing about".
+NON_SENIOR = re.compile(r"\b(under-?19s?|u-?19s?|under-?23s?|emerging|development|"
+                        r"second eleven|2nd xi|academy)\b", re.I)
+# case-sensitive on purpose: "Australia A tour of India" is an A team, and a
+# lower-case "a" is just the English article waiting to demote the wrong row.
+A_TEAM = re.compile(r"\bA\b")
+WOMEN = re.compile(r"\bwomen'?s?\b|\(women\)", re.I)
+
+
+def tier_of(name: str, rows: list[dict], cfg: dict) -> str:
+    low = name.lower()
+    # first, because ESPN names an associate event after whoever sanctions it:
+    # "ILT20 Africa Continent cup" is Rwanda v Botswana, not the ILT20.
+    if any(c in low for c in cfg.get("minor_overrides", [])):
+        return "minor"
+    if WOMEN.search(name):
+        # the PDF charted exactly one women's competition out of 27, the WPL
+        return "major" if any(c in low for c in cfg.get("major_women_competitions", [])) \
+               else "minor"
+    if any(c in low for c in cfg.get("major_competitions", [])):
+        return "major"                              # a named league or ICC event
+    if NON_SENIOR.search(name) or A_TEAM.search(name):
+        return "minor"
+    members = set(cfg.get("full_members", []))
+    for r in rows:
+        if r["home"].lower() in members and r["away"].lower() in members:
+            return "major"                          # a senior bilateral tour
+    # one Test nation is not enough: "South Africa tour of Namibia" stays minor.
+    return "minor"
+
+
+def is_india_comp(name: str, rows: list[dict], cfg: dict) -> bool:
+    """Whether the competition itself is an India draw.
+
+    is_india() asks whether the India team is on the field, which is the right
+    question for a fixture and the wrong one for the IPL: "Mumbai Indians" is
+    not "India", so every IPL match would read as nothing to do with India and
+    the one competition the memo calls the prize would sit outside the India
+    filter.
+    """
+    low = name.lower()
+    if any(c in low for c in cfg.get("india_competitions", [])):
+        return True
+    if " tour of india" in low:
+        return True
+    return bool(rows) and sum(
+        1 for r in rows if (r.get("country") or "").lower() == "india") > len(rows) / 2
+
+
 def normalise(lid: str, tkey: str, doc: dict, cfg_meta: dict) -> tuple[list[dict], dict]:
     """One ESPN season document -> our fixture rows plus tournament metadata."""
     league = (doc.get("leagues") or [{}])[0]
@@ -223,6 +276,32 @@ def normalise(lid: str, tkey: str, doc: dict, cfg_meta: dict) -> tuple[list[dict
     return rows, meta
 
 
+def project(cfg: dict, tours: list[dict]) -> list[dict]:
+    """The planned tournaments that the feed has not superseded."""
+    horizon = cfg.get("projection_horizon", "")
+    real_names = [t["name"].lower() for t in tours]
+    out = []
+    for pl in cfg.get("planned", []):
+        if horizon and pl["start"] > horizon:
+            continue
+        if any(any(d in nm for d in pl["detect"])
+               and not any(x in nm for x in pl.get("not", []))
+               for nm in real_names):
+            continue                                # the feed has the real thing
+        out.append({
+            "key": pl["key"], "id": None, "name": pl["name"], "short": pl["short"],
+            "group": pl["group"], "color": pl["color"],
+            "start": pl["start"], "end": pl["end"],
+            "matches": pl["matches"] or 0, "expected": pl["matches"],
+            "india": False,
+            "in_india": any(c in pl["name"].lower()
+                            for c in cfg.get("india_competitions", [])),
+            "world": bool(GLOBAL.search(pl["name"])),
+            "formats": [], "tier": "major", "planned": True,
+        })
+    return out
+
+
 def main() -> int:
     cfg = json.loads(CONFIG_FILE.read_text())
     win_start, win_end = cfg["window_start"], cfg["window_end"]
@@ -251,6 +330,7 @@ def main() -> int:
     claimed: set[str] = set()
     failures: list[str] = []
     warnings: list[str] = []
+    unpublished: list[dict] = []
     RAW.mkdir(exist_ok=True)
 
     # Order decides who claims a shared match, so it is deliberate rather than
@@ -297,8 +377,23 @@ def main() -> int:
             continue
 
         # keep only what falls inside the calendar window
+        outside = [r for r in rows_all if not win_start <= r["utc"][:10] <= win_end]
         rows_all = [r for r in rows_all if win_start <= r["utc"][:10] <= win_end]
         if not rows_all:
+            # Every match this league has falls outside the window. For a
+            # recurring competition that does not mean "no such tournament", it
+            # means the last season is over and the next one is not published
+            # yet -- which is exactly where the IPL sits for most of the year.
+            # Both used to take this same silent `continue`, so the biggest
+            # competition in the sport left the chart without a word in the log.
+            if outside:
+                seen = sorted(r["utc"][:10] for r in outside)
+                # recorded, not warned about: for a recurring competition this
+                # is the normal state between seasons, and 21 of them would
+                # drown the one warning that means something is actually wrong.
+                unpublished.append({"id": lid, "name": meta.get("name", lid),
+                                    "matches": len(outside),
+                                    "last_seen": f"{seen[0]} to {seen[-1]}"})
             continue
 
         deduped = []
@@ -314,7 +409,10 @@ def main() -> int:
         dates = sorted(r["utc"][:10] for r in deduped)
         tour_meta.update({"start": dates[0], "end": dates[-1],
                           "matches": len(deduped),
-                          "india": any(r["india"] for r in deduped)})
+                          "india": any(r["india"] for r in deduped),
+                          "in_india": is_india_comp(tour_meta["name"], deduped, cfg),
+                          "tier": tier_of(tour_meta["name"], deduped, cfg),
+                          "planned": False})
         fixtures += deduped
         tours.append(tour_meta)
         registry[lid] = {"id": lid, "key": key, "name": tour_meta["name"],
@@ -322,6 +420,20 @@ def main() -> int:
                          "color": tour_meta["color"]}
         print(f"  {tour_meta['name'][:48]:<48} {len(deduped):>4} matches  "
               f"{tour_meta['start']} -> {tour_meta['end']}")
+
+    # --- projected tournaments -------------------------------------------
+    # A feed can only show what somebody has already published, and in September
+    # a 2027 season mostly has not been: ESPN answers `?dates=2027` for the IPL
+    # with an empty list, not with next April. The wallchart in
+    # The-Cricket-Window.pdf carries those tournaments anyway, so config.planned
+    # carries them here too -- a band and an expected match count, never an
+    # invented fixture -- and each one is dropped the moment the feed has the
+    # real thing. Past projection_horizon nothing is projected at all: that far
+    # out the PDF's dates are a guess about an unpublished season, and a guess
+    # that old is worth less to a trading desk than an honest gap.
+    horizon = cfg.get("projection_horizon", "")
+    projected = project(cfg, tours)
+    tours += projected
 
     if not fixtures:
         print("no fixtures pulled at all - keeping the previous snapshot", file=sys.stderr)
@@ -356,7 +468,12 @@ def main() -> int:
         "changes": changes,
         "counts": {"tournaments": len(tours), "fixtures": len(fixtures),
                    "india": sum(1 for r in fixtures if r["india"]),
+                   "major": sum(1 for t in tours if t.get("tier") == "major"),
+                   "projected": len(projected),
+                   "projected_matches": sum(t["matches"] for t in projected),
                    "failures": len(failures)},
+        "projection_horizon": horizon,
+        "unpublished": unpublished,
         "failures": failures,
         "warnings": warnings,
     }
@@ -364,8 +481,12 @@ def main() -> int:
     CHANGES_FILE.write_text(json.dumps(changes, indent=1))
     REGISTRY_FILE.write_text(json.dumps(registry, indent=1))
 
-    print(f"\n{len(fixtures)} fixtures across {len(tours)} tournaments, "
-          f"{len(changes)} changes, {len(failures)} failures")
+    print(f"\n{len(fixtures)} fixtures across {len(tours)} tournaments "
+          f"({sum(1 for t in tours if t.get('tier') == 'major')} major, "
+          f"{len(projected)} projected), {len(changes)} changes, {len(failures)} failures")
+    for u in unpublished:
+        print(f"  - {u['name'][:44]:<44} no published season in window "
+              f"(last: {u['last_seen']})")
     for w in warnings:
         print(f"  ! {w}")
     for f in failures[:10]:

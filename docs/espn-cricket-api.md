@@ -27,6 +27,30 @@ The trap is that the wrong parameter returns `200 OK` with one match rather than
 an error, so a naive pull looks like it worked and silently reports a 74-match
 tournament as having one fixture.
 
+### `?dates=<year>` is the season that was, not the season that is
+
+`dates` selects a season ESPN already has. It does not mean "fixtures during
+that calendar year", and it will not conjure a schedule nobody has published.
+Asked in September 2026:
+
+| Request | Result |
+|---|---|
+| `8048?dates=2026` | 74 matches, all 28 Mar - 31 May 2026. The season that finished |
+| `8048?dates=2027` | `200 OK`, `events: []`. IPL 2027 is not scheduled yet |
+
+Both answers are correct and neither contains a future IPL match. A calendar
+whose window starts after the old season ended therefore sees a competition with
+events but none it can use — which is *not* the same thing as a competition that
+does not exist, and must not take the same code path. Twenty-one league ids are
+in that state right now, the IPL and both T20 World Cups among them; `sync.py`
+records them in `unpublished` rather than dropping them silently, and
+`config.planned` draws the important ones as projections until the real schedule
+appears.
+
+A practical consequence: **a season's match count is knowable a year ahead, its
+dates are not.** The 74 in the IPL projection is last season's count, which is
+stable; the dates are an estimate and are labelled as one.
+
 ## There is no league directory
 
 Every obvious route is a dead end:

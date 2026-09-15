@@ -18,7 +18,10 @@
    "world": false,
    "formats": [
     "T20"
-   ]
+   ],
+   "tier": "major",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "hun_w",
@@ -34,7 +37,10 @@
    "world": false,
    "formats": [
     "Women's T20"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24263",
@@ -50,7 +56,10 @@
    "world": false,
    "formats": [
     "ODI"
-   ]
+   ],
+   "tier": "major",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24231",
@@ -66,7 +75,10 @@
    "world": false,
    "formats": [
     "Test"
-   ]
+   ],
+   "tier": "major",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "cpl",
@@ -82,7 +94,10 @@
    "world": false,
    "formats": [
     "T20"
-   ]
+   ],
+   "tier": "major",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t8832",
@@ -98,7 +113,10 @@
    "world": false,
    "formats": [
     "ODI"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "slt20",
@@ -114,7 +132,10 @@
    "world": false,
    "formats": [
     "T20"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t23806",
@@ -130,7 +151,10 @@
    "world": false,
    "formats": [
     "Test"
-   ]
+   ],
+   "tier": "major",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t8859",
@@ -146,7 +170,10 @@
    "world": false,
    "formats": [
     "Test"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t23080",
@@ -162,7 +189,10 @@
    "world": false,
    "formats": [
     "ODI"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "cc1",
@@ -178,7 +208,10 @@
    "world": false,
    "formats": [
     "Test"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t8204",
@@ -194,7 +227,10 @@
    "world": false,
    "formats": [
     "Test"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24694",
@@ -211,7 +247,10 @@
    "formats": [
     "ODI",
     "Test"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "duleep",
@@ -227,7 +266,10 @@
    "world": false,
    "formats": [
     "Test"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": true,
+   "planned": false
   },
   {
    "key": "eutpl",
@@ -243,7 +285,10 @@
    "world": false,
    "formats": [
     "T20"
-   ]
+   ],
+   "tier": "major",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24688",
@@ -259,7 +304,10 @@
    "world": false,
    "formats": [
     "ODI"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24670",
@@ -276,7 +324,10 @@
    "formats": [
     "ODI",
     "T20"
-   ]
+   ],
+   "tier": "major",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "asia_w",
@@ -292,7 +343,10 @@
    "world": true,
    "formats": [
     "T20"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t18479",
@@ -308,7 +362,10 @@
    "world": false,
    "formats": [
     "Test"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "acc_pc",
@@ -324,7 +381,10 @@
    "world": false,
    "formats": [
     "ODI"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t1549518",
@@ -340,7 +400,10 @@
    "world": false,
    "formats": [
     "T20"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24681",
@@ -357,7 +420,10 @@
    "formats": [
     "ODI",
     "T20"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t23803",
@@ -374,7 +440,10 @@
    "formats": [
     "ODI",
     "T20"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24740",
@@ -391,7 +460,10 @@
    "formats": [
     "ODI",
     "Test"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24742",
@@ -407,7 +479,10 @@
    "world": false,
    "formats": [
     "T20"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24741",
@@ -423,7 +498,10 @@
    "world": false,
    "formats": [
     "T20"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t20898",
@@ -439,7 +517,10 @@
    "world": false,
    "formats": [
     "Women's T20"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t1552900",
@@ -455,7 +536,10 @@
    "world": false,
    "formats": [
     "T20"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t1551603",
@@ -471,7 +555,10 @@
    "world": false,
    "formats": [
     "Test"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t21185",
@@ -487,7 +574,10 @@
    "world": false,
    "formats": [
     "Test"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24737",
@@ -503,7 +593,10 @@
    "world": false,
    "formats": [
     "T20"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24565",
@@ -519,7 +612,10 @@
    "world": false,
    "formats": [
     "T20"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t23802",
@@ -536,7 +632,10 @@
    "formats": [
     "ODI",
     "T20"
-   ]
+   ],
+   "tier": "major",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24725",
@@ -554,7 +653,10 @@
     "ODI",
     "T20",
     "Test"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": true,
+   "planned": false
   },
   {
    "key": "t8836",
@@ -570,7 +672,10 @@
    "world": false,
    "formats": [
     "Test"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24677",
@@ -586,7 +691,10 @@
    "world": false,
    "formats": [
     "T20"
-   ]
+   ],
+   "tier": "major",
+   "in_india": true,
+   "planned": false
   },
   {
    "key": "t20676",
@@ -602,7 +710,10 @@
    "world": false,
    "formats": [
     "ODI"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24303",
@@ -618,7 +729,10 @@
    "world": false,
    "formats": [
     "ODI"
-   ]
+   ],
+   "tier": "major",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24377",
@@ -635,7 +749,10 @@
    "formats": [
     "ODI",
     "Test"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": true,
+   "planned": false
   },
   {
    "key": "marsh",
@@ -651,7 +768,10 @@
    "world": false,
    "formats": [
     "ODI"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24375",
@@ -668,7 +788,28 @@
    "formats": [
     "ODI",
     "Test"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": true,
+   "planned": false
+  },
+  {
+   "key": "p_asiangames",
+   "id": null,
+   "name": "Asian Games cricket",
+   "short": "ASIAN G",
+   "group": "ICC",
+   "color": "#c8801a",
+   "start": "2026-09-24",
+   "end": "2026-10-03",
+   "matches": 14,
+   "expected": 14,
+   "india": false,
+   "in_india": false,
+   "world": true,
+   "formats": [],
+   "tier": "major",
+   "planned": true
   },
   {
    "key": "t24203",
@@ -685,7 +826,10 @@
    "formats": [
     "ODI",
     "Test"
-   ]
+   ],
+   "tier": "major",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24289",
@@ -702,7 +846,10 @@
    "formats": [
     "ODI",
     "T20"
-   ]
+   ],
+   "tier": "major",
+   "in_india": true,
+   "planned": false
   },
   {
    "key": "t24276",
@@ -718,7 +865,28 @@
    "world": false,
    "formats": [
     "ODI"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
+  },
+  {
+   "key": "p_engsl_pak",
+   "id": null,
+   "name": "England & Sri Lanka in Pakistan",
+   "short": "ENG/SL in PAK",
+   "group": "International",
+   "color": "#a8321f",
+   "start": "2026-10-09",
+   "end": "2026-11-21",
+   "matches": 11,
+   "expected": 11,
+   "india": false,
+   "in_india": false,
+   "world": false,
+   "formats": [],
+   "tier": "major",
+   "planned": true
   },
   {
    "key": "t24371",
@@ -735,7 +903,10 @@
    "formats": [
     "ODI",
     "T20"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": true,
+   "planned": false
   },
   {
    "key": "t24268",
@@ -751,7 +922,28 @@
    "world": false,
    "formats": [
     "T20"
-   ]
+   ],
+   "tier": "minor",
+   "in_india": false,
+   "planned": false
+  },
+  {
+   "key": "p_adt10",
+   "id": null,
+   "name": "Abu Dhabi T10",
+   "short": "AD T10",
+   "group": "Franchise T20",
+   "color": "#8a6f2e",
+   "start": "2026-11-07",
+   "end": "2026-11-20",
+   "matches": 0,
+   "expected": null,
+   "india": false,
+   "in_india": false,
+   "world": false,
+   "formats": [],
+   "tier": "major",
+   "planned": true
   },
   {
    "key": "t24273",
@@ -768,7 +960,46 @@
    "formats": [
     "ODI",
     "T20"
-   ]
+   ],
+   "tier": "major",
+   "in_india": false,
+   "planned": false
+  },
+  {
+   "key": "p_ban_sa",
+   "id": null,
+   "name": "Bangladesh tour of South Africa",
+   "short": "BAN in SA",
+   "group": "International",
+   "color": "#a8321f",
+   "start": "2026-11-15",
+   "end": "2026-12-13",
+   "matches": 8,
+   "expected": 8,
+   "india": false,
+   "in_india": false,
+   "world": false,
+   "formats": [],
+   "tier": "major",
+   "planned": true
+  },
+  {
+   "key": "p_ilt20",
+   "id": null,
+   "name": "ILT20",
+   "short": "ILT20",
+   "group": "Franchise T20",
+   "color": "#1f7a6b",
+   "start": "2026-11-22",
+   "end": "2026-12-20",
+   "matches": 34,
+   "expected": 34,
+   "india": false,
+   "in_india": false,
+   "world": false,
+   "formats": [],
+   "tier": "major",
+   "planned": true
   },
   {
    "key": "t24198",
@@ -784,7 +1015,10 @@
    "world": false,
    "formats": [
     "Test"
-   ]
+   ],
+   "tier": "major",
+   "in_india": false,
+   "planned": false
   },
   {
    "key": "t24270",
@@ -800,7 +1034,28 @@
    "world": false,
    "formats": [
     "Test"
-   ]
+   ],
+   "tier": "major",
+   "in_india": false,
+   "planned": false
+  },
+  {
+   "key": "p_bbl",
+   "id": null,
+   "name": "Big Bash League",
+   "short": "BBL",
+   "group": "Franchise T20",
+   "color": "#2f6fb5",
+   "start": "2026-12-12",
+   "end": "2027-01-26",
+   "matches": 44,
+   "expected": 44,
+   "india": false,
+   "in_india": false,
+   "world": false,
+   "formats": [],
+   "tier": "major",
+   "planned": true
   },
   {
    "key": "t24286",
@@ -817,7 +1072,10 @@
    "formats": [
     "ODI",
     "T20"
-   ]
+   ],
+   "tier": "major",
+   "in_india": true,
+   "planned": false
   },
   {
    "key": "t24283",
@@ -831,7 +1089,46 @@
    "matches": 3,
    "india": true,
    "world": false,
-   "formats": []
+   "formats": [],
+   "tier": "major",
+   "in_india": true,
+   "planned": false
+  },
+  {
+   "key": "p_wpl",
+   "id": null,
+   "name": "Women's Premier League",
+   "short": "WPL",
+   "group": "Franchise T20",
+   "color": "#b5306f",
+   "start": "2027-01-09",
+   "end": "2027-02-05",
+   "matches": 22,
+   "expected": 22,
+   "india": false,
+   "in_india": true,
+   "world": false,
+   "formats": [],
+   "tier": "major",
+   "planned": true
+  },
+  {
+   "key": "p_sa20",
+   "id": null,
+   "name": "SA20",
+   "short": "SA20",
+   "group": "Franchise T20",
+   "color": "#5c7d2e",
+   "start": "2027-01-17",
+   "end": "2027-02-21",
+   "matches": 34,
+   "expected": 34,
+   "india": false,
+   "in_india": false,
+   "world": false,
+   "formats": [],
+   "tier": "major",
+   "planned": true
   },
   {
    "key": "t24281",
@@ -845,7 +1142,28 @@
    "matches": 5,
    "india": true,
    "world": false,
-   "formats": []
+   "formats": [],
+   "tier": "major",
+   "in_india": true,
+   "planned": false
+  },
+  {
+   "key": "p_wcq",
+   "id": null,
+   "name": "ICC World Cup Qualifier",
+   "short": "WCQ",
+   "group": "ICC",
+   "color": "#c8801a",
+   "start": "2027-02-22",
+   "end": "2027-03-23",
+   "matches": 34,
+   "expected": 34,
+   "india": false,
+   "in_india": false,
+   "world": true,
+   "formats": [],
+   "tier": "major",
+   "planned": true
   },
   {
    "key": "t24265",
@@ -859,7 +1177,28 @@
    "matches": 1,
    "india": false,
    "world": false,
-   "formats": []
+   "formats": [],
+   "tier": "major",
+   "in_india": false,
+   "planned": false
+  },
+  {
+   "key": "p_ipl",
+   "id": null,
+   "name": "Indian Premier League",
+   "short": "IPL",
+   "group": "Franchise T20",
+   "color": "#1a3a8f",
+   "start": "2027-03-14",
+   "end": "2027-05-30",
+   "matches": 74,
+   "expected": 74,
+   "india": false,
+   "in_india": true,
+   "world": false,
+   "formats": [],
+   "tier": "major",
+   "planned": true
   }
  ],
  "fixtures": [
@@ -16678,11 +17017,16 @@
   }
  ],
  "counts": {
-  "tournaments": 53,
+  "tournaments": 63,
   "fixtures": 718,
   "india": 25,
-  "failures": 0
+  "failures": 0,
+  "major": 29,
+  "projected": 10,
+  "projected_matches": 275
  },
  "failures": [],
- "warnings": []
+ "warnings": [],
+ "projection_horizon": "2027-03-31",
+ "unpublished": []
 }
