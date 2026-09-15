@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T07:53:05Z",
+ "generated_at": "2026-09-15T11:08:48Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -19,8 +19,8 @@
    "formats": [
     "T20"
    ],
-   "tier": "major",
    "in_india": false,
+   "tier": "major",
    "planned": false
   },
   {
@@ -38,8 +38,8 @@
    "formats": [
     "Women's T20"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -57,8 +57,8 @@
    "formats": [
     "ODI"
    ],
-   "tier": "major",
    "in_india": false,
+   "tier": "major",
    "planned": false
   },
   {
@@ -76,8 +76,8 @@
    "formats": [
     "Test"
    ],
-   "tier": "major",
    "in_india": false,
+   "tier": "major",
    "planned": false
   },
   {
@@ -95,8 +95,8 @@
    "formats": [
     "T20"
    ],
-   "tier": "major",
    "in_india": false,
+   "tier": "major",
    "planned": false
   },
   {
@@ -114,8 +114,8 @@
    "formats": [
     "ODI"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -133,8 +133,8 @@
    "formats": [
     "T20"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -152,8 +152,8 @@
    "formats": [
     "Test"
    ],
-   "tier": "major",
    "in_india": false,
+   "tier": "major",
    "planned": false
   },
   {
@@ -171,8 +171,8 @@
    "formats": [
     "Test"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -190,8 +190,8 @@
    "formats": [
     "ODI"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -209,8 +209,8 @@
    "formats": [
     "Test"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -228,8 +228,8 @@
    "formats": [
     "Test"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -248,8 +248,8 @@
     "ODI",
     "Test"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -267,8 +267,8 @@
    "formats": [
     "Test"
    ],
-   "tier": "minor",
    "in_india": true,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -286,8 +286,8 @@
    "formats": [
     "T20"
    ],
-   "tier": "major",
    "in_india": false,
+   "tier": "major",
    "planned": false
   },
   {
@@ -305,8 +305,8 @@
    "formats": [
     "ODI"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -325,8 +325,8 @@
     "ODI",
     "T20"
    ],
-   "tier": "major",
    "in_india": false,
+   "tier": "major",
    "planned": false
   },
   {
@@ -344,8 +344,8 @@
    "formats": [
     "T20"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -363,8 +363,8 @@
    "formats": [
     "Test"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -382,8 +382,8 @@
    "formats": [
     "ODI"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -401,8 +401,8 @@
    "formats": [
     "T20"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -421,8 +421,8 @@
     "ODI",
     "T20"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -441,8 +441,8 @@
     "ODI",
     "T20"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -461,8 +461,8 @@
     "ODI",
     "Test"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -480,8 +480,8 @@
    "formats": [
     "T20"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -499,8 +499,8 @@
    "formats": [
     "T20"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -518,8 +518,8 @@
    "formats": [
     "Women's T20"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -537,8 +537,8 @@
    "formats": [
     "T20"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -556,8 +556,8 @@
    "formats": [
     "Test"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -575,8 +575,8 @@
    "formats": [
     "Test"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -594,8 +594,8 @@
    "formats": [
     "T20"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -613,8 +613,8 @@
    "formats": [
     "T20"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -633,8 +633,8 @@
     "ODI",
     "T20"
    ],
-   "tier": "major",
    "in_india": false,
+   "tier": "major",
    "planned": false
   },
   {
@@ -654,8 +654,8 @@
     "T20",
     "Test"
    ],
-   "tier": "minor",
    "in_india": true,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -673,8 +673,8 @@
    "formats": [
     "Test"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -692,8 +692,8 @@
    "formats": [
     "T20"
    ],
-   "tier": "major",
    "in_india": true,
+   "tier": "major",
    "planned": false
   },
   {
@@ -711,8 +711,8 @@
    "formats": [
     "ODI"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -730,8 +730,8 @@
    "formats": [
     "ODI"
    ],
-   "tier": "major",
    "in_india": false,
+   "tier": "major",
    "planned": false
   },
   {
@@ -750,8 +750,8 @@
     "ODI",
     "Test"
    ],
-   "tier": "minor",
    "in_india": true,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -769,8 +769,8 @@
    "formats": [
     "ODI"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -789,8 +789,8 @@
     "ODI",
     "Test"
    ],
-   "tier": "minor",
    "in_india": true,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -827,8 +827,8 @@
     "ODI",
     "Test"
    ],
-   "tier": "major",
    "in_india": false,
+   "tier": "major",
    "planned": false
   },
   {
@@ -847,8 +847,8 @@
     "ODI",
     "T20"
    ],
-   "tier": "major",
    "in_india": true,
+   "tier": "major",
    "planned": false
   },
   {
@@ -866,8 +866,8 @@
    "formats": [
     "ODI"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -904,8 +904,8 @@
     "ODI",
     "T20"
    ],
-   "tier": "minor",
    "in_india": true,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -923,8 +923,8 @@
    "formats": [
     "T20"
    ],
-   "tier": "minor",
    "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -961,8 +961,8 @@
     "ODI",
     "T20"
    ],
-   "tier": "major",
    "in_india": false,
+   "tier": "major",
    "planned": false
   },
   {
@@ -1016,8 +1016,8 @@
    "formats": [
     "Test"
    ],
-   "tier": "major",
    "in_india": false,
+   "tier": "major",
    "planned": false
   },
   {
@@ -1035,8 +1035,8 @@
    "formats": [
     "Test"
    ],
-   "tier": "major",
    "in_india": false,
+   "tier": "major",
    "planned": false
   },
   {
@@ -1073,8 +1073,8 @@
     "ODI",
     "T20"
    ],
-   "tier": "major",
    "in_india": true,
+   "tier": "major",
    "planned": false
   },
   {
@@ -1090,8 +1090,8 @@
    "india": true,
    "world": false,
    "formats": [],
-   "tier": "major",
    "in_india": true,
+   "tier": "major",
    "planned": false
   },
   {
@@ -1143,8 +1143,8 @@
    "india": true,
    "world": false,
    "formats": [],
-   "tier": "major",
    "in_india": true,
+   "tier": "major",
    "planned": false
   },
   {
@@ -1178,8 +1178,8 @@
    "india": false,
    "world": false,
    "formats": [],
-   "tier": "major",
    "in_india": false,
+   "tier": "major",
    "planned": false
   },
   {
@@ -10183,18 +10183,18 @@
    "tour": "t24303",
    "utc": "2026-09-15T07:30:00Z",
    "ts": 1789457400,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "1st ODI",
    "home": "Zimbabwe",
    "away": "Australia",
    "home_score": "",
-   "away_score": "",
+   "away_score": "278/7 (47.3/50 ov)",
    "venue": "Harare Sports Club",
    "city": "Harare",
    "country": "Zimbabwe",
    "format": "ODI",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -10205,18 +10205,18 @@
    "tour": "cc1",
    "utc": "2026-09-15T09:30:00Z",
    "ts": 1789464600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "61st Match",
    "home": "Essex",
    "away": "Warwickshire",
-   "home_score": "",
+   "home_score": "38/7 (19.5 ov)",
    "away_score": "",
    "venue": "County Ground, Chelmsford",
    "city": "Chelmsford",
    "country": "England",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -10227,18 +10227,18 @@
    "tour": "cc1",
    "utc": "2026-09-15T09:30:00Z",
    "ts": 1789464600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "62nd Match",
    "home": "Leicestershire",
    "away": "Hampshire",
    "home_score": "",
-   "away_score": "",
+   "away_score": "81/5 (20.4 ov)",
    "venue": "Grace Road, Leicester",
    "city": "Leicester",
    "country": "England",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -10249,18 +10249,18 @@
    "tour": "cc1",
    "utc": "2026-09-15T09:30:00Z",
    "ts": 1789464600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "63rd Match",
    "home": "Yorkshire",
    "away": "Somerset",
-   "home_score": "",
+   "home_score": "68/4 (21.5 ov)",
    "away_score": "",
    "venue": "Headingley, Leeds",
    "city": "Leeds",
    "country": "England",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -10271,18 +10271,18 @@
    "tour": "cc1",
    "utc": "2026-09-15T09:30:00Z",
    "ts": 1789464600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "64th Match",
    "home": "Surrey",
    "away": "Glamorgan",
    "home_score": "",
-   "away_score": "",
+   "away_score": "65/3 (19.1 ov)",
    "venue": "Kennington Oval, London",
    "city": "London",
    "country": "England",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -10293,18 +10293,18 @@
    "tour": "cc1",
    "utc": "2026-09-15T09:30:00Z",
    "ts": 1789464600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "65th Match",
    "home": "Sussex",
    "away": "Nottinghamshire",
    "home_score": "",
-   "away_score": "",
+   "away_score": "55/1 (21.5 ov)",
    "venue": "County Ground, Hove",
    "city": "Brighton",
    "country": "England",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -10315,18 +10315,18 @@
    "tour": "eutpl",
    "utc": "2026-09-15T09:30:00Z",
    "ts": 1789464600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "26th Match",
-   "home": "Amsterdam Flames",
-   "away": "Dublin Guardians",
+   "home": "Dublin Guardians",
+   "away": "Amsterdam Flames",
    "home_score": "",
-   "away_score": "",
+   "away_score": "205/5 (19.3/20 ov)",
    "venue": "The Village, Malahide, Dublin",
    "city": "Dublin",
    "country": "Ireland",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -10337,18 +10337,18 @@
    "tour": "t8204",
    "utc": "2026-09-15T09:30:00Z",
    "ts": 1789464600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "49th Match",
    "home": "Durham",
    "away": "Worcestershire",
-   "home_score": "",
+   "home_score": "74/3 (21.1 ov)",
    "away_score": "",
    "venue": "Riverside Ground, Chester-le-Street",
    "city": "Chester-le-Street",
    "country": "England",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -10359,18 +10359,18 @@
    "tour": "t8204",
    "utc": "2026-09-15T09:30:00Z",
    "ts": 1789464600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "50th Match",
    "home": "Northamptonshire",
    "away": "Derbyshire",
    "home_score": "",
-   "away_score": "",
+   "away_score": "55/4 (12.3 ov)",
    "venue": "County Ground, Northampton",
    "city": "Northampton",
    "country": "England",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -10381,18 +10381,18 @@
    "tour": "t8204",
    "utc": "2026-09-15T09:30:00Z",
    "ts": 1789464600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "51st Match",
    "home": "Gloucestershire",
    "away": "Middlesex",
    "home_score": "",
-   "away_score": "",
+   "away_score": "68/2 (20 ov)",
    "venue": "County Ground, Bristol",
    "city": "Bristol",
    "country": "England",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -10403,18 +10403,18 @@
    "tour": "t8204",
    "utc": "2026-09-15T09:30:00Z",
    "ts": 1789464600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "52nd Match",
    "home": "Kent",
    "away": "Lancashire",
    "home_score": "",
-   "away_score": "",
+   "away_score": "55/0 (19.4 ov)",
    "venue": "St Lawrence Ground, Canterbury",
    "city": "Canterbury",
    "country": "England",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -16999,34 +16999,145 @@
    "india": false
   }
  ],
- "changes": [
-  {
-   "kind": "moved",
-   "id": "1513606",
-   "tour": "t23080",
-   "what": "Hampshire Women v Surrey Women",
-   "from": "2026-09-16T09:30:00Z",
-   "to": "2026-09-16T11:30:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1534402",
-   "tour": "t8859",
-   "what": "Warwickshire 2nd XI v Lancashire 2nd XI",
-   "from": "2026-08-17T10:00:00Z"
-  }
- ],
+ "changes": [],
  "counts": {
   "tournaments": 63,
   "fixtures": 718,
   "india": 25,
-  "failures": 0,
   "major": 29,
   "projected": 10,
-  "projected_matches": 275
+  "projected_matches": 275,
+  "failures": 0
  },
- "failures": [],
- "warnings": [],
  "projection_horizon": "2027-03-31",
- "unpublished": []
+ "unpublished": [
+  {
+   "id": "24227",
+   "name": "Afghanistan tour of India 2026",
+   "matches": 4,
+   "last_seen": "2026-06-06 to 2026-06-20"
+  },
+  {
+   "id": "24324",
+   "name": "Australia tour of Bangladesh 2026",
+   "matches": 6,
+   "last_seen": "2026-06-09 to 2026-06-21"
+  },
+  {
+   "id": "24379",
+   "name": "Australia tour of Pakistan 2026",
+   "matches": 3,
+   "last_seen": "2026-05-30 to 2026-06-04"
+  },
+  {
+   "id": "24367",
+   "name": "Bangladesh Women tour of Scotland 2026",
+   "matches": 4,
+   "last_seen": "2026-05-30 to 2026-06-04"
+  },
+  {
+   "id": "24233",
+   "name": "India Women tour of South Africa 2026",
+   "matches": 5,
+   "last_seen": "2026-04-17 to 2026-04-27"
+  },
+  {
+   "id": "24258",
+   "name": "India tour of Ireland 2026",
+   "matches": 2,
+   "last_seen": "2026-06-26 to 2026-06-28"
+  },
+  {
+   "id": "24301",
+   "name": "India tour of Zimbabwe 2026",
+   "matches": 3,
+   "last_seen": "2026-07-23 to 2026-07-26"
+  },
+  {
+   "id": "24382",
+   "name": "New Zealand A Women tour of Sri Lanka 2026",
+   "matches": 5,
+   "last_seen": "2026-05-15 to 2026-05-25"
+  },
+  {
+   "id": "24294",
+   "name": "New Zealand A tour of Sri Lanka 2026",
+   "matches": 5,
+   "last_seen": "2026-04-05 to 2026-04-23"
+  },
+  {
+   "id": "24246",
+   "name": "New Zealand tour of Bangladesh 2026",
+   "matches": 6,
+   "last_seen": "2026-04-17 to 2026-05-02"
+  },
+  {
+   "id": "24261",
+   "name": "New Zealand tour of Ireland 2026",
+   "matches": 1,
+   "last_seen": "2026-05-27 to 2026-05-27"
+  },
+  {
+   "id": "24259",
+   "name": "Pakistan Women tour of Ireland 2026",
+   "matches": 4,
+   "last_seen": "2026-05-29 to 2026-06-04"
+  },
+  {
+   "id": "24326",
+   "name": "Pakistan tour of Bangladesh 2026",
+   "matches": 2,
+   "last_seen": "2026-05-08 to 2026-05-16"
+  },
+  {
+   "id": "24148",
+   "name": "Pakistan tour of Sri Lanka [Feb 2026] 2025/26",
+   "matches": 8,
+   "last_seen": "2026-02-04 to 2026-02-28"
+  },
+  {
+   "id": "24244",
+   "name": "Sri Lanka Women tour of Bangladesh 2026",
+   "matches": 6,
+   "last_seen": "2026-04-20 to 2026-05-02"
+  },
+  {
+   "id": "24256",
+   "name": "West Indies Women tour of Ireland 2026",
+   "matches": 7,
+   "last_seen": "2026-05-28 to 2026-07-15"
+  },
+  {
+   "id": "24356",
+   "name": "Zimbabwe Women tour of Pakistan 2026",
+   "matches": 5,
+   "last_seen": "2026-05-04 to 2026-05-15"
+  },
+  {
+   "id": "8604",
+   "name": "ICC Men's T20 World Cup",
+   "matches": 55,
+   "last_seen": "2026-02-07 to 2026-03-08"
+  },
+  {
+   "id": "8634",
+   "name": "ICC Women's T20 World Cup",
+   "matches": 33,
+   "last_seen": "2026-06-12 to 2026-07-05"
+  },
+  {
+   "id": "8048",
+   "name": "Indian Premier League",
+   "matches": 74,
+   "last_seen": "2026-03-28 to 2026-05-31"
+  },
+  {
+   "id": "20893",
+   "name": "Namibia T20 Tri-Series",
+   "matches": 6,
+   "last_seen": "2026-06-18 to 2026-06-23"
+  }
+ ],
+ "failures": [],
+ "warnings": []
 }
