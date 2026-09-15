@@ -197,6 +197,7 @@ def playbook(fixtures: dict, demand: dict) -> dict:
             "planned": bool(t.get("planned")),
             "india": bool(t.get("india") or t.get("in_india")),
             "world": bool(t.get("world")),
+            "formats": t.get("formats") or [],
             "confidence": d["confidence"], "evidence": d["evidence"], "traded": d["n"],
             "low": d["low"], "high": d["high"], "median": d["point"],
             "outright": d["outright"],

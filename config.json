@@ -440,7 +440,10 @@
    "detect": [
     "asian games"
    ],
-   "not": []
+   "not": [],
+   "formats": [
+    "T20"
+   ]
   },
   {
    "key": "p_engsl_pak",
@@ -459,6 +462,10 @@
     "a tour",
     "women",
     "under"
+   ],
+   "formats": [
+    "ODI",
+    "T20"
    ]
   },
   {
@@ -473,7 +480,10 @@
    "detect": [
     "abu dhabi t10"
    ],
-   "not": []
+   "not": [],
+   "formats": [
+    "T20"
+   ]
   },
   {
    "key": "p_ban_sa",
@@ -491,6 +501,11 @@
     "a tour",
     "women",
     "under"
+   ],
+   "formats": [
+    "Test",
+    "ODI",
+    "T20"
    ]
   },
   {
@@ -509,6 +524,9 @@
    "not": [
     "africa continent",
     "women"
+   ],
+   "formats": [
+    "T20"
    ]
   },
   {
@@ -526,6 +544,9 @@
    "not": [
     "women",
     "wbbl"
+   ],
+   "formats": [
+    "T20"
    ]
   },
   {
@@ -541,7 +562,10 @@
     "women's premier league",
     "womens premier league"
    ],
-   "not": []
+   "not": [],
+   "formats": [
+    "T20"
+   ]
   },
   {
    "key": "p_sa20",
@@ -557,6 +581,9 @@
    ],
    "not": [
     "women"
+   ],
+   "formats": [
+    "T20"
    ]
   },
   {
@@ -573,6 +600,9 @@
    ],
    "not": [
     "women"
+   ],
+   "formats": [
+    "ODI"
    ]
   },
   {
@@ -589,6 +619,9 @@
    ],
    "not": [
     "women"
+   ],
+   "formats": [
+    "T20"
    ]
   }
  ],

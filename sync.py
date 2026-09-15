@@ -297,7 +297,7 @@ def project(cfg: dict, tours: list[dict]) -> list[dict]:
             "in_india": any(c in pl["name"].lower()
                             for c in cfg.get("india_competitions", [])),
             "world": bool(GLOBAL.search(pl["name"])),
-            "formats": [], "tier": "major", "planned": True,
+            "formats": pl.get("formats", []), "tier": "major", "planned": True,
         })
     return out
 

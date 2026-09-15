@@ -807,7 +807,9 @@
    "india": false,
    "in_india": false,
    "world": true,
-   "formats": [],
+   "formats": [
+    "T20"
+   ],
    "tier": "major",
    "planned": true
   },
@@ -884,7 +886,10 @@
    "india": false,
    "in_india": false,
    "world": false,
-   "formats": [],
+   "formats": [
+    "ODI",
+    "T20"
+   ],
    "tier": "major",
    "planned": true
   },
@@ -941,7 +946,9 @@
    "india": false,
    "in_india": false,
    "world": false,
-   "formats": [],
+   "formats": [
+    "T20"
+   ],
    "tier": "major",
    "planned": true
   },
@@ -979,7 +986,11 @@
    "india": false,
    "in_india": false,
    "world": false,
-   "formats": [],
+   "formats": [
+    "Test",
+    "ODI",
+    "T20"
+   ],
    "tier": "major",
    "planned": true
   },
@@ -997,7 +1008,9 @@
    "india": false,
    "in_india": false,
    "world": false,
-   "formats": [],
+   "formats": [
+    "T20"
+   ],
    "tier": "major",
    "planned": true
   },
@@ -1053,7 +1066,9 @@
    "india": false,
    "in_india": false,
    "world": false,
-   "formats": [],
+   "formats": [
+    "T20"
+   ],
    "tier": "major",
    "planned": true
   },
@@ -1108,7 +1123,9 @@
    "india": false,
    "in_india": true,
    "world": false,
-   "formats": [],
+   "formats": [
+    "T20"
+   ],
    "tier": "major",
    "planned": true
   },
@@ -1126,7 +1143,9 @@
    "india": false,
    "in_india": false,
    "world": false,
-   "formats": [],
+   "formats": [
+    "T20"
+   ],
    "tier": "major",
    "planned": true
   },
@@ -1161,7 +1180,9 @@
    "india": false,
    "in_india": false,
    "world": true,
-   "formats": [],
+   "formats": [
+    "ODI"
+   ],
    "tier": "major",
    "planned": true
   },
@@ -1196,7 +1217,9 @@
    "india": false,
    "in_india": true,
    "world": false,
-   "formats": [],
+   "formats": [
+    "T20"
+   ],
    "tier": "major",
    "planned": true
   }
