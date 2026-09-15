@@ -1,10 +1,74 @@
 [
  {
   "kind": "moved",
-  "id": "1551799",
+  "id": "1551803",
   "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v Mpumalanga",
-  "from": "2026-12-13T08:00:00Z",
-  "to": "2026-12-13T07:00:00Z"
+  "what": "Mpumalanga v Limpopo",
+  "from": "2026-12-20T08:00:00Z",
+  "to": "2026-12-20T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1551804",
+  "tour": "t20676",
+  "what": "KwaZulu-Natal Inland v South Western Districts",
+  "from": "2027-01-10T08:00:00Z",
+  "to": "2027-01-10T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1551811",
+  "tour": "t20676",
+  "what": "KwaZulu-Natal Inland v Limpopo",
+  "from": "2027-01-24T08:00:00Z",
+  "to": "2027-01-24T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1551815",
+  "tour": "t20676",
+  "what": "KwaZulu-Natal Inland v Border",
+  "from": "2027-02-14T08:00:00Z",
+  "to": "2027-02-14T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1551817",
+  "tour": "t20676",
+  "what": "Mpumalanga v Northern Cape",
+  "from": "2027-02-14T08:00:00Z",
+  "to": "2027-02-14T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1551821",
+  "tour": "t20676",
+  "what": "KwaZulu-Natal Inland v Easterns",
+  "from": "2027-03-07T08:00:00Z",
+  "to": "2027-03-07T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1551827",
+  "tour": "t20676",
+  "what": "Mpumalanga v Easterns",
+  "from": "2027-03-21T08:00:00Z",
+  "to": "2027-03-21T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1551829",
+  "tour": "t20676",
+  "what": "KwaZulu-Natal Inland v Northern Cape",
+  "from": "2027-03-28T08:00:00Z",
+  "to": "2027-03-28T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1551830",
+  "tour": "t20676",
+  "what": "Mpumalanga v Border",
+  "from": "2027-03-28T08:00:00Z",
+  "to": "2027-03-28T07:00:00Z"
  }
 ]
