@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Cricket Wallchart</title>
+<title>Cricket Launch Playbook</title>
 <style>
 :root{
   --paper:#f6f3ec; --card:#fffdf8; --ink:#1c1a17; --muted:#6d675d;
@@ -205,6 +205,46 @@ input[type=search]{
 footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
   font-size:12px;color:var(--muted);line-height:1.7}
 .empty{padding:44px 20px;text-align:center;color:var(--muted);font-size:14px}
+
+/* ---------- playbook ---------- */
+.tabs{display:flex;border-bottom:1px solid var(--line);margin:0 0 22px}
+.tabs button{border:0;background:transparent;color:var(--muted);font:inherit;font-size:14px;
+  font-weight:560;padding:10px 2px;margin-right:28px;cursor:pointer;
+  border-bottom:2px solid transparent;margin-bottom:-1px}
+.tabs button[aria-pressed=true]{color:var(--ink);border-bottom-color:var(--ink);font-weight:660}
+.answer{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--hot);
+  border-radius:10px;padding:16px 18px;margin:0 0 20px;box-shadow:var(--shadow)}
+.answer h2{margin:0 0 7px;font-size:16.5px;font-weight:670;letter-spacing:-.01em}
+.answer p{margin:0 0 6px;color:var(--muted);font-size:13.5px;line-height:1.62}
+.answer p:last-child{margin-bottom:0}
+.answer b{color:var(--ink)}
+table.pb{width:100%;border-collapse:collapse;font-size:13.5px}
+table.pb th{text-align:left;font-size:10.5px;text-transform:uppercase;letter-spacing:.07em;
+  color:var(--muted);font-weight:680;padding:0 10px 9px;border-bottom:1px solid var(--line)}
+table.pb td{padding:11px 10px;border-bottom:1px solid var(--line2);vertical-align:top}
+table.pb tr:hover td{background:var(--card)}
+.pb-date{white-space:nowrap;color:var(--muted);font-size:12.5px;font-variant-numeric:tabular-nums}
+.pb-name{font-weight:615}
+.pb-name em{font-style:normal;color:var(--hot);font-size:11px;font-weight:680;
+  letter-spacing:.03em;margin-left:7px}
+.pb-sub{display:block;font-weight:450;color:var(--muted);font-size:11.5px;margin-top:3px}
+.pb-money{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.pb-money b{font-weight:665;font-size:14px}
+.pb-money span{display:block;color:var(--muted);font-size:11px;margin-top:2px}
+.v{display:inline-block;padding:3px 9px;border-radius:99px;font-size:11px;
+  font-weight:690;white-space:nowrap}
+.v.launch,.v.strong{background:#e3efe6;color:#2f6340}
+.v.prize{background:var(--hotbg);color:var(--hot)}
+.v.worth{background:#eceaf4;color:#514a7a}
+.v.skip{background:#f8e5e2;color:var(--bad)}
+.v.unknown{background:transparent;color:var(--muted);border:1px dashed var(--line)}
+@media (prefers-color-scheme:dark){
+  .v.launch,.v.strong{background:#1d3324;color:#8fcfa3}
+  .v.worth{background:#26243a;color:#b0a8e0}
+  .v.skip{background:#3a201c;color:#e08272}
+}
+h3.pbh{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);
+  font-weight:700;margin:30px 0 10px}
 .hidden{display:none !important}
 @media (max-width:640px){
   .m{grid-template-columns:50px 1fr;row-gap:6px}
@@ -217,10 +257,17 @@ footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
 
 <header class="top">
   <div class="brandrow">
-    <h1>Cricket Wallchart</h1>
+    <h1>Cricket Launch Playbook</h1>
     <span class="sub" id="window"></span>
   </div>
-  <div class="stats">
+  <div class="stats" id="stats-playbook">
+    <div class="stat"><b id="p-list">—</b><span>worth listing</span></div>
+    <div class="stat"><b id="p-matches">—</b><span>matches to price</span></div>
+    <div class="stat"><b id="p-est">—</b><span>comparable volume</span></div>
+    <div class="stat"><b id="p-evid">—</b><span>traded, as evidence</span></div>
+    <div class="stat"><b id="p-skip">—</b><span>to skip</span></div>
+  </div>
+  <div class="stats" id="stats-calendar" hidden>
     <div class="stat"><b id="s-fix">—</b><span>matches</span></div>
     <div class="stat"><b id="s-tour">—</b><span id="s-tour-l">tournaments</span></div>
     <div class="stat"><b id="s-india">—</b><span>India matches</span></div>
@@ -229,6 +276,14 @@ footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
   </div>
 </header>
 
+<div class="tabs" id="tabs">
+  <button id="tabbtn-playbook" data-tab="playbook" aria-pressed="true">Launch playbook</button>
+  <button id="tabbtn-calendar" data-tab="calendar" aria-pressed="false">Calendar</button>
+</div>
+
+<section id="tab-playbook"></section>
+
+<section id="tab-calendar" hidden>
 <div class="controls">
   <div class="seg" id="views">
     <button data-view="season" aria-pressed="true">Season</button>
@@ -247,6 +302,7 @@ footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
 <div id="view"></div>
 
 <div class="legend" id="legend"></div>
+</section>
 
 <footer>
   <div><b>Source.</b> ESPN's public cricket feed, the same JSON their own site reads. No key, no vendor.</div>
@@ -584,6 +640,95 @@ function chips(host, values, set, cls) {
   };
 }
 
+/* ---------------- launch playbook ---------------- */
+const MON3 = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const money = n => !n ? "—"
+  : n >= 1e6 ? `$${(n/1e6).toFixed(n < 1e7 ? 1 : 0)}m`
+  : n >= 1e3 ? `$${Math.round(n/1e3)}k` : `$${Math.round(n)}`;
+const shortDate = iso => {
+  const [y,m,d] = iso.split("-").map(Number);
+  const now = new Date().getUTCFullYear();
+  return `${d} ${MON3[m-1]}${y === now ? "" : " " + String(y).slice(2)}`;
+};
+// what the number behind a row is actually resting on
+const CONF = {
+  measured:      "own settled history",
+  pair:          "this exact fixture, listed before",
+  range:         "no history for this pairing — the two sides' own medians",
+  sparse:        "thin history on one side",
+  "thin-sample": "listed, and nobody traded it",
+  none:          "never listed",
+};
+const GO = new Set(["launch","strong","worth","prize"]);
+
+// a range whose floor is zero is not a range, it is a ceiling: say so that way
+// rather than printing "—–$16k"
+const span = (lo, hi) => !hi ? "—"
+  : !lo ? `under ${money(hi)}`
+  : lo === hi ? money(lo) : `${money(lo)}–${money(hi)}`;
+
+function pbRow(r) {
+  const per = span(r.low, r.high);
+  const est = span(r.est_low, r.est_high);
+  const bits = [r.matches ? `${r.matches} matches` : "match count TBC", esc(r.evidence)];
+  if (r.traded) bits.push(`${r.traded} settled`);
+  if (r.planned) bits.push("dates projected");
+  return `<tr>
+    <td class="pb-date">${shortDate(r.start)}</td>
+    <td><div class="pb-name">${esc(cleanName(r.name))}${r.india ? "<em>INDIA</em>" : ""}</div>
+        <span class="pb-sub">${bits.join(" · ")}</span></td>
+    <td class="pb-money"><b>${per}</b><span>per match</span></td>
+    <td class="pb-money"><b>${est}</b><span>${r.outright ? "incl. outright" : "whole run"}</span></td>
+    <td><span class="v ${r.verdict}">${esc(r.verdict_label)}</span>
+        <span class="pb-sub">${CONF[r.confidence] || ""}</span></td></tr>`;
+}
+
+function renderPlaybook() {
+  const pb = DATA.playbook, dm = DATA.demand;
+  if (!pb || !dm) return `<div class="empty">No demand data yet — run demand.py.</div>`;
+  const t = pb.totals, C = dm.competitions;
+  const go = pb.rows.filter(r => GO.has(r.verdict));
+  const no = pb.rows.filter(r => !GO.has(r.verdict));
+  const ind = C["India bilateral"] || {}, wc = C["ICC Men's T20 World Cup"] || {};
+  const top = [...go].sort((a,b) => b.est_low - a.est_low).slice(0,3)
+                .map(r => cleanName(r.name));
+  const head = `<tr><th>Starts</th><th>Competition</th>
+    <th style="text-align:right">Per match</th><th style="text-align:right">Whole run</th>
+    <th>Verdict</th></tr>`;
+
+  return `
+  <div class="answer">
+    <h2>${t.listable} competitions worth listing before ${shortDate(pb.horizon_end)}</h2>
+    <p><b>${t.matches.toLocaleString()} matches</b>, worth <b>${money(t.est_low)}–${money(t.est_high)}</b>
+       at the volumes the same cricket has already traded on Polymarket. The three biggest are
+       <b>${top.map(esc).join("</b>, <b>")}</b>.</p>
+    <p>Two numbers decide most of this. An <b>India bilateral</b> match has a median of
+       <b>${money(ind.median)}</b> across ${ind.traded} settled markets. A
+       <b>T20 World Cup</b> match has a median of <b>${money(wc.median)}</b> — an order of
+       magnitude above any club league, and the reason ${money(wc.total)} of the
+       ${money(dm.totals.volume)} ever traded on cricket came from one six-week tournament.</p>
+    <p>India's premium is <b>real but opponent-dependent</b>. India v New Zealand trades
+       ${money((dm.pairs["india|new zealand"]||{}).median)} a match; India v Afghanistan,
+       listed right now, trades ${money((dm.pairs["afghanistan|india"]||{}).median)}. Where a
+       pairing has no history of its own this page gives a range instead of a number.</p>
+  </div>
+
+  <h3 class="pbh">The sequence</h3>
+  <table class="pb"><thead>${head}</thead><tbody>${go.map(pbRow).join("")}</tbody></table>
+
+  <h3 class="pbh">Not worth listing — ${no.length}</h3>
+  <table class="pb"><thead>${head}</thead><tbody>${no.map(pbRow).join("")}</tbody></table>
+
+  <p class="answer" style="border-left-color:var(--line);margin-top:24px">
+    <b>How to read it.</b> Per-match figures are the median of markets that traded at least
+    $${(dm.traded_floor||1000).toLocaleString()}; markets that never traded are counted in the
+    sample but not in the median, so a competition that was listed and ignored shows as
+    “listed, and nobody traded it” rather than as no data. “Whole run” is the per-match figure
+    times the match count, plus any outright market — an order of magnitude, not a forecast.
+    Evidence spans ${dm.observed_from} to ${dm.observed_to}, ${dm.totals.events.toLocaleString()}
+    markets, ${money(dm.totals.volume)} traded.</p>`;
+}
+
 function draw() {
   closeDay();
   const fx = matches().sort((a,b) => a.ts - b.ts);
@@ -634,6 +779,35 @@ function init() {
   const mi = document.getElementById("showMinor");
   mi.onclick = () => { state.showMinor = !state.showMinor;
                        mi.setAttribute("aria-pressed", state.showMinor); draw(); };
+
+  // The playbook lands first because it is the question the page exists to
+  // answer. The calendar is the evidence sitting behind it, not the headline.
+  const TABS = ["playbook", "calendar"];
+  const showTab = (name) => {
+    TABS.forEach(t => {
+      document.getElementById("tab-" + t).hidden = t !== name;
+      // the masthead follows the tab: a playbook reader does not need a count
+      // of second-XI fixtures over the shoulder of the thing they came for
+      document.getElementById("stats-" + t).hidden = t !== name;
+      const b = document.getElementById("tabbtn-" + t);
+      if (b) b.setAttribute("aria-pressed", String(t === name));
+    });
+  };
+  document.getElementById("tabs").onclick = (e) => {
+    const b = e.target && e.target.closest && e.target.closest("button[data-tab]");
+    if (b) showTab(b.dataset.tab);
+  };
+  document.getElementById("tab-playbook").innerHTML = renderPlaybook();
+
+  const pbk = DATA.playbook, dmd = DATA.demand;
+  if (pbk && dmd) {
+    const t = pbk.totals;
+    document.getElementById("p-list").textContent    = t.listable;
+    document.getElementById("p-matches").textContent = t.matches.toLocaleString();
+    document.getElementById("p-est").textContent     = span(t.est_low, t.est_high);
+    document.getElementById("p-evid").textContent    = money(dmd.totals.volume);
+    document.getElementById("p-skip").textContent    = t.skip + t.unknown;
+  }
   let tmr;
   document.getElementById("q").oninput = e => {
     clearTimeout(tmr);

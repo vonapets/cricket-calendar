@@ -1,0 +1,560 @@
+{
+ "generated_at": "2026-09-15T11:26:24Z",
+ "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
+ "traded_floor": 1000,
+ "observed_from": "2024-06-07",
+ "observed_to": "2026-09-14",
+ "totals": {
+  "events": 2383,
+  "volume": 90152115,
+  "competitions": 21
+ },
+ "competitions": {
+  "Domestic / minor": {
+   "matches": 222,
+   "traded": 129,
+   "median": 7810,
+   "p75": 18696,
+   "best": 74063,
+   "total": 1878886,
+   "outright": 2629062,
+   "india_pct": 6,
+   "name": "Domestic / minor",
+   "detect": [],
+   "not": []
+  },
+  "Indian Premier League": {
+   "matches": 87,
+   "traded": 80,
+   "median": 33177,
+   "p75": 68345,
+   "best": 467463,
+   "total": 4093766,
+   "outright": 3847079,
+   "india_pct": 0,
+   "name": "Indian Premier League",
+   "detect": [
+    "indian premier league"
+   ],
+   "not": [
+    "women"
+   ]
+  },
+  "Asia Cup": {
+   "matches": 21,
+   "traded": 17,
+   "median": 11755,
+   "p75": 25486,
+   "best": 72678,
+   "total": 323708,
+   "outright": 366406,
+   "india_pct": 38,
+   "name": "Asia Cup",
+   "detect": [
+    "asia cup"
+   ],
+   "not": []
+  },
+  "ICC ODI World Cup": {
+   "matches": 7,
+   "traded": 3,
+   "median": 66652,
+   "p75": 148238,
+   "best": 148238,
+   "total": 264503,
+   "outright": 17918,
+   "india_pct": 43,
+   "name": "ICC ODI World Cup",
+   "detect": [
+    "odi world cup",
+    "cricket world cup"
+   ],
+   "not": []
+  },
+  "Other international": {
+   "matches": 143,
+   "traded": 86,
+   "median": 57294,
+   "p75": 111099,
+   "best": 350589,
+   "total": 6922153,
+   "outright": 1417891,
+   "india_pct": 0,
+   "name": "Other international",
+   "detect": [],
+   "not": []
+  },
+  "SA20": {
+   "matches": 61,
+   "traded": 49,
+   "median": 27208,
+   "p75": 52462,
+   "best": 96567,
+   "total": 1658475,
+   "outright": 0,
+   "india_pct": 0,
+   "name": "SA20",
+   "detect": [
+    "sa20"
+   ],
+   "not": [
+    "women"
+   ]
+  },
+  "India bilateral": {
+   "matches": 34,
+   "traded": 27,
+   "median": 247032,
+   "p75": 402067,
+   "best": 788605,
+   "total": 7193874,
+   "outright": 0,
+   "india_pct": 100,
+   "name": "India bilateral",
+   "detect": [],
+   "not": []
+  },
+  "Sheffield Shield": {
+   "matches": 8,
+   "traded": 5,
+   "median": 10478,
+   "p75": 10763,
+   "best": 11735,
+   "total": 45987,
+   "outright": 0,
+   "india_pct": 0,
+   "name": "Sheffield Shield",
+   "detect": [],
+   "not": []
+  },
+  "Lanka Premier League": {
+   "matches": 20,
+   "traded": 2,
+   "median": 6792,
+   "p75": 12208,
+   "best": 12208,
+   "total": 14691,
+   "outright": 0,
+   "india_pct": 0,
+   "name": "Lanka Premier League",
+   "detect": [
+    "lanka premier league"
+   ],
+   "not": []
+  },
+  "Big Bash League": {
+   "matches": 47,
+   "traded": 47,
+   "median": 81644,
+   "p75": 96310,
+   "best": 235436,
+   "total": 3698488,
+   "outright": 0,
+   "india_pct": 0,
+   "name": "Big Bash League",
+   "detect": [
+    "big bash"
+   ],
+   "not": [
+    "women"
+   ]
+  },
+  "ILT20": {
+   "matches": 31,
+   "traded": 26,
+   "median": 17354,
+   "p75": 27879,
+   "best": 98101,
+   "total": 628787,
+   "outright": 0,
+   "india_pct": 0,
+   "name": "ILT20",
+   "detect": [
+    "ilt20",
+    "international league t20"
+   ],
+   "not": [
+    "africa continent"
+   ]
+  },
+  "ICC U19 World Cup": {
+   "matches": 19,
+   "traded": 19,
+   "median": 15535,
+   "p75": 64336,
+   "best": 267469,
+   "total": 862531,
+   "outright": 0,
+   "india_pct": 21,
+   "name": "ICC U19 World Cup",
+   "detect": [],
+   "not": []
+  },
+  "Women's Premier League": {
+   "matches": 10,
+   "traded": 10,
+   "median": 56343,
+   "p75": 112786,
+   "best": 276980,
+   "total": 856839,
+   "outright": 0,
+   "india_pct": 0,
+   "name": "Women's Premier League",
+   "detect": [
+    "women's premier league",
+    "womens premier league"
+   ],
+   "not": []
+  },
+  "ICC Men's T20 World Cup": {
+   "matches": 55,
+   "traded": 53,
+   "median": 866801,
+   "p75": 1256619,
+   "best": 1720270,
+   "total": 48587026,
+   "outright": 1822504,
+   "india_pct": 15,
+   "name": "ICC Men's T20 World Cup",
+   "detect": [
+    "t20 world cup"
+   ],
+   "not": []
+  },
+  "Thunderbolt T10": {
+   "matches": 14,
+   "traded": 0,
+   "median": 0,
+   "p75": 0,
+   "best": 100,
+   "total": 100,
+   "outright": 0,
+   "india_pct": 0,
+   "name": "Thunderbolt T10",
+   "detect": [],
+   "not": []
+  },
+  "Legends League Cricket": {
+   "matches": 18,
+   "traded": 3,
+   "median": 7926,
+   "p75": 10214,
+   "best": 10214,
+   "total": 23252,
+   "outright": 0,
+   "india_pct": 39,
+   "name": "Legends League Cricket",
+   "detect": [],
+   "not": []
+  },
+  "Pakistan National T20": {
+   "matches": 8,
+   "traded": 0,
+   "median": 0,
+   "p75": 0,
+   "best": 30,
+   "total": 30,
+   "outright": 0,
+   "india_pct": 0,
+   "name": "Pakistan National T20",
+   "detect": [],
+   "not": []
+  },
+  "European T20 Premier League": {
+   "matches": 5,
+   "traded": 1,
+   "median": 16494,
+   "p75": 16494,
+   "best": 16494,
+   "total": 17173,
+   "outright": 0,
+   "india_pct": 0,
+   "name": "European T20 Premier League",
+   "detect": [
+    "european t20 premier league"
+   ],
+   "not": []
+  },
+  "Caribbean Premier League": {
+   "matches": 2,
+   "traded": 0,
+   "median": 0,
+   "p75": 0,
+   "best": 38,
+   "total": 38,
+   "outright": 0,
+   "india_pct": 0,
+   "name": "Caribbean Premier League",
+   "detect": [
+    "caribbean premier league"
+   ],
+   "not": []
+  },
+  "ICC Champions Trophy": {
+   "name": "ICC Champions Trophy",
+   "matches": 0,
+   "traded": 0,
+   "median": 0,
+   "p75": 0,
+   "best": 21426,
+   "total": 0,
+   "outright": 21426,
+   "india_pct": 0,
+   "detect": [],
+   "not": []
+  },
+  "The Hundred": {
+   "name": "The Hundred",
+   "matches": 0,
+   "traded": 0,
+   "median": 0,
+   "p75": 0,
+   "best": 50962,
+   "total": 0,
+   "outright": 50962,
+   "india_pct": 0,
+   "detect": [
+    "the hundred"
+   ],
+   "not": []
+  }
+ },
+ "teams": {
+  "india": {
+   "n": 29,
+   "traded": 27,
+   "median": 247032,
+   "best": 788605
+  },
+  "italy": {
+   "n": 2,
+   "traded": 2,
+   "median": 224155,
+   "best": 350589
+  },
+  "australia": {
+   "n": 13,
+   "traded": 10,
+   "median": 189115,
+   "best": 437829
+  },
+  "south africa": {
+   "n": 25,
+   "traded": 18,
+   "median": 155347,
+   "best": 429186
+  },
+  "england": {
+   "n": 11,
+   "traded": 9,
+   "median": 141094,
+   "best": 256852
+  },
+  "usa": {
+   "n": 2,
+   "traded": 2,
+   "median": 110838,
+   "best": 145759
+  },
+  "bangladesh": {
+   "n": 6,
+   "traded": 3,
+   "median": 95400,
+   "best": 111099
+  },
+  "pakistan": {
+   "n": 23,
+   "traded": 18,
+   "median": 91190,
+   "best": 284075
+  },
+  "new zealand": {
+   "n": 30,
+   "traded": 20,
+   "median": 90813,
+   "best": 788605
+  },
+  "canada": {
+   "n": 2,
+   "traded": 2,
+   "median": 72059,
+   "best": 97721
+  },
+  "sri lanka": {
+   "n": 34,
+   "traded": 29,
+   "median": 71111,
+   "best": 284075
+  },
+  "west indies": {
+   "n": 17,
+   "traded": 17,
+   "median": 66333,
+   "best": 290952
+  },
+  "netherlands": {
+   "n": 2,
+   "traded": 2,
+   "median": 65327,
+   "best": 91118
+  },
+  "ireland": {
+   "n": 5,
+   "traded": 5,
+   "median": 63557,
+   "best": 111099
+  },
+  "united arab emirates": {
+   "n": 3,
+   "traded": 3,
+   "median": 63557,
+   "best": 350589
+  },
+  "zimbabwe": {
+   "n": 15,
+   "traded": 10,
+   "median": 60036,
+   "best": 143355
+  },
+  "scotland": {
+   "n": 2,
+   "traded": 2,
+   "median": 59353,
+   "best": 73050
+  },
+  "nepal": {
+   "n": 2,
+   "traded": 2,
+   "median": 39605,
+   "best": 46398
+  },
+  "afghanistan": {
+   "n": 15,
+   "traded": 9,
+   "median": 36722,
+   "best": 78050
+  }
+ },
+ "pairs": {
+  "india|new zealand": {
+   "n": 8,
+   "traded": 8,
+   "median": 407869,
+   "best": 788605
+  },
+  "australia|india": {
+   "n": 7,
+   "traded": 6,
+   "median": 263580,
+   "best": 437829
+  },
+  "india|south africa": {
+   "n": 9,
+   "traded": 9,
+   "median": 247032,
+   "best": 429186
+  },
+  "australia|pakistan": {
+   "n": 2,
+   "traded": 2,
+   "median": 204536,
+   "best": 268100
+  },
+  "south africa|west indies": {
+   "n": 3,
+   "traded": 3,
+   "median": 166921,
+   "best": 290952
+  },
+  "england|sri lanka": {
+   "n": 11,
+   "traded": 9,
+   "median": 141094,
+   "best": 256852
+  },
+  "pakistan|sri lanka": {
+   "n": 8,
+   "traded": 8,
+   "median": 118839,
+   "best": 284075
+  },
+  "pakistan|zimbabwe": {
+   "n": 2,
+   "traded": 2,
+   "median": 114536,
+   "best": 143355
+  },
+  "bangladesh|ireland": {
+   "n": 3,
+   "traded": 3,
+   "median": 95400,
+   "best": 111099
+  },
+  "sri lanka|zimbabwe": {
+   "n": 2,
+   "traded": 2,
+   "median": 81255,
+   "best": 116228
+  },
+  "pakistan|south africa": {
+   "n": 5,
+   "traded": 5,
+   "median": 78387,
+   "best": 168914
+  },
+  "sri lanka|west indies": {
+   "n": 6,
+   "traded": 6,
+   "median": 68722,
+   "best": 78496
+  },
+  "australia|zimbabwe": {
+   "n": 3,
+   "traded": 1,
+   "median": 57451,
+   "best": 57451
+  },
+  "new zealand|west indies": {
+   "n": 7,
+   "traded": 7,
+   "median": 40589,
+   "best": 117330
+  },
+  "new zealand|zimbabwe": {
+   "n": 6,
+   "traded": 3,
+   "median": 39245,
+   "best": 62622
+  },
+  "afghanistan|india": {
+   "n": 4,
+   "traded": 3,
+   "median": 36722,
+   "best": 49484
+  },
+  "afghanistan|sri lanka": {
+   "n": 7,
+   "traded": 4,
+   "median": 10232,
+   "best": 74711
+  },
+  "new zealand|south africa": {
+   "n": 8,
+   "traded": 1,
+   "median": 7623,
+   "best": 7623
+  },
+  "afghanistan|pakistan": {
+   "n": 2,
+   "traded": 0,
+   "median": 0,
+   "best": 100
+  },
+  "bangladesh|pakistan": {
+   "n": 3,
+   "traded": 0,
+   "median": 0,
+   "best": 0
+  }
+ }
+}

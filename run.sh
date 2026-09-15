@@ -34,6 +34,8 @@ fi
 {
   echo "=== $(date '+%Y-%m-%d %H:%M:%S %Z') ==="
   if "$PY" sync.py; then
+    # a Polymarket outage should cost the page its volume figures, not its build
+    "$PY" demand.py || echo "demand pull failed — keeping the previous snapshot"
     "$PY" build.py
   else
     echo "sync failed — calendar.html left as it was"

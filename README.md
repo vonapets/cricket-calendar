@@ -1,9 +1,10 @@
-# Cricket Wallchart
+# Cricket Launch Playbook
 
-One page showing every cricket tournament and tour worth knowing about, when it
-runs, how many matches it has, and which of them involve India or an ICC event.
-Sibling project to [football-calendar](https://github.com/vonapets/football-calendar);
-same shape, different sport and a data source that behaves quite differently.
+Which cricket competitions are worth listing on a prediction market, in what
+order, and what each one is likely to trade — with the fixture calendar it is
+derived from sitting behind it. Sibling project to
+[football-calendar](https://github.com/vonapets/football-calendar); same shape,
+different sport and a data source that behaves quite differently.
 
 **Live page:** https://vonapets.github.io/cricket-calendar/
 
@@ -11,23 +12,32 @@ same shape, different sport and a data source that behaves quite differently.
 
 Cricket is not a season, it is a queue of tournaments that overlap. A franchise
 league runs for six weeks, a bilateral tour drops three T20Is into the middle of
-it, and an ICC event clears the decks for a month. There is no single fixture
-list, so the question "what is actually on in September?" is genuinely hard to
-answer from the sport's own websites.
+it, and an ICC event clears the decks for a month. Knowing what is on is hard
+enough; knowing which of it anybody will actually bet on is a different question
+again, and the answers are further apart than they look.
 
-It was built to answer a specific version of that question — which cricket
-competition is worth listing on a prediction market, and when — so the page
-carries that bias openly: **India fixtures and ICC world tournaments are marked
-amber**, because on Polymarket those two draw multiples of the volume of
-everything else. A typical India match trades around $300k against roughly $50k
-for a non-India international and about $44k for a Caribbean Premier League game.
+So the page answers both, in that order. The **playbook** is the landing view:
+every competition starting in the next twelve months, in date order, with what a
+match has historically traded and a verdict. The **calendar** behind it is the
+fixture wallchart the dates come from.
+
+Two findings drive most of it, and both are measured rather than assumed:
+
+- **One tournament is the market.** $49m of the $90m ever traded on cricket came
+  from the six weeks of the 2026 T20 World Cup. A match there has a median of
+  $867k. No club league comes within a factor of ten.
+- **India's premium is real but opponent-dependent.** An India bilateral has a
+  median of $247k, but that is India v New Zealand at $408k and India v
+  Afghanistan at $37k. Where a pairing has no listing history the page gives a
+  range rather than inventing a number.
 
 ## How it works
 
 ```
-sync.py     ESPN public feed -> data/fixtures.json  (+ changes.json, registry.json)
-build.py    data/fixtures.json + template.html -> calendar.html
-run.sh      both of the above, with logging, for local/launchd use
+sync.py     ESPN public feed        -> data/fixtures.json  (+ changes, registry)
+demand.py   Polymarket Gamma API    -> data/demand.json
+build.py    both + template.html    -> calendar.html
+run.sh      the lot, with logging, for local/launchd use
 ```
 
 `calendar.html` is one self-contained file with the data embedded. It opens from
@@ -112,11 +122,35 @@ Those rows are tagged `minor` and hidden behind a toggle rather than discarded.
 The line is drawn in `config.json`, not in code: see `major_competitions`,
 `full_members`, `minor_overrides` and `major_women_competitions`.
 
+## The playbook
+
+Every row joins two independent sources: the calendar says *when* and *how many
+matches*, Polymarket's settled markets say *what that kind of cricket trades*.
+A verdict is only as good as the second half, so each row carries what its
+number rests on:
+
+| Confidence | Means |
+|---|---|
+| `measured` | the competition has its own settled history — the Big Bash has 47 markets |
+| `pair` | this exact fixture has been listed before — India v New Zealand, 8 markets |
+| `range` | no history for this pairing, so the range is the two sides' own medians |
+| `sparse` | same, but one side has very little history |
+| `thin-sample` | it *was* listed and nobody traded it — the strongest negative signal there is |
+| `none` | never listed at all |
+
+Judgement is made on the **floor** of a range, not the ceiling: a launch is
+committed to before the volume shows up, so the number that matters is the bad
+case. The one exception is the IPL, which trades $33k a match and $3.8m on a
+single Champion market — ranked on its match card it reads as a mid-table
+league, which is the wrong conclusion about the biggest competition in the
+sport. The product to list there is the outright.
+
 ## Running it
 
 ```bash
 python3 sync.py     # pull fixtures       (stdlib only, no dependencies)
-python3 build.py    # rebuild the page
+python3 demand.py   # pull traded volume
+python3 build.py    # join them, rebuild the page
 open calendar.html
 ```
 
