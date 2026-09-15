@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-15T11:32:23Z",
+ "generated_at": "2026-09-15T11:43:34Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-09-14",
  "totals": {
   "events": 2383,
-  "volume": 90158598,
+  "volume": 90161886,
   "competitions": 21
  },
  "competitions": {
@@ -74,10 +74,10 @@
   "Other international": {
    "matches": 143,
    "traded": 86,
-   "median": 57358,
+   "median": 57565,
    "p75": 111099,
    "best": 350589,
-   "total": 6922416,
+   "total": 6925115,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -107,7 +107,7 @@
    "median": 247032,
    "p75": 402067,
    "best": 788605,
-   "total": 7193874,
+   "total": 7193890,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -165,7 +165,7 @@
    "median": 17354,
    "p75": 27879,
    "best": 98101,
-   "total": 628995,
+   "total": 629207,
    "outright": 0,
    "india_pct": 0,
    "name": "ILT20",
@@ -263,10 +263,10 @@
   "European T20 Premier League": {
    "matches": 5,
    "traded": 1,
-   "median": 22495,
-   "p75": 22495,
-   "best": 22495,
-   "total": 23174,
+   "median": 22743,
+   "p75": 22743,
+   "best": 22743,
+   "total": 23526,
    "outright": 0,
    "india_pct": 0,
    "name": "European T20 Premier League",
@@ -413,7 +413,7 @@
   "zimbabwe": {
    "n": 15,
    "traded": 10,
-   "median": 60100,
+   "median": 60307,
    "best": 143355
   },
   "scotland": {
@@ -511,8 +511,8 @@
   "australia|zimbabwe": {
    "n": 3,
    "traded": 1,
-   "median": 57579,
-   "best": 57579
+   "median": 57993,
+   "best": 57993
   },
   "new zealand|west indies": {
    "n": 7,
