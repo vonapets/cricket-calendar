@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T18:14:47Z",
+ "generated_at": "2026-09-16T01:46:21Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -10580,18 +10580,18 @@
    "tour": "t23802",
    "utc": "2026-09-15T17:30:00Z",
    "ts": 1789493400,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "1st T20I",
    "home": "England",
    "away": "Sri Lanka",
-   "home_score": "86/1 (5.5/20 ov)",
-   "away_score": "",
+   "home_score": "254/4",
+   "away_score": "135 (19/20 ov, target 255)",
    "venue": "The Rose Bowl, Southampton",
    "city": "Southampton",
    "country": "England",
    "format": "T20",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -17179,8 +17179,8 @@
   {
    "id": "20893",
    "name": "Namibia T20 Tri-Series",
-   "matches": 6,
-   "last_seen": "2026-06-18 to 2026-06-23"
+   "matches": 1,
+   "last_seen": "2026-06-20 to 2026-06-20"
   }
  ],
  "failures": [],
