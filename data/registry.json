@@ -422,5 +422,13 @@
   "short": "United Arab Emirates in Malaysia 2026",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "22546": {
+  "id": "22546",
+  "key": "t22546",
+  "name": "Asian Games Women's Cricket Competition",
+  "short": "Asian Games Women's Cricket",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }

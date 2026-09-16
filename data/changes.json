@@ -1,73 +1,128 @@
 [
  {
   "kind": "added",
-  "id": "1550476",
-  "tour": "t24737",
-  "what": "Malaysia Women v Sri Lanka Women",
-  "to": "2026-09-18T00:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1513606",
-  "tour": "t23080",
-  "what": "Hampshire Women v Surrey Women",
-  "from": "2026-09-16T11:30:00Z",
-  "to": "2026-09-16T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534412",
-  "tour": "t8859",
-  "what": "Sussex 2nd XI v Warwickshire 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534416",
-  "tour": "t8859",
-  "what": "Essex 2nd XI v Worcestershire 2nd XI",
-  "to": "2026-08-31T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534415",
-  "tour": "t8859",
-  "what": "Durham 2nd XI v Somerset 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534420",
-  "tour": "t8859",
-  "what": "Gloucestershire 2nd XI v Surrey 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551729",
-  "tour": "t1551603",
-  "what": "Easterns v Limpopo",
-  "from": "2027-02-11T08:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1544863",
-  "tour": "marsh",
-  "what": "TBA v TBA",
-  "from": "2027-02-14T00:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551733",
-  "tour": "t1551603",
-  "what": "Limpopo v Mpumalanga",
-  "from": "2027-02-18T08:00:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1529248",
   "tour": "t24281",
   "what": "India v Australia",
-  "from": "2027-02-27T04:00:00Z"
+  "to": "2027-02-27T04:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551729",
+  "tour": "t1551603",
+  "what": "Easterns v Limpopo",
+  "to": "2027-02-11T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551733",
+  "tour": "t1551603",
+  "what": "Limpopo v Mpumalanga",
+  "to": "2027-02-18T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544863",
+  "tour": "marsh",
+  "what": "TBA v TBA",
+  "to": "2027-02-14T00:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550474",
+  "tour": "t22546",
+  "what": "Bangladesh Women v China Women",
+  "to": "2026-09-17T00:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550475",
+  "tour": "t22546",
+  "what": "Pakistan Women v Thailand Women",
+  "to": "2026-09-17T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550477",
+  "tour": "t22546",
+  "what": "Japan Women v India Women",
+  "to": "2026-09-18T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550478",
+  "tour": "t22546",
+  "what": "TBA v TBA",
+  "to": "2026-09-20T00:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550479",
+  "tour": "t22546",
+  "what": "TBA v TBA",
+  "to": "2026-09-20T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550480",
+  "tour": "t22546",
+  "what": "TBA v TBA",
+  "to": "2026-09-22T00:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550481",
+  "tour": "t22546",
+  "what": "TBA v TBA",
+  "to": "2026-09-22T05:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551797",
+  "tour": "t20676",
+  "what": "Easterns v Northern Cape",
+  "from": "2026-11-22T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551796",
+  "tour": "t20676",
+  "what": "Limpopo v KwaZulu-Natal Inland",
+  "from": "2026-11-22T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551795",
+  "tour": "t20676",
+  "what": "South Western Districts v Border",
+  "from": "2026-11-22T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551799",
+  "tour": "t20676",
+  "what": "KwaZulu-Natal Inland v Mpumalanga",
+  "from": "2026-12-13T07:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551798",
+  "tour": "t20676",
+  "what": "South Western Districts v Northern Cape",
+  "from": "2026-12-13T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551803",
+  "tour": "t20676",
+  "what": "Mpumalanga v Limpopo",
+  "from": "2026-12-20T07:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551801",
+  "tour": "t20676",
+  "what": "Border v Easterns",
+  "from": "2026-12-20T08:00:00Z"
  }
 ]
