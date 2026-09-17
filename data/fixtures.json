@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T18:15:12Z",
+ "generated_at": "2026-09-17T01:45:11Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -705,7 +705,7 @@
    "color": "#7a8899",
    "start": "2026-09-13",
    "end": "2027-03-28",
-   "matches": 35,
+   "matches": 42,
    "india": false,
    "world": false,
    "formats": [
@@ -10821,18 +10821,18 @@
    "tour": "cpl",
    "utc": "2026-09-16T23:00:00Z",
    "ts": 1789599600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "Eliminator",
    "home": "Barbados Tridents",
    "away": "Jamaica Kingsmen",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "144/6",
+   "away_score": "32/0 (3.1/20 ov, target 145)",
    "venue": "Kensington Oval, Bridgetown, Barbados",
    "city": "Bridgetown",
    "country": "West Indies",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -10843,8 +10843,8 @@
    "tour": "t22546",
    "utc": "2026-09-17T00:00:00Z",
    "ts": 1789603200,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "1st Quarter-Final",
    "home": "Bangladesh Women",
    "away": "China Women",
@@ -10854,7 +10854,7 @@
    "city": "Nisshin",
    "country": "Japan",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -11572,8 +11572,8 @@
    "status": "Schedu",
    "status_long": "Scheduled",
    "round": "Final",
-   "home": "The Blaze Women",
-   "away": "TBA",
+   "home": "Hampshire Women",
+   "away": "The Blaze Women",
    "home_score": "",
    "away_score": "",
    "venue": "The Rose Bowl, Southampton",
@@ -14117,6 +14117,72 @@
    "india": false
   },
   {
+   "id": "1551797",
+   "tour": "t20676",
+   "utc": "2026-11-22T08:00:00Z",
+   "ts": 1795334400,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "9th Match",
+   "home": "Easterns",
+   "away": "Northern Cape",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Willowmoore Park, Benoni",
+   "city": "Benoni",
+   "country": "South Africa",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1551796",
+   "tour": "t20676",
+   "utc": "2026-11-22T08:00:00Z",
+   "ts": 1795334400,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "8th Match",
+   "home": "Limpopo",
+   "away": "KwaZulu-Natal Inland",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Cricket Club Ground, Polokwane",
+   "city": "Polokwane",
+   "country": "South Africa",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1551795",
+   "tour": "t20676",
+   "utc": "2026-11-22T08:00:00Z",
+   "ts": 1795334400,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "7th Match",
+   "home": "South Western Districts",
+   "away": "Border",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Recreation Ground, Oudtshoorn",
+   "city": "Oudtshoorn",
+   "country": "South Africa",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1528707",
    "tour": "t24273",
    "utc": "2026-11-24T08:15:00Z",
@@ -14535,6 +14601,28 @@
    "india": false
   },
   {
+   "id": "1551799",
+   "tour": "t20676",
+   "utc": "2026-12-13T07:00:00Z",
+   "ts": 1797145200,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "11th Match",
+   "home": "KwaZulu-Natal Inland",
+   "away": "Mpumalanga",
+   "home_score": "",
+   "away_score": "",
+   "venue": "City Oval, Pietermaritzburg",
+   "city": "Pietermaritzburg",
+   "country": "South Africa",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1551800",
    "tour": "t20676",
    "utc": "2026-12-13T08:00:00Z",
@@ -14548,6 +14636,28 @@
    "away_score": "",
    "venue": "Cricket Club Ground, Polokwane",
    "city": "Polokwane",
+   "country": "South Africa",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1551798",
+   "tour": "t20676",
+   "utc": "2026-12-13T08:00:00Z",
+   "ts": 1797148800,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "10th Match",
+   "home": "South Western Districts",
+   "away": "Northern Cape",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Recreation Ground, Oudtshoorn",
+   "city": "Oudtshoorn",
    "country": "South Africa",
    "format": "ODI",
    "note": "Scheduled",
@@ -14819,6 +14929,50 @@
    "disrupted": false,
    "finished": false,
    "india": true
+  },
+  {
+   "id": "1551803",
+   "tour": "t20676",
+   "utc": "2026-12-20T07:00:00Z",
+   "ts": 1797750000,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "15th Match",
+   "home": "Mpumalanga",
+   "away": "Limpopo",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Uplands College, White River",
+   "city": "White River",
+   "country": "South Africa",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1551801",
+   "tour": "t20676",
+   "utc": "2026-12-20T08:00:00Z",
+   "ts": 1797753600,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "13th Match",
+   "home": "Border",
+   "away": "Easterns",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Buffalo Park, KuGumpo City",
+   "city": "KuGompo City",
+   "country": "South Africa",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
   },
   {
    "id": "1551802",
@@ -17046,134 +17200,57 @@
  "changes": [
   {
    "kind": "added",
-   "id": "1529248",
-   "tour": "t24281",
-   "what": "India v Australia",
-   "to": "2027-02-27T04:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551729",
-   "tour": "t1551603",
-   "what": "Easterns v Limpopo",
-   "to": "2027-02-11T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551733",
-   "tour": "t1551603",
-   "what": "Limpopo v Mpumalanga",
-   "to": "2027-02-18T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544863",
-   "tour": "marsh",
-   "what": "TBA v TBA",
-   "to": "2027-02-14T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1550474",
-   "tour": "t22546",
-   "what": "Bangladesh Women v China Women",
-   "to": "2026-09-17T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1550475",
-   "tour": "t22546",
-   "what": "Pakistan Women v Thailand Women",
-   "to": "2026-09-17T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1550477",
-   "tour": "t22546",
-   "what": "Japan Women v India Women",
-   "to": "2026-09-18T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1550478",
-   "tour": "t22546",
-   "what": "TBA v TBA",
-   "to": "2026-09-20T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1550479",
-   "tour": "t22546",
-   "what": "TBA v TBA",
-   "to": "2026-09-20T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1550480",
-   "tour": "t22546",
-   "what": "TBA v TBA",
-   "to": "2026-09-22T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1550481",
-   "tour": "t22546",
-   "what": "TBA v TBA",
-   "to": "2026-09-22T05:00:00Z"
-  },
-  {
-   "kind": "dropped",
    "id": "1551797",
    "tour": "t20676",
    "what": "Easterns v Northern Cape",
-   "from": "2026-11-22T08:00:00Z"
+   "to": "2026-11-22T08:00:00Z"
   },
   {
-   "kind": "dropped",
+   "kind": "added",
    "id": "1551796",
    "tour": "t20676",
    "what": "Limpopo v KwaZulu-Natal Inland",
-   "from": "2026-11-22T08:00:00Z"
+   "to": "2026-11-22T08:00:00Z"
   },
   {
-   "kind": "dropped",
+   "kind": "added",
    "id": "1551795",
    "tour": "t20676",
    "what": "South Western Districts v Border",
-   "from": "2026-11-22T08:00:00Z"
+   "to": "2026-11-22T08:00:00Z"
   },
   {
-   "kind": "dropped",
+   "kind": "added",
    "id": "1551799",
    "tour": "t20676",
    "what": "KwaZulu-Natal Inland v Mpumalanga",
-   "from": "2026-12-13T07:00:00Z"
+   "to": "2026-12-13T07:00:00Z"
   },
   {
-   "kind": "dropped",
+   "kind": "added",
    "id": "1551798",
    "tour": "t20676",
    "what": "South Western Districts v Northern Cape",
-   "from": "2026-12-13T08:00:00Z"
+   "to": "2026-12-13T08:00:00Z"
   },
   {
-   "kind": "dropped",
+   "kind": "added",
    "id": "1551803",
    "tour": "t20676",
    "what": "Mpumalanga v Limpopo",
-   "from": "2026-12-20T07:00:00Z"
+   "to": "2026-12-20T07:00:00Z"
   },
   {
-   "kind": "dropped",
+   "kind": "added",
    "id": "1551801",
    "tour": "t20676",
    "what": "Border v Easterns",
-   "from": "2026-12-20T08:00:00Z"
+   "to": "2026-12-20T08:00:00Z"
   }
  ],
  "counts": {
   "tournaments": 63,
-  "fixtures": 719,
+  "fixtures": 726,
   "india": 25,
   "major": 28,
   "projected": 9,
@@ -17203,8 +17280,8 @@
   {
    "id": "24367",
    "name": "Bangladesh Women tour of Scotland 2026",
-   "matches": 3,
-   "last_seen": "2026-05-30 to 2026-06-02"
+   "matches": 4,
+   "last_seen": "2026-05-30 to 2026-06-04"
   },
   {
    "id": "24233",

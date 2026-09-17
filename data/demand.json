@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-09-16T18:15:24Z",
+ "generated_at": "2026-09-17T01:45:23Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
- "observed_to": "2026-09-16",
+ "observed_to": "2026-09-15",
  "totals": {
-  "events": 2331,
-  "volume": 90052067,
+  "events": 2317,
+  "volume": 90080980,
   "competitions": 21
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 222,
-   "traded": 131,
-   "median": 7549,
+   "matches": 220,
+   "traded": 129,
+   "median": 7810,
    "p75": 18696,
    "best": 74063,
-   "total": 1884262,
+   "total": 1878886,
    "outright": 2629062,
    "india_pct": 6,
    "name": "Domestic / minor",
@@ -73,11 +73,11 @@
   },
   "Other international": {
    "matches": 135,
-   "traded": 83,
-   "median": 62622,
-   "p75": 116228,
+   "traded": 86,
+   "median": 55038,
+   "p75": 111099,
    "best": 350589,
-   "total": 6845449,
+   "total": 6862520,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -107,7 +107,7 @@
    "median": 242144,
    "p75": 402067,
    "best": 788605,
-   "total": 7163020,
+   "total": 7164394,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -165,7 +165,7 @@
    "median": 17513,
    "p75": 27879,
    "best": 98101,
-   "total": 620288,
+   "total": 620805,
    "outright": 0,
    "india_pct": 0,
    "name": "ILT20",
@@ -261,12 +261,12 @@
    "not": []
   },
   "European T20 Premier League": {
-   "matches": 3,
-   "traded": 1,
-   "median": 22552,
-   "p75": 22552,
-   "best": 22552,
-   "total": 22621,
+   "matches": 2,
+   "traded": 0,
+   "median": 0,
+   "p75": 0,
+   "best": 316,
+   "total": 413,
    "outright": 0,
    "india_pct": 0,
    "name": "European T20 Premier League",
@@ -278,10 +278,10 @@
   "Caribbean Premier League": {
    "matches": 2,
    "traded": 2,
-   "median": 2850,
-   "p75": 3183,
-   "best": 3183,
-   "total": 5700,
+   "median": 21684,
+   "p75": 40824,
+   "best": 40824,
+   "total": 43368,
    "outright": 0,
    "india_pct": 0,
    "name": "Caribbean Premier League",
@@ -554,7 +554,7 @@
    "n": 2,
    "traded": 0,
    "median": 0,
-   "best": 99
+   "best": 233
   }
  }
 }
