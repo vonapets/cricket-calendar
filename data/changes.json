@@ -1,51 +1,10 @@
 [
  {
-  "kind": "added",
-  "id": "1551797",
-  "tour": "t20676",
-  "what": "Easterns v Northern Cape",
-  "to": "2026-11-22T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551796",
-  "tour": "t20676",
-  "what": "Limpopo v KwaZulu-Natal Inland",
-  "to": "2026-11-22T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551795",
-  "tour": "t20676",
-  "what": "South Western Districts v Border",
-  "to": "2026-11-22T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551799",
-  "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v Mpumalanga",
-  "to": "2026-12-13T07:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551798",
-  "tour": "t20676",
-  "what": "South Western Districts v Northern Cape",
-  "to": "2026-12-13T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551803",
-  "tour": "t20676",
-  "what": "Mpumalanga v Limpopo",
-  "to": "2026-12-20T07:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551801",
-  "tour": "t20676",
-  "what": "Border v Easterns",
-  "to": "2026-12-20T08:00:00Z"
+  "kind": "moved",
+  "id": "1552313",
+  "tour": "t24737",
+  "what": "Japan Women v Malaysia Women",
+  "from": "2026-09-13T05:00:00Z",
+  "to": "2026-09-13T01:00:00Z"
  }
 ]
