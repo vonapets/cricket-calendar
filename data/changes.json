@@ -1,16 +1,44 @@
 [
  {
-  "kind": "dropped",
-  "id": "1529243",
-  "tour": "t24283",
-  "what": "India v Zimbabwe",
-  "from": "2027-01-09T08:30:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1528715",
   "tour": "t24265",
   "what": "Australia v England",
-  "from": "2027-03-11T03:00:00Z"
+  "to": "2027-03-11T03:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1529243",
+  "tour": "t24283",
+  "what": "India v Zimbabwe",
+  "to": "2027-01-09T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1549496",
+  "tour": "t23806",
+  "what": "Professional County Club Select XI v Pakistan",
+  "from": "2026-08-13T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1549526",
+  "tour": "t1549518",
+  "what": "Namibia v Zimbabwe",
+  "from": "2026-08-31T12:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1528712",
+  "tour": "t24270",
+  "what": "Australia v New Zealand",
+  "from": "2026-12-17T00:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1529248",
+  "tour": "t24281",
+  "what": "India v Australia",
+  "from": "2027-02-27T04:00:00Z"
  }
 ]
