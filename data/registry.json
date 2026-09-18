@@ -430,5 +430,13 @@
   "short": "Asian Games Women's Cricket",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24735": {
+  "id": "24735",
+  "key": "t24735",
+  "name": "Hong Kong tour of Japan 2026",
+  "short": "Hong Kong in Japan 2026",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }

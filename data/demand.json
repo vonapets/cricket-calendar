@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-18T13:02:49Z",
+ "generated_at": "2026-09-18T17:45:21Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-09-18",
  "totals": {
-  "events": 2293,
-  "volume": 90192757,
+  "events": 2287,
+  "volume": 90012779,
   "competitions": 20
  },
  "competitions": {
@@ -16,7 +16,7 @@
    "median": 7810,
    "p75": 18696,
    "best": 74063,
-   "total": 1878901,
+   "total": 1878907,
    "outright": 2629062,
    "india_pct": 6,
    "name": "Domestic / minor",
@@ -74,10 +74,10 @@
   "Other international": {
    "matches": 130,
    "traded": 82,
-   "median": 63927,
-   "p75": 117330,
+   "median": 63090,
+   "p75": 116228,
    "best": 350589,
-   "total": 6996781,
+   "total": 6846650,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -103,11 +103,11 @@
   },
   "India bilateral": {
    "matches": 32,
-   "traded": 27,
-   "median": 247032,
+   "traded": 26,
+   "median": 258866,
    "p75": 402067,
    "best": 788605,
-   "total": 7162290,
+   "total": 7156230,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -160,12 +160,12 @@
    ]
   },
   "ILT20": {
-   "matches": 27,
-   "traded": 27,
+   "matches": 25,
+   "traded": 25,
    "median": 17513,
    "p75": 27879,
    "best": 98101,
-   "total": 643723,
+   "total": 619746,
    "outright": 0,
    "india_pct": 0,
    "name": "ILT20",
@@ -265,8 +265,8 @@
    "traded": 0,
    "median": 0,
    "p75": 0,
-   "best": 76,
-   "total": 76,
+   "best": 299,
+   "total": 299,
    "outright": 0,
    "india_pct": 0,
    "name": "European T20 Premier League",
@@ -311,17 +311,17 @@
    "median": 258866,
    "best": 788605
   },
+  "australia": {
+   "n": 11,
+   "traded": 9,
+   "median": 237257,
+   "best": 437829
+  },
   "italy": {
    "n": 2,
    "traded": 2,
    "median": 224155,
    "best": 350589
-  },
-  "australia": {
-   "n": 12,
-   "traded": 10,
-   "median": 195806,
-   "best": 437829
   },
   "south africa": {
    "n": 25,
@@ -377,12 +377,6 @@
    "median": 66333,
    "best": 290952
   },
-  "zimbabwe": {
-   "n": 14,
-   "traded": 10,
-   "median": 65593,
-   "best": 154355
-  },
   "netherlands": {
    "n": 2,
    "traded": 2,
@@ -400,6 +394,12 @@
    "traded": 3,
    "median": 63557,
    "best": 350589
+  },
+  "zimbabwe": {
+   "n": 13,
+   "traded": 9,
+   "median": 62622,
+   "best": 143355
   },
   "scotland": {
    "n": 2,
@@ -450,12 +450,6 @@
    "traded": 3,
    "median": 166921,
    "best": 290952
-  },
-  "australia|zimbabwe": {
-   "n": 2,
-   "traded": 1,
-   "median": 154355,
-   "best": 154355
   },
   "england|sri lanka": {
    "n": 9,
