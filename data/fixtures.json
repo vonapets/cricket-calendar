@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T17:44:59Z",
+ "generated_at": "2026-09-19T01:39:38Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -11456,8 +11456,8 @@
    "tour": "marsh",
    "utc": "2026-09-18T06:00:00Z",
    "ts": 1789711200,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "1st Match",
    "home": "Western Australia",
    "away": "South Australia",
@@ -11467,7 +11467,7 @@
    "city": "Perth",
    "country": "Australia",
    "format": "ODI",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -11544,18 +11544,18 @@
    "tour": "cpl",
    "utc": "2026-09-18T23:00:00Z",
    "ts": 1789772400,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "Qualifier 2",
    "home": "Guyana Amazon Warriors",
    "away": "Jamaica Kingsmen",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "206/4",
+   "away_score": "73/1 (5.5/20 ov, target 207)",
    "venue": "Kensington Oval, Bridgetown, Barbados",
    "city": "Bridgetown",
    "country": "West Indies",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -11566,8 +11566,8 @@
    "tour": "t24735",
    "utc": "2026-09-19T01:00:00Z",
    "ts": 1789779600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "1st T20I",
    "home": "Japan",
    "away": "Hong Kong",
@@ -11577,7 +11577,7 @@
    "city": "Sano",
    "country": "Japan",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -17304,36 +17304,7 @@
    "india": false
   }
  ],
- "changes": [
-  {
-   "kind": "added",
-   "id": "1552306",
-   "tour": "t24735",
-   "what": "Japan v Hong Kong",
-   "to": "2026-09-19T01:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552307",
-   "tour": "t24735",
-   "what": "Japan v Hong Kong",
-   "to": "2026-09-20T01:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552767",
-   "tour": "t24735",
-   "what": "Hong Kong v Malaysia",
-   "to": "2026-09-24T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552768",
-   "tour": "t24735",
-   "what": "Hong Kong v Oman",
-   "to": "2026-09-25T00:00:00Z"
-  }
- ],
+ "changes": [],
  "counts": {
   "tournaments": 64,
   "fixtures": 730,
@@ -17450,7 +17421,7 @@
   {
    "id": "8604",
    "name": "ICC Men's T20 World Cup",
-   "matches": 49,
+   "matches": 55,
    "last_seen": "2026-02-07 to 2026-03-08"
   },
   {

@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-18T17:45:21Z",
+ "generated_at": "2026-09-19T01:39:53Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-09-18",
  "totals": {
-  "events": 2287,
-  "volume": 90012779,
+  "events": 2291,
+  "volume": 90016857,
   "competitions": 20
  },
  "competitions": {
@@ -73,11 +73,11 @@
   },
   "Other international": {
    "matches": 130,
-   "traded": 82,
-   "median": 63090,
+   "traded": 84,
+   "median": 59880,
    "p75": 116228,
    "best": 350589,
-   "total": 6846650,
+   "total": 6850728,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -160,7 +160,7 @@
    ]
   },
   "ILT20": {
-   "matches": 25,
+   "matches": 26,
    "traded": 25,
    "median": 17513,
    "p75": 27879,
@@ -311,17 +311,17 @@
    "median": 258866,
    "best": 788605
   },
-  "australia": {
-   "n": 11,
-   "traded": 9,
-   "median": 237257,
-   "best": 437829
-  },
   "italy": {
    "n": 2,
    "traded": 2,
    "median": 224155,
    "best": 350589
+  },
+  "australia": {
+   "n": 11,
+   "traded": 10,
+   "median": 189115,
+   "best": 437829
   },
   "south africa": {
    "n": 25,
@@ -395,17 +395,17 @@
    "median": 63557,
    "best": 350589
   },
-  "zimbabwe": {
-   "n": 13,
-   "traded": 9,
-   "median": 62622,
-   "best": 143355
-  },
   "scotland": {
    "n": 2,
    "traded": 2,
    "median": 59353,
    "best": 73050
+  },
+  "zimbabwe": {
+   "n": 13,
+   "traded": 10,
+   "median": 54452,
+   "best": 143355
   },
   "nepal": {
    "n": 2,
