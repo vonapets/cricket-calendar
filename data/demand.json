@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-09-19T07:25:13Z",
+ "generated_at": "2026-09-19T12:35:41Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-09-19",
  "totals": {
   "events": 2299,
-  "volume": 90023473,
+  "volume": 90045230,
   "competitions": 21
  },
  "competitions": {
   "Domestic / minor": {
    "matches": 221,
-   "traded": 129,
-   "median": 7810,
+   "traded": 130,
+   "median": 7680,
    "p75": 18696,
    "best": 74063,
-   "total": 1878911,
+   "total": 1880693,
    "outright": 2629062,
    "india_pct": 6,
    "name": "Domestic / minor",
@@ -77,7 +77,7 @@
    "median": 62622,
    "p75": 116228,
    "best": 350589,
-   "total": 6857230,
+   "total": 6872796,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -161,11 +161,11 @@
   },
   "ILT20": {
    "matches": 26,
-   "traded": 25,
-   "median": 17513,
+   "traded": 26,
+   "median": 17354,
    "p75": 27879,
    "best": 98101,
-   "total": 619760,
+   "total": 623649,
    "outright": 0,
    "india_pct": 0,
    "name": "ILT20",
@@ -196,8 +196,8 @@
    "median": 56343,
    "p75": 112786,
    "best": 276980,
-   "total": 856839,
-   "outright": 5,
+   "total": 856845,
+   "outright": 16,
    "india_pct": 0,
    "name": "Women's Premier League",
    "detect": [
@@ -265,8 +265,8 @@
    "traded": 0,
    "median": 0,
    "p75": 0,
-   "best": 372,
-   "total": 372,
+   "best": 876,
+   "total": 876,
    "outright": 0,
    "india_pct": 0,
    "name": "European T20 Premier League",
@@ -529,7 +529,7 @@
   "afghanistan|sri lanka": {
    "n": 7,
    "traded": 4,
-   "median": 10232,
+   "median": 10244,
    "best": 74731
   },
   "new zealand|south africa": {
