@@ -446,5 +446,13 @@
   "short": "Royal London One-Day Cup",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "23315": {
+  "id": "23315",
+  "key": "t23315",
+  "name": "North America T20 Cup",
+  "short": "North America T20 Cup",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
