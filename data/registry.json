@@ -438,5 +438,13 @@
   "short": "Hong Kong in Japan 2026",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "8335": {
+  "id": "8335",
+  "key": "t8335",
+  "name": "Royal London One-Day Cup",
+  "short": "Royal London One-Day Cup",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }

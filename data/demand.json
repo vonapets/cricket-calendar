@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-09-19T17:20:45Z",
+ "generated_at": "2026-09-20T01:45:50Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-09-19",
  "totals": {
-  "events": 2295,
-  "volume": 90144233,
+  "events": 2280,
+  "volume": 90028325,
   "competitions": 21
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 221,
-   "traded": 130,
-   "median": 7680,
+   "matches": 220,
+   "traded": 129,
+   "median": 7810,
    "p75": 18696,
    "best": 74063,
-   "total": 1883660,
+   "total": 1879091,
    "outright": 2629062,
    "india_pct": 6,
    "name": "Domestic / minor",
@@ -72,12 +72,12 @@
    "not": []
   },
   "Other international": {
-   "matches": 128,
+   "matches": 127,
    "traded": 82,
-   "median": 63927,
+   "median": 63090,
    "p75": 116228,
    "best": 350589,
-   "total": 6936368,
+   "total": 6861354,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -107,7 +107,7 @@
    "median": 258866,
    "p75": 402067,
    "best": 788605,
-   "total": 7156455,
+   "total": 7157032,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -160,12 +160,12 @@
    ]
   },
   "ILT20": {
-   "matches": 26,
-   "traded": 26,
-   "median": 17354,
+   "matches": 25,
+   "traded": 25,
+   "median": 17513,
    "p75": 27879,
    "best": 98101,
-   "total": 631684,
+   "total": 619746,
    "outright": 0,
    "india_pct": 0,
    "name": "ILT20",
@@ -191,13 +191,13 @@
    "not": []
   },
   "Women's Premier League": {
-   "matches": 13,
+   "matches": 12,
    "traded": 10,
    "median": 56343,
    "p75": 112786,
    "best": 276980,
-   "total": 856845,
-   "outright": 16,
+   "total": 856839,
+   "outright": 27,
    "india_pct": 0,
    "name": "Women's Premier League",
    "detect": [
@@ -260,21 +260,6 @@
    "detect": [],
    "not": []
   },
-  "European T20 Premier League": {
-   "matches": 1,
-   "traded": 1,
-   "median": 25080,
-   "p75": 25080,
-   "best": 25080,
-   "total": 25080,
-   "outright": 0,
-   "india_pct": 0,
-   "name": "European T20 Premier League",
-   "detect": [
-    "european t20 premier league"
-   ],
-   "not": []
-  },
   "Caribbean Premier League": {
    "matches": 1,
    "traded": 0,
@@ -287,6 +272,21 @@
    "name": "Caribbean Premier League",
    "detect": [
     "caribbean premier league"
+   ],
+   "not": []
+  },
+  "European T20 Premier League": {
+   "matches": 1,
+   "traded": 0,
+   "median": 0,
+   "p75": 0,
+   "best": 110,
+   "total": 110,
+   "outright": 0,
+   "india_pct": 0,
+   "name": "European T20 Premier League",
+   "detect": [
+    "european t20 premier league"
    ],
    "not": []
   },
@@ -338,17 +338,17 @@
    "median": 189115,
    "best": 437829
   },
+  "england": {
+   "n": 8,
+   "traded": 6,
+   "median": 168808,
+   "best": 256852
+  },
   "south africa": {
    "n": 25,
    "traded": 18,
    "median": 155347,
    "best": 429186
-  },
-  "england": {
-   "n": 9,
-   "traded": 7,
-   "median": 150162,
-   "best": 256852
   },
   "usa": {
    "n": 2,
@@ -375,9 +375,9 @@
    "best": 788605
   },
   "sri lanka": {
-   "n": 32,
-   "traded": 27,
-   "median": 74808,
+   "n": 31,
+   "traded": 26,
+   "median": 74199,
    "best": 284075
   },
   "canada": {
@@ -460,17 +460,17 @@
    "median": 204536,
    "best": 268100
   },
+  "england|sri lanka": {
+   "n": 8,
+   "traded": 6,
+   "median": 168808,
+   "best": 256852
+  },
   "south africa|west indies": {
    "n": 3,
    "traded": 3,
    "median": 166921,
    "best": 290952
-  },
-  "england|sri lanka": {
-   "n": 9,
-   "traded": 7,
-   "median": 150162,
-   "best": 256852
   },
   "pakistan|sri lanka": {
    "n": 8,
