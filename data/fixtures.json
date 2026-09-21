@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T08:02:18Z",
+ "generated_at": "2026-09-21T15:11:03Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -12283,18 +12283,18 @@
    "tour": "t8836",
    "utc": "2026-09-18T05:00:00Z",
    "ts": 1789707600,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "6th Match",
    "home": "Khan Research Laboratories",
    "away": "Markhor IT Solutions",
-   "home_score": "423/5 (133 ov)",
-   "away_score": "660",
+   "home_score": "490",
+   "away_score": "660 & 167/9 (50 ov)",
    "venue": "Shoaib Akhtar Cricket Stadium, Rawalpindi",
    "city": "Rawalpindi",
    "country": "Pakistan",
    "format": "Test",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -12305,18 +12305,18 @@
    "tour": "t8836",
    "utc": "2026-09-18T05:00:00Z",
    "ts": 1789707600,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "7th Match",
    "home": "Pakistan Television",
    "away": "State Bank of Pakistan",
-   "home_score": "469",
-   "away_score": "433 & 84/4 (23 ov)",
+   "home_score": "469 & 64/1 (12 ov)",
+   "away_score": "433 & 328/8d",
    "venue": "Abbottabad Cricket Stadium",
    "city": "Abbottabad",
    "country": "Pakistan",
    "format": "Test",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -12327,18 +12327,18 @@
    "tour": "t8836",
    "utc": "2026-09-18T05:00:00Z",
    "ts": 1789707600,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "8th Match",
    "home": "Hyderabad Kingsmen Academy",
    "away": "Oil & Gas Development Company Limited",
    "home_score": "215 & 203",
-   "away_score": "298 & 85/1 (23 ov, target 121)",
+   "away_score": "298 & 121/1 (28.1 ov, target 121)",
    "venue": "Imran Khan Cricket Stadium, Peshawar",
    "city": "Peshawar",
    "country": "Pakistan",
    "format": "Test",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -12899,18 +12899,18 @@
    "tour": "t24377",
    "utc": "2026-09-21T03:30:00Z",
    "ts": 1789961400,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "2nd Youth ODI",
    "home": "India Under-19s",
    "away": "Australia Under-19s",
    "home_score": "341/7",
-   "away_score": "7/0 (1/50 ov, target 343)",
+   "away_score": "239 (41.1/50 ov, target 342)",
    "venue": "Niranjan Shah Stadium, Rajkot",
    "city": "Rajkot",
    "country": "India",
    "format": "ODI",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -12921,18 +12921,18 @@
    "tour": "t1554562",
    "utc": "2026-09-21T09:00:00Z",
    "ts": 1789981200,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Final",
+   "status_long": "Final",
    "round": "1st Match",
    "home": "Nigeria A",
    "away": "Sierra Leone",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "113/8",
+   "away_score": "80 (19.5/20 ov, target 114)",
    "venue": "Tafawa Balewa Square Cricket Oval, Lagos",
    "city": "Lagos",
    "country": "Nigeria",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -12943,8 +12943,8 @@
    "tour": "t1554562",
    "utc": "2026-09-21T13:00:00Z",
    "ts": 1789995600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "2nd Match",
    "home": "Nigeria",
    "away": "Ghana",
@@ -12954,7 +12954,7 @@
    "city": "Lagos",
    "country": "Nigeria",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -18659,218 +18659,7 @@
    "india": false
   }
  ],
- "changes": [
-  {
-   "kind": "added",
-   "id": "1551709",
-   "tour": "t1551603",
-   "what": "Limpopo v KwaZulu-Natal Inland",
-   "to": "2026-11-19T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551708",
-   "tour": "t1551603",
-   "what": "South Western Districts v Border",
-   "to": "2026-11-19T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551710",
-   "tour": "t1551603",
-   "what": "Easterns v Northern Cape",
-   "to": "2026-11-26T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551713",
-   "tour": "t1551603",
-   "what": "Limpopo v Easterns",
-   "to": "2026-12-10T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551711",
-   "tour": "t1551603",
-   "what": "South Western Districts v Northern Cape",
-   "to": "2026-12-10T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551714",
-   "tour": "t1551603",
-   "what": "Border v Easterns",
-   "to": "2026-12-17T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551716",
-   "tour": "t1551603",
-   "what": "Mpumalanga v Limpopo",
-   "to": "2026-12-17T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551715",
-   "tour": "t1551603",
-   "what": "Northern Cape v KwaZulu-Natal Inland",
-   "to": "2026-12-17T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551804",
-   "tour": "t20676",
-   "what": "KwaZulu-Natal Inland v South Western Districts",
-   "to": "2027-01-10T07:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551805",
-   "tour": "t20676",
-   "what": "Limpopo v Northern Cape",
-   "to": "2027-01-10T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551808",
-   "tour": "t20676",
-   "what": "Easterns v KwaZulu-Natal Inland",
-   "to": "2027-01-17T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551811",
-   "tour": "t20676",
-   "what": "KwaZulu-Natal Inland v Limpopo",
-   "to": "2027-01-24T07:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551813",
-   "tour": "t20676",
-   "what": "Border v KwaZulu-Natal Inland",
-   "to": "2027-02-07T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551814",
-   "tour": "t20676",
-   "what": "Northern Cape v Mpumalanga",
-   "to": "2027-02-07T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551812",
-   "tour": "t20676",
-   "what": "South Western Districts v Easterns",
-   "to": "2027-02-07T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551817",
-   "tour": "t20676",
-   "what": "Mpumalanga v Northern Cape",
-   "to": "2027-02-14T07:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551816",
-   "tour": "t20676",
-   "what": "Easterns v Limpopo",
-   "to": "2027-02-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551818",
-   "tour": "t20676",
-   "what": "Border v South Western Districts",
-   "to": "2027-02-21T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551819",
-   "tour": "t20676",
-   "what": "Northern Cape v Easterns",
-   "to": "2027-02-21T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551821",
-   "tour": "t20676",
-   "what": "KwaZulu-Natal Inland v Easterns",
-   "to": "2027-03-07T07:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551823",
-   "tour": "t20676",
-   "what": "Limpopo v South Western Districts",
-   "to": "2027-03-07T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551822",
-   "tour": "t20676",
-   "what": "Northern Cape v Border",
-   "to": "2027-03-07T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551825",
-   "tour": "t20676",
-   "what": "Border v Limpopo",
-   "to": "2027-03-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551826",
-   "tour": "t20676",
-   "what": "Easterns v Mpumalanga",
-   "to": "2027-03-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551824",
-   "tour": "t20676",
-   "what": "South Western Districts v KwaZulu-Natal Inland",
-   "to": "2027-03-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551827",
-   "tour": "t20676",
-   "what": "Mpumalanga v Easterns",
-   "to": "2027-03-21T07:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551829",
-   "tour": "t20676",
-   "what": "KwaZulu-Natal Inland v Northern Cape",
-   "to": "2027-03-28T07:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551830",
-   "tour": "t20676",
-   "what": "Mpumalanga v Border",
-   "to": "2027-03-28T07:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551828",
-   "tour": "t20676",
-   "what": "South Western Districts v Limpopo",
-   "to": "2027-03-28T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1549528",
-   "tour": "t1549518",
-   "what": "Namibia v Zimbabwe",
-   "to": "2026-09-03T12:00:00Z"
-  }
- ],
+ "changes": [],
  "counts": {
   "tournaments": 67,
   "fixtures": 789,
