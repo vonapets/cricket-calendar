@@ -454,5 +454,13 @@
   "short": "North America T20 Cup",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1554562": {
+  "id": "1554562",
+  "key": "t1554562",
+  "name": "Nigeria Quadrangular T20 Series 2026",
+  "short": "Nigeria Quadrangul",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
