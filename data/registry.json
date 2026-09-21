@@ -462,5 +462,13 @@
   "short": "Nigeria Quadrangul",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24746": {
+  "id": "24746",
+  "key": "t24746",
+  "name": "India tour of Japan 2026",
+  "short": "India in Japan 2026",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
