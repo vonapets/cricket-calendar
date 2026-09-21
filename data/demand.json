@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-21T01:47:57Z",
+ "generated_at": "2026-09-21T08:02:31Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-09-20",
  "totals": {
-  "events": 2258,
-  "volume": 90084543,
-  "competitions": 20
+  "events": 2254,
+  "volume": 90012477,
+  "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
@@ -77,7 +77,7 @@
    "median": 63927,
    "p75": 117330,
    "best": 350589,
-   "total": 6836130,
+   "total": 6836565,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -103,11 +103,11 @@
   },
   "India bilateral": {
    "matches": 32,
-   "traded": 26,
-   "median": 258866,
+   "traded": 27,
+   "median": 247032,
    "p75": 402067,
    "best": 788605,
-   "total": 7156919,
+   "total": 7166288,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -197,7 +197,7 @@
    "p75": 112786,
    "best": 276980,
    "total": 856839,
-   "outright": 0,
+   "outright": 17,
    "india_pct": 0,
    "name": "Women's Premier League",
    "detect": [
@@ -258,21 +258,6 @@
    "india_pct": 0,
    "name": "Pakistan National T20",
    "detect": [],
-   "not": []
-  },
-  "Caribbean Premier League": {
-   "matches": 1,
-   "traded": 1,
-   "median": 81888,
-   "p75": 81888,
-   "best": 81888,
-   "total": 81888,
-   "outright": 0,
-   "india_pct": 0,
-   "name": "Caribbean Premier League",
-   "detect": [
-    "caribbean premier league"
-   ],
    "not": []
   },
   "ICC Champions Trophy": {
