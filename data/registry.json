@@ -470,5 +470,13 @@
   "short": "India in Japan 2026",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "8656": {
+  "id": "8656",
+  "key": "t8656",
+  "name": "South Africa Domestic T20/Pro20",
+  "short": "SA Domestic T20",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }

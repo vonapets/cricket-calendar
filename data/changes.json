@@ -1,16 +1,471 @@
 [
  {
   "kind": "added",
-  "id": "1552859",
-  "tour": "t24746",
-  "what": "Japan v India",
-  "to": "2026-09-22T04:00:00Z"
+  "id": "1551832",
+  "tour": "t8656",
+  "what": "Northern Cape v Limpopo",
+  "to": "2026-09-22T11:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1552773",
-  "tour": "t24746",
-  "what": "India v TBA",
-  "to": "2026-09-28T05:00:00Z"
+  "id": "1551833",
+  "tour": "t8656",
+  "what": "Warriors v North West",
+  "to": "2026-09-25T12:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551834",
+  "tour": "t8656",
+  "what": "Titans v Western Province",
+  "to": "2026-09-25T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551835",
+  "tour": "t8656",
+  "what": "Northern Cape v Border",
+  "to": "2026-09-26T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551836",
+  "tour": "t8656",
+  "what": "Dolphins v Lions",
+  "to": "2026-09-27T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551838",
+  "tour": "t8656",
+  "what": "Mpumalanga v Titans",
+  "to": "2026-09-27T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551837",
+  "tour": "t8656",
+  "what": "Western Province v Knights",
+  "to": "2026-09-27T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551839",
+  "tour": "t8656",
+  "what": "Border v North West",
+  "to": "2026-09-28T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551842",
+  "tour": "t8656",
+  "what": "South Africa Emerging Players v KwaZulu-Natal Inland",
+  "to": "2026-09-29T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551841",
+  "tour": "t8656",
+  "what": "Warriors v Limpopo",
+  "to": "2026-09-29T12:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551840",
+  "tour": "t8656",
+  "what": "Boland v Knights",
+  "to": "2026-09-29T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551843",
+  "tour": "t8656",
+  "what": "Dolphins v Northern Cape",
+  "to": "2026-10-01T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551844",
+  "tour": "t8656",
+  "what": "Easterns v Mpumalanga",
+  "to": "2026-10-02T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551845",
+  "tour": "t8656",
+  "what": "South Western Districts v Border",
+  "to": "2026-10-02T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551846",
+  "tour": "t8656",
+  "what": "Knights v Titans",
+  "to": "2026-10-02T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551849",
+  "tour": "t8656",
+  "what": "Limpopo v Dolphins",
+  "to": "2026-10-04T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551847",
+  "tour": "t8656",
+  "what": "Mpumalanga v KwaZulu-Natal Inland",
+  "to": "2026-10-04T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551848",
+  "tour": "t8656",
+  "what": "Lions v North West",
+  "to": "2026-10-04T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551850",
+  "tour": "t8656",
+  "what": "Western Province v South Africa Emerging Players",
+  "to": "2026-10-04T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551851",
+  "tour": "t8656",
+  "what": "Warriors v Lions",
+  "to": "2026-10-05T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551852",
+  "tour": "t8656",
+  "what": "KwaZulu-Natal Inland v Boland",
+  "to": "2026-10-06T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551853",
+  "tour": "t8656",
+  "what": "Limpopo v South Western Districts",
+  "to": "2026-10-07T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551855",
+  "tour": "t8656",
+  "what": "Knights v KwaZulu-Natal Inland",
+  "to": "2026-10-07T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551854",
+  "tour": "t8656",
+  "what": "Western Province v Easterns",
+  "to": "2026-10-07T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551857",
+  "tour": "t8656",
+  "what": "South Western Districts v Lions",
+  "to": "2026-10-08T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551856",
+  "tour": "t8656",
+  "what": "Titans v South Africa Emerging Players",
+  "to": "2026-10-08T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551858",
+  "tour": "t8656",
+  "what": "Boland v Easterns",
+  "to": "2026-10-09T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551860",
+  "tour": "t8656",
+  "what": "Border v Dolphins",
+  "to": "2026-10-10T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551859",
+  "tour": "t8656",
+  "what": "Warriors v Northern Cape",
+  "to": "2026-10-10T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551862",
+  "tour": "t8656",
+  "what": "Mpumalanga v Western Province",
+  "to": "2026-10-11T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551861",
+  "tour": "t8656",
+  "what": "North West v South Western Districts",
+  "to": "2026-10-11T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551864",
+  "tour": "t8656",
+  "what": "South Africa Emerging Players v Boland",
+  "to": "2026-10-13T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551863",
+  "tour": "t8656",
+  "what": "Titans v Easterns",
+  "to": "2026-10-13T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551865",
+  "tour": "t8656",
+  "what": "Lions v Border",
+  "to": "2026-10-13T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551867",
+  "tour": "t8656",
+  "what": "KwaZulu-Natal Inland v Titans",
+  "to": "2026-10-16T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551866",
+  "tour": "t8656",
+  "what": "North West v Dolphins",
+  "to": "2026-10-16T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551868",
+  "tour": "t8656",
+  "what": "Western Province v Boland",
+  "to": "2026-10-17T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551870",
+  "tour": "t8656",
+  "what": "South Western Districts v Warriors",
+  "to": "2026-10-18T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551869",
+  "tour": "t8656",
+  "what": "Knights v Easterns",
+  "to": "2026-10-18T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551871",
+  "tour": "t8656",
+  "what": "Limpopo v Border",
+  "to": "2026-10-20T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551873",
+  "tour": "t8656",
+  "what": "Lions v Northern Cape",
+  "to": "2026-10-21T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551872",
+  "tour": "t8656",
+  "what": "Boland v Mpumalanga",
+  "to": "2026-10-21T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551875",
+  "tour": "t8656",
+  "what": "Dolphins v Warriors",
+  "to": "2026-10-22T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551874",
+  "tour": "t8656",
+  "what": "South Africa Emerging Players v Knights",
+  "to": "2026-10-22T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551876",
+  "tour": "t8656",
+  "what": "North West v Limpopo",
+  "to": "2026-10-23T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551878",
+  "tour": "t8656",
+  "what": "Easterns v KwaZulu-Natal Inland",
+  "to": "2026-10-24T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551879",
+  "tour": "t8656",
+  "what": "Mpumalanga v South Africa Emerging Players",
+  "to": "2026-10-24T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551877",
+  "tour": "t8656",
+  "what": "Northern Cape v South Western Districts",
+  "to": "2026-10-24T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551883",
+  "tour": "t8656",
+  "what": "Border v Warriors",
+  "to": "2026-10-25T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551882",
+  "tour": "t8656",
+  "what": "Lions v Limpopo",
+  "to": "2026-10-25T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551880",
+  "tour": "t8656",
+  "what": "Dolphins v South Western Districts",
+  "to": "2026-10-25T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551881",
+  "tour": "t8656",
+  "what": "Knights v Mpumalanga",
+  "to": "2026-10-25T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551884",
+  "tour": "t8656",
+  "what": "Boland v Titans",
+  "to": "2026-10-26T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551885",
+  "tour": "t8656",
+  "what": "North West v Northern Cape",
+  "to": "2026-10-27T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551886",
+  "tour": "t8656",
+  "what": "KwaZulu-Natal Inland v Western Province",
+  "to": "2026-10-28T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551887",
+  "tour": "t8656",
+  "what": "Easterns v South Africa Emerging Players",
+  "to": "2026-10-29T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551888",
+  "tour": "t8656",
+  "what": "TBA v TBA",
+  "to": "2026-10-30T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551889",
+  "tour": "t8656",
+  "what": "TBA v TBA",
+  "to": "2026-10-31T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551890",
+  "tour": "t8656",
+  "what": "TBA v TBA",
+  "to": "2026-11-01T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551891",
+  "tour": "t8656",
+  "what": "TBA v TBA",
+  "to": "2026-11-02T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551892",
+  "tour": "t8656",
+  "what": "TBA v TBA",
+  "to": "2026-11-03T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551893",
+  "tour": "t8656",
+  "what": "TBA v TBA",
+  "to": "2026-11-04T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551894",
+  "tour": "t8656",
+  "what": "TBA v TBA",
+  "to": "2026-11-05T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551895",
+  "tour": "t8656",
+  "what": "TBA v TBA",
+  "to": "2026-11-06T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551896",
+  "tour": "t8656",
+  "what": "TBA v TBA",
+  "to": "2026-11-13T12:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551897",
+  "tour": "t8656",
+  "what": "TBA v TBA",
+  "to": "2026-11-13T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551898",
+  "tour": "t8656",
+  "what": "TBA v TBA",
+  "to": "2026-11-14T11:00:00Z"
  }
 ]

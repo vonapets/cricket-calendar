@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-21T19:31:14Z",
+ "generated_at": "2026-09-22T01:56:04Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-09-21",
  "totals": {
-  "events": 2252,
-  "volume": 90005942,
+  "events": 2255,
+  "volume": 90065898,
   "competitions": 19
  },
  "competitions": {
@@ -77,7 +77,7 @@
    "median": 63090,
    "p75": 116228,
    "best": 350589,
-   "total": 6838031,
+   "total": 6894319,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -102,12 +102,12 @@
    ]
   },
   "India bilateral": {
-   "matches": 32,
+   "matches": 33,
    "traded": 27,
    "median": 247032,
    "p75": 402067,
    "best": 788605,
-   "total": 7157837,
+   "total": 7161506,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
