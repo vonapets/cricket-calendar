@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-22T07:49:31Z",
+ "generated_at": "2026-09-22T13:31:46Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-09-22",
  "totals": {
   "events": 2284,
-  "volume": 90114024,
+  "volume": 90174969,
   "competitions": 19
  },
  "competitions": {
@@ -72,12 +72,12 @@
    "not": []
   },
   "Other international": {
-   "matches": 136,
-   "traded": 82,
-   "median": 63090,
-   "p75": 116228,
+   "matches": 138,
+   "traded": 83,
+   "median": 63557,
+   "p75": 117330,
    "best": 350589,
-   "total": 6843679,
+   "total": 7007675,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -102,12 +102,12 @@
    ]
   },
   "India bilateral": {
-   "matches": 34,
-   "traded": 28,
-   "median": 242144,
+   "matches": 32,
+   "traded": 26,
+   "median": 258866,
    "p75": 402067,
    "best": 788605,
-   "total": 7260729,
+   "total": 7157688,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -308,17 +308,17 @@
    "median": 224155,
    "best": 350589
   },
+  "england": {
+   "n": 9,
+   "traded": 7,
+   "median": 161474,
+   "best": 256852
+  },
   "south africa": {
    "n": 27,
    "traded": 18,
    "median": 155347,
    "best": 429186
-  },
-  "england": {
-   "n": 9,
-   "traded": 7,
-   "median": 150162,
-   "best": 256852
   },
   "usa": {
    "n": 2,
@@ -347,7 +347,7 @@
   "sri lanka": {
    "n": 32,
    "traded": 27,
-   "median": 73590,
+   "median": 74818,
    "best": 284075
   },
   "canada": {
@@ -439,7 +439,7 @@
   "england|sri lanka": {
    "n": 9,
    "traded": 7,
-   "median": 150162,
+   "median": 161474,
    "best": 256852
   },
   "pakistan|sri lanka": {
@@ -524,7 +524,7 @@
    "n": 2,
    "traded": 0,
    "median": 0,
-   "best": 24
+   "best": 88
   }
  }
 }

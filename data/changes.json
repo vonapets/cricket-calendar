@@ -1,41 +1,17 @@
 [
  {
-  "kind": "moved",
-  "id": "1551336",
-  "tour": "t18479",
-  "what": "Maiwand Champions v Hindukush Strikers",
-  "from": "2026-09-10T05:00:00Z",
-  "to": "2026-09-10T05:30:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1551337",
-  "tour": "t18479",
-  "what": "Pamir Legends v Mah-e-Par Stars",
-  "from": "2026-09-10T05:00:00Z",
-  "to": "2026-09-10T05:30:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1551340",
-  "tour": "t18479",
-  "what": "Maiwand Champions v Pamir Legends",
-  "from": "2026-09-22T05:30:00Z",
-  "to": "2026-09-22T05:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1551341",
-  "tour": "t18479",
-  "what": "Mah-e-Par Stars v Hindukush Strikers",
-  "from": "2026-09-22T05:30:00Z",
-  "to": "2026-09-22T05:00:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1550139",
   "tour": "t24694",
   "what": "South Africa A v Bangladesh A",
-  "from": "2026-09-09T07:30:00Z"
+  "to": "2026-09-09T07:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1552313",
+  "tour": "t24737",
+  "what": "Japan Women v Malaysia Women",
+  "from": "2026-09-13T01:00:00Z",
+  "to": "2026-09-13T06:00:00Z"
  }
 ]
