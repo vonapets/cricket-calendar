@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T01:55:52Z",
+ "generated_at": "2026-09-22T07:49:19Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -260,7 +260,7 @@
    "color": "#7a8899",
    "start": "2026-08-23",
    "end": "2026-09-12",
-   "matches": 5,
+   "matches": 4,
    "india": false,
    "world": false,
    "formats": [
@@ -9391,28 +9391,6 @@
    "india": false
   },
   {
-   "id": "1550139",
-   "tour": "t24694",
-   "utc": "2026-09-09T07:30:00Z",
-   "ts": 1788939000,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "2nd unofficial ODI",
-   "home": "South Africa A",
-   "away": "Bangladesh A",
-   "home_score": "",
-   "away_score": "",
-   "venue": "Diamond Oval, Kimberley",
-   "city": "Kimberley",
-   "country": "South Africa",
-   "format": "ODI",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1535537",
    "tour": "slt20",
    "utc": "2026-09-09T08:30:00Z",
@@ -9701,8 +9679,8 @@
   {
    "id": "1551336",
    "tour": "t18479",
-   "utc": "2026-09-10T05:00:00Z",
-   "ts": 1789016400,
+   "utc": "2026-09-10T05:30:00Z",
+   "ts": 1789018200,
    "status": "Final",
    "status_long": "Final",
    "round": "5th Match",
@@ -9723,8 +9701,8 @@
   {
    "id": "1551337",
    "tour": "t18479",
-   "utc": "2026-09-10T05:00:00Z",
-   "ts": 1789016400,
+   "utc": "2026-09-10T05:30:00Z",
+   "ts": 1789018200,
    "status": "Final",
    "status_long": "Final",
    "round": "6th Match",
@@ -13003,8 +12981,8 @@
    "tour": "t23315",
    "utc": "2026-09-21T18:30:00Z",
    "ts": 1790015400,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "2nd Match",
    "home": "Cayman Islands",
    "away": "Bahamas",
@@ -13014,7 +12992,7 @@
    "city": "George Town",
    "country": "Cayman Islands",
    "format": "T20",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -13025,18 +13003,18 @@
    "tour": "t22546",
    "utc": "2026-09-22T00:00:00Z",
    "ts": 1790035200,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "3rd Place Play-off",
    "home": "Bangladesh Women",
    "away": "Pakistan Women",
-   "home_score": "",
-   "away_score": "107/5 (16.3/20 ov)",
+   "home_score": "114/7 (20 ov, target 146)",
+   "away_score": "145/8",
    "venue": "Korogi Sports Park, Nisshin",
    "city": "Nisshin",
    "country": "Japan",
    "format": "T20",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -13047,18 +13025,18 @@
    "tour": "marsh",
    "utc": "2026-09-22T04:00:00Z",
    "ts": 1790049600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "4th Match",
    "home": "Queensland",
    "away": "New South Wales",
-   "home_score": "",
+   "home_score": "358 (49.5/50 ov)",
    "away_score": "",
    "venue": "Allan Border Field, Brisbane",
    "city": "Brisbane",
    "country": "Australia",
    "format": "ODI",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -13069,18 +13047,18 @@
    "tour": "t24375",
    "utc": "2026-09-22T04:00:00Z",
    "ts": 1790049600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "1st unofficial Test",
    "home": "India A",
    "away": "Australia A",
-   "home_score": "",
+   "home_score": "113/5 (42 ov)",
    "away_score": "",
    "venue": "Cricket Association Pondicherry Siechem Ground, Puducherry",
    "city": "Puducherry",
    "country": "India",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -13091,40 +13069,40 @@
    "tour": "t24746",
    "utc": "2026-09-22T04:00:00Z",
    "ts": 1790049600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "Only T20I",
    "home": "Japan",
    "away": "India",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "1/0 (0.2/5 ov, target 33)",
+   "away_score": "32/4 (5/5 ov)",
    "venue": "Sano International Cricket Ground",
    "city": "Sano",
    "country": "Japan",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
    "india": true
   },
   {
-   "id": "1550481",
-   "tour": "t22546",
+   "id": "1551340",
+   "tour": "t18479",
    "utc": "2026-09-22T05:00:00Z",
    "ts": 1790053200,
-   "status": "Schedu",
-   "status_long": "Scheduled",
-   "round": "Final",
-   "home": "India Women",
-   "away": "Sri Lanka Women",
+   "status": "Live",
+   "status_long": "Live",
+   "round": "9th Match",
+   "home": "Maiwand Champions",
+   "away": "Pamir Legends",
    "home_score": "",
-   "away_score": "",
-   "venue": "Korogi Sports Park, Nisshin",
-   "city": "Nisshin",
-   "country": "Japan",
-   "format": "T20",
-   "note": "Scheduled",
+   "away_score": "79/7 (28 ov)",
+   "venue": "Ghazi Amanullah Khan International Cricket Stadium",
+   "city": "Amanullah",
+   "country": "Afghanistan",
+   "format": "Test",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -13133,42 +13111,42 @@
   {
    "id": "1551341",
    "tour": "t18479",
-   "utc": "2026-09-22T05:30:00Z",
-   "ts": 1790055000,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "utc": "2026-09-22T05:00:00Z",
+   "ts": 1790053200,
+   "status": "Live",
+   "status_long": "Live",
    "round": "10th Match",
    "home": "Mah-e-Par Stars",
    "away": "Hindukush Strikers",
    "home_score": "",
-   "away_score": "",
+   "away_score": "88/7 (29 ov)",
    "venue": "Rahmat Wali Masroor Cricket Stadium, Khost",
    "city": "Khost",
    "country": "Afghanistan",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
    "india": false
   },
   {
-   "id": "1551340",
-   "tour": "t18479",
-   "utc": "2026-09-22T05:30:00Z",
-   "ts": 1790055000,
-   "status": "Schedu",
-   "status_long": "Scheduled",
-   "round": "9th Match",
-   "home": "Maiwand Champions",
-   "away": "Pamir Legends",
-   "home_score": "",
-   "away_score": "",
-   "venue": "Ghazi Amanullah Khan International Cricket Stadium",
-   "city": "Amanullah",
-   "country": "Afghanistan",
-   "format": "Test",
-   "note": "Scheduled",
+   "id": "1550481",
+   "tour": "t22546",
+   "utc": "2026-09-22T05:00:00Z",
+   "ts": 1790053200,
+   "status": "Live",
+   "status_long": "Live",
+   "round": "Final",
+   "home": "India Women",
+   "away": "Sri Lanka Women",
+   "home_score": "216/3",
+   "away_score": "63/8 (13.2/20 ov, target 217)",
+   "venue": "Korogi Sports Park, Nisshin",
+   "city": "Nisshin",
+   "country": "Japan",
+   "format": "T20",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -20217,478 +20195,48 @@
  ],
  "changes": [
   {
-   "kind": "added",
-   "id": "1551832",
-   "tour": "t8656",
-   "what": "Northern Cape v Limpopo",
-   "to": "2026-09-22T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551833",
-   "tour": "t8656",
-   "what": "Warriors v North West",
-   "to": "2026-09-25T12:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551834",
-   "tour": "t8656",
-   "what": "Titans v Western Province",
-   "to": "2026-09-25T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551835",
-   "tour": "t8656",
-   "what": "Northern Cape v Border",
-   "to": "2026-09-26T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551836",
-   "tour": "t8656",
-   "what": "Dolphins v Lions",
-   "to": "2026-09-27T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551838",
-   "tour": "t8656",
-   "what": "Mpumalanga v Titans",
-   "to": "2026-09-27T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551837",
-   "tour": "t8656",
-   "what": "Western Province v Knights",
-   "to": "2026-09-27T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551839",
-   "tour": "t8656",
-   "what": "Border v North West",
-   "to": "2026-09-28T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551842",
-   "tour": "t8656",
-   "what": "South Africa Emerging Players v KwaZulu-Natal Inland",
-   "to": "2026-09-29T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551841",
-   "tour": "t8656",
-   "what": "Warriors v Limpopo",
-   "to": "2026-09-29T12:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551840",
-   "tour": "t8656",
-   "what": "Boland v Knights",
-   "to": "2026-09-29T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551843",
-   "tour": "t8656",
-   "what": "Dolphins v Northern Cape",
-   "to": "2026-10-01T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551844",
-   "tour": "t8656",
-   "what": "Easterns v Mpumalanga",
-   "to": "2026-10-02T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551845",
-   "tour": "t8656",
-   "what": "South Western Districts v Border",
-   "to": "2026-10-02T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551846",
-   "tour": "t8656",
-   "what": "Knights v Titans",
-   "to": "2026-10-02T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551849",
-   "tour": "t8656",
-   "what": "Limpopo v Dolphins",
-   "to": "2026-10-04T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551847",
-   "tour": "t8656",
-   "what": "Mpumalanga v KwaZulu-Natal Inland",
-   "to": "2026-10-04T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551848",
-   "tour": "t8656",
-   "what": "Lions v North West",
-   "to": "2026-10-04T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551850",
-   "tour": "t8656",
-   "what": "Western Province v South Africa Emerging Players",
-   "to": "2026-10-04T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551851",
-   "tour": "t8656",
-   "what": "Warriors v Lions",
-   "to": "2026-10-05T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551852",
-   "tour": "t8656",
-   "what": "KwaZulu-Natal Inland v Boland",
-   "to": "2026-10-06T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551853",
-   "tour": "t8656",
-   "what": "Limpopo v South Western Districts",
-   "to": "2026-10-07T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551855",
-   "tour": "t8656",
-   "what": "Knights v KwaZulu-Natal Inland",
-   "to": "2026-10-07T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551854",
-   "tour": "t8656",
-   "what": "Western Province v Easterns",
-   "to": "2026-10-07T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551857",
-   "tour": "t8656",
-   "what": "South Western Districts v Lions",
-   "to": "2026-10-08T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551856",
-   "tour": "t8656",
-   "what": "Titans v South Africa Emerging Players",
-   "to": "2026-10-08T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551858",
-   "tour": "t8656",
-   "what": "Boland v Easterns",
-   "to": "2026-10-09T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551860",
-   "tour": "t8656",
-   "what": "Border v Dolphins",
-   "to": "2026-10-10T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551859",
-   "tour": "t8656",
-   "what": "Warriors v Northern Cape",
-   "to": "2026-10-10T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551862",
-   "tour": "t8656",
-   "what": "Mpumalanga v Western Province",
-   "to": "2026-10-11T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551861",
-   "tour": "t8656",
-   "what": "North West v South Western Districts",
-   "to": "2026-10-11T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551864",
-   "tour": "t8656",
-   "what": "South Africa Emerging Players v Boland",
-   "to": "2026-10-13T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551863",
-   "tour": "t8656",
-   "what": "Titans v Easterns",
-   "to": "2026-10-13T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551865",
-   "tour": "t8656",
-   "what": "Lions v Border",
-   "to": "2026-10-13T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551867",
-   "tour": "t8656",
-   "what": "KwaZulu-Natal Inland v Titans",
-   "to": "2026-10-16T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551866",
-   "tour": "t8656",
-   "what": "North West v Dolphins",
-   "to": "2026-10-16T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551868",
-   "tour": "t8656",
-   "what": "Western Province v Boland",
-   "to": "2026-10-17T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551870",
-   "tour": "t8656",
-   "what": "South Western Districts v Warriors",
-   "to": "2026-10-18T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551869",
-   "tour": "t8656",
-   "what": "Knights v Easterns",
-   "to": "2026-10-18T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551871",
-   "tour": "t8656",
-   "what": "Limpopo v Border",
-   "to": "2026-10-20T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551873",
-   "tour": "t8656",
-   "what": "Lions v Northern Cape",
-   "to": "2026-10-21T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551872",
-   "tour": "t8656",
-   "what": "Boland v Mpumalanga",
-   "to": "2026-10-21T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551875",
-   "tour": "t8656",
-   "what": "Dolphins v Warriors",
-   "to": "2026-10-22T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551874",
-   "tour": "t8656",
-   "what": "South Africa Emerging Players v Knights",
-   "to": "2026-10-22T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551876",
-   "tour": "t8656",
-   "what": "North West v Limpopo",
-   "to": "2026-10-23T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551878",
-   "tour": "t8656",
-   "what": "Easterns v KwaZulu-Natal Inland",
-   "to": "2026-10-24T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551879",
-   "tour": "t8656",
-   "what": "Mpumalanga v South Africa Emerging Players",
-   "to": "2026-10-24T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551877",
-   "tour": "t8656",
-   "what": "Northern Cape v South Western Districts",
-   "to": "2026-10-24T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551883",
-   "tour": "t8656",
-   "what": "Border v Warriors",
-   "to": "2026-10-25T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551882",
-   "tour": "t8656",
-   "what": "Lions v Limpopo",
-   "to": "2026-10-25T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551880",
-   "tour": "t8656",
-   "what": "Dolphins v South Western Districts",
-   "to": "2026-10-25T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551881",
-   "tour": "t8656",
-   "what": "Knights v Mpumalanga",
-   "to": "2026-10-25T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551884",
-   "tour": "t8656",
-   "what": "Boland v Titans",
-   "to": "2026-10-26T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551885",
-   "tour": "t8656",
-   "what": "North West v Northern Cape",
-   "to": "2026-10-27T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551886",
-   "tour": "t8656",
-   "what": "KwaZulu-Natal Inland v Western Province",
-   "to": "2026-10-28T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551887",
-   "tour": "t8656",
-   "what": "Easterns v South Africa Emerging Players",
-   "to": "2026-10-29T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551888",
-   "tour": "t8656",
-   "what": "TBA v TBA",
-   "to": "2026-10-30T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551889",
-   "tour": "t8656",
-   "what": "TBA v TBA",
-   "to": "2026-10-31T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551890",
-   "tour": "t8656",
-   "what": "TBA v TBA",
-   "to": "2026-11-01T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551891",
-   "tour": "t8656",
-   "what": "TBA v TBA",
-   "to": "2026-11-02T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551892",
-   "tour": "t8656",
-   "what": "TBA v TBA",
-   "to": "2026-11-03T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551893",
-   "tour": "t8656",
-   "what": "TBA v TBA",
-   "to": "2026-11-04T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551894",
-   "tour": "t8656",
-   "what": "TBA v TBA",
-   "to": "2026-11-05T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551895",
-   "tour": "t8656",
-   "what": "TBA v TBA",
-   "to": "2026-11-06T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551896",
-   "tour": "t8656",
-   "what": "TBA v TBA",
-   "to": "2026-11-13T12:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551897",
-   "tour": "t8656",
-   "what": "TBA v TBA",
-   "to": "2026-11-13T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551898",
-   "tour": "t8656",
-   "what": "TBA v TBA",
-   "to": "2026-11-14T11:00:00Z"
+   "kind": "moved",
+   "id": "1551336",
+   "tour": "t18479",
+   "what": "Maiwand Champions v Hindukush Strikers",
+   "from": "2026-09-10T05:00:00Z",
+   "to": "2026-09-10T05:30:00Z"
+  },
+  {
+   "kind": "moved",
+   "id": "1551337",
+   "tour": "t18479",
+   "what": "Pamir Legends v Mah-e-Par Stars",
+   "from": "2026-09-10T05:00:00Z",
+   "to": "2026-09-10T05:30:00Z"
+  },
+  {
+   "kind": "moved",
+   "id": "1551340",
+   "tour": "t18479",
+   "what": "Maiwand Champions v Pamir Legends",
+   "from": "2026-09-22T05:30:00Z",
+   "to": "2026-09-22T05:00:00Z"
+  },
+  {
+   "kind": "moved",
+   "id": "1551341",
+   "tour": "t18479",
+   "what": "Mah-e-Par Stars v Hindukush Strikers",
+   "from": "2026-09-22T05:30:00Z",
+   "to": "2026-09-22T05:00:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1550139",
+   "tour": "t24694",
+   "what": "South Africa A v Bangladesh A",
+   "from": "2026-09-09T07:30:00Z"
   }
  ],
  "counts": {
   "tournaments": 69,
-  "fixtures": 858,
+  "fixtures": 857,
   "india": 27,
   "major": 28,
   "projected": 9,
