@@ -1,17 +1,42 @@
 [
  {
-  "kind": "added",
-  "id": "1550139",
-  "tour": "t24694",
-  "what": "South Africa A v Bangladesh A",
-  "to": "2026-09-09T07:30:00Z"
+  "kind": "moved",
+  "id": "1552795",
+  "tour": "t23315",
+  "what": "Cayman Islands v Bahamas",
+  "from": "2026-09-21T18:30:00Z",
+  "to": "2026-09-24T15:30:00Z"
  },
  {
   "kind": "moved",
-  "id": "1552313",
-  "tour": "t24737",
-  "what": "Japan Women v Malaysia Women",
-  "from": "2026-09-13T01:00:00Z",
-  "to": "2026-09-13T06:00:00Z"
+  "id": "1552796",
+  "tour": "t23315",
+  "what": "Bahamas v Bermuda",
+  "from": "2026-09-22T18:30:00Z",
+  "to": "2026-09-25T15:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1552797",
+  "tour": "t23315",
+  "what": "Cayman Islands v Bermuda",
+  "from": "2026-09-23T18:30:00Z",
+  "to": "2026-09-23T19:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1552798",
+  "tour": "t23315",
+  "what": "Cayman Islands v Bahamas",
+  "from": "2026-09-24T18:30:00Z",
+  "to": "2026-09-24T19:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1552799",
+  "tour": "t23315",
+  "what": "Bahamas v Bermuda",
+  "from": "2026-09-25T18:30:00Z",
+  "to": "2026-09-25T19:30:00Z"
  }
 ]
