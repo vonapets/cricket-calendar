@@ -478,5 +478,13 @@
   "short": "SA Domestic T20",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "18940": {
+  "id": "18940",
+  "key": "t18940",
+  "name": "South American Women's Championships",
+  "short": "SAW Championships",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
