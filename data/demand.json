@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-22T18:08:09Z",
+ "generated_at": "2026-09-23T01:52:53Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-09-22",
  "totals": {
-  "events": 2284,
-  "volume": 90297193,
+  "events": 2319,
+  "volume": 90012060,
   "competitions": 19
  },
  "competitions": {
@@ -72,12 +72,12 @@
    "not": []
   },
   "Other international": {
-   "matches": 137,
-   "traded": 84,
-   "median": 63090,
-   "p75": 117330,
+   "matches": 144,
+   "traded": 83,
+   "median": 62622,
+   "p75": 116228,
    "best": 350589,
-   "total": 7129655,
+   "total": 6843888,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -102,12 +102,12 @@
    ]
   },
   "India bilateral": {
-   "matches": 32,
+   "matches": 34,
    "traded": 27,
    "median": 247032,
    "p75": 402067,
    "best": 788605,
-   "total": 7157932,
+   "total": 7158566,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -296,28 +296,28 @@
    "median": 258866,
    "best": 788605
   },
-  "australia": {
-   "n": 12,
-   "traded": 9,
-   "median": 237257,
-   "best": 437829
-  },
   "italy": {
    "n": 2,
    "traded": 2,
    "median": 224155,
    "best": 350589
   },
+  "australia": {
+   "n": 12,
+   "traded": 10,
+   "median": 189115,
+   "best": 437829
+  },
   "england": {
-   "n": 9,
-   "traded": 8,
-   "median": 168808,
-   "best": 284005
+   "n": 8,
+   "traded": 7,
+   "median": 150162,
+   "best": 256852
   },
   "south africa": {
    "n": 27,
-   "traded": 18,
-   "median": 155347,
+   "traded": 19,
+   "median": 143773,
    "best": 429186
   },
   "usa": {
@@ -345,9 +345,9 @@
    "best": 788605
   },
   "sri lanka": {
-   "n": 32,
-   "traded": 28,
-   "median": 74204,
+   "n": 31,
+   "traded": 27,
+   "median": 73590,
    "best": 284075
   },
   "canada": {
@@ -393,13 +393,13 @@
    "best": 73050
   },
   "nepal": {
-   "n": 2,
+   "n": 3,
    "traded": 2,
    "median": 39605,
    "best": 46398
   },
   "afghanistan": {
-   "n": 13,
+   "n": 14,
    "traded": 8,
    "median": 30832,
    "best": 78050
@@ -430,17 +430,17 @@
    "median": 204536,
    "best": 268100
   },
-  "england|sri lanka": {
-   "n": 9,
-   "traded": 8,
-   "median": 168808,
-   "best": 284005
-  },
   "south africa|west indies": {
    "n": 3,
    "traded": 3,
    "median": 166921,
    "best": 290952
+  },
+  "england|sri lanka": {
+   "n": 8,
+   "traded": 7,
+   "median": 150162,
+   "best": 256852
   },
   "pakistan|sri lanka": {
    "n": 8,
@@ -508,6 +508,12 @@
    "median": 7623,
    "best": 7623
   },
+  "australia|south africa": {
+   "n": 2,
+   "traded": 1,
+   "median": 2350,
+   "best": 2350
+  },
   "afghanistan|pakistan": {
    "n": 2,
    "traded": 0,
@@ -519,12 +525,6 @@
    "traded": 0,
    "median": 0,
    "best": 0
-  },
-  "australia|south africa": {
-   "n": 2,
-   "traded": 0,
-   "median": 0,
-   "best": 95
   }
  }
 }

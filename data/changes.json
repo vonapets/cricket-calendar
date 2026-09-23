@@ -1,42 +1,30 @@
 [
  {
-  "kind": "moved",
-  "id": "1552795",
-  "tour": "t23315",
-  "what": "Cayman Islands v Bahamas",
-  "from": "2026-09-21T18:30:00Z",
-  "to": "2026-09-24T15:30:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1552796",
-  "tour": "t23315",
-  "what": "Bahamas v Bermuda",
-  "from": "2026-09-22T18:30:00Z",
-  "to": "2026-09-25T15:30:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1552797",
+  "kind": "added",
+  "id": "1555386",
   "tour": "t23315",
   "what": "Cayman Islands v Bermuda",
-  "from": "2026-09-23T18:30:00Z",
-  "to": "2026-09-23T19:30:00Z"
+  "to": "2026-09-23T15:30:00Z"
  },
  {
-  "kind": "moved",
-  "id": "1552798",
-  "tour": "t23315",
-  "what": "Cayman Islands v Bahamas",
-  "from": "2026-09-24T18:30:00Z",
-  "to": "2026-09-24T19:30:00Z"
+  "kind": "dropped",
+  "id": "1551068",
+  "tour": "t24741",
+  "what": "Bulgaria Women v Croatia Women",
+  "from": "2026-09-05T08:00:00Z"
  },
  {
-  "kind": "moved",
-  "id": "1552799",
-  "tour": "t23315",
-  "what": "Bahamas v Bermuda",
-  "from": "2026-09-25T18:30:00Z",
-  "to": "2026-09-25T19:30:00Z"
+  "kind": "dropped",
+  "id": "1551069",
+  "tour": "t24741",
+  "what": "Serbia Women v Bulgaria Women",
+  "from": "2026-09-05T12:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551070",
+  "tour": "t24741",
+  "what": "Serbia Women v Croatia Women",
+  "from": "2026-09-06T08:00:00Z"
  }
 ]
