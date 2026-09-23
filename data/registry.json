@@ -486,5 +486,13 @@
   "short": "SAW Championships",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "22547": {
+  "id": "22547",
+  "key": "t22547",
+  "name": "Asian Games Men's Cricket Competition",
+  "short": "Asian Games Men's Cricket",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
