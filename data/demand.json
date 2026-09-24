@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-24T07:41:33Z",
+ "generated_at": "2026-09-24T13:40:52Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-09-23",
  "totals": {
-  "events": 2335,
-  "volume": 90178364,
+  "events": 2322,
+  "volume": 90240340,
   "competitions": 19
  },
  "competitions": {
@@ -72,12 +72,12 @@
    "not": []
   },
   "Other international": {
-   "matches": 150,
+   "matches": 146,
    "traded": 86,
-   "median": 59880,
+   "median": 63090,
    "p75": 111099,
    "best": 350589,
-   "total": 7000011,
+   "total": 7050331,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -107,7 +107,7 @@
    "median": 247032,
    "p75": 402067,
    "best": 788605,
-   "total": 7168686,
+   "total": 7180742,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -302,22 +302,22 @@
    "median": 224155,
    "best": 350589
   },
-  "australia": {
-   "n": 13,
-   "traded": 10,
-   "median": 189115,
-   "best": 437829
-  },
   "england": {
    "n": 8,
    "traded": 7,
    "median": 150162,
    "best": 256852
   },
+  "australia": {
+   "n": 13,
+   "traded": 11,
+   "median": 140973,
+   "best": 437829
+  },
   "south africa": {
    "n": 28,
-   "traded": 19,
-   "median": 143773,
+   "traded": 20,
+   "median": 138383,
    "best": 429186
   },
   "usa": {
@@ -394,14 +394,14 @@
   },
   "nepal": {
    "n": 3,
-   "traded": 2,
-   "median": 39605,
+   "traded": 3,
+   "median": 32812,
    "best": 46398
   },
   "afghanistan": {
    "n": 14,
-   "traded": 8,
-   "median": 30832,
+   "traded": 9,
+   "median": 16165,
    "best": 78050
   }
  },
@@ -478,6 +478,12 @@
    "median": 68722,
    "best": 78496
   },
+  "australia|south africa": {
+   "n": 3,
+   "traded": 2,
+   "median": 50367,
+   "best": 99705
+  },
   "new zealand|west indies": {
    "n": 7,
    "traded": 7,
@@ -495,12 +501,6 @@
    "traded": 2,
    "median": 28124,
    "best": 49484
-  },
-  "australia|south africa": {
-   "n": 3,
-   "traded": 1,
-   "median": 22675,
-   "best": 22675
   },
   "afghanistan|sri lanka": {
    "n": 7,
