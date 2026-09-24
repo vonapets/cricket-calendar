@@ -494,5 +494,13 @@
   "short": "Asian Games Men's Cricket",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24796": {
+  "id": "24796",
+  "key": "t24796",
+  "name": "West Indies Women tour of Zimbabwe 2026",
+  "short": "West Indies Women in Zimbabwe 2026",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
