@@ -1,101 +1,100 @@
 [
  {
-  "kind": "moved",
-  "id": "1555386",
-  "tour": "t23315",
-  "what": "Cayman Islands v Bermuda",
-  "from": "2026-09-23T15:00:00Z",
-  "to": "2026-09-23T15:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534406",
-  "tour": "t8859",
-  "what": "Surrey 2nd XI v Kent 2nd XI",
-  "from": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551691",
   "tour": "t21185",
   "what": "Lions v Dolphins",
-  "from": "2027-04-03T08:00:00Z"
+  "to": "2027-04-03T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551692",
   "tour": "t21185",
   "what": "Titans v North West",
-  "from": "2027-04-03T08:00:00Z"
+  "to": "2027-04-03T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551690",
   "tour": "t21185",
   "what": "Warriors v Boland",
-  "from": "2027-04-03T08:00:00Z"
+  "to": "2027-04-03T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551689",
   "tour": "t21185",
   "what": "Western Province v Knights",
-  "from": "2027-04-03T08:00:00Z"
+  "to": "2027-04-03T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551693",
   "tour": "t21185",
   "what": "Boland v Titans",
-  "from": "2027-04-10T08:00:00Z"
+  "to": "2027-04-10T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551696",
   "tour": "t21185",
   "what": "Dolphins v Knights",
-  "from": "2027-04-10T08:00:00Z"
+  "to": "2027-04-10T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551695",
   "tour": "t21185",
   "what": "Warriors v North West",
-  "from": "2027-04-10T08:00:00Z"
+  "to": "2027-04-10T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551694",
   "tour": "t21185",
   "what": "Western Province v Lions",
-  "from": "2027-04-10T08:00:00Z"
+  "to": "2027-04-10T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551697",
   "tour": "t21185",
   "what": "Dolphins v Warriors",
-  "from": "2027-04-17T08:00:00Z"
+  "to": "2027-04-17T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551698",
   "tour": "t21185",
   "what": "Lions v Knights",
-  "from": "2027-04-17T08:00:00Z"
+  "to": "2027-04-17T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551700",
   "tour": "t21185",
   "what": "North West v Boland",
-  "from": "2027-04-17T08:00:00Z"
+  "to": "2027-04-17T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551699",
   "tour": "t21185",
   "what": "Titans v Western Province",
-  "from": "2027-04-17T08:00:00Z"
+  "to": "2027-04-17T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534406",
+  "tour": "t8859",
+  "what": "Surrey 2nd XI v Kent 2nd XI",
+  "to": "2026-08-18T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551716",
+  "tour": "t1551603",
+  "what": "Mpumalanga v Limpopo",
+  "from": "2026-12-17T08:00:00Z"
  }
 ]
