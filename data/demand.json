@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-25T01:59:08Z",
+ "generated_at": "2026-09-25T07:57:41Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-09-24",
  "totals": {
-  "events": 2318,
-  "volume": 90095381,
+  "events": 2311,
+  "volume": 90156700,
   "competitions": 19
  },
  "competitions": {
@@ -72,12 +72,12 @@
    "not": []
   },
   "Other international": {
-   "matches": 142,
-   "traded": 86,
-   "median": 55038,
+   "matches": 141,
+   "traded": 87,
+   "median": 57138,
    "p75": 111099,
    "best": 350589,
-   "total": 6904912,
+   "total": 6950166,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -103,11 +103,11 @@
   },
   "India bilateral": {
    "matches": 34,
-   "traded": 27,
-   "median": 247032,
+   "traded": 28,
+   "median": 242144,
    "p75": 402067,
    "best": 788605,
-   "total": 7181233,
+   "total": 7197287,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -292,8 +292,8 @@
  "teams": {
   "india": {
    "n": 29,
-   "traded": 26,
-   "median": 258866,
+   "traded": 27,
+   "median": 247032,
    "best": 788605
   },
   "italy": {
@@ -356,17 +356,17 @@
    "median": 72059,
    "best": 97721
   },
-  "west indies": {
-   "n": 19,
-   "traded": 17,
-   "median": 66333,
-   "best": 290952
-  },
   "netherlands": {
    "n": 2,
    "traded": 2,
    "median": 65327,
    "best": 91118
+  },
+  "west indies": {
+   "n": 19,
+   "traded": 18,
+   "median": 65315,
+   "best": 290952
   },
   "ireland": {
    "n": 5,
@@ -392,17 +392,17 @@
    "median": 59353,
    "best": 73050
   },
-  "nepal": {
-   "n": 3,
-   "traded": 3,
-   "median": 32812,
-   "best": 46398
-  },
   "afghanistan": {
    "n": 14,
    "traded": 9,
-   "median": 22107,
-   "best": 78050
+   "median": 49484,
+   "best": 99322
+  },
+  "nepal": {
+   "n": 3,
+   "traded": 3,
+   "median": 46398,
+   "best": 99322
   }
  },
  "pairs": {
@@ -511,8 +511,14 @@
   "australia|south africa": {
    "n": 2,
    "traded": 1,
-   "median": 3438,
-   "best": 3438
+   "median": 3799,
+   "best": 3799
+  },
+  "india|west indies": {
+   "n": 2,
+   "traded": 1,
+   "median": 1298,
+   "best": 1298
   },
   "afghanistan|pakistan": {
    "n": 2,
@@ -525,12 +531,6 @@
    "traded": 0,
    "median": 0,
    "best": 0
-  },
-  "india|west indies": {
-   "n": 2,
-   "traded": 0,
-   "median": 0,
-   "best": 140
   }
  }
 }
