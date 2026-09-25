@@ -1,44 +1,44 @@
 [
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551072",
   "tour": "t24742",
   "what": "Belgium Women v Portugal Women",
-  "from": "2026-09-04T07:30:00Z"
+  "to": "2026-09-04T07:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551075",
   "tour": "t24742",
   "what": "Belgium Women v Portugal Women",
-  "from": "2026-09-05T07:00:00Z"
+  "to": "2026-09-05T07:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551076",
   "tour": "t24742",
   "what": "Czech Republic Women v Belgium Women",
-  "from": "2026-09-05T11:30:00Z"
+  "to": "2026-09-05T11:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551077",
   "tour": "t24742",
   "what": "Czech Republic Women v Portugal Women",
-  "from": "2026-09-05T14:30:00Z"
+  "to": "2026-09-05T14:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551078",
   "tour": "t24742",
   "what": "Belgium Women v Portugal Women",
-  "from": "2026-09-06T07:30:00Z"
+  "to": "2026-09-06T07:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551079",
   "tour": "t24742",
   "what": "Czech Republic Women v Portugal Women",
-  "from": "2026-09-06T11:30:00Z"
+  "to": "2026-09-06T11:30:00Z"
  }
 ]
