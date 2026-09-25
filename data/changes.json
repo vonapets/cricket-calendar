@@ -1,58 +1,44 @@
 [
  {
-  "kind": "added",
-  "id": "1551703",
-  "tour": "t1551603",
-  "what": "Limpopo v Border",
-  "to": "2026-09-10T08:00:00Z"
- },
- {
-  "kind": "added",
+  "kind": "dropped",
   "id": "1551072",
   "tour": "t24742",
   "what": "Belgium Women v Portugal Women",
-  "to": "2026-09-04T07:30:00Z"
+  "from": "2026-09-04T07:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1551073",
+  "kind": "dropped",
+  "id": "1551075",
   "tour": "t24742",
-  "what": "Czech Republic Women v Portugal Women",
-  "to": "2026-09-04T11:30:00Z"
+  "what": "Belgium Women v Portugal Women",
+  "from": "2026-09-05T07:00:00Z"
  },
  {
-  "kind": "added",
-  "id": "1551074",
+  "kind": "dropped",
+  "id": "1551076",
   "tour": "t24742",
   "what": "Czech Republic Women v Belgium Women",
-  "to": "2026-09-04T14:30:00Z"
+  "from": "2026-09-05T11:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1547440",
-  "tour": "t8832",
-  "what": "Ace Capital Cricket Club v Nugegoda Sports Welfare Club",
-  "to": "2026-09-03T04:15:00Z"
+  "kind": "dropped",
+  "id": "1551077",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Portugal Women",
+  "from": "2026-09-05T14:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1547443",
-  "tour": "t8832",
-  "what": "Burgher Recreation Club v Badureliya Sports Club",
-  "to": "2026-09-03T04:15:00Z"
+  "kind": "dropped",
+  "id": "1551078",
+  "tour": "t24742",
+  "what": "Belgium Women v Portugal Women",
+  "from": "2026-09-06T07:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1547438",
-  "tour": "t8832",
-  "what": "Colombo Cricket Club v Tamil Union Cricket and Athletic Club",
-  "to": "2026-09-03T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534416",
-  "tour": "t8859",
-  "what": "Essex 2nd XI v Worcestershire 2nd XI",
-  "to": "2026-08-31T10:00:00Z"
+  "kind": "dropped",
+  "id": "1551079",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Portugal Women",
+  "from": "2026-09-06T11:30:00Z"
  }
 ]
