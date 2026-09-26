@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T07:50:05Z",
+ "generated_at": "2026-09-26T13:15:30Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -904,7 +904,7 @@
     "T20"
    ],
    "in_india": false,
-   "tier": "minor",
+   "tier": "major",
    "planned": false
   },
   {
@@ -13661,7 +13661,7 @@
    "home": "Warwickshire",
    "away": "Leicestershire",
    "home_score": "372",
-   "away_score": "125 & 55/3 (13 ov)",
+   "away_score": "125 & 168/9 (55.4 ov)",
    "venue": "Edgbaston, Birmingham",
    "city": "Birmingham",
    "country": "England",
@@ -13682,8 +13682,8 @@
    "round": "67th Match",
    "home": "Nottinghamshire",
    "away": "Yorkshire",
-   "home_score": "251 & 55/3 (21 ov)",
-   "away_score": "179",
+   "home_score": "251 & 85",
+   "away_score": "179 & 72/2 (21 ov, target 158)",
    "venue": "Trent Bridge, Nottingham",
    "city": "Nottingham",
    "country": "England",
@@ -13704,8 +13704,8 @@
    "round": "68th Match",
    "home": "Hampshire",
    "away": "Sussex",
-   "home_score": "128",
-   "away_score": "244 & 216/5 (59 ov)",
+   "home_score": "128 & 82/5 (24 ov, target 436)",
+   "away_score": "244 & 319/9d",
    "venue": "The Rose Bowl, Southampton",
    "city": "Southampton",
    "country": "England",
@@ -13727,7 +13727,7 @@
    "home": "Glamorgan",
    "away": "Essex",
    "home_score": "505",
-   "away_score": "100/7 (33.1 ov)",
+   "away_score": "129 & 83/1 (26.2 ov) (f/o)",
    "venue": "Sophia Gardens, Cardiff",
    "city": "Cardiff",
    "country": "England",
@@ -13748,7 +13748,7 @@
    "round": "70th Match",
    "home": "Somerset",
    "away": "Surrey",
-   "home_score": "222/3 (68 ov)",
+   "home_score": "414/3 (115.2 ov)",
    "away_score": "422",
    "venue": "The Cooper Associates County Ground, Taunton",
    "city": "Taunton",
@@ -13771,7 +13771,7 @@
    "home": "Kent",
    "away": "Gloucestershire",
    "home_score": "353",
-   "away_score": "229 & 61/2 (23 ov)",
+   "away_score": "229 & 172/7 (62.1 ov)",
    "venue": "St Lawrence Ground, Canterbury",
    "city": "Canterbury",
    "country": "England",
@@ -13792,8 +13792,8 @@
    "round": "54th Match",
    "home": "Middlesex",
    "away": "Northamptonshire",
-   "home_score": "255",
-   "away_score": "103 & 249/7 (96 ov)",
+   "home_score": "255 & 83/2 (30.3 ov, target 134)",
+   "away_score": "103 & 285",
    "venue": "Lord's, London",
    "city": "London",
    "country": "England",
@@ -13814,8 +13814,8 @@
    "round": "55th Match",
    "home": "Worcestershire",
    "away": "Derbyshire",
-   "home_score": "214 & 203/9 (66.3 ov)",
-   "away_score": "88",
+   "home_score": "214 & 206",
+   "away_score": "88 & 120/6 (35 ov, target 333)",
    "venue": "County Ground, New Road, Worcester",
    "city": "Worcester",
    "country": "England",
@@ -13836,7 +13836,7 @@
    "round": "56th Match",
    "home": "Lancashire",
    "away": "Durham",
-   "home_score": "10/0 (9 ov)",
+   "home_score": "103/4 (52 ov)",
    "away_score": "493",
    "venue": "Old Trafford, Manchester",
    "city": "Manchester",
@@ -14271,8 +14271,8 @@
    "tour": "t1554562",
    "utc": "2026-09-26T09:00:00Z",
    "ts": 1790413200,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "9th Match",
    "home": "Nigeria A",
    "away": "Sierra Leone",
@@ -14282,7 +14282,7 @@
    "city": "Lagos",
    "country": "Nigeria",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -14293,8 +14293,8 @@
    "tour": "t8656",
    "utc": "2026-09-26T11:00:00Z",
    "ts": 1790420400,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Final",
+   "status_long": "Final",
    "round": "Pool A",
    "home": "Northern Cape",
    "away": "Border",
@@ -14304,7 +14304,7 @@
    "city": "Kimberley",
    "country": "South Africa",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -14315,8 +14315,8 @@
    "tour": "t1554562",
    "utc": "2026-09-26T13:00:00Z",
    "ts": 1790427600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "10th Match",
    "home": "Nigeria",
    "away": "Ghana",
@@ -14326,7 +14326,7 @@
    "city": "Lagos",
    "country": "Nigeria",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -14648,8 +14648,8 @@
    "status": "Schedu",
    "status_long": "Scheduled",
    "round": "2nd Quarter-Final",
-   "home": "India",
-   "away": "TBA",
+   "home": "Afghanistan",
+   "away": "India",
    "home_score": "",
    "away_score": "",
    "venue": "Korogi Sports Park, Nisshin",
@@ -20911,132 +20911,12 @@
    "india": false
   }
  ],
- "changes": [
-  {
-   "kind": "added",
-   "id": "1528726",
-   "tour": "t24268",
-   "what": "Australia Women v New Zealand Women",
-   "to": "2027-03-08T03:50:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551723",
-   "tour": "t1551603",
-   "what": "Border v Northern Cape",
-   "to": "2027-01-21T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551724",
-   "tour": "t1551603",
-   "what": "KwaZulu-Natal Inland v Limpopo",
-   "to": "2027-01-21T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551722",
-   "tour": "t1551603",
-   "what": "South Western Districts v Mpumalanga",
-   "to": "2027-01-21T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551737",
-   "tour": "t1551603",
-   "what": "South Western Districts v KwaZulu-Natal Inland",
-   "to": "2027-03-11T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551825",
-   "tour": "t20676",
-   "what": "Border v Limpopo",
-   "to": "2027-03-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551072",
-   "tour": "t24742",
-   "what": "Belgium Women v Portugal Women",
-   "to": "2026-09-04T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551074",
-   "tour": "t24742",
-   "what": "Czech Republic Women v Belgium Women",
-   "to": "2026-09-04T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547874",
-   "tour": "eutpl",
-   "what": "Edinburgh Castle Rockers v Glasgow Cosmic",
-   "to": "2026-08-27T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547878",
-   "tour": "eutpl",
-   "what": "Amsterdam Flames v Belfast Wolves",
-   "to": "2026-08-30T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547408",
-   "tour": "t8832",
-   "what": "Kurunegala Youth Cricket Club v Colombo Cricket Club",
-   "to": "2026-08-14T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547440",
-   "tour": "t8832",
-   "what": "Ace Capital Cricket Club v Nugegoda Sports Welfare Club",
-   "to": "2026-09-03T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547443",
-   "tour": "t8832",
-   "what": "Burgher Recreation Club v Badureliya Sports Club",
-   "to": "2026-09-03T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547438",
-   "tour": "t8832",
-   "what": "Colombo Cricket Club v Tamil Union Cricket and Athletic Club",
-   "to": "2026-09-03T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547441",
-   "tour": "t8832",
-   "what": "Police Sports Club v Colts Cricket Club",
-   "to": "2026-09-03T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547445",
-   "tour": "t8832",
-   "what": "Moors Sports Club v Colts Cricket Club",
-   "to": "2026-09-07T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534415",
-   "tour": "t8859",
-   "what": "Durham 2nd XI v Somerset 2nd XI",
-   "to": "2026-09-01T10:00:00Z"
-  }
- ],
+ "changes": [],
  "counts": {
   "tournaments": 72,
   "fixtures": 887,
   "india": 27,
-  "major": 29,
+  "major": 30,
   "projected": 9,
   "projected_matches": 261,
   "failures": 0
@@ -21064,8 +20944,8 @@
   {
    "id": "24367",
    "name": "Bangladesh Women tour of Scotland 2026",
-   "matches": 4,
-   "last_seen": "2026-05-30 to 2026-06-04"
+   "matches": 3,
+   "last_seen": "2026-05-30 to 2026-06-02"
   },
   {
    "id": "24233",
@@ -21130,8 +21010,8 @@
   {
    "id": "24244",
    "name": "Sri Lanka Women tour of Bangladesh 2026",
-   "matches": 6,
-   "last_seen": "2026-04-20 to 2026-05-02"
+   "matches": 5,
+   "last_seen": "2026-04-20 to 2026-04-30"
   },
   {
    "id": "24256",
