@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-09-26T13:15:45Z",
+ "generated_at": "2026-09-26T17:49:41Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-09-26",
  "totals": {
   "events": 2291,
-  "volume": 90055421,
+  "volume": 90053054,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 224,
+   "matches": 225,
    "traded": 129,
    "median": 7810,
    "p75": 18696,
    "best": 74063,
-   "total": 1878896,
+   "total": 1878916,
    "outright": 2629062,
    "india_pct": 6,
    "name": "Domestic / minor",
@@ -72,12 +72,12 @@
    "not": []
   },
   "Other international": {
-   "matches": 133,
-   "traded": 85,
-   "median": 57138,
-   "p75": 111099,
+   "matches": 132,
+   "traded": 84,
+   "median": 59880,
+   "p75": 116228,
    "best": 350589,
-   "total": 6889912,
+   "total": 6887187,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -107,7 +107,7 @@
    "median": 258866,
    "p75": 402067,
    "best": 788605,
-   "total": 7156228,
+   "total": 7156438,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -502,23 +502,23 @@
    "median": 10244,
    "best": 74823
   },
+  "australia|south africa": {
+   "n": 2,
+   "traded": 1,
+   "median": 9787,
+   "best": 9787
+  },
   "india|west indies": {
    "n": 2,
    "traded": 1,
-   "median": 8259,
-   "best": 8259
+   "median": 8821,
+   "best": 8821
   },
   "new zealand|south africa": {
    "n": 8,
    "traded": 1,
    "median": 7623,
    "best": 7623
-  },
-  "australia|south africa": {
-   "n": 2,
-   "traded": 1,
-   "median": 7549,
-   "best": 7549
   },
   "afghanistan|pakistan": {
    "n": 2,

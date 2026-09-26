@@ -502,5 +502,13 @@
   "short": "West Indies Women in Zimbabwe 2026",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "19482": {
+  "id": "19482",
+  "key": "t19482",
+  "name": "Hong Kong Premier League One-Day Tournament",
+  "short": "HKG PL One-Day Tournament",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
