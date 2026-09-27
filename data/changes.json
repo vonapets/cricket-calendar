@@ -1,51 +1,72 @@
 [
  {
-  "kind": "added",
-  "id": "1551795",
-  "tour": "t20676",
-  "what": "South Western Districts v Border",
-  "to": "2026-11-22T08:00:00Z"
+  "kind": "dropped",
+  "id": "1547413",
+  "tour": "t8832",
+  "what": "Bloomfield Cricket and Athletic Club v Nondescripts Cricket Club",
+  "from": "2026-08-14T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1551799",
-  "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v Mpumalanga",
-  "to": "2026-12-13T07:00:00Z"
+  "kind": "dropped",
+  "id": "1547416",
+  "tour": "t8832",
+  "what": "Tamil Union Cricket and Athletic Club v Moors Sports Club",
+  "from": "2026-08-18T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1551800",
-  "tour": "t20676",
-  "what": "Limpopo v Easterns",
-  "to": "2026-12-13T08:00:00Z"
+  "kind": "dropped",
+  "id": "1547420",
+  "tour": "t8832",
+  "what": "Ace Capital Cricket Club v Colombo Cricket Club",
+  "from": "2026-08-21T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1551798",
-  "tour": "t20676",
-  "what": "South Western Districts v Northern Cape",
-  "to": "2026-12-13T08:00:00Z"
+  "kind": "dropped",
+  "id": "1547421",
+  "tour": "t8832",
+  "what": "Nugegoda Sports Welfare Club v Panadura Sports Club",
+  "from": "2026-08-21T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1551803",
-  "tour": "t20676",
-  "what": "Mpumalanga v Limpopo",
-  "to": "2026-12-20T07:00:00Z"
+  "kind": "dropped",
+  "id": "1547425",
+  "tour": "t8832",
+  "what": "Nondescripts Cricket Club v Sinhalese Sports Club",
+  "from": "2026-08-22T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1551801",
-  "tour": "t20676",
-  "what": "Border v Easterns",
-  "to": "2026-12-20T08:00:00Z"
+  "kind": "dropped",
+  "id": "1547427",
+  "tour": "t8832",
+  "what": "Moors Sports Club v Colombo Cricket Club",
+  "from": "2026-08-26T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1551802",
-  "tour": "t20676",
-  "what": "Northern Cape v KwaZulu-Natal Inland",
-  "to": "2026-12-20T08:00:00Z"
+  "kind": "dropped",
+  "id": "1547428",
+  "tour": "t8832",
+  "what": "Panadura Sports Club v Tamil Union Cricket and Athletic Club",
+  "from": "2026-08-26T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547431",
+  "tour": "t8832",
+  "what": "Sinhalese Sports Club v Burgher Recreation Club",
+  "from": "2026-08-26T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547440",
+  "tour": "t8832",
+  "what": "Ace Capital Cricket Club v Nugegoda Sports Welfare Club",
+  "from": "2026-09-03T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547444",
+  "tour": "t8832",
+  "what": "Colombo Cricket Club v Sinhalese Sports Club",
+  "from": "2026-09-07T04:15:00Z"
  }
 ]
