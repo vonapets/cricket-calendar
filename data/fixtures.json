@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T16:51:09Z",
+ "generated_at": "2026-09-28T20:37:07Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -127,7 +127,7 @@
    "color": "#7a8899",
    "start": "2026-08-10",
    "end": "2026-09-11",
-   "matches": 43,
+   "matches": 45,
    "india": false,
    "world": false,
    "formats": [
@@ -184,7 +184,7 @@
    "color": "#7a8899",
    "start": "2026-08-17",
    "end": "2026-09-08",
-   "matches": 26,
+   "matches": 25,
    "india": false,
    "world": false,
    "formats": [
@@ -299,7 +299,7 @@
    "color": "#2f6fb5",
    "start": "2026-08-26",
    "end": "2026-09-20",
-   "matches": 28,
+   "matches": 32,
    "india": false,
    "world": false,
    "formats": [
@@ -2689,6 +2689,28 @@
    "india": false
   },
   {
+   "id": "1547403",
+   "tour": "t8832",
+   "utc": "2026-08-10T04:15:00Z",
+   "ts": 1786335300,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group A",
+   "home": "Nugegoda Sports Welfare Club",
+   "away": "Moors Sports Club",
+   "home_score": "240",
+   "away_score": "241/4 (39.5/50 ov, target 241)",
+   "venue": "Thurstan College Ground, Colombo",
+   "city": "Colombo",
+   "country": "Sri Lanka",
+   "format": "ODI",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1528552",
    "tour": "t24263",
    "utc": "2026-08-10T09:45:00Z",
@@ -3232,6 +3254,28 @@
    "city": "Kingston",
    "country": "West Indies",
    "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1547412",
+   "tour": "t8832",
+   "utc": "2026-08-14T04:15:00Z",
+   "ts": 1786680900,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group B",
+   "home": "Badureliya Sports Club",
+   "away": "Colts Cricket Club",
+   "home_score": "103 (42.3/50 ov, target 133)",
+   "away_score": "132",
+   "venue": "Surrey Village Ground, Maggona",
+   "city": "Maggona",
+   "country": "Sri Lanka",
+   "format": "ODI",
    "note": "Final",
    "tbd": false,
    "disrupted": false,
@@ -5505,6 +5549,28 @@
    "india": false
   },
   {
+   "id": "1547873",
+   "tour": "eutpl",
+   "utc": "2026-08-27T09:30:00Z",
+   "ts": 1787823000,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "2nd Match",
+   "home": "Belfast Wolves",
+   "away": "Dublin Guardians",
+   "home_score": "184/7",
+   "away_score": "132/9 (20 ov, target 185)",
+   "venue": "Sportpark Westvliet, The Hague",
+   "city": "The Hague",
+   "country": "Netherlands",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1513432",
    "tour": "t8204",
    "utc": "2026-08-27T09:30:00Z",
@@ -5608,6 +5674,28 @@
    "city": "London",
    "country": "England",
    "format": "Test",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1547874",
+   "tour": "eutpl",
+   "utc": "2026-08-27T13:15:00Z",
+   "ts": 1787836500,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "3rd Match",
+   "home": "Edinburgh Castle Rockers",
+   "away": "Glasgow Cosmic",
+   "home_score": "116/3 (11.3/20 ov, target 116)",
+   "away_score": "115",
+   "venue": "Sportpark Westvliet, The Hague",
+   "city": "The Hague",
+   "country": "Netherlands",
+   "format": "T20",
    "note": "Final",
    "tbd": false,
    "disrupted": false,
@@ -6253,6 +6341,28 @@
    "india": false
   },
   {
+   "id": "1547878",
+   "tour": "eutpl",
+   "utc": "2026-08-30T09:30:00Z",
+   "ts": 1788082200,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "7th Match",
+   "home": "Amsterdam Flames",
+   "away": "Belfast Wolves",
+   "home_score": "56/2 (5/5 ov)",
+   "away_score": "59/1 (3.5/5 ov, target 57)",
+   "venue": "Sportpark Westvliet, The Hague",
+   "city": "The Hague",
+   "country": "Netherlands",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1549973",
    "tour": "t24688",
    "utc": "2026-08-30T10:00:00Z",
@@ -6268,6 +6378,28 @@
    "city": "Stirling",
    "country": "Scotland",
    "format": "ODI",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1547879",
+   "tour": "eutpl",
+   "utc": "2026-08-30T13:15:00Z",
+   "ts": 1788095700,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "8th Match",
+   "home": "Edinburgh Castle Rockers",
+   "away": "Dublin Guardians",
+   "home_score": "110/6 (13.4/20 ov, target 110)",
+   "away_score": "109",
+   "venue": "Sportpark Westvliet, The Hague",
+   "city": "The Hague",
+   "country": "Netherlands",
+   "format": "T20",
    "note": "Final",
    "tbd": false,
    "disrupted": false,
@@ -6420,28 +6552,6 @@
    "away_score": "163 & 321",
    "venue": "Lancot Park, Dunstable",
    "city": "Dunstable",
-   "country": "England",
-   "format": "Test",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1534418",
-   "tour": "t8859",
-   "utc": "2026-08-31T10:00:00Z",
-   "ts": 1788170400,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "Group 1",
-   "home": "Warwickshire 2nd XI",
-   "away": "Derbyshire 2nd XI",
-   "home_score": "60/0d & 402/5 (88 ov, target 402)",
-   "away_score": "461/8d & forfeit",
-   "venue": "Edgbaston Foundation Community Sports Ground, Birmingham",
-   "city": "Birmingham",
    "country": "England",
    "format": "Test",
    "note": "Final",
@@ -22008,351 +22118,57 @@
  "changes": [
   {
    "kind": "added",
-   "id": "1545775",
-   "tour": "t8897",
-   "what": "New South Wales Women v Queensland Women",
-   "to": "2026-09-29T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545774",
-   "tour": "t8897",
-   "what": "Victoria Women v South Australia Women",
-   "to": "2026-09-29T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545776",
-   "tour": "t8897",
-   "what": "Western Australia Women v Tasmania Women",
-   "to": "2026-09-29T05:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545778",
-   "tour": "t8897",
-   "what": "New South Wales Women v Queensland Women",
-   "to": "2026-10-01T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545777",
-   "tour": "t8897",
-   "what": "Victoria Women v South Australia Women",
-   "to": "2026-10-01T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545779",
-   "tour": "t8897",
-   "what": "Western Australia Women v Tasmania Women",
-   "to": "2026-10-01T05:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545780",
-   "tour": "t8897",
-   "what": "South Australia Women v Western Australia Women",
-   "to": "2026-12-14T00:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545781",
-   "tour": "t8897",
-   "what": "Australian Capital Territory Women v New South Wales Women",
-   "to": "2026-12-15T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545782",
-   "tour": "t8897",
-   "what": "South Australia Women v Western Australia Women",
-   "to": "2026-12-16T00:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545783",
-   "tour": "t8897",
-   "what": "Australian Capital Territory Women v New South Wales Women",
-   "to": "2026-12-17T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545784",
-   "tour": "t8897",
-   "what": "Tasmania Women v Victoria Women",
-   "to": "2026-12-20T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545785",
-   "tour": "t8897",
-   "what": "Tasmania Women v Victoria Women",
-   "to": "2026-12-22T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545786",
-   "tour": "t8897",
-   "what": "Queensland Women v Australian Capital Territory Women",
-   "to": "2027-01-04T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545787",
-   "tour": "t8897",
-   "what": "Queensland Women v Australian Capital Territory Women",
-   "to": "2027-01-06T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545788",
-   "tour": "t8897",
-   "what": "Western Australia Women v Victoria Women",
-   "to": "2027-01-08T05:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545789",
-   "tour": "t8897",
-   "what": "Tasmania Women v New South Wales Women",
-   "to": "2027-01-09T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545790",
-   "tour": "t8897",
-   "what": "Western Australia Women v Victoria Women",
-   "to": "2027-01-10T02:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545791",
-   "tour": "t8897",
-   "what": "Tasmania Women v New South Wales Women",
-   "to": "2027-01-11T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545792",
-   "tour": "t8897",
-   "what": "South Australia Women v Australian Capital Territory Women",
-   "to": "2027-01-19T04:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545793",
-   "tour": "t8897",
-   "what": "Victoria Women v Queensland Women",
-   "to": "2027-01-20T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545794",
-   "tour": "t8897",
-   "what": "South Australia Women v Australian Capital Territory Women",
-   "to": "2027-01-21T04:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545795",
-   "tour": "t8897",
-   "what": "Victoria Women v Queensland Women",
-   "to": "2027-01-22T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545796",
-   "tour": "t8897",
-   "what": "Queensland Women v Tasmania Women",
-   "to": "2027-01-31T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545797",
-   "tour": "t8897",
-   "what": "Queensland Women v Tasmania Women",
-   "to": "2027-02-02T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545798",
-   "tour": "t8897",
-   "what": "Australian Capital Territory Women v Western Australia Women",
-   "to": "2027-02-03T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545799",
-   "tour": "t8897",
-   "what": "New South Wales Women v Victoria Women",
-   "to": "2027-02-04T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545800",
-   "tour": "t8897",
-   "what": "Australian Capital Territory Women v Western Australia Women",
-   "to": "2027-02-05T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545801",
-   "tour": "t8897",
-   "what": "New South Wales Women v Victoria Women",
-   "to": "2027-02-06T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545802",
-   "tour": "t8897",
-   "what": "Tasmania Women v South Australia Women",
-   "to": "2027-02-08T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545803",
-   "tour": "t8897",
-   "what": "Tasmania Women v South Australia Women",
-   "to": "2027-02-10T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545805",
-   "tour": "t8897",
-   "what": "New South Wales Women v South Australia Women",
-   "to": "2027-02-21T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545804",
-   "tour": "t8897",
-   "what": "Queensland Women v Western Australia Women",
-   "to": "2027-02-21T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545807",
-   "tour": "t8897",
-   "what": "New South Wales Women v South Australia Women",
-   "to": "2027-02-23T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545806",
-   "tour": "t8897",
-   "what": "Queensland Women v Western Australia Women",
-   "to": "2027-02-23T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545808",
-   "tour": "t8897",
-   "what": "Victoria Women v Australian Capital Territory Women",
-   "to": "2027-02-23T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545809",
-   "tour": "t8897",
-   "what": "Victoria Women v Australian Capital Territory Women",
-   "to": "2027-02-25T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545810",
-   "tour": "t8897",
-   "what": "Australian Capital Territory Women v Tasmania Women",
-   "to": "2027-03-10T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545811",
-   "tour": "t8897",
-   "what": "South Australia Women v Queensland Women",
-   "to": "2027-03-10T04:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545812",
-   "tour": "t8897",
-   "what": "Western Australia Women v New South Wales Women",
-   "to": "2027-03-10T05:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545813",
-   "tour": "t8897",
-   "what": "Australian Capital Territory Women v Tasmania Women",
-   "to": "2027-03-12T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545814",
-   "tour": "t8897",
-   "what": "South Australia Women v Queensland Women",
-   "to": "2027-03-12T04:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545815",
-   "tour": "t8897",
-   "what": "Western Australia Women v New South Wales Women",
-   "to": "2027-03-12T05:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545816",
-   "tour": "t8897",
-   "what": "TBA v TBA",
-   "to": "2027-03-20T00:00:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1547403",
-   "tour": "t8832",
-   "what": "Nugegoda Sports Welfare Club v Moors Sports Club",
-   "from": "2026-08-10T04:15:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1547412",
-   "tour": "t8832",
-   "what": "Badureliya Sports Club v Colts Cricket Club",
-   "from": "2026-08-14T04:15:00Z"
-  },
-  {
-   "kind": "dropped",
    "id": "1547873",
    "tour": "eutpl",
    "what": "Belfast Wolves v Dublin Guardians",
-   "from": "2026-08-27T09:30:00Z"
+   "to": "2026-08-27T09:30:00Z"
   },
   {
-   "kind": "dropped",
+   "kind": "added",
    "id": "1547874",
    "tour": "eutpl",
    "what": "Edinburgh Castle Rockers v Glasgow Cosmic",
-   "from": "2026-08-27T13:15:00Z"
+   "to": "2026-08-27T13:15:00Z"
   },
   {
-   "kind": "dropped",
+   "kind": "added",
    "id": "1547878",
    "tour": "eutpl",
    "what": "Amsterdam Flames v Belfast Wolves",
-   "from": "2026-08-30T09:30:00Z"
+   "to": "2026-08-30T09:30:00Z"
   },
   {
-   "kind": "dropped",
+   "kind": "added",
    "id": "1547879",
    "tour": "eutpl",
    "what": "Edinburgh Castle Rockers v Dublin Guardians",
-   "from": "2026-08-30T13:15:00Z"
+   "to": "2026-08-30T13:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1547403",
+   "tour": "t8832",
+   "what": "Nugegoda Sports Welfare Club v Moors Sports Club",
+   "to": "2026-08-10T04:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1547412",
+   "tour": "t8832",
+   "what": "Badureliya Sports Club v Colts Cricket Club",
+   "to": "2026-08-14T04:15:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1534418",
+   "tour": "t8859",
+   "what": "Warwickshire 2nd XI v Derbyshire 2nd XI",
+   "from": "2026-08-31T10:00:00Z"
   }
  ],
  "counts": {
   "tournaments": 74,
-  "fixtures": 935,
+  "fixtures": 940,
   "india": 28,
   "major": 30,
   "projected": 9,
