@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T02:01:24Z",
+ "generated_at": "2026-09-28T08:46:45Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -936,7 +936,7 @@
    "start": "2026-09-24",
    "end": "2026-10-03",
    "matches": 10,
-   "india": false,
+   "india": true,
    "world": true,
    "formats": [
     "T20"
@@ -14405,7 +14405,7 @@
    "round": "1st Youth Test",
    "home": "India Under-19s",
    "away": "Australia Under-19s",
-   "home_score": "8/0 (1 ov)",
+   "home_score": "233/6 (61.5 ov)",
    "away_score": "217",
    "venue": "Niranjan Shah Stadium, Rajkot",
    "city": "Rajkot",
@@ -14642,18 +14642,18 @@
    "tour": "t23315",
    "utc": "2026-09-27T18:30:00Z",
    "ts": 1790533800,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "Final",
    "home": "Cayman Islands",
    "away": "Bermuda",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "59 (15 ov, target 102)",
+   "away_score": "101/9 (15/15 ov)",
    "venue": "Jimmy Powell Oval, George Town",
    "city": "George Town",
    "country": "Cayman Islands",
    "format": "T20",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -14682,12 +14682,56 @@
    "india": false
   },
   {
+   "id": "1551342",
+   "tour": "t18479",
+   "utc": "2026-09-28T05:00:00Z",
+   "ts": 1790571600,
+   "status": "Live",
+   "status_long": "Live",
+   "round": "11th Match",
+   "home": "Maiwand Champions",
+   "away": "Pamir Legends",
+   "home_score": "",
+   "away_score": "137/7 (25 ov)",
+   "venue": "Ghazi Amanullah Khan International Cricket Stadium",
+   "city": "Amanullah",
+   "country": "Afghanistan",
+   "format": "Test",
+   "note": "Live",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1551343",
+   "tour": "t18479",
+   "utc": "2026-09-28T05:00:00Z",
+   "ts": 1790571600,
+   "status": "Live",
+   "status_long": "Live",
+   "round": "12th Match",
+   "home": "Mah-e-Par Stars",
+   "away": "Hindukush Strikers",
+   "home_score": "",
+   "away_score": "97/8 (35 ov)",
+   "venue": "Rahmat Wali Masroor Cricket Stadium, Khost",
+   "city": "Khost",
+   "country": "Afghanistan",
+   "format": "Test",
+   "note": "Live",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1552773",
    "tour": "t24746",
    "utc": "2026-09-28T05:00:00Z",
    "ts": 1790571600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Final",
+   "status_long": "Final",
    "round": "2nd Quarter-Final",
    "home": "Afghanistan",
    "away": "India",
@@ -14697,55 +14741,11 @@
    "city": "Nisshin",
    "country": "Japan",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
    "india": true
-  },
-  {
-   "id": "1551343",
-   "tour": "t18479",
-   "utc": "2026-09-28T05:30:00Z",
-   "ts": 1790573400,
-   "status": "Schedu",
-   "status_long": "Scheduled",
-   "round": "12th Match",
-   "home": "Mah-e-Par Stars",
-   "away": "Hindukush Strikers",
-   "home_score": "",
-   "away_score": "",
-   "venue": "Rahmat Wali Masroor Cricket Stadium, Khost",
-   "city": "Khost",
-   "country": "Afghanistan",
-   "format": "Test",
-   "note": "Scheduled",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1551342",
-   "tour": "t18479",
-   "utc": "2026-09-28T05:30:00Z",
-   "ts": 1790573400,
-   "status": "Schedu",
-   "status_long": "Scheduled",
-   "round": "11th Match",
-   "home": "Maiwand Champions",
-   "away": "Pamir Legends",
-   "home_score": "",
-   "away_score": "",
-   "venue": "Ghazi Amanullah Khan International Cricket Stadium",
-   "city": "Amanullah",
-   "country": "Afghanistan",
-   "format": "Test",
-   "note": "Scheduled",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
   },
   {
    "id": "1551839",
@@ -15130,7 +15130,7 @@
    "status_long": "Scheduled",
    "round": "1st Semi-Final",
    "home": "TBA",
-   "away": "TBA",
+   "away": "Pakistan",
    "home_score": "",
    "away_score": "",
    "venue": "Korogi Sports Park, Nisshin",
@@ -15151,7 +15151,7 @@
    "status": "Schedu",
    "status_long": "Scheduled",
    "round": "2nd Semi-Final",
-   "home": "TBA",
+   "home": "India",
    "away": "TBA",
    "home_score": "",
    "away_score": "",
@@ -15163,7 +15163,7 @@
    "tbd": false,
    "disrupted": false,
    "finished": false,
-   "india": false
+   "india": true
   },
   {
    "id": "1551845",
@@ -21174,143 +21174,26 @@
  ],
  "changes": [
   {
-   "kind": "added",
-   "id": "1549973",
-   "tour": "t24688",
-   "what": "Scotland Women v Netherlands Women",
-   "to": "2026-08-30T10:00:00Z"
+   "kind": "moved",
+   "id": "1551342",
+   "tour": "t18479",
+   "what": "Maiwand Champions v Pamir Legends",
+   "from": "2026-09-28T05:30:00Z",
+   "to": "2026-09-28T05:00:00Z"
   },
   {
-   "kind": "added",
-   "id": "1534403",
-   "tour": "t8859",
-   "what": "Gloucestershire 2nd XI v Durham 2nd XI",
-   "to": "2026-08-18T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534404",
-   "tour": "t8859",
-   "what": "Leicestershire 2nd XI v Hampshire 2nd XI",
-   "to": "2026-08-18T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534401",
-   "tour": "t8859",
-   "what": "Middlesex 2nd XI v Sussex 2nd XI",
-   "to": "2026-08-18T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534405",
-   "tour": "t8859",
-   "what": "Nottinghamshire 2nd XI v Somerset 2nd XI",
-   "to": "2026-08-18T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534406",
-   "tour": "t8859",
-   "what": "Surrey 2nd XI v Kent 2nd XI",
-   "to": "2026-08-18T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534407",
-   "tour": "t8859",
-   "what": "Derbyshire 2nd XI v Middlesex 2nd XI",
-   "to": "2026-08-24T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534408",
-   "tour": "t8859",
-   "what": "Durham 2nd XI v Nottinghamshire 2nd XI",
-   "to": "2026-08-24T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534410",
-   "tour": "t8859",
-   "what": "Kent 2nd XI v Gloucestershire 2nd XI",
-   "to": "2026-08-24T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534411",
-   "tour": "t8859",
-   "what": "Leicestershire 2nd XI v Glamorgan 2nd XI",
-   "to": "2026-08-24T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534413",
-   "tour": "t8859",
-   "what": "Somerset 2nd XI v Surrey 2nd XI",
-   "to": "2026-08-25T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534414",
-   "tour": "t8859",
-   "what": "Worcestershire 2nd XI v Yorkshire 2nd XI",
-   "to": "2026-08-25T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534417",
-   "tour": "t8859",
-   "what": "Northamptonshire 2nd XI v Middlesex 2nd XI",
-   "to": "2026-08-31T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534418",
-   "tour": "t8859",
-   "what": "Warwickshire 2nd XI v Derbyshire 2nd XI",
-   "to": "2026-08-31T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534419",
-   "tour": "t8859",
-   "what": "Glamorgan 2nd XI v Hampshire 2nd XI",
-   "to": "2026-09-01T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534420",
-   "tour": "t8859",
-   "what": "Gloucestershire 2nd XI v Surrey 2nd XI",
-   "to": "2026-09-01T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534421",
-   "tour": "t8859",
-   "what": "Nottinghamshire 2nd XI v Kent 2nd XI",
-   "to": "2026-09-01T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534422",
-   "tour": "t8859",
-   "what": "Sussex 2nd XI v Lancashire 2nd XI",
-   "to": "2026-09-01T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534423",
-   "tour": "t8859",
-   "what": "Yorkshire 2nd XI v Leicestershire 2nd XI",
-   "to": "2026-09-01T10:00:00Z"
+   "kind": "moved",
+   "id": "1551343",
+   "tour": "t18479",
+   "what": "Mah-e-Par Stars v Hindukush Strikers",
+   "from": "2026-09-28T05:30:00Z",
+   "to": "2026-09-28T05:00:00Z"
   }
  ],
  "counts": {
   "tournaments": 73,
   "fixtures": 898,
-  "india": 27,
+  "india": 28,
   "major": 30,
   "projected": 9,
   "projected_matches": 261,
