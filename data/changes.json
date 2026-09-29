@@ -1,1 +1,30 @@
-[]
+[
+ {
+  "kind": "dropped",
+  "id": "1547873",
+  "tour": "eutpl",
+  "what": "Belfast Wolves v Dublin Guardians",
+  "from": "2026-08-27T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547874",
+  "tour": "eutpl",
+  "what": "Edinburgh Castle Rockers v Glasgow Cosmic",
+  "from": "2026-08-27T13:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547878",
+  "tour": "eutpl",
+  "what": "Amsterdam Flames v Belfast Wolves",
+  "from": "2026-08-30T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547879",
+  "tour": "eutpl",
+  "what": "Edinburgh Castle Rockers v Dublin Guardians",
+  "from": "2026-08-30T13:15:00Z"
+ }
+]

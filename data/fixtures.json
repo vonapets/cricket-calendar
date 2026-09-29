@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T14:55:08Z",
+ "generated_at": "2026-09-29T19:30:16Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -299,7 +299,7 @@
    "color": "#2f6fb5",
    "start": "2026-08-26",
    "end": "2026-09-20",
-   "matches": 32,
+   "matches": 28,
    "india": false,
    "world": false,
    "formats": [
@@ -5549,28 +5549,6 @@
    "india": false
   },
   {
-   "id": "1547873",
-   "tour": "eutpl",
-   "utc": "2026-08-27T09:30:00Z",
-   "ts": 1787823000,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "2nd Match",
-   "home": "Belfast Wolves",
-   "away": "Dublin Guardians",
-   "home_score": "184/7",
-   "away_score": "132/9 (20 ov, target 185)",
-   "venue": "Sportpark Westvliet, The Hague",
-   "city": "The Hague",
-   "country": "Netherlands",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1513432",
    "tour": "t8204",
    "utc": "2026-08-27T09:30:00Z",
@@ -5674,28 +5652,6 @@
    "city": "London",
    "country": "England",
    "format": "Test",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1547874",
-   "tour": "eutpl",
-   "utc": "2026-08-27T13:15:00Z",
-   "ts": 1787836500,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "3rd Match",
-   "home": "Edinburgh Castle Rockers",
-   "away": "Glasgow Cosmic",
-   "home_score": "116/3 (11.3/20 ov, target 116)",
-   "away_score": "115",
-   "venue": "Sportpark Westvliet, The Hague",
-   "city": "The Hague",
-   "country": "Netherlands",
-   "format": "T20",
    "note": "Final",
    "tbd": false,
    "disrupted": false,
@@ -6341,28 +6297,6 @@
    "india": false
   },
   {
-   "id": "1547878",
-   "tour": "eutpl",
-   "utc": "2026-08-30T09:30:00Z",
-   "ts": 1788082200,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "7th Match",
-   "home": "Amsterdam Flames",
-   "away": "Belfast Wolves",
-   "home_score": "56/2 (5/5 ov)",
-   "away_score": "59/1 (3.5/5 ov, target 57)",
-   "venue": "Sportpark Westvliet, The Hague",
-   "city": "The Hague",
-   "country": "Netherlands",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1549973",
    "tour": "t24688",
    "utc": "2026-08-30T10:00:00Z",
@@ -6378,28 +6312,6 @@
    "city": "Stirling",
    "country": "Scotland",
    "format": "ODI",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1547879",
-   "tour": "eutpl",
-   "utc": "2026-08-30T13:15:00Z",
-   "ts": 1788095700,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "8th Match",
-   "home": "Edinburgh Castle Rockers",
-   "away": "Dublin Guardians",
-   "home_score": "110/6 (13.4/20 ov, target 110)",
-   "away_score": "109",
-   "venue": "Sportpark Westvliet, The Hague",
-   "city": "The Hague",
-   "country": "Netherlands",
-   "format": "T20",
    "note": "Final",
    "tbd": false,
    "disrupted": false,
@@ -14969,18 +14881,18 @@
    "tour": "t8656",
    "utc": "2026-09-29T12:00:00Z",
    "ts": 1790683200,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "Pool A",
    "home": "Warriors",
    "away": "Limpopo",
    "home_score": "175/4",
-   "away_score": "103/2 (14/20 ov, target 176)",
+   "away_score": "140/8 (20 ov, target 176)",
    "venue": "St George's Park, Gqeberha",
    "city": "Gqeberha",
    "country": "South Africa",
    "format": "T20",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -14991,18 +14903,18 @@
    "tour": "t8656",
    "utc": "2026-09-29T16:00:00Z",
    "ts": 1790697600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Final",
+   "status_long": "Final",
    "round": "Pool B",
    "home": "Boland",
    "away": "Knights",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "161/5 (20 ov, target 161)",
+   "away_score": "160/5",
    "venue": "Boland Park, Paarl",
    "city": "Paarl",
    "country": "South Africa",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -22137,15 +22049,44 @@
    "india": false
   }
  ],
- "changes": [],
+ "changes": [
+  {
+   "kind": "dropped",
+   "id": "1547873",
+   "tour": "eutpl",
+   "what": "Belfast Wolves v Dublin Guardians",
+   "from": "2026-08-27T09:30:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1547874",
+   "tour": "eutpl",
+   "what": "Edinburgh Castle Rockers v Glasgow Cosmic",
+   "from": "2026-08-27T13:15:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1547878",
+   "tour": "eutpl",
+   "what": "Amsterdam Flames v Belfast Wolves",
+   "from": "2026-08-30T09:30:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1547879",
+   "tour": "eutpl",
+   "what": "Edinburgh Castle Rockers v Dublin Guardians",
+   "from": "2026-08-30T13:15:00Z"
+  }
+ ],
  "counts": {
   "tournaments": 74,
-  "fixtures": 941,
+  "fixtures": 937,
   "india": 28,
   "major": 30,
   "projected": 9,
   "projected_matches": 261,
-  "failures": 0
+  "failures": 2
  },
  "projection_horizon": "2027-03-31",
  "unpublished": [
@@ -22190,18 +22131,6 @@
    "name": "India tour of Zimbabwe 2026",
    "matches": 3,
    "last_seen": "2026-07-23 to 2026-07-26"
-  },
-  {
-   "id": "24382",
-   "name": "New Zealand A Women tour of Sri Lanka 2026",
-   "matches": 6,
-   "last_seen": "2026-05-12 to 2026-05-25"
-  },
-  {
-   "id": "24294",
-   "name": "New Zealand A tour of Sri Lanka 2026",
-   "matches": 5,
-   "last_seen": "2026-04-05 to 2026-04-23"
   },
   {
    "id": "24246",
@@ -22276,6 +22205,9 @@
    "last_seen": "2026-06-18 to 2026-06-23"
   }
  ],
- "failures": [],
+ "failures": [
+  "New Zealand A Women tour of Sri Lanka 2026 2027: giving up on https://site.api.espn.com/apis/site/v2/sports/cricket/24382/scoreboard?dates=2027: HTTP Error 502: Bad Gateway",
+  "New Zealand A tour of Sri Lanka 2026 2026: giving up on https://site.api.espn.com/apis/site/v2/sports/cricket/24294/scoreboard?dates=2026: HTTP Error 502: Bad Gateway"
+ ],
  "warnings": []
 }

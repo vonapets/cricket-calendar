@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-29T14:55:27Z",
+ "generated_at": "2026-09-29T19:30:36Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-09-29",
  "totals": {
-  "events": 2264,
-  "volume": 90015039,
+  "events": 2268,
+  "volume": 90020958,
   "competitions": 19
  },
  "competitions": {
@@ -16,7 +16,7 @@
    "median": 7680,
    "p75": 18696,
    "best": 74063,
-   "total": 1881458,
+   "total": 1881953,
    "outright": 2629062,
    "india_pct": 6,
    "name": "Domestic / minor",
@@ -72,12 +72,12 @@
    "not": []
   },
   "Other international": {
-   "matches": 126,
-   "traded": 82,
-   "median": 63090,
+   "matches": 127,
+   "traded": 83,
+   "median": 62622,
    "p75": 116228,
    "best": 350589,
-   "total": 6841262,
+   "total": 6846104,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -107,7 +107,7 @@
    "median": 247032,
    "p75": 402067,
    "best": 788605,
-   "total": 7161685,
+   "total": 7162256,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -327,13 +327,13 @@
    "best": 145759
   },
   "bangladesh": {
-   "n": 6,
+   "n": 7,
    "traded": 3,
    "median": 95400,
    "best": 111099
   },
   "pakistan": {
-   "n": 23,
+   "n": 24,
    "traded": 18,
    "median": 91190,
    "best": 284075
@@ -515,10 +515,10 @@
    "best": 100
   },
   "bangladesh|pakistan": {
-   "n": 3,
+   "n": 4,
    "traded": 0,
    "median": 0,
-   "best": 0
+   "best": 100
   }
  }
 }
