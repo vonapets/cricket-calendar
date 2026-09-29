@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T20:37:07Z",
+ "generated_at": "2026-09-29T02:47:02Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -184,7 +184,7 @@
    "color": "#7a8899",
    "start": "2026-08-17",
    "end": "2026-09-08",
-   "matches": 25,
+   "matches": 26,
    "india": false,
    "world": false,
    "formats": [
@@ -6552,6 +6552,28 @@
    "away_score": "163 & 321",
    "venue": "Lancot Park, Dunstable",
    "city": "Dunstable",
+   "country": "England",
+   "format": "Test",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1534418",
+   "tour": "t8859",
+   "utc": "2026-08-31T10:00:00Z",
+   "ts": 1788170400,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group 1",
+   "home": "Warwickshire 2nd XI",
+   "away": "Derbyshire 2nd XI",
+   "home_score": "60/0d & 402/5 (88 ov, target 402)",
+   "away_score": "461/8d & forfeit",
+   "venue": "Edgbaston Foundation Community Sports Ground, Birmingham",
+   "city": "Birmingham",
    "country": "England",
    "format": "Test",
    "note": "Final",
@@ -14771,8 +14793,8 @@
    "tour": "t22547",
    "utc": "2026-09-29T00:00:00Z",
    "ts": 1790640000,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Final",
+   "status_long": "Final",
    "round": "3rd Quarter-Final",
    "home": "Nepal",
    "away": "Sri Lanka",
@@ -14782,7 +14804,7 @@
    "city": "Nisshin",
    "country": "Japan",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -15259,7 +15281,7 @@
    "status_long": "Scheduled",
    "round": "2nd Semi-Final",
    "home": "India",
-   "away": "TBA",
+   "away": "Sri Lanka",
    "home_score": "",
    "away_score": "",
    "venue": "Korogi Sports Park, Nisshin",
@@ -22118,57 +22140,15 @@
  "changes": [
   {
    "kind": "added",
-   "id": "1547873",
-   "tour": "eutpl",
-   "what": "Belfast Wolves v Dublin Guardians",
-   "to": "2026-08-27T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547874",
-   "tour": "eutpl",
-   "what": "Edinburgh Castle Rockers v Glasgow Cosmic",
-   "to": "2026-08-27T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547878",
-   "tour": "eutpl",
-   "what": "Amsterdam Flames v Belfast Wolves",
-   "to": "2026-08-30T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547879",
-   "tour": "eutpl",
-   "what": "Edinburgh Castle Rockers v Dublin Guardians",
-   "to": "2026-08-30T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547403",
-   "tour": "t8832",
-   "what": "Nugegoda Sports Welfare Club v Moors Sports Club",
-   "to": "2026-08-10T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547412",
-   "tour": "t8832",
-   "what": "Badureliya Sports Club v Colts Cricket Club",
-   "to": "2026-08-14T04:15:00Z"
-  },
-  {
-   "kind": "dropped",
    "id": "1534418",
    "tour": "t8859",
    "what": "Warwickshire 2nd XI v Derbyshire 2nd XI",
-   "from": "2026-08-31T10:00:00Z"
+   "to": "2026-08-31T10:00:00Z"
   }
  ],
  "counts": {
   "tournaments": 74,
-  "fixtures": 940,
+  "fixtures": 941,
   "india": 28,
   "major": 30,
   "projected": 9,

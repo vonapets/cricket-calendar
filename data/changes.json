@@ -1,51 +1,9 @@
 [
  {
   "kind": "added",
-  "id": "1547873",
-  "tour": "eutpl",
-  "what": "Belfast Wolves v Dublin Guardians",
-  "to": "2026-08-27T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547874",
-  "tour": "eutpl",
-  "what": "Edinburgh Castle Rockers v Glasgow Cosmic",
-  "to": "2026-08-27T13:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547878",
-  "tour": "eutpl",
-  "what": "Amsterdam Flames v Belfast Wolves",
-  "to": "2026-08-30T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547879",
-  "tour": "eutpl",
-  "what": "Edinburgh Castle Rockers v Dublin Guardians",
-  "to": "2026-08-30T13:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547403",
-  "tour": "t8832",
-  "what": "Nugegoda Sports Welfare Club v Moors Sports Club",
-  "to": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547412",
-  "tour": "t8832",
-  "what": "Badureliya Sports Club v Colts Cricket Club",
-  "to": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1534418",
   "tour": "t8859",
   "what": "Warwickshire 2nd XI v Derbyshire 2nd XI",
-  "from": "2026-08-31T10:00:00Z"
+  "to": "2026-08-31T10:00:00Z"
  }
 ]
