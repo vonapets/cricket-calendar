@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-09-30T02:31:01Z",
+ "generated_at": "2026-09-30T08:41:45Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-09-29",
  "totals": {
-  "events": 2268,
-  "volume": 90037598,
+  "events": 2260,
+  "volume": 90097961,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 224,
-   "traded": 130,
-   "median": 7680,
+   "matches": 222,
+   "traded": 129,
+   "median": 7810,
    "p75": 18696,
    "best": 74063,
-   "total": 1882365,
+   "total": 1878927,
    "outright": 2629062,
    "india_pct": 6,
    "name": "Domestic / minor",
@@ -74,10 +74,10 @@
   "Other international": {
    "matches": 127,
    "traded": 83,
-   "median": 62622,
+   "median": 63557,
    "p75": 116228,
    "best": 350589,
-   "total": 6861335,
+   "total": 6922810,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -107,7 +107,7 @@
    "median": 242144,
    "p75": 402067,
    "best": 788605,
-   "total": 7163254,
+   "total": 7165559,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -356,17 +356,17 @@
    "median": 72059,
    "best": 97721
   },
+  "west indies": {
+   "n": 18,
+   "traded": 18,
+   "median": 66237,
+   "best": 290952
+  },
   "netherlands": {
    "n": 2,
    "traded": 2,
    "median": 65327,
    "best": 91118
-  },
-  "west indies": {
-   "n": 18,
-   "traded": 18,
-   "median": 65315,
-   "best": 290952
   },
   "ireland": {
    "n": 5,
@@ -518,7 +518,7 @@
    "n": 4,
    "traded": 0,
    "median": 0,
-   "best": 164
+   "best": 217
   }
  }
 }
