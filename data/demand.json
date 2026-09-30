@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-29T19:30:36Z",
+ "generated_at": "2026-09-30T02:31:01Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-09-29",
  "totals": {
   "events": 2268,
-  "volume": 90020958,
+  "volume": 90037598,
   "competitions": 19
  },
  "competitions": {
@@ -16,7 +16,7 @@
    "median": 7680,
    "p75": 18696,
    "best": 74063,
-   "total": 1881953,
+   "total": 1882365,
    "outright": 2629062,
    "india_pct": 6,
    "name": "Domestic / minor",
@@ -77,7 +77,7 @@
    "median": 62622,
    "p75": 116228,
    "best": 350589,
-   "total": 6846104,
+   "total": 6861335,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -103,11 +103,11 @@
   },
   "India bilateral": {
    "matches": 32,
-   "traded": 27,
-   "median": 247032,
+   "traded": 28,
+   "median": 242144,
    "p75": 402067,
    "best": 788605,
-   "total": 7162256,
+   "total": 7163254,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -292,8 +292,8 @@
  "teams": {
   "india": {
    "n": 29,
-   "traded": 27,
-   "median": 247032,
+   "traded": 28,
+   "median": 242144,
    "best": 788605
   },
   "italy": {
@@ -346,8 +346,8 @@
   },
   "sri lanka": {
    "n": 30,
-   "traded": 26,
-   "median": 74209,
+   "traded": 27,
+   "median": 73590,
    "best": 284075
   },
   "canada": {
@@ -518,7 +518,7 @@
    "n": 4,
    "traded": 0,
    "median": 0,
-   "best": 100
+   "best": 164
   }
  }
 }
