@@ -518,5 +518,13 @@
   "short": "Women's National Cricket League",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24609": {
+  "id": "24609",
+  "key": "t24609",
+  "name": "Irani Cup 2026/27",
+  "short": "Irani Cup 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }

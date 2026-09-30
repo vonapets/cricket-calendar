@@ -1,72 +1,65 @@
 [
  {
   "kind": "added",
-  "id": "1534399",
+  "id": "1534400",
   "tour": "t8859",
-  "what": "Derbyshire 2nd XI v Northamptonshire 2nd XI",
+  "what": "Glamorgan 2nd XI v Essex 2nd XI",
   "to": "2026-08-17T10:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1534402",
+  "id": "1534403",
   "tour": "t8859",
-  "what": "Warwickshire 2nd XI v Lancashire 2nd XI",
-  "to": "2026-08-17T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534404",
-  "tour": "t8859",
-  "what": "Leicestershire 2nd XI v Hampshire 2nd XI",
+  "what": "Gloucestershire 2nd XI v Durham 2nd XI",
   "to": "2026-08-18T10:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1534419",
+  "id": "1534405",
   "tour": "t8859",
-  "what": "Glamorgan 2nd XI v Hampshire 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
+  "what": "Nottinghamshire 2nd XI v Somerset 2nd XI",
+  "to": "2026-08-18T10:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1534420",
+  "id": "1534406",
   "tour": "t8859",
-  "what": "Gloucestershire 2nd XI v Surrey 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
+  "what": "Surrey 2nd XI v Kent 2nd XI",
+  "to": "2026-08-18T10:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1534421",
-  "tour": "t8859",
-  "what": "Nottinghamshire 2nd XI v Kent 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551067",
-  "tour": "t24741",
-  "what": "Bulgaria Women v Croatia Women",
-  "to": "2026-09-04T12:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521212",
-  "tour": "hun_w",
-  "what": "London Spirit (Women) v Southern Brave (Women)",
-  "to": "2026-08-01T13:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521225",
-  "tour": "hun_w",
-  "what": "Trent Rockets (Women) v Southern Brave (Women)",
-  "to": "2026-08-10T14:00:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1534410",
   "tour": "t8859",
   "what": "Kent 2nd XI v Gloucestershire 2nd XI",
+  "to": "2026-08-24T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534415",
+  "tour": "t8859",
+  "what": "Durham 2nd XI v Somerset 2nd XI",
+  "to": "2026-09-01T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1546442",
+  "tour": "t24609",
+  "what": "Jammu & Kashmir v Rest of India",
+  "to": "2026-10-01T04:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534407",
+  "tour": "t8859",
+  "what": "Derbyshire 2nd XI v Middlesex 2nd XI",
   "from": "2026-08-24T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534417",
+  "tour": "t8859",
+  "what": "Northamptonshire 2nd XI v Middlesex 2nd XI",
+  "from": "2026-08-31T10:00:00Z"
  }
 ]
