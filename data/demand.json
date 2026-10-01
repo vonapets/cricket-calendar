@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-01T15:36:27Z",
+ "generated_at": "2026-10-01T19:37:26Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-10-01",
  "totals": {
-  "events": 2288,
-  "volume": 90020163,
+  "events": 2323,
+  "volume": 90025795,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 219,
+   "matches": 218,
    "traded": 130,
    "median": 7680,
    "p75": 18696,
    "best": 74063,
-   "total": 1880573,
+   "total": 1884754,
    "outright": 2629062,
    "india_pct": 6,
    "name": "Domestic / minor",
@@ -61,7 +61,7 @@
    "median": 66652,
    "p75": 148238,
    "best": 148238,
-   "total": 264503,
+   "total": 264537,
    "outright": 17918,
    "india_pct": 30,
    "name": "ICC ODI World Cup",
@@ -77,7 +77,7 @@
    "median": 63557,
    "p75": 116228,
    "best": 350589,
-   "total": 6837079,
+   "total": 6837236,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -103,11 +103,11 @@
   },
   "India bilateral": {
    "matches": 33,
-   "traded": 27,
-   "median": 247032,
+   "traded": 28,
+   "median": 242144,
    "p75": 402067,
    "best": 788605,
-   "total": 7171998,
+   "total": 7173179,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -292,8 +292,8 @@
  "teams": {
   "india": {
    "n": 30,
-   "traded": 27,
-   "median": 247032,
+   "traded": 28,
+   "median": 242144,
    "best": 788605
   },
   "australia": {
@@ -332,17 +332,17 @@
    "median": 95400,
    "best": 111099
   },
-  "pakistan": {
-   "n": 24,
-   "traded": 18,
-   "median": 91190,
-   "best": 284075
-  },
   "new zealand": {
    "n": 30,
    "traded": 20,
    "median": 90813,
    "best": 788605
+  },
+  "pakistan": {
+   "n": 24,
+   "traded": 19,
+   "median": 85718,
+   "best": 284075
   },
   "sri lanka": {
    "n": 30,
@@ -511,8 +511,8 @@
   "india|west indies": {
    "n": 2,
    "traded": 1,
-   "median": 1093,
-   "best": 1093
+   "median": 1209,
+   "best": 1209
   },
   "afghanistan|pakistan": {
    "n": 2,
