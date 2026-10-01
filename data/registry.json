@@ -526,5 +526,13 @@
   "short": "Irani Cup 2026-27",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24139": {
+  "id": "24139",
+  "key": "t24139",
+  "name": "Canada Super 60",
+  "short": "Canada Super 60",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }

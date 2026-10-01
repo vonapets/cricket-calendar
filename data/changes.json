@@ -1,102 +1,198 @@
 [
  {
-  "kind": "moved",
-  "id": "1552777",
-  "tour": "t22547",
-  "what": "India v Sri Lanka",
-  "from": "2026-10-01T05:00:00Z",
-  "to": "2026-10-01T04:30:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1552779",
-  "tour": "t22547",
-  "what": "TBA v TBA",
-  "from": "2026-10-03T05:00:00Z",
-  "to": "2026-10-03T04:30:00Z"
- },
- {
   "kind": "added",
-  "id": "1534407",
+  "id": "1534409",
   "tour": "t8859",
-  "what": "Derbyshire 2nd XI v Middlesex 2nd XI",
+  "what": "Essex 2nd XI v Hampshire 2nd XI",
   "to": "2026-08-24T10:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1534416",
-  "tour": "t8859",
-  "what": "Essex 2nd XI v Worcestershire 2nd XI",
-  "to": "2026-08-31T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534417",
-  "tour": "t8859",
-  "what": "Northamptonshire 2nd XI v Middlesex 2nd XI",
-  "to": "2026-08-31T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534423",
-  "tour": "t8859",
-  "what": "Yorkshire 2nd XI v Leicestershire 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534409",
-  "tour": "t8859",
-  "what": "Essex 2nd XI v Hampshire 2nd XI",
-  "from": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1555255",
   "tour": "t18940",
   "what": "Brazil A Women v Chile Women",
-  "from": "2026-09-23T12:00:00Z"
+  "to": "2026-09-23T12:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1555256",
   "tour": "t18940",
   "what": "Chile Women v Costa Rica Women",
-  "from": "2026-09-23T16:00:00Z"
+  "to": "2026-09-23T16:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1555257",
   "tour": "t18940",
   "what": "Brazil A Women v Costa Rica Women",
-  "from": "2026-09-24T12:00:00Z"
+  "to": "2026-09-24T12:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1555258",
   "tour": "t18940",
   "what": "Brazil A Women v Chile Women",
-  "from": "2026-09-24T16:00:00Z"
+  "to": "2026-09-24T16:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1555259",
   "tour": "t18940",
   "what": "Chile Women v Costa Rica Women",
-  "from": "2026-09-25T12:00:00Z"
+  "to": "2026-09-25T12:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1555260",
   "tour": "t18940",
   "what": "Brazil A Women v Costa Rica Women",
-  "from": "2026-09-25T16:00:00Z"
+  "to": "2026-09-25T16:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1555261",
   "tour": "t18940",
   "what": "Brazil A Women v Costa Rica Women",
-  "from": "2026-09-27T12:00:00Z"
+  "to": "2026-09-27T12:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556685",
+  "tour": "t24139",
+  "what": "Brampton Blitz v White Rock Warriors",
+  "to": "2026-09-29T23:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556686",
+  "tour": "t24139",
+  "what": "Montreal Royal Tigers v Toronto Sixers",
+  "to": "2026-09-30T01:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556687",
+  "tour": "t24139",
+  "what": "Vancouver Kings v Mississauga Masters",
+  "to": "2026-09-30T05:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556688",
+  "tour": "t24139",
+  "what": "Brampton Blitz v Toronto Sixers",
+  "to": "2026-09-30T20:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556689",
+  "tour": "t24139",
+  "what": "Vancouver Kings v Montreal Royal Tigers",
+  "to": "2026-09-30T23:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556690",
+  "tour": "t24139",
+  "what": "Mississauga Masters v White Rock Warriors",
+  "to": "2026-10-01T01:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556691",
+  "tour": "t24139",
+  "what": "Vancouver Kings v Brampton Blitz",
+  "to": "2026-10-01T23:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556692",
+  "tour": "t24139",
+  "what": "Toronto Sixers v White Rock Warriors",
+  "to": "2026-10-02T01:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556693",
+  "tour": "t24139",
+  "what": "Mississauga Masters v Montreal Royal Tigers",
+  "to": "2026-10-02T05:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556694",
+  "tour": "t24139",
+  "what": "Vancouver Kings v Toronto Sixers",
+  "to": "2026-10-02T23:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556695",
+  "tour": "t24139",
+  "what": "Montreal Royal Tigers v White Rock Warriors",
+  "to": "2026-10-03T01:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556696",
+  "tour": "t24139",
+  "what": "Brampton Blitz v Mississauga Masters",
+  "to": "2026-10-03T05:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556697",
+  "tour": "t24139",
+  "what": "Vancouver Kings v White Rock Warriors",
+  "to": "2026-10-03T20:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556698",
+  "tour": "t24139",
+  "what": "Mississauga Masters v Toronto Sixers",
+  "to": "2026-10-04T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556699",
+  "tour": "t24139",
+  "what": "Brampton Blitz v Montreal Royal Tigers",
+  "to": "2026-10-04T05:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556700",
+  "tour": "t24139",
+  "what": "TBA v TBA",
+  "to": "2026-10-04T20:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556701",
+  "tour": "t24139",
+  "what": "TBA v TBA",
+  "to": "2026-10-04T23:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1556702",
+  "tour": "t24139",
+  "what": "TBA v TBA",
+  "to": "2026-10-05T03:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1549532",
+  "tour": "t24670",
+  "what": "Namibia v South Africa",
+  "from": "2026-09-11T07:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1549533",
+  "tour": "t24670",
+  "what": "Namibia v South Africa",
+  "from": "2026-09-13T07:30:00Z"
  }
 ]
