@@ -1,65 +1,102 @@
 [
  {
-  "kind": "added",
-  "id": "1534400",
-  "tour": "t8859",
-  "what": "Glamorgan 2nd XI v Essex 2nd XI",
-  "to": "2026-08-17T10:00:00Z"
+  "kind": "moved",
+  "id": "1552777",
+  "tour": "t22547",
+  "what": "India v Sri Lanka",
+  "from": "2026-10-01T05:00:00Z",
+  "to": "2026-10-01T04:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1552779",
+  "tour": "t22547",
+  "what": "TBA v TBA",
+  "from": "2026-10-03T05:00:00Z",
+  "to": "2026-10-03T04:30:00Z"
  },
  {
   "kind": "added",
-  "id": "1534403",
+  "id": "1534407",
   "tour": "t8859",
-  "what": "Gloucestershire 2nd XI v Durham 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534405",
-  "tour": "t8859",
-  "what": "Nottinghamshire 2nd XI v Somerset 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534406",
-  "tour": "t8859",
-  "what": "Surrey 2nd XI v Kent 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534410",
-  "tour": "t8859",
-  "what": "Kent 2nd XI v Gloucestershire 2nd XI",
+  "what": "Derbyshire 2nd XI v Middlesex 2nd XI",
   "to": "2026-08-24T10:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1534415",
+  "id": "1534416",
   "tour": "t8859",
-  "what": "Durham 2nd XI v Somerset 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
+  "what": "Essex 2nd XI v Worcestershire 2nd XI",
+  "to": "2026-08-31T10:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1546442",
-  "tour": "t24609",
-  "what": "Jammu & Kashmir v Rest of India",
-  "to": "2026-10-01T04:00:00Z"
+  "id": "1534417",
+  "tour": "t8859",
+  "what": "Northamptonshire 2nd XI v Middlesex 2nd XI",
+  "to": "2026-08-31T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534423",
+  "tour": "t8859",
+  "what": "Yorkshire 2nd XI v Leicestershire 2nd XI",
+  "to": "2026-09-01T10:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1534407",
+  "id": "1534409",
   "tour": "t8859",
-  "what": "Derbyshire 2nd XI v Middlesex 2nd XI",
+  "what": "Essex 2nd XI v Hampshire 2nd XI",
   "from": "2026-08-24T10:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1534417",
-  "tour": "t8859",
-  "what": "Northamptonshire 2nd XI v Middlesex 2nd XI",
-  "from": "2026-08-31T10:00:00Z"
+  "id": "1555255",
+  "tour": "t18940",
+  "what": "Brazil A Women v Chile Women",
+  "from": "2026-09-23T12:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1555256",
+  "tour": "t18940",
+  "what": "Chile Women v Costa Rica Women",
+  "from": "2026-09-23T16:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1555257",
+  "tour": "t18940",
+  "what": "Brazil A Women v Costa Rica Women",
+  "from": "2026-09-24T12:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1555258",
+  "tour": "t18940",
+  "what": "Brazil A Women v Chile Women",
+  "from": "2026-09-24T16:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1555259",
+  "tour": "t18940",
+  "what": "Chile Women v Costa Rica Women",
+  "from": "2026-09-25T12:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1555260",
+  "tour": "t18940",
+  "what": "Brazil A Women v Costa Rica Women",
+  "from": "2026-09-25T16:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1555261",
+  "tour": "t18940",
+  "what": "Brazil A Women v Costa Rica Women",
+  "from": "2026-09-27T12:00:00Z"
  }
 ]
