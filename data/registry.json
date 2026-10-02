@@ -550,5 +550,13 @@
   "short": "Canada Super60 Wom",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24803": {
+  "id": "24803",
+  "key": "t24803",
+  "name": "Indonesia tour of South Korea 2026/27",
+  "short": "Indonesia in South Korea 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
