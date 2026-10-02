@@ -1,87 +1,94 @@
 [
  {
   "kind": "moved",
-  "id": "1552779",
+  "id": "1552777",
   "tour": "t24746",
-  "what": "India v Pakistan",
-  "from": "2026-10-03T04:30:00Z",
-  "to": "2026-10-03T05:00:00Z"
+  "what": "India v Sri Lanka",
+  "from": "2026-10-01T04:30:00Z",
+  "to": "2026-10-01T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1552311",
-  "tour": "t24737",
-  "what": "Japan Women v Malaysia Women",
-  "to": "2026-09-11T01:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552312",
-  "tour": "t24737",
-  "what": "Japan Women v Malaysia Women",
-  "to": "2026-09-12T01:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1556876",
-  "tour": "t1556872",
-  "what": "Vancouver Warriors Women v Toronto Sixers Women",
-  "to": "2026-09-29T20:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1556877",
-  "tour": "t1556872",
-  "what": "Vancouver Anchors Women v Toronto Sixers Women",
-  "to": "2026-10-01T05:45:00Z"
- },
- {
-  "kind": "added",
-  "id": "1556878",
-  "tour": "t1556872",
-  "what": "Vancouver Anchors Women v Vancouver Warriors Women",
-  "to": "2026-10-01T20:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1556879",
-  "tour": "t1556872",
-  "what": "Vancouver Anchors Women v Toronto Sixers Women",
-  "to": "2026-10-02T20:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1556880",
-  "tour": "t1556872",
-  "what": "Vancouver Warriors Women v TBA",
-  "to": "2026-10-04T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1521224",
-  "tour": "hun_w",
-  "what": "London Spirit (Women) v Birmingham Phoenix (Women)",
-  "from": "2026-08-09T13:30:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1547406",
   "tour": "t8832",
   "what": "Nondescripts Cricket Club v Burgher Recreation Club",
-  "from": "2026-08-10T04:15:00Z"
+  "to": "2026-08-10T04:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1547433",
   "tour": "t8832",
   "what": "Moors Sports Club v Ace Capital Cricket Club",
-  "from": "2026-08-30T04:15:00Z"
+  "to": "2026-08-30T04:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551068",
   "tour": "t24741",
   "what": "Bulgaria Women v Croatia Women",
-  "from": "2026-09-05T08:00:00Z"
+  "to": "2026-09-05T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1521212",
+  "tour": "hun_w",
+  "what": "London Spirit (Women) v Southern Brave (Women)",
+  "from": "2026-08-01T13:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1521214",
+  "tour": "hun_w",
+  "what": "MI London (Women) v Manchester Super Giants (Women)",
+  "from": "2026-08-02T13:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1521215",
+  "tour": "hun_w",
+  "what": "Welsh Fire (Women) v Southern Brave (Women)",
+  "from": "2026-08-03T14:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1521216",
+  "tour": "hun_w",
+  "what": "Sunrisers Leeds (Women) v London Spirit (Women)",
+  "from": "2026-08-04T14:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1521218",
+  "tour": "hun_w",
+  "what": "Trent Rockets (Women) v Birmingham Phoenix (Women)",
+  "from": "2026-08-05T14:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535518",
+  "tour": "slt20",
+  "what": "Colombo Cricket Club v Tamil Union Cricket and Athletic Club",
+  "from": "2026-08-16T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535523",
+  "tour": "slt20",
+  "what": "Kurunegala Youth Cricket Club v Moors Sports Club",
+  "from": "2026-08-16T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547427",
+  "tour": "t8832",
+  "what": "Moors Sports Club v Colombo Cricket Club",
+  "from": "2026-08-26T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513586",
+  "tour": "t23080",
+  "what": "Warwickshire Women v The Blaze Women",
+  "from": "2026-08-26T09:30:00Z"
  }
 ]
