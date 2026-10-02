@@ -534,5 +534,13 @@
   "short": "Canada Super 60",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1554704": {
+  "id": "1554704",
+  "key": "t1554704",
+  "name": "Pakistan Women's Under-19s T20 Tri-Series 2026/27",
+  "short": "Pakistan Women's U",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
