@@ -1,30 +1,150 @@
 [
  {
-  "kind": "dropped",
-  "id": "1535525",
-  "tour": "slt20",
-  "what": "Colts Cricket Club v Panadura Sports Club",
-  "from": "2026-08-20T04:15:00Z"
+  "kind": "moved",
+  "id": "1556698",
+  "tour": "t24139",
+  "what": "Mississauga Masters v Toronto Sixers",
+  "from": "2026-10-04T01:30:00Z",
+  "to": "2026-10-03T23:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1513586",
   "tour": "t23080",
   "what": "Warwickshire Women v The Blaze Women",
-  "from": "2026-08-26T09:30:00Z"
+  "to": "2026-08-26T09:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
+  "id": "1535525",
+  "tour": "slt20",
+  "what": "Colts Cricket Club v Panadura Sports Club",
+  "to": "2026-08-20T04:15:00Z"
+ },
+ {
+  "kind": "added",
   "id": "1535495",
   "tour": "slt20",
   "what": "Sinhalese Sports Club v Nondescripts Cricket Club",
-  "from": "2026-08-28T08:30:00Z"
+  "to": "2026-08-28T08:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535503",
   "tour": "slt20",
   "what": "Ace Capital Cricket Club v Nondescripts Cricket Club",
-  "from": "2026-09-01T08:30:00Z"
+  "to": "2026-09-01T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551808",
+  "tour": "t20676",
+  "what": "Easterns v KwaZulu-Natal Inland",
+  "from": "2027-01-17T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551807",
+  "tour": "t20676",
+  "what": "Northern Cape v South Western Districts",
+  "from": "2027-01-17T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551811",
+  "tour": "t20676",
+  "what": "KwaZulu-Natal Inland v Limpopo",
+  "from": "2027-01-24T07:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551809",
+  "tour": "t20676",
+  "what": "South Western Districts v Mpumalanga",
+  "from": "2027-01-24T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551814",
+  "tour": "t20676",
+  "what": "Northern Cape v Mpumalanga",
+  "from": "2027-02-07T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551815",
+  "tour": "t20676",
+  "what": "KwaZulu-Natal Inland v Border",
+  "from": "2027-02-14T07:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551817",
+  "tour": "t20676",
+  "what": "Mpumalanga v Northern Cape",
+  "from": "2027-02-14T07:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551816",
+  "tour": "t20676",
+  "what": "Easterns v Limpopo",
+  "from": "2027-02-14T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551823",
+  "tour": "t20676",
+  "what": "Limpopo v South Western Districts",
+  "from": "2027-03-07T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551827",
+  "tour": "t20676",
+  "what": "Mpumalanga v Easterns",
+  "from": "2027-03-21T07:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551691",
+  "tour": "t21185",
+  "what": "Lions v Dolphins",
+  "from": "2027-04-03T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551692",
+  "tour": "t21185",
+  "what": "Titans v North West",
+  "from": "2027-04-03T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551690",
+  "tour": "t21185",
+  "what": "Warriors v Boland",
+  "from": "2027-04-03T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551698",
+  "tour": "t21185",
+  "what": "Lions v Knights",
+  "from": "2027-04-17T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551700",
+  "tour": "t21185",
+  "what": "North West v Boland",
+  "from": "2027-04-17T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551699",
+  "tour": "t21185",
+  "what": "Titans v Western Province",
+  "from": "2027-04-17T08:00:00Z"
  }
 ]
