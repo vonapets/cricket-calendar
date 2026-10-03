@@ -558,5 +558,21 @@
   "short": "Indonesia in South Korea 2026-27",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1554058": {
+  "id": "1554058",
+  "key": "t1554058",
+  "name": "CSA Women Pro50 Series 2026/27",
+  "short": "CSA Women Pro50 Se",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "8814": {
+  "id": "8814",
+  "key": "t8814",
+  "name": "National Cricket League",
+  "short": "National Cricket League",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }

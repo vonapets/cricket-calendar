@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-02T19:26:44Z",
+ "generated_at": "2026-10-03T02:22:57Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-10-02",
  "totals": {
-  "events": 2393,
-  "volume": 90033685,
+  "events": 2389,
+  "volume": 90152092,
   "competitions": 19
  },
  "competitions": {
@@ -16,8 +16,8 @@
    "median": 7680,
    "p75": 18696,
    "best": 74063,
-   "total": 1881557,
-   "outright": 2629497,
+   "total": 1882265,
+   "outright": 2629537,
    "india_pct": 6,
    "name": "Domestic / minor",
    "detect": [],
@@ -61,7 +61,7 @@
    "median": 66652,
    "p75": 148238,
    "best": 148238,
-   "total": 264560,
+   "total": 264660,
    "outright": 17918,
    "india_pct": 25,
    "name": "ICC ODI World Cup",
@@ -72,12 +72,12 @@
    "not": []
   },
   "Other international": {
-   "matches": 143,
+   "matches": 142,
    "traded": 83,
-   "median": 62622,
+   "median": 63557,
    "p75": 116228,
    "best": 350589,
-   "total": 6847489,
+   "total": 6951319,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -107,7 +107,7 @@
    "median": 247032,
    "p75": 402067,
    "best": 788605,
-   "total": 7173762,
+   "total": 7187481,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -326,6 +326,12 @@
    "median": 110838,
    "best": 145759
   },
+  "bangladesh": {
+   "n": 8,
+   "traded": 4,
+   "median": 99353,
+   "best": 111099
+  },
   "new zealand": {
    "n": 30,
    "traded": 20,
@@ -338,16 +344,10 @@
    "median": 85718,
    "best": 284075
   },
-  "bangladesh": {
-   "n": 8,
-   "traded": 4,
-   "median": 74169,
-   "best": 111099
-  },
   "sri lanka": {
    "n": 31,
    "traded": 27,
-   "median": 73590,
+   "median": 74828,
    "best": 284075
   },
   "canada": {
@@ -502,17 +502,17 @@
    "median": 10244,
    "best": 74828
   },
+  "india|west indies": {
+   "n": 3,
+   "traded": 1,
+   "median": 9579,
+   "best": 9579
+  },
   "new zealand|south africa": {
    "n": 8,
    "traded": 1,
    "median": 7623,
    "best": 7623
-  },
-  "india|west indies": {
-   "n": 3,
-   "traded": 1,
-   "median": 5565,
-   "best": 5565
   },
   "afghanistan|pakistan": {
    "n": 2,
