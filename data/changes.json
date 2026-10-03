@@ -1,170 +1,30 @@
 [
  {
-  "kind": "added",
-  "id": "1551072",
-  "tour": "t24742",
-  "what": "Belgium Women v Portugal Women",
-  "to": "2026-09-04T07:30:00Z"
+  "kind": "dropped",
+  "id": "1535525",
+  "tour": "slt20",
+  "what": "Colts Cricket Club v Panadura Sports Club",
+  "from": "2026-08-20T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1551074",
-  "tour": "t24742",
-  "what": "Czech Republic Women v Belgium Women",
-  "to": "2026-09-04T14:30:00Z"
+  "kind": "dropped",
+  "id": "1513586",
+  "tour": "t23080",
+  "what": "Warwickshire Women v The Blaze Women",
+  "from": "2026-08-26T09:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1551075",
-  "tour": "t24742",
-  "what": "Belgium Women v Portugal Women",
-  "to": "2026-09-05T07:00:00Z"
+  "kind": "dropped",
+  "id": "1535495",
+  "tour": "slt20",
+  "what": "Sinhalese Sports Club v Nondescripts Cricket Club",
+  "from": "2026-08-28T08:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1551076",
-  "tour": "t24742",
-  "what": "Czech Republic Women v Belgium Women",
-  "to": "2026-09-05T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551077",
-  "tour": "t24742",
-  "what": "Czech Republic Women v Portugal Women",
-  "to": "2026-09-05T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551078",
-  "tour": "t24742",
-  "what": "Belgium Women v Portugal Women",
-  "to": "2026-09-06T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545998",
-  "tour": "t19439",
-  "what": "Scotland v United Arab Emirates",
-  "to": "2026-08-03T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545999",
-  "tour": "t19439",
-  "what": "Canada v United Arab Emirates",
-  "to": "2026-08-05T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1546000",
-  "tour": "t19439",
-  "what": "Scotland v Canada",
-  "to": "2026-08-07T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1546001",
-  "tour": "t19439",
-  "what": "Scotland v United Arab Emirates",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1546002",
-  "tour": "t19439",
-  "what": "Canada v United Arab Emirates",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1546003",
-  "tour": "t19439",
-  "what": "Scotland v Canada",
-  "to": "2026-08-13T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554409",
-  "tour": "t19439",
-  "what": "Namibia v United Arab Emirates",
-  "to": "2026-10-03T15:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554410",
-  "tour": "t19439",
-  "what": "United States of America v United Arab Emirates",
-  "to": "2026-10-05T15:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554411",
-  "tour": "t19439",
-  "what": "United States of America v Namibia",
-  "to": "2026-10-07T15:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554415",
-  "tour": "t19439",
-  "what": "Oman v Canada",
-  "to": "2026-10-09T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554412",
-  "tour": "t19439",
-  "what": "Namibia v United Arab Emirates",
-  "to": "2026-10-09T15:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554416",
-  "tour": "t19439",
-  "what": "Canada v Nepal",
-  "to": "2026-10-11T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554413",
-  "tour": "t19439",
-  "what": "United States of America v United Arab Emirates",
-  "to": "2026-10-11T15:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554417",
-  "tour": "t19439",
-  "what": "Oman v Nepal",
-  "to": "2026-10-13T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554414",
-  "tour": "t19439",
-  "what": "United States of America v Namibia",
-  "to": "2026-10-13T15:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554418",
-  "tour": "t19439",
-  "what": "Oman v Canada",
-  "to": "2026-10-15T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554419",
-  "tour": "t19439",
-  "what": "Canada v Nepal",
-  "to": "2026-10-17T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554420",
-  "tour": "t19439",
-  "what": "Oman v Nepal",
-  "to": "2026-10-19T06:00:00Z"
+  "kind": "dropped",
+  "id": "1535503",
+  "tour": "slt20",
+  "what": "Ace Capital Cricket Club v Nondescripts Cricket Club",
+  "from": "2026-09-01T08:30:00Z"
  }
 ]
