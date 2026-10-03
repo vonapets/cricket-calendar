@@ -574,5 +574,13 @@
   "short": "National Cricket League",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "19439": {
+  "id": "19439",
+  "key": "t19439",
+  "name": "ICC Men's Cricket World Cup League 2",
+  "short": "ICC MCWC League 2",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
