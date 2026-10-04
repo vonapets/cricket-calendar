@@ -582,5 +582,13 @@
   "short": "ICC MCWC League 2",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1554057": {
+  "id": "1554057",
+  "key": "t1554057",
+  "name": "CSA Women Pro20 Series 2026/27",
+  "short": "CSA Women Pro20 Se",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
