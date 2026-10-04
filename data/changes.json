@@ -1,30 +1,149 @@
 [
  {
   "kind": "added",
-  "id": "1551708",
-  "tour": "t1551603",
-  "what": "South Western Districts v Border",
-  "to": "2026-11-19T08:00:00Z"
+  "id": "1554534",
+  "tour": "t1554524",
+  "what": "Bahrain v Thailand",
+  "to": "2026-10-05T01:15:00Z"
  },
  {
   "kind": "added",
-  "id": "1551713",
-  "tour": "t1551603",
-  "what": "Limpopo v Easterns",
-  "to": "2026-12-10T08:00:00Z"
+  "id": "1554533",
+  "tour": "t1554524",
+  "what": "Bhutan v Myanmar",
+  "to": "2026-10-05T01:15:00Z"
  },
  {
   "kind": "added",
-  "id": "1551714",
-  "tour": "t1551603",
-  "what": "Border v Easterns",
-  "to": "2026-12-17T08:00:00Z"
+  "id": "1554535",
+  "tour": "t1554524",
+  "what": "Kuwait v Qatar",
+  "to": "2026-10-05T06:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551715",
-  "tour": "t1551603",
-  "what": "Northern Cape v KwaZulu-Natal Inland",
-  "to": "2026-12-17T08:00:00Z"
+  "id": "1554536",
+  "tour": "t1554524",
+  "what": "Qatar v Thailand",
+  "to": "2026-10-06T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554537",
+  "tour": "t1554524",
+  "what": "Bahrain v Bhutan",
+  "to": "2026-10-06T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554538",
+  "tour": "t1554524",
+  "what": "Kuwait v Mongolia",
+  "to": "2026-10-06T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554541",
+  "tour": "t1554524",
+  "what": "Bahrain v Myanmar",
+  "to": "2026-10-08T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554540",
+  "tour": "t1554524",
+  "what": "Bhutan v Mongolia",
+  "to": "2026-10-08T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554539",
+  "tour": "t1554524",
+  "what": "Kuwait v Thailand",
+  "to": "2026-10-08T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554543",
+  "tour": "t1554524",
+  "what": "Bahrain v Kuwait",
+  "to": "2026-10-09T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554542",
+  "tour": "t1554524",
+  "what": "Mongolia v Thailand",
+  "to": "2026-10-09T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554544",
+  "tour": "t1554524",
+  "what": "Qatar v Myanmar",
+  "to": "2026-10-09T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554547",
+  "tour": "t1554524",
+  "what": "Bahrain v Mongolia",
+  "to": "2026-10-11T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554546",
+  "tour": "t1554524",
+  "what": "Bhutan v Qatar",
+  "to": "2026-10-11T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554545",
+  "tour": "t1554524",
+  "what": "Kuwait v Myanmar",
+  "to": "2026-10-11T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554550",
+  "tour": "t1554524",
+  "what": "Bhutan v Kuwait",
+  "to": "2026-10-12T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554549",
+  "tour": "t1554524",
+  "what": "Myanmar v Thailand",
+  "to": "2026-10-12T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554548",
+  "tour": "t1554524",
+  "what": "Qatar v Mongolia",
+  "to": "2026-10-12T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554552",
+  "tour": "t1554524",
+  "what": "Bahrain v Qatar",
+  "to": "2026-10-14T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554551",
+  "tour": "t1554524",
+  "what": "Mongolia v Myanmar",
+  "to": "2026-10-14T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554553",
+  "tour": "t1554524",
+  "what": "Bhutan v Thailand",
+  "to": "2026-10-14T06:00:00Z"
  }
 ]

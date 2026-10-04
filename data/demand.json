@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-04T14:11:13Z",
+ "generated_at": "2026-10-04T18:12:52Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-10-04",
  "totals": {
-  "events": 2366,
-  "volume": 90038337,
+  "events": 2374,
+  "volume": 90069145,
   "competitions": 19
  },
  "competitions": {
@@ -17,7 +17,7 @@
    "p75": 18696,
    "best": 74063,
    "total": 1886279,
-   "outright": 2644031,
+   "outright": 2667916,
    "india_pct": 6,
    "name": "Domestic / minor",
    "detect": [],
@@ -77,7 +77,7 @@
    "median": 59880,
    "p75": 116228,
    "best": 350589,
-   "total": 6847319,
+   "total": 6847881,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -85,12 +85,12 @@
    "not": []
   },
   "SA20": {
-   "matches": 63,
+   "matches": 62,
    "traded": 50,
    "median": 27116,
    "p75": 52462,
    "best": 96567,
-   "total": 1660336,
+   "total": 1666695,
    "outright": 0,
    "india_pct": 0,
    "name": "SA20",
@@ -107,7 +107,7 @@
    "median": 258866,
    "p75": 402067,
    "best": 788605,
-   "total": 7156240,
+   "total": 7156241,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -511,8 +511,8 @@
   "india|west indies": {
    "n": 3,
    "traded": 1,
-   "median": 4559,
-   "best": 4559
+   "median": 4776,
+   "best": 4776
   },
   "afghanistan|pakistan": {
    "n": 2,

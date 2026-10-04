@@ -590,5 +590,13 @@
   "short": "CSA Women Pro20 Se",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1554524": {
+  "id": "1554524",
+  "key": "t1554524",
+  "name": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A 2026/27",
+  "short": "ICC Men's T20 Worl",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
