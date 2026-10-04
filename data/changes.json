@@ -1,240 +1,30 @@
 [
  {
   "kind": "added",
-  "id": "1549957",
-  "tour": "acc_pc",
-  "what": "Bahrain v Saudi Arabia",
-  "to": "2026-09-04T01:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551721",
-  "tour": "t1551603",
-  "what": "Easterns v KwaZulu-Natal Inland",
-  "to": "2027-01-14T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551727",
-  "tour": "t1551603",
-  "what": "Northern Cape v Mpumalanga",
-  "to": "2027-02-04T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551733",
-  "tour": "t1551603",
-  "what": "Limpopo v Mpumalanga",
-  "to": "2027-02-18T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551808",
-  "tour": "t20676",
-  "what": "Easterns v KwaZulu-Natal Inland",
-  "to": "2027-01-17T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1537353",
-  "tour": "lpl",
-  "what": "Colombo Kaps v Galle Gallants",
-  "to": "2026-08-07T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534399",
-  "tour": "t8859",
-  "what": "Derbyshire 2nd XI v Northamptonshire 2nd XI",
-  "to": "2026-08-17T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534400",
-  "tour": "t8859",
-  "what": "Glamorgan 2nd XI v Essex 2nd XI",
-  "to": "2026-08-17T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534403",
-  "tour": "t8859",
-  "what": "Gloucestershire 2nd XI v Durham 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534405",
-  "tour": "t8859",
-  "what": "Nottinghamshire 2nd XI v Somerset 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534406",
-  "tour": "t8859",
-  "what": "Surrey 2nd XI v Kent 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534407",
-  "tour": "t8859",
-  "what": "Derbyshire 2nd XI v Middlesex 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534410",
-  "tour": "t8859",
-  "what": "Kent 2nd XI v Gloucestershire 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534411",
-  "tour": "t8859",
-  "what": "Leicestershire 2nd XI v Glamorgan 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534413",
-  "tour": "t8859",
-  "what": "Somerset 2nd XI v Surrey 2nd XI",
-  "to": "2026-08-25T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534418",
-  "tour": "t8859",
-  "what": "Warwickshire 2nd XI v Derbyshire 2nd XI",
-  "to": "2026-08-31T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551067",
-  "tour": "t24741",
-  "what": "Bulgaria Women v Croatia Women",
-  "to": "2026-09-04T12:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521212",
-  "tour": "hun_w",
-  "what": "London Spirit (Women) v Southern Brave (Women)",
-  "to": "2026-08-01T13:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521214",
-  "tour": "hun_w",
-  "what": "MI London (Women) v Manchester Super Giants (Women)",
-  "to": "2026-08-02T13:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521215",
-  "tour": "hun_w",
-  "what": "Welsh Fire (Women) v Southern Brave (Women)",
-  "to": "2026-08-03T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521216",
-  "tour": "hun_w",
-  "what": "Sunrisers Leeds (Women) v London Spirit (Women)",
-  "to": "2026-08-04T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521217",
-  "tour": "hun_w",
-  "what": "Manchester Super Giants (Women) v Welsh Fire (Women)",
-  "to": "2026-08-05T10:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521218",
-  "tour": "hun_w",
-  "what": "Trent Rockets (Women) v Birmingham Phoenix (Women)",
-  "to": "2026-08-05T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521219",
-  "tour": "hun_w",
-  "what": "London Spirit (Women) v MI London (Women)",
-  "to": "2026-08-06T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521220",
-  "tour": "hun_w",
-  "what": "Birmingham Phoenix (Women) v Sunrisers Leeds (Women)",
-  "to": "2026-08-07T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521221",
-  "tour": "hun_w",
-  "what": "MI London (Women) v Trent Rockets (Women)",
-  "to": "2026-08-08T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521223",
-  "tour": "hun_w",
-  "what": "Sunrisers Leeds (Women) v Welsh Fire (Women)",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521224",
-  "tour": "hun_w",
-  "what": "London Spirit (Women) v Birmingham Phoenix (Women)",
-  "to": "2026-08-09T13:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521227",
-  "tour": "hun_w",
-  "what": "Welsh Fire (Women) v London Spirit (Women)",
-  "to": "2026-08-12T10:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521230",
-  "tour": "hun_w",
-  "what": "Sunrisers Leeds (Women) v Trent Rockets (Women)",
-  "to": "2026-08-16T13:15:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1551708",
   "tour": "t1551603",
   "what": "South Western Districts v Border",
-  "from": "2026-11-19T08:00:00Z"
+  "to": "2026-11-19T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551713",
   "tour": "t1551603",
   "what": "Limpopo v Easterns",
-  "from": "2026-12-10T08:00:00Z"
+  "to": "2026-12-10T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551714",
   "tour": "t1551603",
   "what": "Border v Easterns",
-  "from": "2026-12-17T08:00:00Z"
+  "to": "2026-12-17T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551715",
   "tour": "t1551603",
   "what": "Northern Cape v KwaZulu-Natal Inland",
-  "from": "2026-12-17T08:00:00Z"
+  "to": "2026-12-17T08:00:00Z"
  }
 ]
