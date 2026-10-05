@@ -1,33 +1,51 @@
 [
  {
-  "kind": "moved",
-  "id": "1535674",
-  "tour": "t24375",
-  "what": "India A v Australia A",
-  "from": "2026-10-06T04:00:00Z",
-  "to": "2026-10-06T08:30:00Z"
+  "kind": "dropped",
+  "id": "1551072",
+  "tour": "t24742",
+  "what": "Belgium Women v Portugal Women",
+  "from": "2026-09-04T07:30:00Z"
  },
  {
-  "kind": "moved",
-  "id": "1535675",
-  "tour": "t24375",
-  "what": "India A v Australia A",
-  "from": "2026-10-09T04:00:00Z",
-  "to": "2026-10-09T03:30:00Z"
+  "kind": "dropped",
+  "id": "1551073",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Portugal Women",
+  "from": "2026-09-04T11:30:00Z"
  },
  {
-  "kind": "moved",
-  "id": "1535676",
-  "tour": "t24375",
-  "what": "India A v Australia A",
-  "from": "2026-10-11T04:00:00Z",
-  "to": "2026-10-11T03:30:00Z"
+  "kind": "dropped",
+  "id": "1551074",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Belgium Women",
+  "from": "2026-09-04T14:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1545782",
-  "tour": "t8897",
-  "what": "South Australia Women v Western Australia Women",
-  "to": "2026-12-16T00:30:00Z"
+  "kind": "dropped",
+  "id": "1551078",
+  "tour": "t24742",
+  "what": "Belgium Women v Portugal Women",
+  "from": "2026-09-06T07:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551079",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Portugal Women",
+  "from": "2026-09-06T11:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551715",
+  "tour": "t1551603",
+  "what": "Northern Cape v KwaZulu-Natal Inland",
+  "from": "2026-12-17T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551808",
+  "tour": "t20676",
+  "what": "Easterns v KwaZulu-Natal Inland",
+  "from": "2027-01-17T08:00:00Z"
  }
 ]
