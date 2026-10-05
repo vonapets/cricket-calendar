@@ -1,9 +1,33 @@
 [
  {
-  "kind": "dropped",
+  "kind": "moved",
+  "id": "1535674",
+  "tour": "t24375",
+  "what": "India A v Australia A",
+  "from": "2026-10-06T04:00:00Z",
+  "to": "2026-10-06T08:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1535675",
+  "tour": "t24375",
+  "what": "India A v Australia A",
+  "from": "2026-10-09T04:00:00Z",
+  "to": "2026-10-09T03:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1535676",
+  "tour": "t24375",
+  "what": "India A v Australia A",
+  "from": "2026-10-11T04:00:00Z",
+  "to": "2026-10-11T03:30:00Z"
+ },
+ {
+  "kind": "added",
   "id": "1545782",
   "tour": "t8897",
   "what": "South Australia Women v Western Australia Women",
-  "from": "2026-12-16T00:30:00Z"
+  "to": "2026-12-16T00:30:00Z"
  }
 ]
