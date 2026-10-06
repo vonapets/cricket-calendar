@@ -1,100 +1,30 @@
 [
  {
   "kind": "added",
-  "id": "1551715",
-  "tour": "t1551603",
-  "what": "Northern Cape v KwaZulu-Natal Inland",
-  "to": "2026-12-17T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551808",
-  "tour": "t20676",
-  "what": "Easterns v KwaZulu-Natal Inland",
-  "to": "2027-01-17T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551072",
-  "tour": "t24742",
-  "what": "Belgium Women v Portugal Women",
-  "to": "2026-09-04T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551073",
-  "tour": "t24742",
-  "what": "Czech Republic Women v Portugal Women",
-  "to": "2026-09-04T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551074",
-  "tour": "t24742",
-  "what": "Czech Republic Women v Belgium Women",
-  "to": "2026-09-04T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551078",
-  "tour": "t24742",
-  "what": "Belgium Women v Portugal Women",
-  "to": "2026-09-06T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551079",
-  "tour": "t24742",
-  "what": "Czech Republic Women v Portugal Women",
-  "to": "2026-09-06T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535512",
-  "tour": "slt20",
-  "what": "Colombo Cricket Club v Nugegoda Sports Welfare Club",
-  "from": "2026-08-12T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535521",
-  "tour": "slt20",
-  "what": "Ace Capital Cricket Club v Colts Cricket Club",
-  "from": "2026-08-16T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535524",
-  "tour": "slt20",
-  "what": "Burgher Recreation Club v Colombo Cricket Club",
-  "from": "2026-08-20T08:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535531",
-  "tour": "slt20",
-  "what": "Colombo Cricket Club v Moors Sports Club",
-  "from": "2026-08-24T08:30:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1513586",
   "tour": "t23080",
   "what": "Warwickshire Women v The Blaze Women",
-  "from": "2026-08-26T09:30:00Z"
+  "to": "2026-08-26T09:30:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1535498",
-  "tour": "slt20",
-  "what": "Nugegoda Sports Welfare Club v Tamil Union Cricket and Athletic Club",
-  "from": "2026-08-28T04:15:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1549526",
   "tour": "t1549518",
   "what": "Namibia v Zimbabwe",
-  "from": "2026-08-31T12:00:00Z"
+  "to": "2026-08-31T12:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535521",
+  "tour": "slt20",
+  "what": "Ace Capital Cricket Club v Colts Cricket Club",
+  "to": "2026-08-16T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535531",
+  "tour": "slt20",
+  "what": "Colombo Cricket Club v Moors Sports Club",
+  "to": "2026-08-24T08:30:00Z"
  }
 ]

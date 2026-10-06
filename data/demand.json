@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-05T21:33:31Z",
+ "generated_at": "2026-10-06T03:22:48Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
- "observed_to": "2026-10-05",
+ "observed_to": "2026-10-06",
  "totals": {
-  "events": 2393,
-  "volume": 90119959,
+  "events": 2394,
+  "volume": 90186279,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
    "matches": 218,
-   "traded": 129,
-   "median": 7810,
+   "traded": 130,
+   "median": 7817,
    "p75": 18696,
    "best": 74063,
-   "total": 1878229,
-   "outright": 2690845,
+   "total": 1887139,
+   "outright": 2691333,
    "india_pct": 6,
    "name": "Domestic / minor",
    "detect": [],
@@ -61,7 +61,7 @@
    "median": 57755,
    "p75": 148238,
    "best": 148238,
-   "total": 293541,
+   "total": 305111,
    "outright": 17918,
    "india_pct": 23,
    "name": "ICC ODI World Cup",
@@ -73,11 +73,11 @@
   },
   "Other international": {
    "matches": 145,
-   "traded": 84,
-   "median": 59880,
-   "p75": 116228,
+   "traded": 85,
+   "median": 57138,
+   "p75": 111099,
    "best": 350589,
-   "total": 6862536,
+   "total": 6899890,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -103,11 +103,11 @@
   },
   "India bilateral": {
    "matches": 33,
-   "traded": 26,
-   "median": 258866,
+   "traded": 27,
+   "median": 247032,
    "p75": 402067,
    "best": 788605,
-   "total": 7157505,
+   "total": 7165503,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -115,7 +115,7 @@
    "not": []
   },
   "Sheffield Shield": {
-   "matches": 10,
+   "matches": 11,
    "traded": 5,
    "median": 10478,
    "p75": 10763,
@@ -490,17 +490,17 @@
    "median": 39245,
    "best": 62622
   },
+  "india|west indies": {
+   "n": 3,
+   "traded": 1,
+   "median": 34313,
+   "best": 34313
+  },
   "afghanistan|india": {
    "n": 2,
    "traded": 2,
    "median": 28124,
    "best": 49484
-  },
-  "india|west indies": {
-   "n": 3,
-   "traded": 1,
-   "median": 15910,
-   "best": 15910
   },
   "afghanistan|sri lanka": {
    "n": 7,
