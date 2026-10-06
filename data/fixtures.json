@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T15:21:16Z",
+ "generated_at": "2026-10-06T19:35:45Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -607,7 +607,7 @@
    "color": "#7a8899",
    "start": "2026-09-10",
    "end": "2027-04-26",
-   "matches": 39,
+   "matches": 41,
    "india": false,
    "world": false,
    "formats": [
@@ -877,7 +877,7 @@
    "color": "#7a8899",
    "start": "2026-09-21",
    "end": "2026-09-27",
-   "matches": 11,
+   "matches": 12,
    "india": false,
    "world": false,
    "formats": [
@@ -13722,6 +13722,28 @@
    "india": false
   },
   {
+   "id": "1554587",
+   "tour": "t1554562",
+   "utc": "2026-09-23T09:00:00Z",
+   "ts": 1790154000,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "5th Match",
+   "home": "Nigeria",
+   "away": "Sierra Leone",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Tafawa Balewa Square Cricket Oval, Lagos",
+   "city": "Lagos",
+   "country": "Nigeria",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1555255",
    "tour": "t18940",
    "utc": "2026-09-23T12:00:00Z",
@@ -17224,18 +17246,18 @@
    "tour": "t24375",
    "utc": "2026-10-06T08:30:00Z",
    "ts": 1791275400,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "1st unofficial ODI",
    "home": "India A",
    "away": "Australia A",
-   "home_score": "148/7 (30/50 ov, target 275)",
+   "home_score": "149 (31.4/50 ov, target 275)",
    "away_score": "274",
    "venue": "Cricket Association Pondicherry Siechem Ground, Puducherry",
    "city": "Puducherry",
    "country": "India",
    "format": "ODI",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -17251,8 +17273,8 @@
    "round": "1st T20I",
    "home": "India",
    "away": "West Indies",
-   "home_score": "",
-   "away_score": "171 (19.1/20 ov)",
+   "home_score": "164/2 (13.6/20 ov, target 172)",
+   "away_score": "171",
    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
    "city": "Lucknow",
    "country": "India",
@@ -17268,18 +17290,18 @@
    "tour": "t8656",
    "utc": "2026-10-06T16:00:00Z",
    "ts": 1791302400,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "Pool B",
    "home": "Western Province",
    "away": "Easterns",
    "home_score": "",
-   "away_score": "",
+   "away_score": "42/3 (8.4/20 ov)",
    "venue": "Newlands, Cape Town",
    "city": "Cape Town",
    "country": "South Africa",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -26570,6 +26592,28 @@
    "india": false
   },
   {
+   "id": "1551694",
+   "tour": "t21185",
+   "utc": "2027-04-10T08:00:00Z",
+   "ts": 1807344000,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "34th Match",
+   "home": "Western Province",
+   "away": "Lions",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Newlands, Cape Town",
+   "city": "Cape Town",
+   "country": "South Africa",
+   "format": "Test",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1551697",
    "tour": "t21185",
    "utc": "2027-04-17T08:00:00Z",
@@ -26583,6 +26627,28 @@
    "away_score": "",
    "venue": "Kingsmead, Durban",
    "city": "Durban",
+   "country": "South Africa",
+   "format": "Test",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1551698",
+   "tour": "t21185",
+   "utc": "2027-04-17T08:00:00Z",
+   "ts": 1807948800,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "38th Match",
+   "home": "Lions",
+   "away": "Knights",
+   "home_score": "",
+   "away_score": "",
+   "venue": "The Wanderers Stadium, Johannesburg",
+   "city": "Johannesburg",
    "country": "South Africa",
    "format": "Test",
    "note": "Scheduled",
@@ -26661,246 +26727,29 @@
  "changes": [
   {
    "kind": "added",
-   "id": "1544864",
-   "tour": "t8043",
-   "what": "Victoria v South Australia",
-   "to": "2026-10-06T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544865",
-   "tour": "t8043",
-   "what": "New South Wales v Tasmania",
-   "to": "2026-10-07T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544866",
-   "tour": "t8043",
-   "what": "Western Australia v Queensland",
-   "to": "2026-10-08T02:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544867",
-   "tour": "t8043",
-   "what": "Tasmania v Victoria",
-   "to": "2026-10-18T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544868",
-   "tour": "t8043",
-   "what": "South Australia v Queensland",
-   "to": "2026-10-19T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544869",
-   "tour": "t8043",
-   "what": "Western Australia v New South Wales",
-   "to": "2026-10-19T02:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544870",
-   "tour": "t8043",
-   "what": "South Australia v Western Australia",
-   "to": "2026-10-28T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544871",
-   "tour": "t8043",
-   "what": "Tasmania v New South Wales",
-   "to": "2026-10-29T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544872",
-   "tour": "t8043",
-   "what": "Queensland v Victoria",
-   "to": "2026-10-31T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544873",
-   "tour": "t8043",
-   "what": "New South Wales v South Australia",
-   "to": "2026-11-10T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544874",
-   "tour": "t8043",
-   "what": "Victoria v Western Australia",
-   "to": "2026-11-10T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544875",
-   "tour": "t8043",
-   "what": "Queensland v Tasmania",
-   "to": "2026-11-11T00:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544876",
-   "tour": "t8043",
-   "what": "New South Wales v Queensland",
-   "to": "2026-11-21T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544877",
-   "tour": "t8043",
-   "what": "Western Australia v Tasmania",
-   "to": "2026-11-23T02:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544878",
-   "tour": "t8043",
-   "what": "South Australia v Victoria",
-   "to": "2026-11-24T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544879",
-   "tour": "t8043",
-   "what": "New South Wales v Western Australia",
-   "to": "2026-12-02T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544880",
-   "tour": "t8043",
-   "what": "Victoria v Queensland",
-   "to": "2026-12-02T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544881",
-   "tour": "t8043",
-   "what": "South Australia v Tasmania",
-   "to": "2026-12-03T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544882",
-   "tour": "t8043",
-   "what": "Victoria v Tasmania",
-   "to": "2027-02-08T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544883",
-   "tour": "t8043",
-   "what": "Queensland v Western Australia",
-   "to": "2027-02-08T04:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544884",
-   "tour": "t8043",
-   "what": "South Australia v New South Wales",
-   "to": "2027-02-08T04:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544885",
-   "tour": "t8043",
-   "what": "New South Wales v Victoria",
-   "to": "2027-02-19T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544886",
-   "tour": "t8043",
-   "what": "Tasmania v Queensland",
-   "to": "2027-02-19T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544887",
-   "tour": "t8043",
-   "what": "Western Australia v South Australia",
-   "to": "2027-02-20T02:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544888",
-   "tour": "t8043",
-   "what": "Queensland v New South Wales",
-   "to": "2027-03-01T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544889",
-   "tour": "t8043",
-   "what": "Tasmania v South Australia",
-   "to": "2027-03-01T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544890",
-   "tour": "t8043",
-   "what": "Western Australia v Victoria",
-   "to": "2027-03-02T02:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544891",
-   "tour": "t8043",
-   "what": "Queensland v South Australia",
-   "to": "2027-03-13T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544893",
-   "tour": "t8043",
-   "what": "Tasmania v Western Australia",
-   "to": "2027-03-13T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544892",
-   "tour": "t8043",
-   "what": "Victoria v New South Wales",
-   "to": "2027-03-13T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544894",
-   "tour": "t8043",
-   "what": "TBA v TBA",
-   "to": "2027-03-25T00:00:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1554587",
-   "tour": "t1554562",
-   "what": "Nigeria v Sierra Leone",
-   "from": "2026-09-23T09:00:00Z"
-  },
-  {
-   "kind": "dropped",
    "id": "1551694",
    "tour": "t21185",
    "what": "Western Province v Lions",
-   "from": "2027-04-10T08:00:00Z"
+   "to": "2027-04-10T08:00:00Z"
   },
   {
-   "kind": "dropped",
+   "kind": "added",
    "id": "1551698",
    "tour": "t21185",
    "what": "Lions v Knights",
-   "from": "2027-04-17T08:00:00Z"
+   "to": "2027-04-17T08:00:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1554587",
+   "tour": "t1554562",
+   "what": "Nigeria v Sierra Leone",
+   "to": "2026-09-23T09:00:00Z"
   }
  ],
  "counts": {
   "tournaments": 85,
-  "fixtures": 1137,
+  "fixtures": 1140,
   "india": 30,
   "major": 32,
   "projected": 9,
@@ -26954,8 +26803,8 @@
   {
    "id": "24382",
    "name": "New Zealand A Women tour of Sri Lanka 2026",
-   "matches": 3,
-   "last_seen": "2026-05-18 to 2026-05-25"
+   "matches": 6,
+   "last_seen": "2026-05-12 to 2026-05-25"
   },
   {
    "id": "24294",
@@ -26966,7 +26815,7 @@
   {
    "id": "24246",
    "name": "New Zealand tour of Bangladesh 2026",
-   "matches": 6,
+   "matches": 5,
    "last_seen": "2026-04-17 to 2026-05-02"
   },
   {
