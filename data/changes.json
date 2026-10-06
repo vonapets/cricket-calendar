@@ -1,30 +1,240 @@
 [
  {
   "kind": "added",
-  "id": "1557256",
-  "tour": "t24276",
-  "what": "Queensland Women v Bangladesh Women",
-  "to": "2026-10-06T00:00:00Z"
+  "id": "1544864",
+  "tour": "t8043",
+  "what": "Victoria v South Australia",
+  "to": "2026-10-06T23:30:00Z"
  },
  {
   "kind": "added",
-  "id": "1535512",
-  "tour": "slt20",
-  "what": "Colombo Cricket Club v Nugegoda Sports Welfare Club",
-  "to": "2026-08-12T04:15:00Z"
+  "id": "1544865",
+  "tour": "t8043",
+  "what": "New South Wales v Tasmania",
+  "to": "2026-10-07T23:30:00Z"
  },
  {
   "kind": "added",
-  "id": "1535524",
-  "tour": "slt20",
-  "what": "Burgher Recreation Club v Colombo Cricket Club",
-  "to": "2026-08-20T08:30:00Z"
+  "id": "1544866",
+  "tour": "t8043",
+  "what": "Western Australia v Queensland",
+  "to": "2026-10-08T02:30:00Z"
  },
  {
   "kind": "added",
-  "id": "1535498",
-  "tour": "slt20",
-  "what": "Nugegoda Sports Welfare Club v Tamil Union Cricket and Athletic Club",
-  "to": "2026-08-28T04:15:00Z"
+  "id": "1544867",
+  "tour": "t8043",
+  "what": "Tasmania v Victoria",
+  "to": "2026-10-18T23:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544868",
+  "tour": "t8043",
+  "what": "South Australia v Queensland",
+  "to": "2026-10-19T00:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544869",
+  "tour": "t8043",
+  "what": "Western Australia v New South Wales",
+  "to": "2026-10-19T02:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544870",
+  "tour": "t8043",
+  "what": "South Australia v Western Australia",
+  "to": "2026-10-28T00:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544871",
+  "tour": "t8043",
+  "what": "Tasmania v New South Wales",
+  "to": "2026-10-29T23:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544872",
+  "tour": "t8043",
+  "what": "Queensland v Victoria",
+  "to": "2026-10-31T00:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544873",
+  "tour": "t8043",
+  "what": "New South Wales v South Australia",
+  "to": "2026-11-10T23:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544874",
+  "tour": "t8043",
+  "what": "Victoria v Western Australia",
+  "to": "2026-11-10T23:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544875",
+  "tour": "t8043",
+  "what": "Queensland v Tasmania",
+  "to": "2026-11-11T00:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544876",
+  "tour": "t8043",
+  "what": "New South Wales v Queensland",
+  "to": "2026-11-21T23:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544877",
+  "tour": "t8043",
+  "what": "Western Australia v Tasmania",
+  "to": "2026-11-23T02:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544878",
+  "tour": "t8043",
+  "what": "South Australia v Victoria",
+  "to": "2026-11-24T00:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544879",
+  "tour": "t8043",
+  "what": "New South Wales v Western Australia",
+  "to": "2026-12-02T23:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544880",
+  "tour": "t8043",
+  "what": "Victoria v Queensland",
+  "to": "2026-12-02T23:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544881",
+  "tour": "t8043",
+  "what": "South Australia v Tasmania",
+  "to": "2026-12-03T00:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544882",
+  "tour": "t8043",
+  "what": "Victoria v Tasmania",
+  "to": "2027-02-08T03:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544883",
+  "tour": "t8043",
+  "what": "Queensland v Western Australia",
+  "to": "2027-02-08T04:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544884",
+  "tour": "t8043",
+  "what": "South Australia v New South Wales",
+  "to": "2027-02-08T04:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544885",
+  "tour": "t8043",
+  "what": "New South Wales v Victoria",
+  "to": "2027-02-19T23:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544886",
+  "tour": "t8043",
+  "what": "Tasmania v Queensland",
+  "to": "2027-02-19T23:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544887",
+  "tour": "t8043",
+  "what": "Western Australia v South Australia",
+  "to": "2027-02-20T02:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544888",
+  "tour": "t8043",
+  "what": "Queensland v New South Wales",
+  "to": "2027-03-01T23:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544889",
+  "tour": "t8043",
+  "what": "Tasmania v South Australia",
+  "to": "2027-03-01T23:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544890",
+  "tour": "t8043",
+  "what": "Western Australia v Victoria",
+  "to": "2027-03-02T02:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544891",
+  "tour": "t8043",
+  "what": "Queensland v South Australia",
+  "to": "2027-03-13T23:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544893",
+  "tour": "t8043",
+  "what": "Tasmania v Western Australia",
+  "to": "2027-03-13T23:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544892",
+  "tour": "t8043",
+  "what": "Victoria v New South Wales",
+  "to": "2027-03-13T23:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1544894",
+  "tour": "t8043",
+  "what": "TBA v TBA",
+  "to": "2027-03-25T00:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554587",
+  "tour": "t1554562",
+  "what": "Nigeria v Sierra Leone",
+  "from": "2026-09-23T09:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551694",
+  "tour": "t21185",
+  "what": "Western Province v Lions",
+  "from": "2027-04-10T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551698",
+  "tour": "t21185",
+  "what": "Lions v Knights",
+  "from": "2027-04-17T08:00:00Z"
  }
 ]

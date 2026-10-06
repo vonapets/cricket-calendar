@@ -598,5 +598,13 @@
   "short": "ICC Men's T20 Worl",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "8043": {
+  "id": "8043",
+  "key": "t8043",
+  "name": "Sheffield Shield",
+  "short": "Sheff Shield",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
