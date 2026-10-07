@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T02:46:05Z",
+ "generated_at": "2026-10-07T08:49:46Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -146,7 +146,7 @@
    "color": "#7a8899",
    "start": "2026-08-10",
    "end": "2026-09-11",
-   "matches": 43,
+   "matches": 45,
    "india": false,
    "world": false,
    "formats": [
@@ -414,7 +414,7 @@
    "color": "#c8801a",
    "start": "2026-08-30",
    "end": "2026-09-12",
-   "matches": 17,
+   "matches": 18,
    "india": false,
    "world": false,
    "formats": [
@@ -569,7 +569,7 @@
    "color": "#7a8899",
    "start": "2026-09-08",
    "end": "2026-09-19",
-   "matches": 20,
+   "matches": 21,
    "india": false,
    "world": false,
    "formats": [
@@ -6638,6 +6638,28 @@
    "india": false
   },
   {
+   "id": "1547434",
+   "tour": "t8832",
+   "utc": "2026-08-30T04:15:00Z",
+   "ts": 1788063300,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group A",
+   "home": "Tamil Union Cricket and Athletic Club",
+   "away": "Nugegoda Sports Welfare Club",
+   "home_score": "218/7 (30/50 ov, target 216)",
+   "away_score": "215/8",
+   "venue": "P Sara Oval, Colombo",
+   "city": "Colombo",
+   "country": "Sri Lanka",
+   "format": "ODI",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1550137",
    "tour": "t24694",
    "utc": "2026-08-30T07:30:00Z",
@@ -6770,6 +6792,28 @@
    "india": false
   },
   {
+   "id": "1549949",
+   "tour": "acc_pc",
+   "utc": "2026-08-31T01:30:00Z",
+   "ts": 1788139800,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "4th Match, Group A",
+   "home": "Bahrain",
+   "away": "Nepal",
+   "home_score": "87",
+   "away_score": "88/3 (21/50 ov, target 88)",
+   "venue": "YSD-UKM Cricket Oval, Bangi",
+   "city": "Bangi",
+   "country": "Malaysia",
+   "format": "ODI",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1549948",
    "tour": "t24681",
    "utc": "2026-08-31T01:30:00Z",
@@ -6784,6 +6828,28 @@
    "venue": "Bayuemas Oval, Kuala Lumpur",
    "city": "Kuala Lumpur",
    "country": "Malaysia",
+   "format": "ODI",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1547432",
+   "tour": "t8832",
+   "utc": "2026-08-31T04:15:00Z",
+   "ts": 1788149700,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group A",
+   "home": "Colombo Cricket Club",
+   "away": "Panadura Sports Club",
+   "home_score": "170/3 (30.5/50 ov, target 170)",
+   "away_score": "169",
+   "venue": "Panadura Esplanade",
+   "city": "Panadura",
+   "country": "Sri Lanka",
    "format": "ODI",
    "note": "Final",
    "tbd": false,
@@ -9710,6 +9776,28 @@
    "venue": "Sinhalese Sports Club Ground, Colombo",
    "city": "Colombo",
    "country": "Sri Lanka",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1552908",
+   "tour": "t1552900",
+   "utc": "2026-09-09T07:30:00Z",
+   "ts": 1788939000,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "3rd Match",
+   "home": "Sierra Leone",
+   "away": "Uganda",
+   "home_score": "136/4 (20 ov, target 251)",
+   "away_score": "250/3",
+   "venue": "Gahanga B Ground, Rwanda",
+   "city": "Kigali City",
+   "country": "Rwanda",
    "format": "T20",
    "note": "Final",
    "tbd": false,
@@ -16481,7 +16569,7 @@
    "round": "Final",
    "home": "Mah-e-Par Stars",
    "away": "Hindukush Strikers",
-   "home_score": "259 & 376/7 (105 ov)",
+   "home_score": "259 & 403/7 (110.2 ov)",
    "away_score": "292",
    "venue": "Ghazi Amanullah Khan International Cricket Stadium",
    "city": "Amanullah",
@@ -16812,7 +16900,7 @@
    "home": "India Under-19s",
    "away": "Australia Under-19s",
    "home_score": "315",
-   "away_score": "174 & 86/4 (26 ov)",
+   "away_score": "174 & 139/9 (42 ov)",
    "venue": "Narenda Modi Stadium B Ground, Motera, Ahmedabad",
    "city": "Ahmedabad",
    "country": "India",
@@ -17229,7 +17317,7 @@
    "round": "1st Match",
    "home": "Victoria",
    "away": "South Australia",
-   "home_score": "114/5 (27.2 ov)",
+   "home_score": "210/8 (68.1 ov)",
    "away_score": "",
    "venue": "Junction Oval, Melbourne",
    "city": "Melbourne",
@@ -26638,37 +26726,37 @@
  ],
  "changes": [
   {
-   "kind": "dropped",
-   "id": "1547434",
-   "tour": "t8832",
-   "what": "Tamil Union Cricket and Athletic Club v Nugegoda Sports Welfare Club",
-   "from": "2026-08-30T04:15:00Z"
-  },
-  {
-   "kind": "dropped",
+   "kind": "added",
    "id": "1549949",
    "tour": "acc_pc",
    "what": "Bahrain v Nepal",
-   "from": "2026-08-31T01:30:00Z"
+   "to": "2026-08-31T01:30:00Z"
   },
   {
-   "kind": "dropped",
-   "id": "1547432",
-   "tour": "t8832",
-   "what": "Colombo Cricket Club v Panadura Sports Club",
-   "from": "2026-08-31T04:15:00Z"
-  },
-  {
-   "kind": "dropped",
+   "kind": "added",
    "id": "1552908",
    "tour": "t1552900",
    "what": "Sierra Leone v Uganda",
-   "from": "2026-09-09T07:30:00Z"
+   "to": "2026-09-09T07:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1547434",
+   "tour": "t8832",
+   "what": "Tamil Union Cricket and Athletic Club v Nugegoda Sports Welfare Club",
+   "to": "2026-08-30T04:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1547432",
+   "tour": "t8832",
+   "what": "Colombo Cricket Club v Panadura Sports Club",
+   "to": "2026-08-31T04:15:00Z"
   }
  ],
  "counts": {
   "tournaments": 85,
-  "fixtures": 1136,
+  "fixtures": 1140,
   "india": 30,
   "major": 32,
   "projected": 9,
@@ -26722,7 +26810,7 @@
   {
    "id": "24382",
    "name": "New Zealand A Women tour of Sri Lanka 2026",
-   "matches": 6,
+   "matches": 5,
    "last_seen": "2026-05-12 to 2026-05-25"
   },
   {

@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-07T02:46:26Z",
+ "generated_at": "2026-10-07T08:50:09Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-10-07",
  "totals": {
-  "events": 2364,
-  "volume": 90025418,
+  "events": 2432,
+  "volume": 90029079,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 218,
+   "matches": 233,
    "traded": 129,
    "median": 7810,
    "p75": 18696,
    "best": 74063,
-   "total": 1878229,
-   "outright": 2639609,
+   "total": 1878240,
+   "outright": 2631265,
    "india_pct": 6,
    "name": "Domestic / minor",
    "detect": [],
@@ -61,7 +61,7 @@
    "median": 57755,
    "p75": 148238,
    "best": 148238,
-   "total": 267640,
+   "total": 270440,
    "outright": 17918,
    "india_pct": 21,
    "name": "ICC ODI World Cup",
@@ -72,12 +72,12 @@
    "not": []
   },
   "Other international": {
-   "matches": 141,
-   "traded": 83,
-   "median": 62622,
-   "p75": 116228,
+   "matches": 146,
+   "traded": 85,
+   "median": 57138,
+   "p75": 111099,
    "best": 350589,
-   "total": 6845251,
+   "total": 6853289,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -333,7 +333,7 @@
    "best": 111099
   },
   "pakistan": {
-   "n": 25,
+   "n": 26,
    "traded": 18,
    "median": 91190,
    "best": 284075
@@ -345,7 +345,7 @@
    "best": 788605
   },
   "sri lanka": {
-   "n": 31,
+   "n": 32,
    "traded": 26,
    "median": 74216,
    "best": 284075
@@ -443,7 +443,7 @@
    "best": 290952
   },
   "pakistan|sri lanka": {
-   "n": 10,
+   "n": 11,
    "traded": 8,
    "median": 118839,
    "best": 284075
@@ -524,7 +524,7 @@
    "n": 2,
    "traded": 0,
    "median": 0,
-   "best": 55
+   "best": 110
   }
  }
 }
