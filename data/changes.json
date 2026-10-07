@@ -1,23 +1,30 @@
 [
  {
-  "kind": "added",
-  "id": "1551694",
-  "tour": "t21185",
-  "what": "Western Province v Lions",
-  "to": "2027-04-10T08:00:00Z"
+  "kind": "dropped",
+  "id": "1547434",
+  "tour": "t8832",
+  "what": "Tamil Union Cricket and Athletic Club v Nugegoda Sports Welfare Club",
+  "from": "2026-08-30T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1551698",
-  "tour": "t21185",
-  "what": "Lions v Knights",
-  "to": "2027-04-17T08:00:00Z"
+  "kind": "dropped",
+  "id": "1549949",
+  "tour": "acc_pc",
+  "what": "Bahrain v Nepal",
+  "from": "2026-08-31T01:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554587",
-  "tour": "t1554562",
-  "what": "Nigeria v Sierra Leone",
-  "to": "2026-09-23T09:00:00Z"
+  "kind": "dropped",
+  "id": "1547432",
+  "tour": "t8832",
+  "what": "Colombo Cricket Club v Panadura Sports Club",
+  "from": "2026-08-31T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1552908",
+  "tour": "t1552900",
+  "what": "Sierra Leone v Uganda",
+  "from": "2026-09-09T07:30:00Z"
  }
 ]

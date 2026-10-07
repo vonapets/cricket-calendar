@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-06T19:36:10Z",
+ "generated_at": "2026-10-07T02:46:26Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
- "observed_to": "2026-10-06",
+ "observed_to": "2026-10-07",
  "totals": {
   "events": 2364,
-  "volume": 90022147,
+  "volume": 90025418,
   "competitions": 19
  },
  "competitions": {
@@ -17,7 +17,7 @@
    "p75": 18696,
    "best": 74063,
    "total": 1878229,
-   "outright": 2639423,
+   "outright": 2639609,
    "india_pct": 6,
    "name": "Domestic / minor",
    "detect": [],
@@ -56,14 +56,14 @@
    "not": []
   },
   "ICC ODI World Cup": {
-   "matches": 13,
-   "traded": 3,
-   "median": 66652,
+   "matches": 14,
+   "traded": 4,
+   "median": 57755,
    "p75": 148238,
    "best": 148238,
-   "total": 265318,
+   "total": 267640,
    "outright": 17918,
-   "india_pct": 23,
+   "india_pct": 21,
    "name": "ICC ODI World Cup",
    "detect": [
     "odi world cup",
@@ -77,7 +77,7 @@
    "median": 62622,
    "p75": 116228,
    "best": 350589,
-   "total": 6844487,
+   "total": 6845251,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -524,7 +524,7 @@
    "n": 2,
    "traded": 0,
    "median": 0,
-   "best": 54
+   "best": 55
   }
  }
 }
