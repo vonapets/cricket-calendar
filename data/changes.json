@@ -1,64 +1,129 @@
 [
  {
   "kind": "moved",
-  "id": "1535675",
+  "id": "1535674",
   "tour": "t24375",
   "what": "India A v Australia A",
-  "from": "2026-10-09T03:30:00Z",
-  "to": "2026-10-09T04:00:00Z"
+  "from": "2026-10-06T08:30:00Z",
+  "to": "2026-10-06T04:00:00Z"
  },
  {
-  "kind": "moved",
-  "id": "1535676",
-  "tour": "t24375",
-  "what": "India A v Australia A",
-  "from": "2026-10-11T03:30:00Z",
-  "to": "2026-10-11T04:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1555675",
-  "tour": "t8814",
-  "what": "Khulna Division v Chattogram Division",
-  "from": "2026-10-17T03:30:00Z",
-  "to": "2026-10-18T03:30:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1555674",
-  "tour": "t8814",
-  "what": "Mymensingh Division v Dhaka Division",
-  "from": "2026-10-17T03:30:00Z",
-  "to": "2026-10-18T03:30:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1555676",
-  "tour": "t8814",
-  "what": "Rajshahi Division v Barishal Division",
-  "from": "2026-10-17T03:30:00Z",
-  "to": "2026-10-18T03:30:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1555673",
-  "tour": "t8814",
-  "what": "Sylhet Division v Rangpur Division",
-  "from": "2026-10-17T03:30:00Z",
-  "to": "2026-10-18T03:30:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535535",
   "tour": "slt20",
   "what": "Badureliya Sports Club v Ace Capital Cricket Club",
-  "from": "2026-08-24T04:15:00Z"
+  "to": "2026-08-24T04:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1535537",
   "tour": "slt20",
   "what": "Sinhalese Sports Club v Police Sports Club",
-  "from": "2026-09-09T08:30:00Z"
+  "to": "2026-09-09T08:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554568",
+  "tour": "t1554555",
+  "what": "China v Maldives",
+  "to": "2026-10-08T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554570",
+  "tour": "t1554555",
+  "what": "Malaysia v Hong Kong",
+  "to": "2026-10-08T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554569",
+  "tour": "t1554555",
+  "what": "Saudi Arabia v Singapore",
+  "to": "2026-10-08T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554572",
+  "tour": "t1554555",
+  "what": "China v Hong Kong",
+  "to": "2026-10-09T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554571",
+  "tour": "t1554555",
+  "what": "Malaysia v Saudi Arabia",
+  "to": "2026-10-09T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554573",
+  "tour": "t1554555",
+  "what": "Maldives v Singapore",
+  "to": "2026-10-09T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554576",
+  "tour": "t1554555",
+  "what": "China v Singapore",
+  "to": "2026-10-11T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554574",
+  "tour": "t1554555",
+  "what": "Hong Kong v Saudi Arabia",
+  "to": "2026-10-11T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554575",
+  "tour": "t1554555",
+  "what": "Malaysia v Maldives",
+  "to": "2026-10-11T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554579",
+  "tour": "t1554555",
+  "what": "China v Saudi Arabia",
+  "to": "2026-10-12T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554578",
+  "tour": "t1554555",
+  "what": "Hong Kong v Maldives",
+  "to": "2026-10-12T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554577",
+  "tour": "t1554555",
+  "what": "Malaysia v Singapore",
+  "to": "2026-10-12T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554580",
+  "tour": "t1554555",
+  "what": "Malaysia v China",
+  "to": "2026-10-14T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554581",
+  "tour": "t1554555",
+  "what": "Hong Kong v Singapore",
+  "to": "2026-10-14T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554582",
+  "tour": "t1554555",
+  "what": "Maldives v Saudi Arabia",
+  "to": "2026-10-14T06:00:00Z"
  }
 ]

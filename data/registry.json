@@ -606,5 +606,13 @@
   "short": "Sheff Shield",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1554555": {
+  "id": "1554555",
+  "key": "t1554555",
+  "name": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B 2026/27",
+  "short": "ICC Men's T20 Worl",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
