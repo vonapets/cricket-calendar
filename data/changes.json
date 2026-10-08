@@ -1,86 +1,108 @@
 [
  {
-  "kind": "added",
-  "id": "1551681",
-  "tour": "t21185",
-  "what": "Lions v Warriors",
-  "to": "2026-12-10T08:00:00Z"
+  "kind": "moved",
+  "id": "1535675",
+  "tour": "t24375",
+  "what": "India A v Australia A",
+  "from": "2026-10-09T04:00:00Z",
+  "to": "2026-10-09T03:30:00Z"
  },
  {
   "kind": "added",
-  "id": "1551688",
-  "tour": "t21185",
-  "what": "North West v Dolphins",
-  "to": "2026-12-27T08:00:00Z"
+  "id": "1547434",
+  "tour": "t8832",
+  "what": "Tamil Union Cricket and Athletic Club v Nugegoda Sports Welfare Club",
+  "to": "2026-08-30T04:15:00Z"
  },
  {
   "kind": "added",
-  "id": "1551691",
-  "tour": "t21185",
-  "what": "Lions v Dolphins",
-  "to": "2027-04-03T08:00:00Z"
+  "id": "1547432",
+  "tour": "t8832",
+  "what": "Colombo Cricket Club v Panadura Sports Club",
+  "to": "2026-08-31T04:15:00Z"
  },
  {
   "kind": "added",
-  "id": "1551692",
-  "tour": "t21185",
-  "what": "Titans v North West",
-  "to": "2027-04-03T08:00:00Z"
+  "id": "1550708",
+  "tour": "t24707",
+  "what": "Pakistan v Sri Lanka",
+  "to": "2026-10-09T13:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551690",
-  "tour": "t21185",
-  "what": "Warriors v Boland",
-  "to": "2027-04-03T08:00:00Z"
+  "id": "1550709",
+  "tour": "t24707",
+  "what": "Pakistan v Sri Lanka",
+  "to": "2026-10-11T13:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551689",
-  "tour": "t21185",
-  "what": "Western Province v Knights",
-  "to": "2027-04-03T08:00:00Z"
+  "id": "1550710",
+  "tour": "t24707",
+  "what": "Pakistan v Sri Lanka",
+  "to": "2026-10-13T13:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551696",
-  "tour": "t21185",
-  "what": "Dolphins v Knights",
-  "to": "2027-04-10T08:00:00Z"
+  "id": "1550713",
+  "tour": "t24707",
+  "what": "Pakistan v Sri Lanka",
+  "to": "2026-10-18T04:30:00Z"
  },
  {
   "kind": "added",
-  "id": "1551694",
-  "tour": "t21185",
-  "what": "Western Province v Lions",
-  "to": "2027-04-10T08:00:00Z"
+  "id": "1550715",
+  "tour": "t24707",
+  "what": "England v Sri Lanka",
+  "to": "2026-10-22T04:30:00Z"
  },
  {
   "kind": "added",
-  "id": "1551697",
-  "tour": "t21185",
-  "what": "Dolphins v Warriors",
-  "to": "2027-04-17T08:00:00Z"
+  "id": "1550717",
+  "tour": "t24707",
+  "what": "Pakistan v Sri Lanka",
+  "to": "2026-10-27T04:30:00Z"
  },
  {
   "kind": "added",
-  "id": "1551698",
-  "tour": "t21185",
-  "what": "Lions v Knights",
-  "to": "2027-04-17T08:00:00Z"
+  "id": "1550718",
+  "tour": "t24707",
+  "what": "England v Sri Lanka",
+  "to": "2026-10-29T04:30:00Z"
  },
  {
   "kind": "added",
-  "id": "1551700",
-  "tour": "t21185",
-  "what": "North West v Boland",
-  "to": "2027-04-17T08:00:00Z"
+  "id": "1553591",
+  "tour": "t24707",
+  "what": "Pakistan Cricket Board Patron's XI v Sri Lanka",
+  "to": "2026-11-04T04:30:00Z"
  },
  {
   "kind": "added",
-  "id": "1551701",
-  "tour": "t21185",
-  "what": "TBA v TBA",
-  "to": "2027-04-26T08:00:00Z"
+  "id": "1550711",
+  "tour": "t24707",
+  "what": "Pakistan v Sri Lanka",
+  "to": "2026-11-09T04:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550712",
+  "tour": "t24707",
+  "what": "Pakistan v Sri Lanka",
+  "to": "2026-11-17T04:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535515",
+  "tour": "slt20",
+  "what": "Burgher Recreation Club v Police Sports Club",
+  "from": "2026-08-12T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535507",
+  "tour": "slt20",
+  "what": "Badureliya Sports Club v Panadura Sports Club",
+  "from": "2026-09-05T08:30:00Z"
  }
 ]

@@ -614,5 +614,13 @@
   "short": "ICC Men's T20 Worl",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24707": {
+  "id": "24707",
+  "key": "t24707",
+  "name": "Sri Lanka tour of Pakistan 2026/27",
+  "short": "Sri Lanka in Pakistan 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
