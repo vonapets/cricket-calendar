@@ -1,129 +1,303 @@
 [
  {
-  "kind": "moved",
-  "id": "1535674",
-  "tour": "t24375",
-  "what": "India A v Australia A",
-  "from": "2026-10-06T08:30:00Z",
-  "to": "2026-10-06T04:00:00Z"
+  "kind": "dropped",
+  "id": "1547412",
+  "tour": "t8832",
+  "what": "Badureliya Sports Club v Colts Cricket Club",
+  "from": "2026-08-14T04:15:00Z"
  },
  {
-  "kind": "added",
+  "kind": "dropped",
+  "id": "1547413",
+  "tour": "t8832",
+  "what": "Bloomfield Cricket and Athletic Club v Nondescripts Cricket Club",
+  "from": "2026-08-14T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547408",
+  "tour": "t8832",
+  "what": "Kurunegala Youth Cricket Club v Colombo Cricket Club",
+  "from": "2026-08-14T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547410",
+  "tour": "t8832",
+  "what": "Panadura Sports Club v Moors Sports Club",
+  "from": "2026-08-14T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547409",
+  "tour": "t8832",
+  "what": "Tamil Union Cricket and Athletic Club v Ace Capital Cricket Club",
+  "from": "2026-08-14T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535518",
+  "tour": "slt20",
+  "what": "Colombo Cricket Club v Tamil Union Cricket and Athletic Club",
+  "from": "2026-08-16T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535523",
+  "tour": "slt20",
+  "what": "Kurunegala Youth Cricket Club v Moors Sports Club",
+  "from": "2026-08-16T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535519",
+  "tour": "slt20",
+  "what": "Panadura Sports Club v Bloomfield Cricket and Athletic Club",
+  "from": "2026-08-16T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547417",
+  "tour": "t8832",
+  "what": "Burgher Recreation Club v Police Sports Club",
+  "from": "2026-08-18T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547415",
+  "tour": "t8832",
+  "what": "Kurunegala Youth Cricket Club v Ace Capital Cricket Club",
+  "from": "2026-08-18T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547416",
+  "tour": "t8832",
+  "what": "Tamil Union Cricket and Athletic Club v Moors Sports Club",
+  "from": "2026-08-18T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535524",
+  "tour": "slt20",
+  "what": "Burgher Recreation Club v Colombo Cricket Club",
+  "from": "2026-08-20T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535528",
+  "tour": "slt20",
+  "what": "Police Sports Club v Kurunegala Youth Cricket Club",
+  "from": "2026-08-20T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547420",
+  "tour": "t8832",
+  "what": "Ace Capital Cricket Club v Colombo Cricket Club",
+  "from": "2026-08-21T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547421",
+  "tour": "t8832",
+  "what": "Nugegoda Sports Welfare Club v Panadura Sports Club",
+  "from": "2026-08-21T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547422",
+  "tour": "t8832",
+  "what": "Moors Sports Club v Kurunegala Youth Cricket Club",
+  "from": "2026-08-22T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547423",
+  "tour": "t8832",
+  "what": "Police Sports Club v Badureliya Sports Club",
+  "from": "2026-08-22T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
   "id": "1535535",
   "tour": "slt20",
   "what": "Badureliya Sports Club v Ace Capital Cricket Club",
-  "to": "2026-08-24T04:15:00Z"
+  "from": "2026-08-24T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1535537",
+  "kind": "dropped",
+  "id": "1535531",
   "tour": "slt20",
-  "what": "Sinhalese Sports Club v Police Sports Club",
-  "to": "2026-09-09T08:30:00Z"
+  "what": "Colombo Cricket Club v Moors Sports Club",
+  "from": "2026-08-24T08:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554568",
-  "tour": "t1554555",
-  "what": "China v Maldives",
-  "to": "2026-10-08T06:00:00Z"
+  "kind": "dropped",
+  "id": "1547430",
+  "tour": "t8832",
+  "what": "Bloomfield Cricket and Athletic Club v Colts Cricket Club",
+  "from": "2026-08-26T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554570",
-  "tour": "t1554555",
-  "what": "Malaysia v Hong Kong",
-  "to": "2026-10-08T06:00:00Z"
+  "kind": "dropped",
+  "id": "1547427",
+  "tour": "t8832",
+  "what": "Moors Sports Club v Colombo Cricket Club",
+  "from": "2026-08-26T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554569",
-  "tour": "t1554555",
-  "what": "Saudi Arabia v Singapore",
-  "to": "2026-10-08T06:00:00Z"
+  "kind": "dropped",
+  "id": "1547428",
+  "tour": "t8832",
+  "what": "Panadura Sports Club v Tamil Union Cricket and Athletic Club",
+  "from": "2026-08-26T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554572",
-  "tour": "t1554555",
-  "what": "China v Hong Kong",
-  "to": "2026-10-09T06:00:00Z"
+  "kind": "dropped",
+  "id": "1535496",
+  "tour": "slt20",
+  "what": "Burgher Recreation Club v Kurunegala Youth Cricket Club",
+  "from": "2026-08-28T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554571",
-  "tour": "t1554555",
-  "what": "Malaysia v Saudi Arabia",
-  "to": "2026-10-09T06:00:00Z"
+  "kind": "dropped",
+  "id": "1535498",
+  "tour": "slt20",
+  "what": "Nugegoda Sports Welfare Club v Tamil Union Cricket and Athletic Club",
+  "from": "2026-08-28T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554573",
-  "tour": "t1554555",
-  "what": "Maldives v Singapore",
-  "to": "2026-10-09T06:00:00Z"
+  "kind": "dropped",
+  "id": "1535497",
+  "tour": "slt20",
+  "what": "Badureliya Sports Club v Colts Cricket Club",
+  "from": "2026-08-28T08:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554576",
-  "tour": "t1554555",
-  "what": "China v Singapore",
-  "to": "2026-10-11T01:15:00Z"
+  "kind": "dropped",
+  "id": "1547436",
+  "tour": "t8832",
+  "what": "Badureliya Sports Club v Nondescripts Cricket Club",
+  "from": "2026-08-30T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554574",
-  "tour": "t1554555",
-  "what": "Hong Kong v Saudi Arabia",
-  "to": "2026-10-11T01:15:00Z"
+  "kind": "dropped",
+  "id": "1547437",
+  "tour": "t8832",
+  "what": "Colts Cricket Club v Burgher Recreation Club",
+  "from": "2026-08-30T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554575",
-  "tour": "t1554555",
-  "what": "Malaysia v Maldives",
-  "to": "2026-10-11T01:15:00Z"
+  "kind": "dropped",
+  "id": "1547433",
+  "tour": "t8832",
+  "what": "Moors Sports Club v Ace Capital Cricket Club",
+  "from": "2026-08-30T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554579",
-  "tour": "t1554555",
-  "what": "China v Saudi Arabia",
-  "to": "2026-10-12T01:15:00Z"
+  "kind": "dropped",
+  "id": "1547435",
+  "tour": "t8832",
+  "what": "Police Sports Club v Bloomfield Cricket and Athletic Club",
+  "from": "2026-08-30T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554578",
-  "tour": "t1554555",
-  "what": "Hong Kong v Maldives",
-  "to": "2026-10-12T01:15:00Z"
+  "kind": "dropped",
+  "id": "1547432",
+  "tour": "t8832",
+  "what": "Colombo Cricket Club v Panadura Sports Club",
+  "from": "2026-08-31T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554577",
-  "tour": "t1554555",
-  "what": "Malaysia v Singapore",
-  "to": "2026-10-12T01:15:00Z"
+  "kind": "dropped",
+  "id": "1535502",
+  "tour": "slt20",
+  "what": "Moors Sports Club v Nugegoda Sports Welfare Club",
+  "from": "2026-09-01T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554580",
-  "tour": "t1554555",
-  "what": "Malaysia v China",
-  "to": "2026-10-14T01:15:00Z"
+  "kind": "dropped",
+  "id": "1535500",
+  "tour": "slt20",
+  "what": "Panadura Sports Club v Sinhalese Sports Club",
+  "from": "2026-09-01T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554581",
-  "tour": "t1554555",
-  "what": "Hong Kong v Singapore",
-  "to": "2026-10-14T06:00:00Z"
+  "kind": "dropped",
+  "id": "1535503",
+  "tour": "slt20",
+  "what": "Ace Capital Cricket Club v Nondescripts Cricket Club",
+  "from": "2026-09-01T08:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1554582",
-  "tour": "t1554555",
-  "what": "Maldives v Saudi Arabia",
-  "to": "2026-10-14T06:00:00Z"
+  "kind": "dropped",
+  "id": "1535505",
+  "tour": "slt20",
+  "what": "Bloomfield Cricket and Athletic Club v Colts Cricket Club",
+  "from": "2026-09-01T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547440",
+  "tour": "t8832",
+  "what": "Ace Capital Cricket Club v Nugegoda Sports Welfare Club",
+  "from": "2026-09-03T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547442",
+  "tour": "t8832",
+  "what": "Bloomfield Cricket and Athletic Club v Sinhalese Sports Club",
+  "from": "2026-09-03T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547443",
+  "tour": "t8832",
+  "what": "Burgher Recreation Club v Badureliya Sports Club",
+  "from": "2026-09-03T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547438",
+  "tour": "t8832",
+  "what": "Colombo Cricket Club v Tamil Union Cricket and Athletic Club",
+  "from": "2026-09-03T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547439",
+  "tour": "t8832",
+  "what": "Panadura Sports Club v Kurunegala Youth Cricket Club",
+  "from": "2026-09-03T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547441",
+  "tour": "t8832",
+  "what": "Police Sports Club v Colts Cricket Club",
+  "from": "2026-09-03T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535506",
+  "tour": "slt20",
+  "what": "Kurunegala Youth Cricket Club v Colombo Cricket Club",
+  "from": "2026-09-05T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547445",
+  "tour": "t8832",
+  "what": "Moors Sports Club v Colts Cricket Club",
+  "from": "2026-09-07T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535539",
+  "tour": "slt20",
+  "what": "Ace Capital Cricket Club v Colombo Cricket Club",
+  "from": "2026-09-09T08:30:00Z"
  }
 ]
