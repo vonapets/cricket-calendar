@@ -622,5 +622,13 @@
   "short": "Sri Lanka in Pakistan 2026-27",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24801": {
+  "id": "24801",
+  "key": "t24801",
+  "name": "Bangladesh tour of United Arab Emirates 2026/27",
+  "short": "Afghanistan v Bangladesh 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
