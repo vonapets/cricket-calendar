@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-09T19:35:50Z",
+ "generated_at": "2026-10-10T02:50:47Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
- "observed_to": "2026-10-08",
+ "observed_to": "2026-10-10",
  "totals": {
-  "events": 2408,
-  "volume": 90710301,
+  "events": 2404,
+  "volume": 90092677,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 234,
+   "matches": 233,
    "traded": 129,
    "median": 7810,
    "p75": 18696,
    "best": 74063,
    "total": 1878229,
-   "outright": 2773572,
+   "outright": 2629885,
    "india_pct": 6,
    "name": "Domestic / minor",
    "detect": [],
@@ -61,7 +61,7 @@
    "median": 57755,
    "p75": 148238,
    "best": 148238,
-   "total": 272845,
+   "total": 272948,
    "outright": 17918,
    "india_pct": 23,
    "name": "ICC ODI World Cup",
@@ -72,12 +72,12 @@
    "not": []
   },
   "Other international": {
-   "matches": 142,
-   "traded": 86,
-   "median": 59880,
-   "p75": 116228,
-   "best": 479795,
-   "total": 7390856,
+   "matches": 141,
+   "traded": 85,
+   "median": 57138,
+   "p75": 111099,
+   "best": 350589,
+   "total": 6916815,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -85,7 +85,7 @@
    "not": []
   },
   "SA20": {
-   "matches": 61,
+   "matches": 62,
    "traded": 49,
    "median": 27208,
    "p75": 52462,
@@ -102,12 +102,12 @@
    ]
   },
   "India bilateral": {
-   "matches": 31,
+   "matches": 32,
    "traded": 26,
    "median": 258866,
    "p75": 402067,
    "best": 788605,
-   "total": 7156991,
+   "total": 7156993,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -291,9 +291,9 @@
  },
  "teams": {
   "india": {
-   "n": 30,
-   "traded": 27,
-   "median": 270700,
+   "n": 29,
+   "traded": 26,
+   "median": 258866,
    "best": 788605
   },
   "italy": {
@@ -357,10 +357,10 @@
    "best": 97721
   },
   "west indies": {
-   "n": 20,
-   "traded": 18,
-   "median": 68722,
-   "best": 479795
+   "n": 19,
+   "traded": 17,
+   "median": 66333,
+   "best": 290952
   },
   "netherlands": {
    "n": 2,
@@ -401,17 +401,11 @@
   "afghanistan": {
    "n": 14,
    "traded": 9,
-   "median": 14090,
+   "median": 18229,
    "best": 78050
   }
  },
  "pairs": {
-  "india|west indies": {
-   "n": 3,
-   "traded": 1,
-   "median": 479795,
-   "best": 479795
-  },
   "india|new zealand": {
    "n": 8,
    "traded": 8,
@@ -525,6 +519,12 @@
    "traded": 0,
    "median": 0,
    "best": 0
+  },
+  "india|west indies": {
+   "n": 2,
+   "traded": 0,
+   "median": 0,
+   "best": 823
   }
  }
 }
