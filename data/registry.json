@@ -630,5 +630,21 @@
   "short": "Afghanistan v Bangladesh 2026-27",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "22562": {
+  "id": "22562",
+  "key": "t22562",
+  "name": "CSA Women's Division Two T20",
+  "short": "CSA Women's Division Two T20",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "8050": {
+  "id": "8050",
+  "key": "t8050",
+  "name": "Ranji Trophy",
+  "short": "Ranji Trophy",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
