@@ -1,1 +1,233 @@
-[]
+[
+ {
+  "kind": "added",
+  "id": "1513429",
+  "tour": "t8204",
+  "what": "Derbyshire v Durham",
+  "to": "2026-08-20T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551702",
+  "tour": "t1551603",
+  "what": "Easterns v South Western Districts",
+  "from": "2026-09-10T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551703",
+  "tour": "t1551603",
+  "what": "Limpopo v Border",
+  "from": "2026-09-10T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551704",
+  "tour": "t1551603",
+  "what": "Mpumalanga v KwaZulu-Natal Inland",
+  "from": "2026-09-10T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551705",
+  "tour": "t1551603",
+  "what": "Northern Cape v Limpopo",
+  "from": "2026-09-17T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551706",
+  "tour": "t1551603",
+  "what": "Easterns v Border",
+  "from": "2026-09-17T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551797",
+  "tour": "t20676",
+  "what": "Easterns v Northern Cape",
+  "from": "2026-11-22T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551796",
+  "tour": "t20676",
+  "what": "Limpopo v KwaZulu-Natal Inland",
+  "from": "2026-11-22T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551795",
+  "tour": "t20676",
+  "what": "South Western Districts v Border",
+  "from": "2026-11-22T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551710",
+  "tour": "t1551603",
+  "what": "Easterns v Northern Cape",
+  "from": "2026-11-26T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551713",
+  "tour": "t1551603",
+  "what": "Limpopo v Easterns",
+  "from": "2026-12-10T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551711",
+  "tour": "t1551603",
+  "what": "South Western Districts v Northern Cape",
+  "from": "2026-12-10T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551800",
+  "tour": "t20676",
+  "what": "Limpopo v Easterns",
+  "from": "2026-12-13T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551714",
+  "tour": "t1551603",
+  "what": "Border v Easterns",
+  "from": "2026-12-17T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551718",
+  "tour": "t1551603",
+  "what": "Limpopo v Northern Cape",
+  "from": "2027-01-07T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551719",
+  "tour": "t1551603",
+  "what": "Border v Mpumalanga",
+  "from": "2027-01-14T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551721",
+  "tour": "t1551603",
+  "what": "Easterns v KwaZulu-Natal Inland",
+  "from": "2027-01-14T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551720",
+  "tour": "t1551603",
+  "what": "Northern Cape v South Western Districts",
+  "from": "2027-01-14T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551724",
+  "tour": "t1551603",
+  "what": "KwaZulu-Natal Inland v Limpopo",
+  "from": "2027-01-21T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551726",
+  "tour": "t1551603",
+  "what": "Border v KwaZulu-Natal Inland",
+  "from": "2027-02-04T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551729",
+  "tour": "t1551603",
+  "what": "Easterns v Limpopo",
+  "from": "2027-02-11T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551728",
+  "tour": "t1551603",
+  "what": "KwaZulu-Natal Inland v Border",
+  "from": "2027-02-11T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551730",
+  "tour": "t1551603",
+  "what": "Mpumalanga v Northern Cape",
+  "from": "2027-02-11T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551733",
+  "tour": "t1551603",
+  "what": "Limpopo v Mpumalanga",
+  "from": "2027-02-18T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551732",
+  "tour": "t1551603",
+  "what": "Northern Cape v Easterns",
+  "from": "2027-02-18T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551734",
+  "tour": "t1551603",
+  "what": "KwaZulu-Natal Inland v Easterns",
+  "from": "2027-03-04T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551735",
+  "tour": "t1551603",
+  "what": "Northern Cape v Border",
+  "from": "2027-03-04T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551739",
+  "tour": "t1551603",
+  "what": "Easterns v Mpumalanga",
+  "from": "2027-03-11T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551737",
+  "tour": "t1551603",
+  "what": "South Western Districts v KwaZulu-Natal Inland",
+  "from": "2027-03-11T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551740",
+  "tour": "t1551603",
+  "what": "Mpumalanga v Easterns",
+  "from": "2027-03-18T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551742",
+  "tour": "t1551603",
+  "what": "KwaZulu-Natal Inland v Northern Cape",
+  "from": "2027-03-25T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551691",
+  "tour": "t21185",
+  "what": "Lions v Dolphins",
+  "from": "2027-04-03T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551744",
+  "tour": "t1551603",
+  "what": "TBA v TBA",
+  "from": "2027-04-08T08:00:00Z"
+ }
+]
