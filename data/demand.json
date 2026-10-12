@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-12T18:11:25Z",
+ "generated_at": "2026-10-12T22:11:09Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-10-12",
  "totals": {
-  "events": 2341,
-  "volume": 90205745,
+  "events": 2339,
+  "volume": 90210004,
   "competitions": 19
  },
  "competitions": {
@@ -17,7 +17,7 @@
    "p75": 18696,
    "best": 74063,
    "total": 1877867,
-   "outright": 2629627,
+   "outright": 2629842,
    "india_pct": 6,
    "name": "Domestic / minor",
    "detect": [],
@@ -61,7 +61,7 @@
    "median": 66652,
    "p75": 148238,
    "best": 148238,
-   "total": 264832,
+   "total": 264862,
    "outright": 17918,
    "india_pct": 27,
    "name": "ICC ODI World Cup",
@@ -77,7 +77,7 @@
    "median": 63557,
    "p75": 116228,
    "best": 350589,
-   "total": 7093535,
+   "total": 7097372,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -107,7 +107,7 @@
    "median": 280301,
    "p75": 429186,
    "best": 788605,
-   "total": 7101541,
+   "total": 7101605,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -222,7 +222,7 @@
    "not": []
   },
   "Thunderbolt T10": {
-   "matches": 14,
+   "matches": 13,
    "traded": 0,
    "median": 0,
    "p75": 0,
@@ -235,14 +235,14 @@
    "not": []
   },
   "Legends League Cricket": {
-   "matches": 18,
+   "matches": 17,
    "traded": 3,
    "median": 7926,
    "p75": 10214,
    "best": 10214,
-   "total": 23252,
+   "total": 23365,
    "outright": 0,
-   "india_pct": 39,
+   "india_pct": 41,
    "name": "Legends League Cricket",
    "detect": [],
    "not": []
@@ -305,7 +305,7 @@
   "australia": {
    "n": 12,
    "traded": 10,
-   "median": 194126,
+   "median": 194478,
    "best": 437829
   },
   "england": {
@@ -317,7 +317,7 @@
   "south africa": {
    "n": 27,
    "traded": 19,
-   "median": 150995,
+   "median": 151699,
    "best": 429186
   },
   "usa": {
@@ -329,7 +329,7 @@
   "bangladesh": {
    "n": 8,
    "traded": 4,
-   "median": 93682,
+   "median": 93732,
    "best": 111099
   },
   "pakistan": {
@@ -354,7 +354,7 @@
    "n": 13,
    "traded": 7,
    "median": 73050,
-   "best": 91963
+   "best": 92063
   },
   "canada": {
    "n": 2,
@@ -445,8 +445,8 @@
   "australia|south africa": {
    "n": 2,
    "traded": 1,
-   "median": 150995,
-   "best": 150995
+   "median": 151699,
+   "best": 151699
   },
   "pakistan|sri lanka": {
    "n": 10,
@@ -511,8 +511,8 @@
   "india|west indies": {
    "n": 2,
    "traded": 1,
-   "median": 6293,
-   "best": 6293
+   "median": 7184,
+   "best": 7184
   },
   "afghanistan|pakistan": {
    "n": 2,
