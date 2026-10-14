@@ -646,5 +646,13 @@
   "short": "Ranji Trophy",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "22804": {
+  "id": "22804",
+  "key": "t22804",
+  "name": "T20 Spring Challenge",
+  "short": "T20 Spring Challenge",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
