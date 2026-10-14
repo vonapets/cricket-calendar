@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T13:53:01Z",
+ "generated_at": "2026-10-14T18:40:52Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -19163,28 +19163,6 @@
    "india": false
   },
   {
-   "id": "1558390",
-   "tour": "t22804",
-   "utc": "2026-10-11T23:00:00Z",
-   "ts": 1791759600,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "2nd Match",
-   "home": "Australian Capital Territory Women",
-   "away": "Hobart Hurricanes Women",
-   "home_score": "",
-   "away_score": "",
-   "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1558389",
    "tour": "t22804",
    "utc": "2026-10-11T23:00:00Z",
@@ -19197,6 +19175,28 @@
    "home_score": "",
    "away_score": "",
    "venue": "Hurstville Oval, Sydney",
+   "city": "Sydney",
+   "country": "Australia",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1558390",
+   "tour": "t22804",
+   "utc": "2026-10-11T23:00:00Z",
+   "ts": 1791759600,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "2nd Match",
+   "home": "Australian Capital Territory Women",
+   "away": "Hobart Hurricanes Women",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
    "city": "Sydney",
    "country": "Australia",
    "format": "T20",
@@ -19273,28 +19273,6 @@
    "india": false
   },
   {
-   "id": "1558392",
-   "tour": "t22804",
-   "utc": "2026-10-12T03:30:00Z",
-   "ts": 1791775800,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "4th Match",
-   "home": "Melbourne Renegades Women",
-   "away": "Perth Scorchers Women",
-   "home_score": "",
-   "away_score": "",
-   "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1558391",
    "tour": "t22804",
    "utc": "2026-10-12T03:30:00Z",
@@ -19307,6 +19285,28 @@
    "home_score": "",
    "away_score": "",
    "venue": "Hurstville Oval, Sydney",
+   "city": "Sydney",
+   "country": "Australia",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1558392",
+   "tour": "t22804",
+   "utc": "2026-10-12T03:30:00Z",
+   "ts": 1791775800,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "4th Match",
+   "home": "Melbourne Renegades Women",
+   "away": "Perth Scorchers Women",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
    "city": "Sydney",
    "country": "Australia",
    "format": "T20",
@@ -19810,8 +19810,8 @@
    "round": "8th Match",
    "home": "Melbourne Renegades Women",
    "away": "Melbourne Stars Women",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "180/4",
+   "away_score": "179/6 (20 ov, target 181)",
    "venue": "Bankstown Oval, Sydney",
    "city": "Sydney",
    "country": "Australia",
@@ -19849,18 +19849,18 @@
    "tour": "t1554704",
    "utc": "2026-10-14T05:00:00Z",
    "ts": 1791954000,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "9th Match",
    "home": "Bangladesh Women Under-19s",
    "away": "Sri Lanka Women Under-19s",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "58",
+   "away_score": "59/2 (10.4/20 ov, target 59)",
    "venue": "Iqbal Stadium, Faisalabad",
    "city": "Faisalabad",
    "country": "Pakistan",
    "format": "T20",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -19981,18 +19981,18 @@
    "tour": "t22804",
    "utc": "2026-10-14T08:00:00Z",
    "ts": 1791964800,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "9th Match",
    "home": "Adelaide Strikers Women",
    "away": "Hobart Hurricanes Women",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "165/5",
+   "away_score": "136/8 (20 ov, target 166)",
    "venue": "Bankstown Oval, Sydney",
    "city": "Sydney",
    "country": "Australia",
    "format": "T20",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -20003,18 +20003,18 @@
    "tour": "t24289",
    "utc": "2026-10-14T13:30:00Z",
    "ts": 1791984600,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "4th T20I",
    "home": "India",
    "away": "West Indies",
-   "home_score": "",
-   "away_score": "3/0 (0.6/20 ov)",
+   "home_score": "223 (19.3/20 ov, target 248)",
+   "away_score": "247/3",
    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
    "city": "Hyderabad",
    "country": "India",
    "format": "T20",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -20025,18 +20025,18 @@
    "tour": "t8656",
    "utc": "2026-10-14T16:00:00Z",
    "ts": 1791993600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "Pool A",
    "home": "Knights",
    "away": "Easterns",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "51/2 (5.4/20 ov, target 187)",
+   "away_score": "186/6",
    "venue": "Mangaung Oval, Bloemfontein",
    "city": "Bloemfontein",
    "country": "South Africa",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -20047,18 +20047,18 @@
    "tour": "t8656",
    "utc": "2026-10-14T16:00:00Z",
    "ts": 1791993600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "Pool A",
    "home": "Western Province",
    "away": "Boland",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "49/1 (6/20 ov, target 175)",
+   "away_score": "174/7",
    "venue": "Newlands, Cape Town",
    "city": "Cape Town",
    "country": "South Africa",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -31329,191 +31329,7 @@
    "india": false
   }
  ],
- "changes": [
-  {
-   "kind": "added",
-   "id": "1551804",
-   "tour": "t20676",
-   "what": "KwaZulu-Natal Inland v South Western Districts",
-   "to": "2027-01-10T07:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551805",
-   "tour": "t20676",
-   "what": "Limpopo v Northern Cape",
-   "to": "2027-01-10T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551812",
-   "tour": "t20676",
-   "what": "South Western Districts v Easterns",
-   "to": "2027-02-07T08:00:00Z"
-  },
-  {
-   "kind": "moved",
-   "id": "1546550",
-   "tour": "t8050",
-   "what": "Assam v Tripura",
-   "from": "2026-10-18T04:00:00Z",
-   "to": "2026-10-18T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1548899",
-   "tour": "asia_w",
-   "what": "India Women v Pakistan Women",
-   "to": "2026-09-05T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558390",
-   "tour": "t22804",
-   "what": "Australian Capital Territory Women v Hobart Hurricanes Women",
-   "to": "2026-10-11T23:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558389",
-   "tour": "t22804",
-   "what": "Sydney Sixers Women v Brisbane Heat Women",
-   "to": "2026-10-11T23:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558392",
-   "tour": "t22804",
-   "what": "Melbourne Renegades Women v Perth Scorchers Women",
-   "to": "2026-10-12T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558391",
-   "tour": "t22804",
-   "what": "Sydney Thunder Women v Melbourne Stars Women",
-   "to": "2026-10-12T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558393",
-   "tour": "t22804",
-   "what": "Sydney Sixers Women v Australian Capital Territory Women",
-   "to": "2026-10-12T23:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558394",
-   "tour": "t22804",
-   "what": "Adelaide Strikers Women v Perth Scorchers Women",
-   "to": "2026-10-13T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558395",
-   "tour": "t22804",
-   "what": "Sydney Thunder Women v Brisbane Heat Women",
-   "to": "2026-10-13T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558396",
-   "tour": "t22804",
-   "what": "Melbourne Renegades Women v Melbourne Stars Women",
-   "to": "2026-10-14T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558397",
-   "tour": "t22804",
-   "what": "Adelaide Strikers Women v Hobart Hurricanes Women",
-   "to": "2026-10-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558398",
-   "tour": "t22804",
-   "what": "Australian Capital Territory Women v Brisbane Heat Women",
-   "to": "2026-10-16T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558400",
-   "tour": "t22804",
-   "what": "Hobart Hurricanes Women v Perth Scorchers Women",
-   "to": "2026-10-16T23:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558399",
-   "tour": "t22804",
-   "what": "Sydney Thunder Women v Melbourne Renegades Women",
-   "to": "2026-10-16T23:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558402",
-   "tour": "t22804",
-   "what": "Australian Capital Territory Women v Melbourne Stars Women",
-   "to": "2026-10-17T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558401",
-   "tour": "t22804",
-   "what": "Sydney Sixers Women v Adelaide Strikers Women",
-   "to": "2026-10-17T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558403",
-   "tour": "t22804",
-   "what": "Hobart Hurricanes Women v Melbourne Renegades Women",
-   "to": "2026-10-17T23:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558404",
-   "tour": "t22804",
-   "what": "Adelaide Strikers Women v Brisbane Heat Women",
-   "to": "2026-10-18T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558405",
-   "tour": "t22804",
-   "what": "Sydney Thunder Women v Perth Scorchers Women",
-   "to": "2026-10-18T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558406",
-   "tour": "t22804",
-   "what": "Sydney Sixers Women v Melbourne Stars Women",
-   "to": "2026-10-18T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558407",
-   "tour": "t22804",
-   "what": "TBA v TBA",
-   "to": "2026-10-19T23:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558408",
-   "tour": "t22804",
-   "what": "TBA v TBA",
-   "to": "2026-10-20T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558409",
-   "tour": "t22804",
-   "what": "TBA v TBA",
-   "to": "2026-10-21T03:00:00Z"
-  }
- ],
+ "changes": [],
  "counts": {
   "tournaments": 91,
   "fixtures": 1344,
@@ -31521,7 +31337,7 @@
   "major": 35,
   "projected": 9,
   "projected_matches": 261,
-  "failures": 1
+  "failures": 0
  },
  "projection_horizon": "2027-03-31",
  "unpublished": [
@@ -31570,7 +31386,7 @@
   {
    "id": "24382",
    "name": "New Zealand A Women tour of Sri Lanka 2026",
-   "matches": 4,
+   "matches": 6,
    "last_seen": "2026-05-12 to 2026-05-25"
   },
   {
@@ -31652,8 +31468,6 @@
    "last_seen": "2026-06-18 to 2026-06-23"
   }
  ],
- "failures": [
-  "South American Women's Championships 2027: giving up on https://site.api.espn.com/apis/site/v2/sports/cricket/18940/scoreboard?dates=2027: HTTP Error 502: Bad Gateway"
- ],
+ "failures": [],
  "warnings": []
 }
