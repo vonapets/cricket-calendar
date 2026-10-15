@@ -1,9 +1,30 @@
 [
  {
-  "kind": "added",
-  "id": "1558543",
-  "tour": "t24268",
-  "what": "Governor-General XI Women v New Zealand Women",
-  "to": "2026-10-15T08:00:00Z"
+  "kind": "dropped",
+  "id": "1558389",
+  "tour": "t22804",
+  "what": "Sydney Sixers Women v Brisbane Heat Women",
+  "from": "2026-10-11T23:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1558390",
+  "tour": "t22804",
+  "what": "Australian Capital Territory Women v Hobart Hurricanes Women",
+  "from": "2026-10-11T23:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1558391",
+  "tour": "t22804",
+  "what": "Sydney Thunder Women v Melbourne Stars Women",
+  "from": "2026-10-12T03:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1558392",
+  "tour": "t22804",
+  "what": "Melbourne Renegades Women v Perth Scorchers Women",
+  "from": "2026-10-12T03:30:00Z"
  }
 ]

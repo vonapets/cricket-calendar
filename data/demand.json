@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-15T13:34:20Z",
+ "generated_at": "2026-10-15T18:21:19Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-10-15",
  "totals": {
-  "events": 2288,
-  "volume": 90064303,
+  "events": 2305,
+  "volume": 89989277,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 222,
+   "matches": 229,
    "traded": 129,
    "median": 7810,
    "p75": 18696,
@@ -56,14 +56,14 @@
    "not": []
   },
   "ICC ODI World Cup": {
-   "matches": 10,
-   "traded": 4,
-   "median": 67198,
+   "matches": 9,
+   "traded": 3,
+   "median": 66652,
    "p75": 148238,
    "best": 148238,
-   "total": 332364,
+   "total": 264628,
    "outright": 17918,
-   "india_pct": 30,
+   "india_pct": 33,
    "name": "ICC ODI World Cup",
    "detect": [
     "odi world cup",
@@ -73,11 +73,11 @@
   },
   "Other international": {
    "matches": 136,
-   "traded": 83,
-   "median": 62622,
+   "traded": 82,
+   "median": 63090,
    "p75": 116228,
    "best": 350589,
-   "total": 6866340,
+   "total": 6858963,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -103,11 +103,11 @@
   },
   "India bilateral": {
    "matches": 30,
-   "traded": 25,
-   "median": 270700,
+   "traded": 26,
+   "median": 258866,
    "p75": 402067,
    "best": 788605,
-   "total": 7119286,
+   "total": 7119509,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -235,14 +235,14 @@
    "not": []
   },
   "Legends League Cricket": {
-   "matches": 15,
+   "matches": 14,
    "traded": 3,
    "median": 7931,
    "p75": 10214,
    "best": 10214,
-   "total": 22457,
+   "total": 22405,
    "outright": 0,
-   "india_pct": 40,
+   "india_pct": 43,
    "name": "Legends League Cricket",
    "detect": [],
    "not": []
