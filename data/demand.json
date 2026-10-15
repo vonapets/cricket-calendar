@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-15T07:34:08Z",
+ "generated_at": "2026-10-15T13:34:20Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-10-15",
  "totals": {
   "events": 2288,
-  "volume": 89985042,
+  "volume": 90064303,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 220,
+   "matches": 222,
    "traded": 129,
    "median": 7810,
    "p75": 18696,
@@ -58,10 +58,10 @@
   "ICC ODI World Cup": {
    "matches": 10,
    "traded": 4,
-   "median": 57755,
+   "median": 67198,
    "p75": 148238,
    "best": 148238,
-   "total": 271076,
+   "total": 332364,
    "outright": 17918,
    "india_pct": 30,
    "name": "ICC ODI World Cup",
@@ -73,11 +73,11 @@
   },
   "Other international": {
    "matches": 136,
-   "traded": 82,
-   "median": 63090,
+   "traded": 83,
+   "median": 62622,
    "p75": 116228,
    "best": 350589,
-   "total": 6852231,
+   "total": 6866340,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -107,7 +107,7 @@
    "median": 270700,
    "p75": 402067,
    "best": 788605,
-   "total": 7115455,
+   "total": 7119286,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -222,7 +222,7 @@
    "not": []
   },
   "Thunderbolt T10": {
-   "matches": 13,
+   "matches": 12,
    "traded": 0,
    "median": 0,
    "p75": 0,
@@ -240,7 +240,7 @@
    "median": 7931,
    "p75": 10214,
    "best": 10214,
-   "total": 22424,
+   "total": 22457,
    "outright": 0,
    "india_pct": 40,
    "name": "Legends League Cricket",
@@ -309,7 +309,7 @@
    "best": 350589
   },
   "england": {
-   "n": 7,
+   "n": 8,
    "traded": 6,
    "median": 168808,
    "best": 256852
@@ -345,7 +345,7 @@
    "best": 788605
   },
   "sri lanka": {
-   "n": 30,
+   "n": 31,
    "traded": 26,
    "median": 74216,
    "best": 284075
@@ -431,7 +431,7 @@
    "best": 268100
   },
   "england|sri lanka": {
-   "n": 6,
+   "n": 7,
    "traded": 6,
    "median": 168808,
    "best": 256852
