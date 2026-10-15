@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T01:54:21Z",
+ "generated_at": "2026-10-15T07:33:45Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -18905,8 +18905,8 @@
    "round": "7th Match",
    "home": "Pakistan Women Under-19s",
    "away": "Bangladesh Women Under-19s",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "104/9 (20 ov, target 137)",
+   "away_score": "136/5",
    "venue": "Iqbal Stadium, Faisalabad",
    "city": "Faisalabad",
    "country": "Pakistan",
@@ -20086,20 +20086,20 @@
   {
    "id": "1554418",
    "tour": "t19439",
-   "utc": "2026-10-15T06:00:00Z",
-   "ts": 1792044000,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "utc": "2026-10-15T05:30:00Z",
+   "ts": 1792042200,
+   "status": "Live",
+   "status_long": "Live",
    "round": "136th Match",
    "home": "Oman",
    "away": "Canada",
    "home_score": "",
-   "away_score": "",
+   "away_score": "98/3 (20.5/50 ov)",
    "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
    "city": "Al Amarat",
    "country": "Oman",
    "format": "ODI",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -20179,8 +20179,8 @@
    "status": "Schedu",
    "status_long": "Scheduled",
    "round": "Final",
-   "home": "TBA",
-   "away": "TBA",
+   "home": "Bangladesh Women Under-19s",
+   "away": "Sri Lanka Women Under-19s",
    "home_score": "",
    "away_score": "",
    "venue": "Iqbal Stadium, Faisalabad",
@@ -20416,8 +20416,8 @@
   {
    "id": "1554419",
    "tour": "t19439",
-   "utc": "2026-10-17T06:00:00Z",
-   "ts": 1792216800,
+   "utc": "2026-10-17T05:30:00Z",
+   "ts": 1792215000,
    "status": "Schedu",
    "status_long": "Scheduled",
    "round": "137th Match",
@@ -21648,8 +21648,8 @@
   {
    "id": "1554420",
    "tour": "t19439",
-   "utc": "2026-10-19T06:00:00Z",
-   "ts": 1792389600,
+   "utc": "2026-10-19T05:30:00Z",
+   "ts": 1792387800,
    "status": "Schedu",
    "status_long": "Scheduled",
    "round": "138th Match",
@@ -31526,60 +31526,28 @@
  ],
  "changes": [
   {
-   "kind": "added",
-   "id": "1558244",
-   "tour": "t1558221",
-   "what": "Austria Women v Sweden Women",
-   "to": "2026-10-15T07:00:00Z"
+   "kind": "moved",
+   "id": "1554418",
+   "tour": "t19439",
+   "what": "Oman v Canada",
+   "from": "2026-10-15T06:00:00Z",
+   "to": "2026-10-15T05:30:00Z"
   },
   {
-   "kind": "added",
-   "id": "1558245",
-   "tour": "t1558221",
-   "what": "Bulgaria Women v Sweden Women",
-   "to": "2026-10-15T11:00:00Z"
+   "kind": "moved",
+   "id": "1554419",
+   "tour": "t19439",
+   "what": "Canada v Nepal",
+   "from": "2026-10-17T06:00:00Z",
+   "to": "2026-10-17T05:30:00Z"
   },
   {
-   "kind": "added",
-   "id": "1558246",
-   "tour": "t1558221",
-   "what": "Romania Women v Bulgaria Women",
-   "to": "2026-10-16T07:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558247",
-   "tour": "t1558221",
-   "what": "Austria Women v Bulgaria Women",
-   "to": "2026-10-16T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558248",
-   "tour": "t1558221",
-   "what": "Romania Women v Austria Women",
-   "to": "2026-10-17T07:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558249",
-   "tour": "t1558221",
-   "what": "Romania Women v Sweden Women",
-   "to": "2026-10-17T11:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558250",
-   "tour": "t1558221",
-   "what": "TBA v TBA",
-   "to": "2026-10-18T07:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558251",
-   "tour": "t1558221",
-   "what": "TBA v TBA",
-   "to": "2026-10-18T11:00:00Z"
+   "kind": "moved",
+   "id": "1554420",
+   "tour": "t19439",
+   "what": "Oman v Nepal",
+   "from": "2026-10-19T06:00:00Z",
+   "to": "2026-10-19T05:30:00Z"
   }
  ],
  "counts": {

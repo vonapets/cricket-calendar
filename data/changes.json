@@ -1,58 +1,26 @@
 [
  {
-  "kind": "added",
-  "id": "1558244",
-  "tour": "t1558221",
-  "what": "Austria Women v Sweden Women",
-  "to": "2026-10-15T07:00:00Z"
+  "kind": "moved",
+  "id": "1554418",
+  "tour": "t19439",
+  "what": "Oman v Canada",
+  "from": "2026-10-15T06:00:00Z",
+  "to": "2026-10-15T05:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1558245",
-  "tour": "t1558221",
-  "what": "Bulgaria Women v Sweden Women",
-  "to": "2026-10-15T11:00:00Z"
+  "kind": "moved",
+  "id": "1554419",
+  "tour": "t19439",
+  "what": "Canada v Nepal",
+  "from": "2026-10-17T06:00:00Z",
+  "to": "2026-10-17T05:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1558246",
-  "tour": "t1558221",
-  "what": "Romania Women v Bulgaria Women",
-  "to": "2026-10-16T07:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1558247",
-  "tour": "t1558221",
-  "what": "Austria Women v Bulgaria Women",
-  "to": "2026-10-16T11:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1558248",
-  "tour": "t1558221",
-  "what": "Romania Women v Austria Women",
-  "to": "2026-10-17T07:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1558249",
-  "tour": "t1558221",
-  "what": "Romania Women v Sweden Women",
-  "to": "2026-10-17T11:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1558250",
-  "tour": "t1558221",
-  "what": "TBA v TBA",
-  "to": "2026-10-18T07:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1558251",
-  "tour": "t1558221",
-  "what": "TBA v TBA",
-  "to": "2026-10-18T11:00:00Z"
+  "kind": "moved",
+  "id": "1554420",
+  "tour": "t19439",
+  "what": "Oman v Nepal",
+  "from": "2026-10-19T06:00:00Z",
+  "to": "2026-10-19T05:30:00Z"
  }
 ]
