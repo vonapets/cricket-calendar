@@ -654,5 +654,13 @@
   "short": "T20 Spring Challenge",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1558221": {
+  "id": "1558221",
+  "key": "t1558221",
+  "name": "ECA Women's European Cup 2026/27",
+  "short": "ECA Women's Europe",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
