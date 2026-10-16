@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T18:20:53Z",
+ "generated_at": "2026-10-16T01:43:55Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -1416,9 +1416,9 @@
    "short": "T20 Spring Challenge",
    "group": "Discovered",
    "color": "#7a8899",
-   "start": "2026-10-12",
+   "start": "2026-10-13",
    "end": "2026-10-21",
-   "matches": 17,
+   "matches": 15,
    "india": false,
    "world": false,
    "formats": [
@@ -19424,50 +19424,6 @@
    "india": false
   },
   {
-   "id": "1558393",
-   "tour": "t22804",
-   "utc": "2026-10-12T23:00:00Z",
-   "ts": 1791846000,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "5th Match",
-   "home": "Sydney Sixers Women",
-   "away": "Australian Capital Territory Women",
-   "home_score": "78/3 (9/9 ov)",
-   "away_score": "77/7 (9 ov, target 90)",
-   "venue": "Bankstown Oval, Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1558394",
-   "tour": "t22804",
-   "utc": "2026-10-13T03:30:00Z",
-   "ts": 1791862200,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "6th Match",
-   "home": "Adelaide Strikers Women",
-   "away": "Perth Scorchers Women",
-   "home_score": "183/4 (19.2/20 ov, target 183)",
-   "away_score": "182/8",
-   "venue": "Bankstown Oval, Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1544850",
    "tour": "marsh",
    "utc": "2026-10-13T06:00:00Z",
@@ -31461,36 +31417,22 @@
  "changes": [
   {
    "kind": "dropped",
-   "id": "1558389",
+   "id": "1558393",
    "tour": "t22804",
-   "what": "Sydney Sixers Women v Brisbane Heat Women",
-   "from": "2026-10-11T23:00:00Z"
+   "what": "Sydney Sixers Women v Australian Capital Territory Women",
+   "from": "2026-10-12T23:00:00Z"
   },
   {
    "kind": "dropped",
-   "id": "1558390",
+   "id": "1558394",
    "tour": "t22804",
-   "what": "Australian Capital Territory Women v Hobart Hurricanes Women",
-   "from": "2026-10-11T23:00:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1558391",
-   "tour": "t22804",
-   "what": "Sydney Thunder Women v Melbourne Stars Women",
-   "from": "2026-10-12T03:30:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1558392",
-   "tour": "t22804",
-   "what": "Melbourne Renegades Women v Perth Scorchers Women",
-   "from": "2026-10-12T03:30:00Z"
+   "what": "Adelaide Strikers Women v Perth Scorchers Women",
+   "from": "2026-10-13T03:30:00Z"
   }
  ],
  "counts": {
   "tournaments": 92,
-  "fixtures": 1349,
+  "fixtures": 1347,
   "india": 37,
   "major": 35,
   "projected": 9,

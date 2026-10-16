@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-15T18:21:19Z",
+ "generated_at": "2026-10-16T01:44:22Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-10-15",
  "totals": {
   "events": 2305,
-  "volume": 89989277,
+  "volume": 89998682,
   "competitions": 19
  },
  "competitions": {
@@ -61,7 +61,7 @@
    "median": 66652,
    "p75": 148238,
    "best": 148238,
-   "total": 264628,
+   "total": 264631,
    "outright": 17918,
    "india_pct": 33,
    "name": "ICC ODI World Cup",
@@ -73,11 +73,11 @@
   },
   "Other international": {
    "matches": 136,
-   "traded": 82,
-   "median": 63090,
+   "traded": 83,
+   "median": 62622,
    "p75": 116228,
    "best": 350589,
-   "total": 6858963,
+   "total": 6867506,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -107,7 +107,7 @@
    "median": 258866,
    "p75": 402067,
    "best": 788605,
-   "total": 7119509,
+   "total": 7120367,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -326,12 +326,6 @@
    "median": 110838,
    "best": 145759
   },
-  "bangladesh": {
-   "n": 8,
-   "traded": 3,
-   "median": 95400,
-   "best": 111099
-  },
   "pakistan": {
    "n": 25,
    "traded": 18,
@@ -349,6 +343,12 @@
    "traded": 26,
    "median": 74216,
    "best": 284075
+  },
+  "bangladesh": {
+   "n": 8,
+   "traded": 4,
+   "median": 74169,
+   "best": 111099
   },
   "canada": {
    "n": 2,
@@ -380,17 +380,17 @@
    "median": 63557,
    "best": 350589
   },
-  "zimbabwe": {
-   "n": 14,
-   "traded": 9,
-   "median": 62622,
-   "best": 143355
-  },
   "scotland": {
    "n": 2,
    "traded": 2,
    "median": 59353,
    "best": 73050
+  },
+  "zimbabwe": {
+   "n": 14,
+   "traded": 10,
+   "median": 54452,
+   "best": 143355
   },
   "afghanistan": {
    "n": 13,
