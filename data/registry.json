@@ -662,5 +662,21 @@
   "short": "ECA Women's Europe",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24831": {
+  "id": "24831",
+  "key": "t24831",
+  "name": "Bangladesh Under-19s tour of Oman 2026/27",
+  "short": "Bangladesh Under-19s in Oman 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "10931": {
+  "id": "10931",
+  "key": "t10931",
+  "name": "United Arab Emirates Tri-Nation Series",
+  "short": "UAE Tri Series",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
