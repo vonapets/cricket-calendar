@@ -1,144 +1,59 @@
 [
  {
-  "kind": "added",
-  "id": "1551818",
-  "tour": "t20676",
-  "what": "Border v South Western Districts",
-  "to": "2027-02-21T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551828",
-  "tour": "t20676",
-  "what": "South Western Districts v Limpopo",
-  "to": "2027-03-28T08:00:00Z"
- },
- {
   "kind": "moved",
-  "id": "1546609",
-  "tour": "t8050",
-  "what": "Gujarat v Bengal",
-  "from": "2027-01-17T04:00:00Z",
-  "to": "2027-01-17T00:00:00Z"
+  "id": "1525660",
+  "tour": "t24203",
+  "what": "South Africa v Australia",
+  "from": "2026-10-18T08:00:00Z",
+  "to": "2026-10-18T07:45:00Z"
  },
  {
-  "kind": "moved",
-  "id": "1546615",
-  "tour": "t8050",
-  "what": "Tamil Nadu v Himachal Pradesh",
-  "from": "2027-01-17T04:00:00Z",
-  "to": "2027-01-17T00:00:00Z"
+  "kind": "dropped",
+  "id": "1551721",
+  "tour": "t1551603",
+  "what": "Easterns v KwaZulu-Natal Inland",
+  "from": "2027-01-14T08:00:00Z"
  },
  {
-  "kind": "moved",
-  "id": "1546635",
-  "tour": "t8050",
+  "kind": "dropped",
+  "id": "1551729",
+  "tour": "t1551603",
+  "what": "Easterns v Limpopo",
+  "from": "2027-02-11T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551728",
+  "tour": "t1551603",
+  "what": "KwaZulu-Natal Inland v Border",
+  "from": "2027-02-11T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551730",
+  "tour": "t1551603",
+  "what": "Mpumalanga v Northern Cape",
+  "from": "2027-02-11T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551740",
+  "tour": "t1551603",
+  "what": "Mpumalanga v Easterns",
+  "from": "2027-03-18T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551742",
+  "tour": "t1551603",
+  "what": "KwaZulu-Natal Inland v Northern Cape",
+  "from": "2027-03-25T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551744",
+  "tour": "t1551603",
   "what": "TBA v TBA",
-  "from": "2027-01-24T04:00:00Z",
-  "to": "2027-01-24T00:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546621",
-  "tour": "t8050",
-  "what": "Madhya Pradesh v Goa",
-  "from": "2027-01-24T04:00:00Z",
-  "to": "2027-01-24T00:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546634",
-  "tour": "t8050",
-  "what": "Tamil Nadu v Mumbai",
-  "from": "2027-01-24T04:00:00Z",
-  "to": "2027-01-24T00:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546622",
-  "tour": "t8050",
-  "what": "Uttar Pradesh v Jammu & Kashmir",
-  "from": "2027-01-24T04:00:00Z",
-  "to": "2027-01-24T00:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546645",
-  "tour": "t8050",
-  "what": "Delhi v Maharashtra",
-  "from": "2027-02-01T04:00:00Z",
-  "to": "2027-02-01T00:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546644",
-  "tour": "t8050",
-  "what": "Gujarat v Jharkhand",
-  "from": "2027-02-01T04:00:00Z",
-  "to": "2027-02-01T00:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546652",
-  "tour": "t8050",
-  "what": "TBA v TBA",
-  "from": "2027-02-09T04:00:00Z",
-  "to": "2027-02-09T00:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546653",
-  "tour": "t8050",
-  "what": "TBA v TBA",
-  "from": "2027-02-09T04:00:00Z",
-  "to": "2027-02-09T00:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546654",
-  "tour": "t8050",
-  "what": "TBA v TBA",
-  "from": "2027-02-09T04:00:00Z",
-  "to": "2027-02-09T00:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546655",
-  "tour": "t8050",
-  "what": "TBA v TBA",
-  "from": "2027-02-09T04:00:00Z",
-  "to": "2027-02-09T00:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546656",
-  "tour": "t8050",
-  "what": "TBA v TBA",
-  "from": "2027-02-18T04:00:00Z",
-  "to": "2027-02-18T00:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546657",
-  "tour": "t8050",
-  "what": "TBA v TBA",
-  "from": "2027-02-18T04:00:00Z",
-  "to": "2027-02-18T00:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546658",
-  "tour": "t8050",
-  "what": "TBA v TBA",
-  "from": "2027-02-27T04:00:00Z",
-  "to": "2027-02-27T00:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1551873",
-  "tour": "t8656",
-  "what": "Lions v Northern Cape",
-  "from": "2026-10-18T11:00:00Z",
-  "to": "2026-10-18T12:00:00Z"
+  "from": "2027-04-08T08:00:00Z"
  }
 ]
