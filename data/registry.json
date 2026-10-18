@@ -678,5 +678,13 @@
   "short": "UAE Tri Series",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1550706": {
+  "id": "1550706",
+  "key": "t1550706",
+  "name": "Pakistan ODI Tri-Series",
+  "short": "Pakistan ODI Tri-Series",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
