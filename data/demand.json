@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-20T07:43:49Z",
+ "generated_at": "2026-10-20T13:42:23Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
- "observed_to": "2026-10-19",
+ "observed_to": "2026-10-20",
  "totals": {
-  "events": 2335,
-  "volume": 90043607,
+  "events": 2366,
+  "volume": 90312813,
   "competitions": 19
  },
  "competitions": {
@@ -16,7 +16,7 @@
    "median": 7810,
    "p75": 18696,
    "best": 74063,
-   "total": 1877875,
+   "total": 1879475,
    "outright": 2629062,
    "india_pct": 6,
    "name": "Domestic / minor",
@@ -56,14 +56,14 @@
    "not": []
   },
   "ICC ODI World Cup": {
-   "matches": 9,
+   "matches": 11,
    "traded": 3,
    "median": 66652,
    "p75": 148238,
    "best": 148238,
    "total": 264572,
    "outright": 17918,
-   "india_pct": 33,
+   "india_pct": 27,
    "name": "ICC ODI World Cup",
    "detect": [
     "odi world cup",
@@ -72,12 +72,12 @@
    "not": []
   },
   "Other international": {
-   "matches": 141,
-   "traded": 87,
-   "median": 52938,
-   "p75": 111099,
+   "matches": 147,
+   "traded": 88,
+   "median": 59880,
+   "p75": 116228,
    "best": 350589,
-   "total": 6920553,
+   "total": 7171376,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -102,12 +102,12 @@
    ]
   },
   "India bilateral": {
-   "matches": 33,
-   "traded": 25,
-   "median": 270700,
+   "matches": 34,
+   "traded": 26,
+   "median": 258866,
    "p75": 402067,
    "best": 788605,
-   "total": 7109972,
+   "total": 7117190,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -291,9 +291,9 @@
  },
  "teams": {
   "india": {
-   "n": 27,
-   "traded": 24,
-   "median": 280301,
+   "n": 28,
+   "traded": 25,
+   "median": 270700,
    "best": 788605
   },
   "italy": {
@@ -303,7 +303,7 @@
    "best": 350589
   },
   "australia": {
-   "n": 11,
+   "n": 12,
    "traded": 10,
    "median": 189115,
    "best": 437829
@@ -315,7 +315,7 @@
    "best": 256852
   },
   "south africa": {
-   "n": 26,
+   "n": 27,
    "traded": 19,
    "median": 143773,
    "best": 429186
@@ -326,26 +326,20 @@
    "median": 110838,
    "best": 145759
   },
+  "pakistan": {
+   "n": 26,
+   "traded": 19,
+   "median": 96663,
+   "best": 284075
+  },
   "bangladesh": {
    "n": 7,
    "traded": 3,
    "median": 95400,
    "best": 111099
   },
-  "new zealand": {
-   "n": 32,
-   "traded": 20,
-   "median": 90813,
-   "best": 788605
-  },
-  "pakistan": {
-   "n": 25,
-   "traded": 19,
-   "median": 85718,
-   "best": 284075
-  },
   "sri lanka": {
-   "n": 30,
+   "n": 31,
    "traded": 26,
    "median": 74216,
    "best": 284075
@@ -368,8 +362,14 @@
    "median": 65327,
    "best": 91118
   },
+  "new zealand": {
+   "n": 33,
+   "traded": 21,
+   "median": 64297,
+   "best": 788605
+  },
   "ireland": {
-   "n": 7,
+   "n": 8,
    "traded": 5,
    "median": 63557,
    "best": 111099
@@ -393,7 +393,7 @@
    "best": 73050
   },
   "namibia": {
-   "n": 3,
+   "n": 4,
    "traded": 1,
    "median": 45655,
    "best": 45655
@@ -413,9 +413,9 @@
  },
  "pairs": {
   "india|new zealand": {
-   "n": 10,
-   "traded": 8,
-   "median": 407869,
+   "n": 11,
+   "traded": 9,
+   "median": 358602,
    "best": 788605
   },
   "australia|india": {
@@ -448,8 +448,14 @@
    "median": 166921,
    "best": 290952
   },
+  "england|pakistan": {
+   "n": 2,
+   "traded": 1,
+   "median": 132886,
+   "best": 132886
+  },
   "pakistan|sri lanka": {
-   "n": 8,
+   "n": 9,
    "traded": 8,
    "median": 118839,
    "best": 284075
@@ -484,6 +490,12 @@
    "median": 68722,
    "best": 78496
   },
+  "australia|south africa": {
+   "n": 2,
+   "traded": 1,
+   "median": 45534,
+   "best": 45534
+  },
   "new zealand|west indies": {
    "n": 7,
    "traded": 7,
@@ -508,12 +520,6 @@
    "median": 7623,
    "best": 7623
   },
-  "england|pakistan": {
-   "n": 2,
-   "traded": 1,
-   "median": 7213,
-   "best": 7213
-  },
   "afghanistan|pakistan": {
    "n": 2,
    "traded": 0,
@@ -527,7 +533,7 @@
    "best": 0
   },
   "ireland|namibia": {
-   "n": 2,
+   "n": 3,
    "traded": 0,
    "median": 0,
    "best": 5
