@@ -686,5 +686,13 @@
   "short": "Pakistan ODI Tri-Series",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "23028": {
+  "id": "23028",
+  "key": "t23028",
+  "name": "ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C",
+  "short": "T20 WC Africa Qualifier C",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
