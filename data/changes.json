@@ -1,674 +1,184 @@
 [
  {
   "kind": "added",
-  "id": "1551717",
-  "tour": "t1551603",
-  "what": "KwaZulu-Natal Inland v South Western Districts",
-  "to": "2027-01-07T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551718",
-  "tour": "t1551603",
-  "what": "Limpopo v Northern Cape",
-  "to": "2027-01-07T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551719",
-  "tour": "t1551603",
-  "what": "Border v Mpumalanga",
-  "to": "2027-01-14T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551723",
-  "tour": "t1551603",
-  "what": "Border v Northern Cape",
-  "to": "2027-01-21T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551724",
-  "tour": "t1551603",
-  "what": "KwaZulu-Natal Inland v Limpopo",
-  "to": "2027-01-21T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551722",
-  "tour": "t1551603",
-  "what": "South Western Districts v Mpumalanga",
-  "to": "2027-01-21T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551726",
-  "tour": "t1551603",
-  "what": "Border v KwaZulu-Natal Inland",
-  "to": "2027-02-04T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551727",
-  "tour": "t1551603",
-  "what": "Northern Cape v Mpumalanga",
-  "to": "2027-02-04T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551725",
-  "tour": "t1551603",
-  "what": "South Western Districts v Easterns",
-  "to": "2027-02-04T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551729",
-  "tour": "t1551603",
-  "what": "Easterns v Limpopo",
-  "to": "2027-02-11T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551728",
-  "tour": "t1551603",
-  "what": "KwaZulu-Natal Inland v Border",
-  "to": "2027-02-11T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551730",
-  "tour": "t1551603",
-  "what": "Mpumalanga v Northern Cape",
-  "to": "2027-02-11T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551731",
-  "tour": "t1551603",
-  "what": "Border v South Western Districts",
-  "to": "2027-02-18T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551733",
-  "tour": "t1551603",
-  "what": "Limpopo v Mpumalanga",
-  "to": "2027-02-18T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551732",
-  "tour": "t1551603",
-  "what": "Northern Cape v Easterns",
-  "to": "2027-02-18T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551734",
-  "tour": "t1551603",
-  "what": "KwaZulu-Natal Inland v Easterns",
-  "to": "2027-03-04T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551736",
-  "tour": "t1551603",
-  "what": "Limpopo v South Western Districts",
-  "to": "2027-03-04T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551735",
-  "tour": "t1551603",
-  "what": "Northern Cape v Border",
-  "to": "2027-03-04T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551738",
-  "tour": "t1551603",
-  "what": "Border v Limpopo",
-  "to": "2027-03-11T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551739",
-  "tour": "t1551603",
-  "what": "Easterns v Mpumalanga",
-  "to": "2027-03-11T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551737",
-  "tour": "t1551603",
-  "what": "South Western Districts v KwaZulu-Natal Inland",
-  "to": "2027-03-11T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551740",
-  "tour": "t1551603",
-  "what": "Mpumalanga v Easterns",
-  "to": "2027-03-18T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551742",
-  "tour": "t1551603",
-  "what": "KwaZulu-Natal Inland v Northern Cape",
-  "to": "2027-03-25T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551743",
-  "tour": "t1551603",
-  "what": "Mpumalanga v Border",
-  "to": "2027-03-25T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551741",
-  "tour": "t1551603",
-  "what": "South Western Districts v Limpopo",
-  "to": "2027-03-25T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551744",
-  "tour": "t1551603",
-  "what": "TBA v TBA",
-  "to": "2027-04-08T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551829",
-  "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v Northern Cape",
-  "to": "2027-03-28T07:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513428",
-  "tour": "t8204",
-  "what": "Middlesex v Kent",
-  "to": "2026-08-20T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513429",
-  "tour": "t8204",
-  "what": "Derbyshire v Durham",
-  "to": "2026-08-20T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513430",
-  "tour": "t8204",
-  "what": "Lancashire v Northamptonshire",
-  "to": "2026-08-20T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513431",
-  "tour": "t8204",
-  "what": "Gloucestershire v Worcestershire",
-  "to": "2026-08-20T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513432",
-  "tour": "t8204",
-  "what": "Derbyshire v Middlesex",
-  "to": "2026-08-27T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513433",
-  "tour": "t8204",
-  "what": "Northamptonshire v Kent",
-  "to": "2026-08-27T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513434",
-  "tour": "t8204",
-  "what": "Worcestershire v Lancashire",
-  "to": "2026-08-27T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513435",
-  "tour": "t8204",
-  "what": "Durham v Gloucestershire",
-  "to": "2026-08-27T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513436",
-  "tour": "t8204",
-  "what": "Gloucestershire v Derbyshire",
-  "to": "2026-09-02T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513437",
-  "tour": "t8204",
-  "what": "Kent v Worcestershire",
-  "to": "2026-09-02T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513438",
-  "tour": "t8204",
-  "what": "Northamptonshire v Durham",
-  "to": "2026-09-02T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513439",
-  "tour": "t8204",
-  "what": "Middlesex v Lancashire",
-  "to": "2026-09-02T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513440",
-  "tour": "t8204",
-  "what": "Derbyshire v Kent",
-  "to": "2026-09-08T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513441",
-  "tour": "t8204",
-  "what": "Worcestershire v Northamptonshire",
-  "to": "2026-09-08T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513442",
-  "tour": "t8204",
-  "what": "Durham v Middlesex",
-  "to": "2026-09-08T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513443",
-  "tour": "t8204",
-  "what": "Lancashire v Gloucestershire",
-  "to": "2026-09-08T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513444",
-  "tour": "t8204",
-  "what": "Durham v Worcestershire",
-  "to": "2026-09-15T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513445",
-  "tour": "t8204",
-  "what": "Northamptonshire v Derbyshire",
-  "to": "2026-09-15T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513446",
-  "tour": "t8204",
-  "what": "Gloucestershire v Middlesex",
-  "to": "2026-09-15T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513447",
-  "tour": "t8204",
-  "what": "Kent v Lancashire",
-  "to": "2026-09-15T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513448",
-  "tour": "t8204",
-  "what": "Kent v Gloucestershire",
-  "to": "2026-09-24T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513449",
-  "tour": "t8204",
-  "what": "Middlesex v Northamptonshire",
-  "to": "2026-09-24T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513450",
-  "tour": "t8204",
-  "what": "Worcestershire v Derbyshire",
-  "to": "2026-09-24T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513451",
-  "tour": "t8204",
-  "what": "Lancashire v Durham",
-  "to": "2026-09-24T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513582",
-  "tour": "t23080",
-  "what": "Surrey Women v Hampshire Women",
-  "to": "2026-08-19T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513583",
-  "tour": "t23080",
-  "what": "The Blaze Women v Durham Women",
-  "to": "2026-08-19T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513584",
-  "tour": "t23080",
-  "what": "Essex Women v Somerset Women",
-  "to": "2026-08-19T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513585",
-  "tour": "t23080",
-  "what": "Warwickshire Women v Yorkshire Women",
-  "to": "2026-08-19T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513586",
-  "tour": "t23080",
-  "what": "Warwickshire Women v The Blaze Women",
-  "to": "2026-08-26T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513587",
-  "tour": "t23080",
-  "what": "Yorkshire Women v Surrey Women",
-  "to": "2026-08-26T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513588",
-  "tour": "t23080",
-  "what": "Somerset Women v Durham Women",
-  "to": "2026-08-26T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513589",
-  "tour": "t23080",
-  "what": "Hampshire Women v Lancashire Women",
-  "to": "2026-08-26T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513590",
-  "tour": "t23080",
-  "what": "Durham Women v Hampshire Women",
-  "to": "2026-09-03T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513591",
-  "tour": "t23080",
-  "what": "Lancashire Women v Surrey Women",
-  "to": "2026-09-03T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513592",
-  "tour": "t23080",
-  "what": "Yorkshire Women v Somerset Women",
-  "to": "2026-09-03T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513593",
-  "tour": "t23080",
-  "what": "Warwickshire Women v Essex Women",
-  "to": "2026-09-03T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513594",
-  "tour": "t23080",
-  "what": "Essex Women v Surrey Women",
-  "to": "2026-09-06T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513595",
-  "tour": "t23080",
-  "what": "Lancashire Women v Durham Women",
-  "to": "2026-09-06T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513596",
-  "tour": "t23080",
-  "what": "The Blaze Women v Somerset Women",
-  "to": "2026-09-06T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513597",
-  "tour": "t23080",
-  "what": "Hampshire Women v Yorkshire Women",
-  "to": "2026-09-06T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513598",
-  "tour": "t23080",
-  "what": "Surrey Women v Warwickshire Women",
-  "to": "2026-09-09T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513599",
-  "tour": "t23080",
-  "what": "Somerset Women v Lancashire Women",
-  "to": "2026-09-09T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513600",
-  "tour": "t23080",
-  "what": "Essex Women v Yorkshire Women",
-  "to": "2026-09-09T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513601",
-  "tour": "t23080",
-  "what": "Hampshire Women v The Blaze Women",
-  "to": "2026-09-09T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513602",
-  "tour": "t23080",
-  "what": "The Blaze Women v Essex Women",
-  "to": "2026-09-11T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513603",
-  "tour": "t23080",
-  "what": "Durham Women v Warwickshire Women",
-  "to": "2026-09-12T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513604",
-  "tour": "t23080",
-  "what": "Yorkshire Women v Lancashire Women",
-  "to": "2026-09-12T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513605",
-  "tour": "t23080",
-  "what": "Surrey Women v Somerset Women",
-  "to": "2026-09-12T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513606",
-  "tour": "t23080",
-  "what": "Hampshire Women v Surrey Women",
-  "to": "2026-09-16T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513607",
-  "tour": "t23080",
-  "what": "Hampshire Women v The Blaze Women",
-  "to": "2026-09-19T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1537353",
-  "tour": "lpl",
-  "what": "Colombo Kaps v Galle Gallants",
-  "to": "2026-08-07T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554585",
-  "tour": "t1554562",
-  "what": "Ghana v Sierra Leone",
-  "to": "2026-09-22T09:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1557520",
-  "tour": "t23028",
-  "what": "Uganda v Zambia",
-  "to": "2026-10-20T09:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1557521",
-  "tour": "t23028",
-  "what": "Lesotho v Mozambique",
-  "to": "2026-10-20T13:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1557522",
-  "tour": "t23028",
-  "what": "Nigeria v Gambia",
-  "to": "2026-10-20T13:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1557523",
-  "tour": "t23028",
-  "what": "Gambia v Mozambique",
-  "to": "2026-10-21T09:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1557524",
-  "tour": "t23028",
-  "what": "Lesotho v Uganda",
-  "to": "2026-10-21T09:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1557525",
-  "tour": "t23028",
-  "what": "Nigeria v Zambia",
-  "to": "2026-10-21T13:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1557527",
-  "tour": "t23028",
-  "what": "Lesotho v Zambia",
-  "to": "2026-10-23T09:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1557526",
-  "tour": "t23028",
-  "what": "Nigeria v Mozambique",
-  "to": "2026-10-23T09:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1557528",
-  "tour": "t23028",
-  "what": "Gambia v Uganda",
-  "to": "2026-10-23T13:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1557529",
-  "tour": "t23028",
-  "what": "Mozambique v Uganda",
-  "to": "2026-10-24T09:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1557530",
-  "tour": "t23028",
-  "what": "Gambia v Zambia",
-  "to": "2026-10-24T13:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1557531",
-  "tour": "t23028",
-  "what": "Nigeria v Lesotho",
-  "to": "2026-10-24T13:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1557532",
-  "tour": "t23028",
-  "what": "Gambia v Lesotho",
-  "to": "2026-10-25T09:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1557533",
-  "tour": "t23028",
-  "what": "Mozambique v Zambia",
-  "to": "2026-10-25T09:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1557534",
-  "tour": "t23028",
-  "what": "Nigeria v Uganda",
-  "to": "2026-10-25T13:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547872",
-  "tour": "eutpl",
-  "what": "Rotterdam Dockers v Amsterdam Flames",
-  "from": "2026-08-26T13:15:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1551692",
   "tour": "t21185",
   "what": "Titans v North West",
-  "from": "2027-04-03T08:00:00Z"
+  "to": "2027-04-03T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547872",
+  "tour": "eutpl",
+  "what": "Rotterdam Dockers v Amsterdam Flames",
+  "to": "2026-08-26T13:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554583",
+  "tour": "t1554562",
+  "what": "Nigeria v Ghana",
+  "to": "2026-09-21T13:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554587",
+  "tour": "t1554562",
+  "what": "Nigeria v Sierra Leone",
+  "to": "2026-09-23T09:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554592",
+  "tour": "t1554562",
+  "what": "Nigeria v Ghana",
+  "to": "2026-09-26T13:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1513515",
+  "tour": "t8335",
+  "what": "Warwickshire v Lancashire",
+  "to": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513491",
+  "tour": "t8335",
+  "what": "Essex v Worcestershire",
+  "from": "2026-08-02T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513494",
+  "tour": "t8335",
+  "what": "Leicestershire v Somerset",
+  "from": "2026-08-02T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513501",
+  "tour": "t8335",
+  "what": "Glamorgan v Essex",
+  "from": "2026-08-07T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513504",
+  "tour": "t8335",
+  "what": "Nottinghamshire v Northamptonshire",
+  "from": "2026-08-07T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513507",
+  "tour": "t8335",
+  "what": "Yorkshire v Derbyshire",
+  "from": "2026-08-07T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513500",
+  "tour": "t8335",
+  "what": "Durham v Middlesex",
+  "from": "2026-08-07T12:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513505",
+  "tour": "t8335",
+  "what": "Somerset v Surrey",
+  "from": "2026-08-07T13:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513506",
+  "tour": "t8335",
+  "what": "Sussex v Worcestershire",
+  "from": "2026-08-07T13:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513509",
+  "tour": "t8335",
+  "what": "Durham v Essex",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513510",
+  "tour": "t8335",
+  "what": "Glamorgan v Worcestershire",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513512",
+  "tour": "t8335",
+  "what": "Kent v Leicestershire",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513518",
+  "tour": "t8335",
+  "what": "Hampshire v Derbyshire",
+  "from": "2026-08-11T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513519",
+  "tour": "t8335",
+  "what": "Middlesex v Sussex",
+  "from": "2026-08-11T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513520",
+  "tour": "t8335",
+  "what": "Somerset v Lancashire",
+  "from": "2026-08-11T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513521",
+  "tour": "t8335",
+  "what": "Surrey v Nottinghamshire",
+  "from": "2026-08-11T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513522",
+  "tour": "t8335",
+  "what": "Warwickshire v Kent",
+  "from": "2026-08-11T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513523",
+  "tour": "t8335",
+  "what": "Worcestershire v Durham",
+  "from": "2026-08-11T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513524",
+  "tour": "t8335",
+  "what": "Lancashire v Durham",
+  "from": "2026-08-14T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513525",
+  "tour": "t8335",
+  "what": "Yorkshire v Nottinghamshire",
+  "from": "2026-08-14T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513526",
+  "tour": "t8335",
+  "what": "Leicestershire v Nottinghamshire",
+  "from": "2026-08-16T10:00:00Z"
  }
 ]
