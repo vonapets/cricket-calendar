@@ -694,5 +694,13 @@
   "short": "T20 WC Africa Qualifier C",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24469": {
+  "id": "24469",
+  "key": "t24469",
+  "name": "India tour of New Zealand 2026/27",
+  "short": "India in New Zealand 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
