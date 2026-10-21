@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-21T02:07:05Z",
+ "generated_at": "2026-10-21T07:47:32Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-10-20",
  "totals": {
-  "events": 2353,
-  "volume": 90099437,
+  "events": 2337,
+  "volume": 90060209,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 227,
+   "matches": 225,
    "traded": 129,
    "median": 7810,
    "p75": 18696,
    "best": 74063,
-   "total": 1878775,
+   "total": 1878475,
    "outright": 2629062,
    "india_pct": 6,
    "name": "Domestic / minor",
@@ -57,11 +57,11 @@
   },
   "ICC ODI World Cup": {
    "matches": 11,
-   "traded": 3,
-   "median": 66652,
+   "traded": 4,
+   "median": 57755,
    "p75": 148238,
    "best": 148238,
-   "total": 264803,
+   "total": 267514,
    "outright": 17918,
    "india_pct": 27,
    "name": "ICC ODI World Cup",
@@ -72,12 +72,12 @@
    "not": []
   },
   "Other international": {
-   "matches": 145,
+   "matches": 143,
    "traded": 87,
    "median": 57138,
    "p75": 111099,
    "best": 350589,
-   "total": 6943111,
+   "total": 6930979,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -102,12 +102,12 @@
    ]
   },
   "India bilateral": {
-   "matches": 34,
-   "traded": 26,
-   "median": 258866,
+   "matches": 33,
+   "traded": 25,
+   "median": 270700,
    "p75": 402067,
    "best": 788605,
-   "total": 7130193,
+   "total": 7108613,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -120,7 +120,7 @@
    "median": 10478,
    "p75": 10763,
    "best": 11735,
-   "total": 46265,
+   "total": 46565,
    "outright": 0,
    "india_pct": 0,
    "name": "Sheffield Shield",
@@ -487,8 +487,8 @@
   "australia|south africa": {
    "n": 2,
    "traded": 1,
-   "median": 63340,
-   "best": 63340
+   "median": 64359,
+   "best": 64359
   },
   "new zealand|west indies": {
    "n": 7,

@@ -1,44 +1,86 @@
 [
  {
   "kind": "added",
-  "id": "1551825",
+  "id": "1551804",
   "tour": "t20676",
-  "what": "Border v Limpopo",
-  "to": "2027-03-14T08:00:00Z"
+  "what": "KwaZulu-Natal Inland v South Western Districts",
+  "to": "2027-01-10T07:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551826",
+  "id": "1551806",
   "tour": "t20676",
-  "what": "Easterns v Mpumalanga",
-  "to": "2027-03-14T08:00:00Z"
+  "what": "Border v Mpumalanga",
+  "to": "2027-01-17T08:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551829",
+  "id": "1551808",
   "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v Northern Cape",
+  "what": "Easterns v KwaZulu-Natal Inland",
+  "to": "2027-01-17T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551809",
+  "tour": "t20676",
+  "what": "South Western Districts v Mpumalanga",
+  "to": "2027-01-24T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551816",
+  "tour": "t20676",
+  "what": "Easterns v Limpopo",
+  "to": "2027-02-14T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551819",
+  "tour": "t20676",
+  "what": "Northern Cape v Easterns",
+  "to": "2027-02-21T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551830",
+  "tour": "t20676",
+  "what": "Mpumalanga v Border",
   "to": "2027-03-28T07:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1537352",
-  "tour": "lpl",
-  "what": "Colombo Kaps v Kandy Royals",
-  "to": "2026-08-05T14:00:00Z"
+  "id": "1547418",
+  "tour": "t8832",
+  "what": "Sinhalese Sports Club v Badureliya Sports Club",
+  "to": "2026-08-18T04:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1534400",
+  "id": "1513503",
+  "tour": "t8335",
+  "what": "Leicestershire v Warwickshire",
+  "from": "2026-08-07T13:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534399",
   "tour": "t8859",
-  "what": "Glamorgan 2nd XI v Essex 2nd XI",
+  "what": "Derbyshire 2nd XI v Northamptonshire 2nd XI",
   "from": "2026-08-17T10:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1547418",
-  "tour": "t8832",
-  "what": "Sinhalese Sports Club v Badureliya Sports Club",
-  "from": "2026-08-18T04:15:00Z"
+  "id": "1534403",
+  "tour": "t8859",
+  "what": "Gloucestershire 2nd XI v Durham 2nd XI",
+  "from": "2026-08-18T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534401",
+  "tour": "t8859",
+  "what": "Middlesex 2nd XI v Sussex 2nd XI",
+  "from": "2026-08-18T10:00:00Z"
  }
 ]
