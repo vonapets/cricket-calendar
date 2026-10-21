@@ -1,323 +1,44 @@
 [
  {
-  "kind": "moved",
-  "id": "1525660",
-  "tour": "t24203",
-  "what": "South Africa v Australia",
-  "from": "2026-10-18T08:00:00Z",
-  "to": "2026-10-18T07:45:00Z"
- },
- {
   "kind": "added",
-  "id": "1554533",
-  "tour": "t1554524",
-  "what": "Bhutan v Myanmar",
-  "to": "2026-10-05T01:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554540",
-  "tour": "t1554524",
-  "what": "Bhutan v Mongolia",
-  "to": "2026-10-08T01:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554545",
-  "tour": "t1554524",
-  "what": "Kuwait v Myanmar",
-  "to": "2026-10-11T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554547",
-  "tour": "t1554524",
-  "what": "Bahrain v Mongolia",
-  "to": "2026-10-11T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554551",
-  "tour": "t1554524",
-  "what": "Mongolia v Myanmar",
-  "to": "2026-10-14T01:15:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546580",
-  "tour": "t8050",
-  "what": "Sikkim v Nagaland",
-  "from": "2026-10-26T04:00:00Z",
-  "to": "2026-10-26T02:45:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546570",
-  "tour": "t8050",
-  "what": "Jharkhand v Delhi",
-  "from": "2026-10-26T04:00:00Z",
-  "to": "2026-10-26T03:30:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546573",
-  "tour": "t8050",
-  "what": "Odisha v Services",
-  "from": "2026-10-26T04:00:00Z",
-  "to": "2026-10-26T03:30:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546569",
-  "tour": "t8050",
-  "what": "Chhattisgarh v Andhra",
-  "from": "2026-10-26T04:00:00Z",
-  "to": "2026-10-26T03:45:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546609",
-  "tour": "t8050",
-  "what": "Gujarat v Bengal",
-  "from": "2027-01-17T00:00:00Z",
-  "to": "2027-01-17T04:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546615",
-  "tour": "t8050",
-  "what": "Tamil Nadu v Himachal Pradesh",
-  "from": "2027-01-17T00:00:00Z",
-  "to": "2027-01-17T04:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546635",
-  "tour": "t8050",
-  "what": "TBA v TBA",
-  "from": "2027-01-24T00:00:00Z",
-  "to": "2027-01-24T04:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546621",
-  "tour": "t8050",
-  "what": "Madhya Pradesh v Goa",
-  "from": "2027-01-24T00:00:00Z",
-  "to": "2027-01-24T04:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546634",
-  "tour": "t8050",
-  "what": "Tamil Nadu v Mumbai",
-  "from": "2027-01-24T00:00:00Z",
-  "to": "2027-01-24T04:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546622",
-  "tour": "t8050",
-  "what": "Uttar Pradesh v Jammu & Kashmir",
-  "from": "2027-01-24T00:00:00Z",
-  "to": "2027-01-24T04:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546645",
-  "tour": "t8050",
-  "what": "Delhi v Maharashtra",
-  "from": "2027-02-01T00:00:00Z",
-  "to": "2027-02-01T04:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546644",
-  "tour": "t8050",
-  "what": "Gujarat v Jharkhand",
-  "from": "2027-02-01T00:00:00Z",
-  "to": "2027-02-01T04:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546652",
-  "tour": "t8050",
-  "what": "TBA v TBA",
-  "from": "2027-02-09T00:00:00Z",
-  "to": "2027-02-09T04:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546653",
-  "tour": "t8050",
-  "what": "TBA v TBA",
-  "from": "2027-02-09T00:00:00Z",
-  "to": "2027-02-09T04:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546654",
-  "tour": "t8050",
-  "what": "TBA v TBA",
-  "from": "2027-02-09T00:00:00Z",
-  "to": "2027-02-09T04:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546655",
-  "tour": "t8050",
-  "what": "TBA v TBA",
-  "from": "2027-02-09T00:00:00Z",
-  "to": "2027-02-09T04:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546656",
-  "tour": "t8050",
-  "what": "TBA v TBA",
-  "from": "2027-02-18T00:00:00Z",
-  "to": "2027-02-18T04:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546657",
-  "tour": "t8050",
-  "what": "TBA v TBA",
-  "from": "2027-02-18T00:00:00Z",
-  "to": "2027-02-18T04:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546658",
-  "tour": "t8050",
-  "what": "TBA v TBA",
-  "from": "2027-02-27T00:00:00Z",
-  "to": "2027-02-27T04:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513507",
-  "tour": "t8335",
-  "what": "Yorkshire v Derbyshire",
-  "to": "2026-08-07T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513500",
-  "tour": "t8335",
-  "what": "Durham v Middlesex",
-  "to": "2026-08-07T12:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513517",
-  "tour": "t8335",
-  "what": "Gloucestershire v Northamptonshire",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513519",
-  "tour": "t8335",
-  "what": "Middlesex v Sussex",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513520",
-  "tour": "t8335",
-  "what": "Somerset v Lancashire",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513521",
-  "tour": "t8335",
-  "what": "Surrey v Nottinghamshire",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1537352",
-  "tour": "lpl",
-  "what": "Colombo Kaps v Kandy Royals",
-  "from": "2026-08-05T14:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551804",
-  "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v South Western Districts",
-  "from": "2027-01-10T07:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551806",
-  "tour": "t20676",
-  "what": "Border v Mpumalanga",
-  "from": "2027-01-17T08:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551808",
-  "tour": "t20676",
-  "what": "Easterns v KwaZulu-Natal Inland",
-  "from": "2027-01-17T08:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551810",
-  "tour": "t20676",
-  "what": "Border v Northern Cape",
-  "from": "2027-01-24T08:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551809",
-  "tour": "t20676",
-  "what": "South Western Districts v Mpumalanga",
-  "from": "2027-01-24T08:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551816",
-  "tour": "t20676",
-  "what": "Easterns v Limpopo",
-  "from": "2027-02-14T08:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551819",
-  "tour": "t20676",
-  "what": "Northern Cape v Easterns",
-  "from": "2027-02-21T08:00:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1551825",
   "tour": "t20676",
   "what": "Border v Limpopo",
-  "from": "2027-03-14T08:00:00Z"
+  "to": "2027-03-14T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551826",
   "tour": "t20676",
   "what": "Easterns v Mpumalanga",
-  "from": "2027-03-14T08:00:00Z"
+  "to": "2027-03-14T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551829",
   "tour": "t20676",
   "what": "KwaZulu-Natal Inland v Northern Cape",
-  "from": "2027-03-28T07:00:00Z"
+  "to": "2027-03-28T07:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1537352",
+  "tour": "lpl",
+  "what": "Colombo Kaps v Kandy Royals",
+  "to": "2026-08-05T14:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1551830",
-  "tour": "t20676",
-  "what": "Mpumalanga v Border",
-  "from": "2027-03-28T07:00:00Z"
+  "id": "1534400",
+  "tour": "t8859",
+  "what": "Glamorgan 2nd XI v Essex 2nd XI",
+  "from": "2026-08-17T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547418",
+  "tour": "t8832",
+  "what": "Sinhalese Sports Club v Badureliya Sports Club",
+  "from": "2026-08-18T04:15:00Z"
  }
 ]

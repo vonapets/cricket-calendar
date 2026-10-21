@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-20T18:31:13Z",
+ "generated_at": "2026-10-21T02:07:05Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-10-20",
  "totals": {
-  "events": 2359,
-  "volume": 90166411,
+  "events": 2353,
+  "volume": 90099437,
   "competitions": 19
  },
  "competitions": {
@@ -61,7 +61,7 @@
    "median": 66652,
    "p75": 148238,
    "best": 148238,
-   "total": 264574,
+   "total": 264803,
    "outright": 17918,
    "india_pct": 27,
    "name": "ICC ODI World Cup",
@@ -73,11 +73,11 @@
   },
   "Other international": {
    "matches": 145,
-   "traded": 88,
-   "median": 55038,
+   "traded": 87,
+   "median": 57138,
    "p75": 111099,
    "best": 350589,
-   "total": 7009097,
+   "total": 6943111,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -107,7 +107,7 @@
    "median": 258866,
    "p75": 402067,
    "best": 788605,
-   "total": 7128320,
+   "total": 7130193,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -381,7 +381,7 @@
    "best": 350589
   },
   "zimbabwe": {
-   "n": 12,
+   "n": 13,
    "traded": 9,
    "median": 62622,
    "best": 143355
@@ -405,7 +405,7 @@
    "best": 46398
   },
   "afghanistan": {
-   "n": 12,
+   "n": 13,
    "traded": 7,
    "median": 12180,
    "best": 78050
@@ -487,8 +487,8 @@
   "australia|south africa": {
    "n": 2,
    "traded": 1,
-   "median": 51694,
-   "best": 51694
+   "median": 63340,
+   "best": 63340
   },
   "new zealand|west indies": {
    "n": 7,
