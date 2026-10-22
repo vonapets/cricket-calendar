@@ -702,5 +702,21 @@
   "short": "India in New Zealand 2026-27",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24830": {
+  "id": "24830",
+  "key": "t24830",
+  "name": "Ireland tour of Namibia 2026/27",
+  "short": "Ireland in Namibia 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "24756": {
+  "id": "24756",
+  "key": "t24756",
+  "name": "West Indies tour of Bangladesh 2026/27",
+  "short": "West Indies in Bangladesh 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }

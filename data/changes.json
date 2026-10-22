@@ -1,9 +1,79 @@
 [
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1547892",
   "tour": "eutpl",
   "what": "Dublin Guardians v Edinburgh Castle Rockers",
-  "from": "2026-09-11T13:15:00Z"
+  "to": "2026-09-11T13:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1558231",
+  "tour": "t24830",
+  "what": "Namibia v Ireland",
+  "to": "2026-10-22T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1558232",
+  "tour": "t24830",
+  "what": "Namibia v Ireland",
+  "to": "2026-10-24T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1558233",
+  "tour": "t24830",
+  "what": "Namibia v Ireland",
+  "to": "2026-10-27T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1558234",
+  "tour": "t24830",
+  "what": "Namibia v Ireland",
+  "to": "2026-10-30T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1558235",
+  "tour": "t24830",
+  "what": "Namibia v Ireland",
+  "to": "2026-11-01T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1553294",
+  "tour": "t24756",
+  "what": "Bangladesh Cricket Board XI v West Indies",
+  "to": "2026-10-22T04:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1553295",
+  "tour": "t24756",
+  "what": "Bangladesh v West Indies",
+  "to": "2026-10-28T04:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1553296",
+  "tour": "t24756",
+  "what": "Bangladesh v West Indies",
+  "to": "2026-11-05T04:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1555668",
+  "tour": "t8814",
+  "what": "Chattogram Division v Rajshahi Division",
+  "from": "2026-10-03T03:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1555671",
+  "tour": "t8814",
+  "what": "Khulna Division v Rajshahi Division",
+  "from": "2026-10-10T03:30:00Z"
  }
 ]
