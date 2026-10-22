@@ -1,9 +1,164 @@
 [
  {
   "kind": "added",
-  "id": "1555668",
+  "id": "1559563",
+  "tour": "t19439",
+  "what": "United Arab Emirates v Netherlands",
+  "to": "2026-10-25T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559564",
+  "tour": "t19439",
+  "what": "Netherlands v Oman",
+  "to": "2026-10-27T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559565",
+  "tour": "t19439",
+  "what": "United Arab Emirates v Oman",
+  "to": "2026-10-29T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559566",
+  "tour": "t19439",
+  "what": "United Arab Emirates v Netherlands",
+  "to": "2026-10-31T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559567",
+  "tour": "t19439",
+  "what": "Netherlands v Oman",
+  "to": "2026-11-02T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559568",
+  "tour": "t19439",
+  "what": "United Arab Emirates v Oman",
+  "to": "2026-11-04T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1555671",
   "tour": "t8814",
-  "what": "Chattogram Division v Rajshahi Division",
-  "to": "2026-10-03T03:30:00Z"
+  "what": "Khulna Division v Rajshahi Division",
+  "to": "2026-10-10T03:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1553805",
+  "tour": "t8836",
+  "what": "TBA v TBA",
+  "from": "2026-10-24T05:00:00Z",
+  "to": "2026-10-24T00:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559440",
+  "tour": "t19553",
+  "what": "Kenya v Denmark",
+  "to": "2026-10-21T06:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559442",
+  "tour": "t19553",
+  "what": "Kuwait v Qatar",
+  "to": "2026-10-22T06:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559441",
+  "tour": "t19553",
+  "what": "Papua New Guinea v Jersey",
+  "to": "2026-10-22T06:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559443",
+  "tour": "t19553",
+  "what": "Denmark v Kuwait",
+  "to": "2026-10-24T06:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559444",
+  "tour": "t19553",
+  "what": "Kenya v Qatar",
+  "to": "2026-10-24T06:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559446",
+  "tour": "t19553",
+  "what": "Denmark v Papua New Guinea",
+  "to": "2026-10-25T06:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559445",
+  "tour": "t19553",
+  "what": "Kenya v Jersey",
+  "to": "2026-10-25T06:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559448",
+  "tour": "t19553",
+  "what": "Jersey v Kuwait",
+  "to": "2026-10-27T06:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559447",
+  "tour": "t19553",
+  "what": "Papua New Guinea v Qatar",
+  "to": "2026-10-27T06:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559449",
+  "tour": "t19553",
+  "what": "Denmark v Qatar",
+  "to": "2026-10-28T06:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559450",
+  "tour": "t19553",
+  "what": "Kenya v Kuwait",
+  "to": "2026-10-28T06:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559452",
+  "tour": "t19553",
+  "what": "Denmark v Jersey",
+  "to": "2026-10-30T06:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559451",
+  "tour": "t19553",
+  "what": "Kuwait v Papua New Guinea",
+  "to": "2026-10-30T06:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559454",
+  "tour": "t19553",
+  "what": "Jersey v Qatar",
+  "to": "2026-10-31T06:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559453",
+  "tour": "t19553",
+  "what": "Kenya v Papua New Guinea",
+  "to": "2026-10-31T06:45:00Z"
  }
 ]

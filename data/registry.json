@@ -718,5 +718,13 @@
   "short": "West Indies in Bangladesh 2026-27",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "19553": {
+  "id": "19553",
+  "key": "t19553",
+  "name": "CWC Challenge League Group A",
+  "short": "CWC Challenge League Group A",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
