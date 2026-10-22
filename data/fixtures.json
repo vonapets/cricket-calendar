@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T01:56:15Z",
+ "generated_at": "2026-10-22T07:43:03Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -1204,7 +1204,7 @@
    "color": "#7a8899",
    "start": "2026-10-03",
    "end": "2026-11-14",
-   "matches": 26,
+   "matches": 27,
    "india": false,
    "world": false,
    "formats": [
@@ -16501,6 +16501,28 @@
    "india": false
   },
   {
+   "id": "1555668",
+   "tour": "t8814",
+   "utc": "2026-10-03T03:30:00Z",
+   "ts": 1790998200,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "4th Match",
+   "home": "Chattogram Division",
+   "away": "Rajshahi Division",
+   "home_score": "393",
+   "away_score": "364 & 224/8 (89 ov)",
+   "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+   "city": "Chattogram",
+   "country": "Bangladesh",
+   "format": "Test",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1552779",
    "tour": "t24746",
    "utc": "2026-10-03T04:30:00Z",
@@ -21631,18 +21653,18 @@
    "tour": "t8043",
    "utc": "2026-10-18T23:30:00Z",
    "ts": 1792366200,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "4th Match",
    "home": "Tasmania",
    "away": "Victoria",
    "home_score": "241 & 236",
-   "away_score": "207 & 201/7 (68 ov, target 271)",
+   "away_score": "207 & 266 (85 ov, target 271)",
    "venue": "Bellerive Oval, Hobart",
    "city": "Hobart",
    "country": "Australia",
    "format": "Test",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -21680,7 +21702,7 @@
    "round": "6th Match",
    "home": "Western Australia",
    "away": "New South Wales",
-   "home_score": "339 & 30/3 (15 ov, target 364)",
+   "home_score": "339 & 156/5 (67.5 ov, target 364)",
    "away_score": "440/6d & 262/5d",
    "venue": "W.A.C.A. Ground, Perth",
    "city": "Perth",
@@ -21747,7 +21769,7 @@
    "home": "Pakistan Television",
    "away": "Markhor IT Solutions",
    "home_score": "64 & 394 (f/o)",
-   "away_score": "412 & 50/4 (9.4 ov)",
+   "away_score": "412 & 50/4 (9.4 ov, target 47)",
    "venue": "Diamond Club Ground, Islamabad",
    "city": "Islamabad",
    "country": "Pakistan",
@@ -22225,18 +22247,18 @@
    "tour": "t24756",
    "utc": "2026-10-22T04:00:00Z",
    "ts": 1792641600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "Tour Match",
    "home": "Bangladesh Cricket Board XI",
    "away": "West Indies",
-   "home_score": "",
+   "home_score": "144/3 (39 ov)",
    "away_score": "",
-   "venue": "Bashundhara Sports City Cricket Ground, Dhaka",
+   "venue": "Anvir Cricket Stadium, Dhaka",
    "city": "Dhaka",
    "country": "Bangladesh",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -32608,85 +32630,15 @@
  "changes": [
   {
    "kind": "added",
-   "id": "1547892",
-   "tour": "eutpl",
-   "what": "Dublin Guardians v Edinburgh Castle Rockers",
-   "to": "2026-09-11T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558231",
-   "tour": "t24830",
-   "what": "Namibia v Ireland",
-   "to": "2026-10-22T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558232",
-   "tour": "t24830",
-   "what": "Namibia v Ireland",
-   "to": "2026-10-24T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558233",
-   "tour": "t24830",
-   "what": "Namibia v Ireland",
-   "to": "2026-10-27T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558234",
-   "tour": "t24830",
-   "what": "Namibia v Ireland",
-   "to": "2026-10-30T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558235",
-   "tour": "t24830",
-   "what": "Namibia v Ireland",
-   "to": "2026-11-01T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1553294",
-   "tour": "t24756",
-   "what": "Bangladesh Cricket Board XI v West Indies",
-   "to": "2026-10-22T04:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1553295",
-   "tour": "t24756",
-   "what": "Bangladesh v West Indies",
-   "to": "2026-10-28T04:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1553296",
-   "tour": "t24756",
-   "what": "Bangladesh v West Indies",
-   "to": "2026-11-05T04:00:00Z"
-  },
-  {
-   "kind": "dropped",
    "id": "1555668",
    "tour": "t8814",
    "what": "Chattogram Division v Rajshahi Division",
-   "from": "2026-10-03T03:30:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1555671",
-   "tour": "t8814",
-   "what": "Khulna Division v Rajshahi Division",
-   "from": "2026-10-10T03:30:00Z"
+   "to": "2026-10-03T03:30:00Z"
   }
  ],
  "counts": {
   "tournaments": 99,
-  "fixtures": 1395,
+  "fixtures": 1396,
   "india": 49,
   "major": 40,
   "projected": 9,
