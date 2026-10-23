@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-23T02:07:38Z",
+ "generated_at": "2026-10-23T07:42:45Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
- "observed_to": "2026-10-22",
+ "observed_to": "2026-10-23",
  "totals": {
-  "events": 2344,
-  "volume": 89994552,
+  "events": 2352,
+  "volume": 90030235,
   "competitions": 19
  },
  "competitions": {
@@ -73,11 +73,11 @@
   },
   "Other international": {
    "matches": 141,
-   "traded": 86,
-   "median": 55038,
+   "traded": 87,
+   "median": 52938,
    "p75": 111099,
    "best": 350589,
-   "total": 6868875,
+   "total": 6886470,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -85,7 +85,7 @@
    "not": []
   },
   "SA20": {
-   "matches": 61,
+   "matches": 63,
    "traded": 49,
    "median": 27208,
    "p75": 52462,
@@ -107,7 +107,7 @@
    "median": 258866,
    "p75": 402067,
    "best": 788605,
-   "total": 7115748,
+   "total": 7133557,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -407,7 +407,7 @@
   "afghanistan": {
    "n": 14,
    "traded": 7,
-   "median": 12180,
+   "median": 12834,
    "best": 78050
   }
  },
@@ -496,6 +496,12 @@
    "median": 39245,
    "best": 62622
   },
+  "afghanistan|zimbabwe": {
+   "n": 3,
+   "traded": 1,
+   "median": 12834,
+   "best": 12834
+  },
   "afghanistan|sri lanka": {
    "n": 7,
    "traded": 4,
@@ -507,12 +513,6 @@
    "traded": 1,
    "median": 7623,
    "best": 7623
-  },
-  "afghanistan|zimbabwe": {
-   "n": 3,
-   "traded": 1,
-   "median": 5772,
-   "best": 5772
   },
   "afghanistan|pakistan": {
    "n": 2,

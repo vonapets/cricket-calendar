@@ -1,282 +1,481 @@
 [
  {
-  "kind": "added",
-  "id": "1552311",
-  "tour": "t24737",
-  "what": "Japan Women v Malaysia Women",
-  "to": "2026-09-11T01:00:00Z"
+  "kind": "moved",
+  "id": "1525660",
+  "tour": "t24203",
+  "what": "South Africa v Australia",
+  "from": "2026-10-18T07:45:00Z",
+  "to": "2026-10-18T08:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1547880",
-  "tour": "eutpl",
-  "what": "Rotterdam Dockers v Glasgow Cosmic",
-  "to": "2026-09-01T13:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547882",
-  "tour": "eutpl",
-  "what": "Belfast Wolves v Edinburgh Castle Rockers",
-  "to": "2026-09-02T13:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547883",
-  "tour": "eutpl",
-  "what": "Amsterdam Flames v Glasgow Cosmic",
-  "to": "2026-09-03T13:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1513492",
-  "tour": "t8335",
-  "what": "Hampshire v Durham",
-  "from": "2026-08-02T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1537351",
-  "tour": "lpl",
-  "what": "Galle Gallants v Jaffna Kings",
-  "from": "2026-08-05T09:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1513502",
-  "tour": "t8335",
-  "what": "Lancashire v Gloucestershire",
-  "from": "2026-08-07T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1513510",
-  "tour": "t8335",
-  "what": "Glamorgan v Worcestershire",
-  "from": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1513512",
-  "tour": "t8335",
-  "what": "Kent v Leicestershire",
-  "from": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1513524",
-  "tour": "t8335",
-  "what": "Lancashire v Durham",
-  "from": "2026-08-14T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535498",
-  "tour": "slt20",
-  "what": "Nugegoda Sports Welfare Club v Tamil Union Cricket and Athletic Club",
-  "from": "2026-08-28T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551332",
-  "tour": "t18479",
-  "what": "Maiwand Champions v Mah-e-Par Stars",
-  "from": "2026-08-29T05:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551333",
-  "tour": "t18479",
-  "what": "Hindukush Strikers v Pamir Legends",
-  "from": "2026-08-29T05:30:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1550137",
   "tour": "t24694",
   "what": "South Africa A v Bangladesh A",
-  "from": "2026-08-30T07:30:00Z"
+  "to": "2026-08-30T07:30:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1548897",
-  "tour": "asia_w",
-  "what": "Hong Kong Women v India Women",
-  "from": "2026-09-03T14:30:00Z"
+  "kind": "moved",
+  "id": "1558231",
+  "tour": "t24830",
+  "what": "Namibia v Ireland",
+  "from": "2026-10-22T08:00:00Z",
+  "to": "2026-10-22T07:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "moved",
+  "id": "1558232",
+  "tour": "t24830",
+  "what": "Namibia v Ireland",
+  "from": "2026-10-24T08:00:00Z",
+  "to": "2026-10-24T07:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1558233",
+  "tour": "t24830",
+  "what": "Namibia v Ireland",
+  "from": "2026-10-27T08:00:00Z",
+  "to": "2026-10-27T07:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1558234",
+  "tour": "t24830",
+  "what": "Namibia v Ireland",
+  "from": "2026-10-30T08:00:00Z",
+  "to": "2026-10-30T07:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1558235",
+  "tour": "t24830",
+  "what": "Namibia v Ireland",
+  "from": "2026-11-01T08:00:00Z",
+  "to": "2026-11-01T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551332",
+  "tour": "t18479",
+  "what": "Maiwand Champions v Mah-e-Par Stars",
+  "to": "2026-08-29T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551333",
+  "tour": "t18479",
+  "what": "Hindukush Strikers v Pamir Legends",
+  "to": "2026-08-29T05:30:00Z"
+ },
+ {
+  "kind": "added",
   "id": "1551702",
   "tour": "t1551603",
   "what": "Easterns v South Western Districts",
-  "from": "2026-09-10T08:00:00Z"
+  "to": "2026-09-10T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551703",
   "tour": "t1551603",
   "what": "Limpopo v Border",
-  "from": "2026-09-10T08:00:00Z"
+  "to": "2026-09-10T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551704",
   "tour": "t1551603",
   "what": "Mpumalanga v KwaZulu-Natal Inland",
-  "from": "2026-09-10T08:00:00Z"
+  "to": "2026-09-10T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551705",
   "tour": "t1551603",
   "what": "Northern Cape v Limpopo",
-  "from": "2026-09-17T08:00:00Z"
+  "to": "2026-09-17T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551706",
   "tour": "t1551603",
   "what": "Easterns v Border",
-  "from": "2026-09-17T08:00:00Z"
+  "to": "2026-09-17T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551707",
   "tour": "t1551603",
   "what": "Mpumalanga v South Western Districts",
-  "from": "2026-09-17T08:00:00Z"
+  "to": "2026-09-17T08:00:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1555408",
-  "tour": "t19482",
-  "what": "Kowloon Cricket Club v United Services Recreation Club",
-  "from": "2026-09-27T02:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1557520",
-  "tour": "t23028",
-  "what": "Uganda v Zambia",
-  "from": "2026-10-20T09:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1557521",
-  "tour": "t23028",
-  "what": "Lesotho v Mozambique",
-  "from": "2026-10-20T13:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1557522",
-  "tour": "t23028",
-  "what": "Nigeria v Gambia",
-  "from": "2026-10-20T13:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1557523",
-  "tour": "t23028",
-  "what": "Gambia v Mozambique",
-  "from": "2026-10-21T09:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1557524",
-  "tour": "t23028",
-  "what": "Lesotho v Uganda",
-  "from": "2026-10-21T09:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1557525",
-  "tour": "t23028",
-  "what": "Nigeria v Zambia",
-  "from": "2026-10-21T13:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1557527",
-  "tour": "t23028",
-  "what": "Lesotho v Zambia",
-  "from": "2026-10-23T09:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1557526",
-  "tour": "t23028",
-  "what": "Nigeria v Mozambique",
-  "from": "2026-10-23T09:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1557528",
-  "tour": "t23028",
-  "what": "Gambia v Uganda",
-  "from": "2026-10-23T13:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1557529",
-  "tour": "t23028",
-  "what": "Mozambique v Uganda",
-  "from": "2026-10-24T09:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1557530",
-  "tour": "t23028",
-  "what": "Gambia v Zambia",
-  "from": "2026-10-24T13:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1557531",
-  "tour": "t23028",
-  "what": "Nigeria v Lesotho",
-  "from": "2026-10-24T13:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1557532",
-  "tour": "t23028",
-  "what": "Gambia v Lesotho",
-  "from": "2026-10-25T09:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1557533",
-  "tour": "t23028",
-  "what": "Mozambique v Zambia",
-  "from": "2026-10-25T09:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1557534",
-  "tour": "t23028",
-  "what": "Nigeria v Uganda",
-  "from": "2026-10-25T13:00:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551712",
   "tour": "t1551603",
   "what": "KwaZulu-Natal Inland v Mpumalanga",
-  "from": "2026-12-10T08:00:00Z"
+  "to": "2026-12-10T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551713",
   "tour": "t1551603",
   "what": "Limpopo v Easterns",
-  "from": "2026-12-10T08:00:00Z"
+  "to": "2026-12-10T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551711",
   "tour": "t1551603",
   "what": "South Western Districts v Northern Cape",
-  "from": "2026-12-10T08:00:00Z"
+  "to": "2026-12-10T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1555408",
+  "tour": "t19482",
+  "what": "Kowloon Cricket Club v United Services Recreation Club",
+  "to": "2026-09-27T02:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1554418",
+  "tour": "t19439",
+  "what": "Oman v Canada",
+  "from": "2026-10-15T05:30:00Z",
+  "to": "2026-10-15T06:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1554419",
+  "tour": "t19439",
+  "what": "Canada v Nepal",
+  "from": "2026-10-17T05:30:00Z",
+  "to": "2026-10-17T06:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1554420",
+  "tour": "t19439",
+  "what": "Oman v Nepal",
+  "from": "2026-10-19T05:30:00Z",
+  "to": "2026-10-19T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1557520",
+  "tour": "t23028",
+  "what": "Uganda v Zambia",
+  "to": "2026-10-20T09:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1557521",
+  "tour": "t23028",
+  "what": "Lesotho v Mozambique",
+  "to": "2026-10-20T13:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1557522",
+  "tour": "t23028",
+  "what": "Nigeria v Gambia",
+  "to": "2026-10-20T13:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1557523",
+  "tour": "t23028",
+  "what": "Gambia v Mozambique",
+  "to": "2026-10-21T09:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1557524",
+  "tour": "t23028",
+  "what": "Lesotho v Uganda",
+  "to": "2026-10-21T09:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1557525",
+  "tour": "t23028",
+  "what": "Nigeria v Zambia",
+  "to": "2026-10-21T13:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1557527",
+  "tour": "t23028",
+  "what": "Lesotho v Zambia",
+  "to": "2026-10-23T09:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1557526",
+  "tour": "t23028",
+  "what": "Nigeria v Mozambique",
+  "to": "2026-10-23T09:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1557528",
+  "tour": "t23028",
+  "what": "Gambia v Uganda",
+  "to": "2026-10-23T13:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1557529",
+  "tour": "t23028",
+  "what": "Mozambique v Uganda",
+  "to": "2026-10-24T09:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1557530",
+  "tour": "t23028",
+  "what": "Gambia v Zambia",
+  "to": "2026-10-24T13:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1557531",
+  "tour": "t23028",
+  "what": "Nigeria v Lesotho",
+  "to": "2026-10-24T13:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1557532",
+  "tour": "t23028",
+  "what": "Gambia v Lesotho",
+  "to": "2026-10-25T09:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1557533",
+  "tour": "t23028",
+  "what": "Mozambique v Zambia",
+  "to": "2026-10-25T09:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1557534",
+  "tour": "t23028",
+  "what": "Nigeria v Uganda",
+  "to": "2026-10-25T13:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1537351",
+  "tour": "lpl",
+  "what": "Galle Gallants v Jaffna Kings",
+  "to": "2026-08-05T09:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1544851",
+  "tour": "marsh",
+  "what": "South Australia v Queensland",
+  "from": "2026-10-17T00:00:00Z",
+  "to": "2026-10-16T23:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1513492",
+  "tour": "t8335",
+  "what": "Hampshire v Durham",
+  "to": "2026-08-02T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1513502",
+  "tour": "t8335",
+  "what": "Lancashire v Gloucestershire",
+  "to": "2026-08-07T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1513510",
+  "tour": "t8335",
+  "what": "Glamorgan v Worcestershire",
+  "to": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1513512",
+  "tour": "t8335",
+  "what": "Kent v Leicestershire",
+  "to": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1513524",
+  "tour": "t8335",
+  "what": "Lancashire v Durham",
+  "to": "2026-08-14T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535498",
+  "tour": "slt20",
+  "what": "Nugegoda Sports Welfare Club v Tamil Union Cricket and Athletic Club",
+  "to": "2026-08-28T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1548897",
+  "tour": "asia_w",
+  "what": "Hong Kong Women v India Women",
+  "to": "2026-09-03T14:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559681",
+  "tour": "t8838",
+  "what": "Mountaineers v Matabeleland Tuskers",
+  "to": "2026-10-23T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559682",
+  "tour": "t8838",
+  "what": "Southern Rocks v Mashonaland Eagles",
+  "to": "2026-10-23T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559683",
+  "tour": "t8838",
+  "what": "Mountaineers v Matabeleland Tuskers",
+  "to": "2026-10-25T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559684",
+  "tour": "t8838",
+  "what": "Southern Rocks v Mashonaland Eagles",
+  "to": "2026-10-25T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559686",
+  "tour": "t8838",
+  "what": "Mashonaland Eagles v Matabeleland Tuskers",
+  "to": "2026-10-30T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559685",
+  "tour": "t8838",
+  "what": "Mid West Rhinos v Mountaineers",
+  "to": "2026-10-30T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559688",
+  "tour": "t8838",
+  "what": "Mashonaland Eagles v Matabeleland Tuskers",
+  "to": "2026-11-01T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559687",
+  "tour": "t8838",
+  "what": "Mid West Rhinos v Mountaineers",
+  "to": "2026-11-01T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559690",
+  "tour": "t8838",
+  "what": "Matabeleland Tuskers v Mid West Rhinos",
+  "to": "2026-11-06T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559689",
+  "tour": "t8838",
+  "what": "Mountaineers v Southern Rocks",
+  "to": "2026-11-06T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559692",
+  "tour": "t8838",
+  "what": "Matabeleland Tuskers v Mid West Rhinos",
+  "to": "2026-11-08T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559691",
+  "tour": "t8838",
+  "what": "Mountaineers v Southern Rocks",
+  "to": "2026-11-08T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559693",
+  "tour": "t8838",
+  "what": "Mashonaland Eagles v Mountaineers",
+  "to": "2026-11-13T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559694",
+  "tour": "t8838",
+  "what": "Southern Rocks v Mid West Rhinos",
+  "to": "2026-11-13T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559695",
+  "tour": "t8838",
+  "what": "Mashonaland Eagles v Mountaineers",
+  "to": "2026-11-15T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559696",
+  "tour": "t8838",
+  "what": "Southern Rocks v Mid West Rhinos",
+  "to": "2026-11-15T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559697",
+  "tour": "t8838",
+  "what": "Matabeleland Tuskers v Southern Rocks",
+  "to": "2026-11-20T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559698",
+  "tour": "t8838",
+  "what": "Mid West Rhinos v Mashonaland Eagles",
+  "to": "2026-11-20T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559699",
+  "tour": "t8838",
+  "what": "Matabeleland Tuskers v Southern Rocks",
+  "to": "2026-11-22T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559700",
+  "tour": "t8838",
+  "what": "Mid West Rhinos v Mashonaland Eagles",
+  "to": "2026-11-22T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559701",
+  "tour": "t8838",
+  "what": "TBA v TBA",
+  "to": "2026-11-29T07:30:00Z"
  }
 ]

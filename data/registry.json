@@ -726,5 +726,13 @@
   "short": "CWC Challenge League Group A",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "8838": {
+  "id": "8838",
+  "key": "t8838",
+  "name": "Pro50 Championship",
+  "short": "Pro50 Championship",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
