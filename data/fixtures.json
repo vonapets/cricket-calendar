@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T07:42:26Z",
+ "generated_at": "2026-10-23T13:37:22Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -877,7 +877,7 @@
    "color": "#7a8899",
    "start": "2026-09-21",
    "end": "2026-09-27",
-   "matches": 12,
+   "matches": 11,
    "india": false,
    "world": false,
    "formats": [
@@ -1638,6 +1638,25 @@
    ],
    "in_india": false,
    "tier": "major",
+   "planned": false
+  },
+  {
+   "key": "t24805",
+   "id": "24805",
+   "name": "India A tour of New Zealand 2026/27",
+   "short": "India A in New Zealand 2026-27",
+   "group": "Discovered",
+   "color": "#7a8899",
+   "start": "2026-10-23",
+   "end": "2026-11-06",
+   "matches": 3,
+   "india": false,
+   "world": false,
+   "formats": [
+    "Test"
+   ],
+   "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -13701,28 +13720,6 @@
    "india": false
   },
   {
-   "id": "1554584",
-   "tour": "t1554562",
-   "utc": "2026-09-21T09:00:00Z",
-   "ts": 1789981200,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "1st Match",
-   "home": "Nigeria A",
-   "away": "Sierra Leone",
-   "home_score": "113/8",
-   "away_score": "80 (19.5/20 ov, target 114)",
-   "venue": "Tafawa Balewa Square Cricket Oval, Lagos",
-   "city": "Lagos",
-   "country": "Nigeria",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1554583",
    "tour": "t1554562",
    "utc": "2026-09-21T13:00:00Z",
@@ -22329,18 +22326,18 @@
    "tour": "t24756",
    "utc": "2026-10-22T04:00:00Z",
    "ts": 1792641600,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "Tour Match",
    "home": "Bangladesh Cricket Board XI",
    "away": "West Indies",
    "home_score": "371/7d",
-   "away_score": "144/1 (31.5 ov)",
+   "away_score": "336/6 (80 ov)",
    "venue": "Anvir Cricket Stadium, Dhaka",
    "city": "Dhaka",
    "country": "Bangladesh",
    "format": "Test",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -22527,18 +22524,18 @@
    "tour": "t24831",
    "utc": "2026-10-23T05:30:00Z",
    "ts": 1792733400,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "4th Youth ODI",
    "home": "Afghanistan Under-19s",
    "away": "Bangladesh Under-19s",
-   "home_score": "",
-   "away_score": "128/4 (32/50 ov)",
+   "home_score": "222/6 (48.1/50 ov, target 220)",
+   "away_score": "219/9",
    "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)",
    "city": "Al Amarat",
    "country": "Oman",
    "format": "ODI",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -22554,7 +22551,7 @@
    "round": "1st Match",
    "home": "Mountaineers",
    "away": "Matabeleland Tuskers",
-   "home_score": "1/0 (0.5/50 ov)",
+   "home_score": "116/4 (34/50 ov)",
    "away_score": "",
    "venue": "Mutare (Umtali) Sports Club",
    "city": "Mutare",
@@ -22577,7 +22574,7 @@
    "home": "Southern Rocks",
    "away": "Mashonaland Eagles",
    "home_score": "",
-   "away_score": "3/0 (1.5/50 ov)",
+   "away_score": "163/5 (35/50 ov)",
    "venue": "Masvingo Sports Club",
    "city": "Masvingo",
    "country": "Zimbabwe",
@@ -22593,18 +22590,18 @@
    "tour": "t24371",
    "utc": "2026-10-23T08:30:00Z",
    "ts": 1792744200,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "1st ODI",
    "home": "India Women",
    "away": "Zimbabwe Women",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "108/1 (17/50 ov, target 198)",
+   "away_score": "197",
    "venue": "Kotambi Stadium, Vadodara",
    "city": "Vadodara",
    "country": "India",
    "format": "ODI",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -22615,18 +22612,18 @@
    "tour": "t23028",
    "utc": "2026-10-23T09:00:00Z",
    "ts": 1792746000,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Final",
+   "status_long": "Final",
    "round": "8th Match",
    "home": "Lesotho",
    "away": "Zambia",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "58",
+   "away_score": "61/3 (7.4/20 ov, target 59)",
    "venue": "Nigeria Cricket Federation Oval 2, Abuja",
    "city": "Abuja",
    "country": "Nigeria",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -22637,18 +22634,18 @@
    "tour": "t23028",
    "utc": "2026-10-23T09:00:00Z",
    "ts": 1792746000,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Final",
+   "status_long": "Final",
    "round": "7th Match",
    "home": "Nigeria",
    "away": "Mozambique",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "94/3 (8.3/20 ov, target 94)",
+   "away_score": "93",
    "venue": "Nigeria Cricket Federation Oval 1, Abuja",
    "city": "Abuja",
    "country": "Nigeria",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -22659,18 +22656,18 @@
    "tour": "t10931",
    "utc": "2026-10-23T11:30:00Z",
    "ts": 1792755000,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "Final",
    "home": "Afghanistan",
    "away": "Zimbabwe",
    "home_score": "",
-   "away_score": "",
+   "away_score": "37/3 (9.5/50 ov)",
    "venue": "Sharjah Cricket Stadium",
    "city": "Sharjah",
    "country": "United Arab Emirates",
    "format": "ODI",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -22714,6 +22711,28 @@
    "city": "Durban",
    "country": "South Africa",
    "format": "T20",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1552529",
+   "tour": "t24805",
+   "utc": "2026-10-23T22:00:00Z",
+   "ts": 1792792800,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "1st unofficial Test",
+   "home": "New Zealand A",
+   "away": "India A",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Bert Sutcliffe Oval, Lincoln",
+   "city": "Lincoln",
+   "country": "New Zealand",
+   "format": "Test",
    "note": "Scheduled",
    "tbd": false,
    "disrupted": false,
@@ -24525,6 +24544,28 @@
    "india": false
   },
   {
+   "id": "1552530",
+   "tour": "t24805",
+   "utc": "2026-10-30T22:00:00Z",
+   "ts": 1793397600,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "2nd unofficial Test",
+   "home": "New Zealand A",
+   "away": "India A",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Hagley Oval, Christchurch",
+   "city": "Christchurch",
+   "country": "New Zealand",
+   "format": "Test",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1544872",
    "tour": "t8043",
    "utc": "2026-10-31T00:00:00Z",
@@ -25532,6 +25573,28 @@
    "format": "T20",
    "note": "Scheduled",
    "tbd": true,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1552531",
+   "tour": "t24805",
+   "utc": "2026-11-06T22:00:00Z",
+   "ts": 1794002400,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "3rd unofficial Test",
+   "home": "New Zealand A",
+   "away": "India A",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Bert Sutcliffe Oval, Lincoln",
+   "city": "Lincoln",
+   "country": "New Zealand",
+   "format": "Test",
+   "note": "Scheduled",
+   "tbd": false,
    "disrupted": false,
    "finished": false,
    "india": false
@@ -26670,8 +26733,8 @@
    "away": "Southern Rocks",
    "home_score": "",
    "away_score": "",
-   "venue": "Queens Sports Club, Bulawayo",
-   "city": "Bulawayo",
+   "venue": "Mosi-oa-Tunya International Cricket Stadium, Victoria Falls",
+   "city": "Victoria Falls",
    "country": "Zimbabwe",
    "format": "ODI",
    "note": "Scheduled",
@@ -26824,8 +26887,8 @@
    "away": "Southern Rocks",
    "home_score": "",
    "away_score": "",
-   "venue": "Queens Sports Club, Bulawayo",
-   "city": "Bulawayo",
+   "venue": "Mosi-oa-Tunya International Cricket Stadium, Victoria Falls",
+   "city": "Victoria Falls",
    "country": "Zimbabwe",
    "format": "ODI",
    "note": "Scheduled",
@@ -33613,488 +33676,37 @@
  ],
  "changes": [
   {
-   "kind": "moved",
-   "id": "1525660",
-   "tour": "t24203",
-   "what": "South Africa v Australia",
-   "from": "2026-10-18T07:45:00Z",
-   "to": "2026-10-18T08:00:00Z"
+   "kind": "added",
+   "id": "1552529",
+   "tour": "t24805",
+   "what": "New Zealand A v India A",
+   "to": "2026-10-23T22:00:00Z"
   },
   {
    "kind": "added",
-   "id": "1550137",
-   "tour": "t24694",
-   "what": "South Africa A v Bangladesh A",
-   "to": "2026-08-30T07:30:00Z"
-  },
-  {
-   "kind": "moved",
-   "id": "1558231",
-   "tour": "t24830",
-   "what": "Namibia v Ireland",
-   "from": "2026-10-22T08:00:00Z",
-   "to": "2026-10-22T07:30:00Z"
-  },
-  {
-   "kind": "moved",
-   "id": "1558232",
-   "tour": "t24830",
-   "what": "Namibia v Ireland",
-   "from": "2026-10-24T08:00:00Z",
-   "to": "2026-10-24T07:30:00Z"
-  },
-  {
-   "kind": "moved",
-   "id": "1558233",
-   "tour": "t24830",
-   "what": "Namibia v Ireland",
-   "from": "2026-10-27T08:00:00Z",
-   "to": "2026-10-27T07:30:00Z"
-  },
-  {
-   "kind": "moved",
-   "id": "1558234",
-   "tour": "t24830",
-   "what": "Namibia v Ireland",
-   "from": "2026-10-30T08:00:00Z",
-   "to": "2026-10-30T07:30:00Z"
-  },
-  {
-   "kind": "moved",
-   "id": "1558235",
-   "tour": "t24830",
-   "what": "Namibia v Ireland",
-   "from": "2026-11-01T08:00:00Z",
-   "to": "2026-11-01T07:30:00Z"
+   "id": "1552530",
+   "tour": "t24805",
+   "what": "New Zealand A v India A",
+   "to": "2026-10-30T22:00:00Z"
   },
   {
    "kind": "added",
-   "id": "1551332",
-   "tour": "t18479",
-   "what": "Maiwand Champions v Mah-e-Par Stars",
-   "to": "2026-08-29T05:30:00Z"
+   "id": "1552531",
+   "tour": "t24805",
+   "what": "New Zealand A v India A",
+   "to": "2026-11-06T22:00:00Z"
   },
   {
-   "kind": "added",
-   "id": "1551333",
-   "tour": "t18479",
-   "what": "Hindukush Strikers v Pamir Legends",
-   "to": "2026-08-29T05:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551702",
-   "tour": "t1551603",
-   "what": "Easterns v South Western Districts",
-   "to": "2026-09-10T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551703",
-   "tour": "t1551603",
-   "what": "Limpopo v Border",
-   "to": "2026-09-10T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551704",
-   "tour": "t1551603",
-   "what": "Mpumalanga v KwaZulu-Natal Inland",
-   "to": "2026-09-10T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551705",
-   "tour": "t1551603",
-   "what": "Northern Cape v Limpopo",
-   "to": "2026-09-17T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551706",
-   "tour": "t1551603",
-   "what": "Easterns v Border",
-   "to": "2026-09-17T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551707",
-   "tour": "t1551603",
-   "what": "Mpumalanga v South Western Districts",
-   "to": "2026-09-17T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551712",
-   "tour": "t1551603",
-   "what": "KwaZulu-Natal Inland v Mpumalanga",
-   "to": "2026-12-10T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551713",
-   "tour": "t1551603",
-   "what": "Limpopo v Easterns",
-   "to": "2026-12-10T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551711",
-   "tour": "t1551603",
-   "what": "South Western Districts v Northern Cape",
-   "to": "2026-12-10T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1555408",
-   "tour": "t19482",
-   "what": "Kowloon Cricket Club v United Services Recreation Club",
-   "to": "2026-09-27T02:00:00Z"
-  },
-  {
-   "kind": "moved",
-   "id": "1554418",
-   "tour": "t19439",
-   "what": "Oman v Canada",
-   "from": "2026-10-15T05:30:00Z",
-   "to": "2026-10-15T06:00:00Z"
-  },
-  {
-   "kind": "moved",
-   "id": "1554419",
-   "tour": "t19439",
-   "what": "Canada v Nepal",
-   "from": "2026-10-17T05:30:00Z",
-   "to": "2026-10-17T06:00:00Z"
-  },
-  {
-   "kind": "moved",
-   "id": "1554420",
-   "tour": "t19439",
-   "what": "Oman v Nepal",
-   "from": "2026-10-19T05:30:00Z",
-   "to": "2026-10-19T06:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557520",
-   "tour": "t23028",
-   "what": "Uganda v Zambia",
-   "to": "2026-10-20T09:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557521",
-   "tour": "t23028",
-   "what": "Lesotho v Mozambique",
-   "to": "2026-10-20T13:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557522",
-   "tour": "t23028",
-   "what": "Nigeria v Gambia",
-   "to": "2026-10-20T13:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557523",
-   "tour": "t23028",
-   "what": "Gambia v Mozambique",
-   "to": "2026-10-21T09:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557524",
-   "tour": "t23028",
-   "what": "Lesotho v Uganda",
-   "to": "2026-10-21T09:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557525",
-   "tour": "t23028",
-   "what": "Nigeria v Zambia",
-   "to": "2026-10-21T13:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557527",
-   "tour": "t23028",
-   "what": "Lesotho v Zambia",
-   "to": "2026-10-23T09:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557526",
-   "tour": "t23028",
-   "what": "Nigeria v Mozambique",
-   "to": "2026-10-23T09:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557528",
-   "tour": "t23028",
-   "what": "Gambia v Uganda",
-   "to": "2026-10-23T13:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557529",
-   "tour": "t23028",
-   "what": "Mozambique v Uganda",
-   "to": "2026-10-24T09:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557530",
-   "tour": "t23028",
-   "what": "Gambia v Zambia",
-   "to": "2026-10-24T13:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557531",
-   "tour": "t23028",
-   "what": "Nigeria v Lesotho",
-   "to": "2026-10-24T13:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557532",
-   "tour": "t23028",
-   "what": "Gambia v Lesotho",
-   "to": "2026-10-25T09:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557533",
-   "tour": "t23028",
-   "what": "Mozambique v Zambia",
-   "to": "2026-10-25T09:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557534",
-   "tour": "t23028",
-   "what": "Nigeria v Uganda",
-   "to": "2026-10-25T13:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1537351",
-   "tour": "lpl",
-   "what": "Galle Gallants v Jaffna Kings",
-   "to": "2026-08-05T09:30:00Z"
-  },
-  {
-   "kind": "moved",
-   "id": "1544851",
-   "tour": "marsh",
-   "what": "South Australia v Queensland",
-   "from": "2026-10-17T00:00:00Z",
-   "to": "2026-10-16T23:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513492",
-   "tour": "t8335",
-   "what": "Hampshire v Durham",
-   "to": "2026-08-02T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513502",
-   "tour": "t8335",
-   "what": "Lancashire v Gloucestershire",
-   "to": "2026-08-07T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513510",
-   "tour": "t8335",
-   "what": "Glamorgan v Worcestershire",
-   "to": "2026-08-09T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513512",
-   "tour": "t8335",
-   "what": "Kent v Leicestershire",
-   "to": "2026-08-09T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513524",
-   "tour": "t8335",
-   "what": "Lancashire v Durham",
-   "to": "2026-08-14T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535498",
-   "tour": "slt20",
-   "what": "Nugegoda Sports Welfare Club v Tamil Union Cricket and Athletic Club",
-   "to": "2026-08-28T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1548897",
-   "tour": "asia_w",
-   "what": "Hong Kong Women v India Women",
-   "to": "2026-09-03T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559681",
-   "tour": "t8838",
-   "what": "Mountaineers v Matabeleland Tuskers",
-   "to": "2026-10-23T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559682",
-   "tour": "t8838",
-   "what": "Southern Rocks v Mashonaland Eagles",
-   "to": "2026-10-23T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559683",
-   "tour": "t8838",
-   "what": "Mountaineers v Matabeleland Tuskers",
-   "to": "2026-10-25T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559684",
-   "tour": "t8838",
-   "what": "Southern Rocks v Mashonaland Eagles",
-   "to": "2026-10-25T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559686",
-   "tour": "t8838",
-   "what": "Mashonaland Eagles v Matabeleland Tuskers",
-   "to": "2026-10-30T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559685",
-   "tour": "t8838",
-   "what": "Mid West Rhinos v Mountaineers",
-   "to": "2026-10-30T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559688",
-   "tour": "t8838",
-   "what": "Mashonaland Eagles v Matabeleland Tuskers",
-   "to": "2026-11-01T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559687",
-   "tour": "t8838",
-   "what": "Mid West Rhinos v Mountaineers",
-   "to": "2026-11-01T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559690",
-   "tour": "t8838",
-   "what": "Matabeleland Tuskers v Mid West Rhinos",
-   "to": "2026-11-06T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559689",
-   "tour": "t8838",
-   "what": "Mountaineers v Southern Rocks",
-   "to": "2026-11-06T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559692",
-   "tour": "t8838",
-   "what": "Matabeleland Tuskers v Mid West Rhinos",
-   "to": "2026-11-08T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559691",
-   "tour": "t8838",
-   "what": "Mountaineers v Southern Rocks",
-   "to": "2026-11-08T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559693",
-   "tour": "t8838",
-   "what": "Mashonaland Eagles v Mountaineers",
-   "to": "2026-11-13T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559694",
-   "tour": "t8838",
-   "what": "Southern Rocks v Mid West Rhinos",
-   "to": "2026-11-13T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559695",
-   "tour": "t8838",
-   "what": "Mashonaland Eagles v Mountaineers",
-   "to": "2026-11-15T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559696",
-   "tour": "t8838",
-   "what": "Southern Rocks v Mid West Rhinos",
-   "to": "2026-11-15T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559697",
-   "tour": "t8838",
-   "what": "Matabeleland Tuskers v Southern Rocks",
-   "to": "2026-11-20T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559698",
-   "tour": "t8838",
-   "what": "Mid West Rhinos v Mashonaland Eagles",
-   "to": "2026-11-20T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559699",
-   "tour": "t8838",
-   "what": "Matabeleland Tuskers v Southern Rocks",
-   "to": "2026-11-22T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559700",
-   "tour": "t8838",
-   "what": "Mid West Rhinos v Mashonaland Eagles",
-   "to": "2026-11-22T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559701",
-   "tour": "t8838",
-   "what": "TBA v TBA",
-   "to": "2026-11-29T07:30:00Z"
+   "kind": "dropped",
+   "id": "1554584",
+   "tour": "t1554562",
+   "what": "Nigeria A v Sierra Leone",
+   "from": "2026-09-21T09:00:00Z"
   }
  ],
  "counts": {
-  "tournaments": 101,
-  "fixtures": 1439,
+  "tournaments": 102,
+  "fixtures": 1441,
   "india": 49,
   "major": 40,
   "projected": 9,

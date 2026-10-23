@@ -734,5 +734,13 @@
   "short": "Pro50 Championship",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24805": {
+  "id": "24805",
+  "key": "t24805",
+  "name": "India A tour of New Zealand 2026/27",
+  "short": "India A in New Zealand 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
