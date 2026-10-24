@@ -742,5 +742,13 @@
   "short": "India A in New Zealand 2026-27",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24838": {
+  "id": "24838",
+  "key": "t24838",
+  "name": "Argentina Women tour of Mexico 2026/27",
+  "short": "Argentina Women in Mexico 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
