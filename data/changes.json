@@ -1,9 +1,23 @@
 [
  {
-  "kind": "added",
-  "id": "1554584",
-  "tour": "t1554562",
-  "what": "Nigeria A v Sierra Leone",
-  "to": "2026-09-21T09:00:00Z"
+  "kind": "dropped",
+  "id": "1551079",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Portugal Women",
+  "from": "2026-09-06T11:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1555255",
+  "tour": "t18940",
+  "what": "Brazil A Women v Chile Women",
+  "from": "2026-09-23T12:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1556695",
+  "tour": "t24139",
+  "what": "Montreal Royal Tigers v White Rock Warriors",
+  "from": "2026-10-03T01:45:00Z"
  }
 ]
