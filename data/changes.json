@@ -1,185 +1,248 @@
 [
  {
   "kind": "added",
-  "id": "1513584",
-  "tour": "t23080",
-  "what": "Essex Women v Somerset Women",
-  "to": "2026-08-19T09:30:00Z"
+  "id": "1525674",
+  "tour": "t24198",
+  "what": "South Africa v England",
+  "to": "2027-01-10T08:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1513601",
-  "tour": "t23080",
-  "what": "Hampshire Women v The Blaze Women",
-  "to": "2026-09-09T09:30:00Z"
+  "id": "1551804",
+  "tour": "t20676",
+  "what": "KwaZulu-Natal Inland v South Western Districts",
+  "to": "2027-01-10T07:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1513604",
-  "tour": "t23080",
-  "what": "Yorkshire Women v Lancashire Women",
-  "to": "2026-09-12T09:30:00Z"
+  "id": "1551805",
+  "tour": "t20676",
+  "what": "Limpopo v Northern Cape",
+  "to": "2027-01-10T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551815",
+  "tour": "t20676",
+  "what": "KwaZulu-Natal Inland v Border",
+  "to": "2027-02-14T07:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551821",
+  "tour": "t20676",
+  "what": "KwaZulu-Natal Inland v Easterns",
+  "to": "2027-03-07T07:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551823",
+  "tour": "t20676",
+  "what": "Limpopo v South Western Districts",
+  "to": "2027-03-07T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547419",
+  "tour": "t8832",
+  "what": "Colts Cricket Club v Nondescripts Cricket Club",
+  "to": "2026-08-18T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547421",
+  "tour": "t8832",
+  "what": "Nugegoda Sports Welfare Club v Panadura Sports Club",
+  "to": "2026-08-21T04:15:00Z"
  },
  {
   "kind": "moved",
   "id": "1546569",
   "tour": "t8050",
   "what": "Chhattisgarh v Andhra",
-  "from": "2026-10-26T03:45:00Z",
-  "to": "2026-10-26T04:00:00Z"
+  "from": "2026-10-26T04:00:00Z",
+  "to": "2026-10-26T03:45:00Z"
  },
  {
   "kind": "added",
-  "id": "1535511",
-  "tour": "slt20",
-  "what": "Colts Cricket Club v Nondescripts Cricket Club",
-  "to": "2026-09-05T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535506",
-  "tour": "slt20",
-  "what": "Kurunegala Youth Cricket Club v Colombo Cricket Club",
-  "to": "2026-09-05T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535509",
-  "tour": "slt20",
-  "what": "Sinhalese Sports Club v Ace Capital Cricket Club",
-  "to": "2026-09-05T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521216",
-  "tour": "hun_w",
-  "what": "Sunrisers Leeds (Women) v London Spirit (Women)",
-  "to": "2026-08-04T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521219",
-  "tour": "hun_w",
-  "what": "London Spirit (Women) v MI London (Women)",
-  "to": "2026-08-06T14:00:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1513496",
   "tour": "t8335",
   "what": "Northamptonshire v Lancashire",
-  "from": "2026-08-02T10:00:00Z"
+  "to": "2026-08-02T10:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1513503",
   "tour": "t8335",
   "what": "Leicestershire v Warwickshire",
-  "from": "2026-08-07T13:00:00Z"
+  "to": "2026-08-07T13:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1513506",
   "tour": "t8335",
   "what": "Sussex v Worcestershire",
-  "from": "2026-08-07T13:00:00Z"
+  "to": "2026-08-07T13:00:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1547419",
-  "tour": "t8832",
-  "what": "Colts Cricket Club v Nondescripts Cricket Club",
-  "from": "2026-08-18T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547421",
-  "tour": "t8832",
-  "what": "Nugegoda Sports Welfare Club v Panadura Sports Club",
-  "from": "2026-08-21T04:15:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1545788",
   "tour": "t8897",
   "what": "Western Australia Women v Victoria Women",
-  "from": "2027-01-08T05:30:00Z"
+  "to": "2027-01-08T05:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1545789",
   "tour": "t8897",
   "what": "Tasmania Women v New South Wales Women",
-  "from": "2027-01-09T03:30:00Z"
+  "to": "2027-01-09T03:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1545790",
   "tour": "t8897",
   "what": "Western Australia Women v Victoria Women",
-  "from": "2027-01-10T02:30:00Z"
+  "to": "2027-01-10T02:30:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1551804",
-  "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v South Western Districts",
-  "from": "2027-01-10T07:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551805",
-  "tour": "t20676",
-  "what": "Limpopo v Northern Cape",
-  "from": "2027-01-10T08:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1525674",
-  "tour": "t24198",
-  "what": "South Africa v England",
-  "from": "2027-01-10T08:00:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1545791",
   "tour": "t8897",
   "what": "Tasmania Women v New South Wales Women",
-  "from": "2027-01-11T00:00:00Z"
+  "to": "2027-01-11T00:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1545795",
   "tour": "t8897",
   "what": "Victoria Women v Queensland Women",
-  "from": "2027-01-22T03:30:00Z"
+  "to": "2027-01-22T03:30:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1551815",
-  "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v Border",
-  "from": "2027-02-14T07:00:00Z"
+  "kind": "added",
+  "id": "1559952",
+  "tour": "t1559944",
+  "what": "Brampton Blazers v Toronto Kings",
+  "to": "2026-10-24T14:00:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1551821",
-  "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v Easterns",
-  "from": "2027-03-07T07:00:00Z"
+  "kind": "added",
+  "id": "1559953",
+  "tour": "t1559944",
+  "what": "Mississauga Skyhawks v Montreal Warriors",
+  "to": "2026-10-24T19:00:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1551823",
-  "tour": "t20676",
-  "what": "Limpopo v South Western Districts",
-  "from": "2027-03-07T08:00:00Z"
+  "kind": "added",
+  "id": "1559954",
+  "tour": "t1559944",
+  "what": "Toronto Kings v Vancouver Guardians",
+  "to": "2026-10-24T23:00:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1551695",
-  "tour": "t21185",
-  "what": "Warriors v North West",
-  "from": "2027-04-10T08:00:00Z"
+  "kind": "added",
+  "id": "1559955",
+  "tour": "t1559944",
+  "what": "Mississauga Skyhawks v Vancouver Guardians",
+  "to": "2026-10-25T14:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559956",
+  "tour": "t1559944",
+  "what": "Brampton Blazers v Montreal Warriors",
+  "to": "2026-10-25T23:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559957",
+  "tour": "t1559944",
+  "what": "Montreal Warriors v Toronto Kings",
+  "to": "2026-10-26T14:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559958",
+  "tour": "t1559944",
+  "what": "Brampton Blazers v Mississauga Skyhawks",
+  "to": "2026-10-26T19:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559959",
+  "tour": "t1559944",
+  "what": "Brampton Blazers v Vancouver Guardians",
+  "to": "2026-10-28T14:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559960",
+  "tour": "t1559944",
+  "what": "Mississauga Skyhawks v Toronto Kings",
+  "to": "2026-10-28T23:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559961",
+  "tour": "t1559944",
+  "what": "Montreal Warriors v Vancouver Guardians",
+  "to": "2026-10-29T14:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559962",
+  "tour": "t1559944",
+  "what": "Mississauga Skyhawks v Toronto Kings",
+  "to": "2026-10-29T23:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559963",
+  "tour": "t1559944",
+  "what": "Brampton Blazers v Vancouver Guardians",
+  "to": "2026-10-30T14:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559964",
+  "tour": "t1559944",
+  "what": "Montreal Warriors v Toronto Kings",
+  "to": "2026-10-30T23:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559965",
+  "tour": "t1559944",
+  "what": "Montreal Warriors v Vancouver Guardians",
+  "to": "2026-10-31T14:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559966",
+  "tour": "t1559944",
+  "what": "Brampton Blazers v Mississauga Skyhawks",
+  "to": "2026-10-31T23:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559967",
+  "tour": "t1559944",
+  "what": "TBA v TBA",
+  "to": "2026-11-01T15:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559968",
+  "tour": "t1559944",
+  "what": "TBA v TBA",
+  "to": "2026-11-02T00:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559969",
+  "tour": "t1559944",
+  "what": "TBA v TBA",
+  "to": "2026-11-03T00:00:00Z"
  }
 ]

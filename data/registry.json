@@ -750,5 +750,13 @@
   "short": "Argentina Women in Mexico 2026-27",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1559944": {
+  "id": "1559944",
+  "key": "t1559944",
+  "name": "NCL GT20 Canada 2026/27",
+  "short": "NCL GT20 Canada 20",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
