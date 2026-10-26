@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-26T15:21:11Z",
+ "generated_at": "2026-10-26T20:03:22Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-10-26",
  "totals": {
   "events": 2330,
-  "volume": 90014042,
+  "volume": 90017601,
   "competitions": 19
  },
  "competitions": {
@@ -61,7 +61,7 @@
    "median": 66652,
    "p75": 148238,
    "best": 148238,
-   "total": 265109,
+   "total": 265132,
    "outright": 17918,
    "india_pct": 20,
    "name": "ICC ODI World Cup",
@@ -77,7 +77,7 @@
    "median": 59880,
    "p75": 116228,
    "best": 350589,
-   "total": 6852990,
+   "total": 6854201,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -107,7 +107,7 @@
    "median": 247032,
    "p75": 402067,
    "best": 788605,
-   "total": 7151146,
+   "total": 7153130,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -407,7 +407,7 @@
   "namibia": {
    "n": 4,
    "traded": 2,
-   "median": 23980,
+   "median": 24055,
    "best": 45655
   }
  },
@@ -511,8 +511,8 @@
   "ireland|namibia": {
    "n": 3,
    "traded": 1,
-   "median": 2304,
-   "best": 2304
+   "median": 2455,
+   "best": 2455
   },
   "afghanistan|pakistan": {
    "n": 2,
@@ -530,7 +530,7 @@
    "n": 3,
    "traded": 0,
    "median": 0,
-   "best": 351
+   "best": 573
   }
  }
 }
