@@ -758,5 +758,13 @@
   "short": "NCL GT20 Canada 20",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "23081": {
+  "id": "23081",
+  "key": "t23081",
+  "name": "Nepal Premier League",
+  "short": "Nepal Premier League",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
