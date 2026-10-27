@@ -766,5 +766,21 @@
   "short": "Nepal Premier League",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24832": {
+  "id": "24832",
+  "key": "t24832",
+  "name": "Afghanistan Under-19s tour of Oman 2026/27",
+  "short": "Afghanistan Under-19s in Oman 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "24799": {
+  "id": "24799",
+  "key": "t24799",
+  "name": "Zimbabwe tour of United Arab Emirates 2026/27",
+  "short": "Afghanistan v Zimbabwe 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
