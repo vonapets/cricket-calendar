@@ -1,128 +1,108 @@
 [
  {
-  "kind": "added",
-  "id": "1528550",
-  "tour": "t24263",
-  "what": "Ireland v Afghanistan",
-  "to": "2026-08-05T09:45:00Z"
+  "kind": "moved",
+  "id": "1558543",
+  "tour": "t24268",
+  "what": "Governor-General XI Women v New Zealand Women",
+  "from": "2026-10-15T08:00:00Z",
+  "to": "2026-10-15T08:15:00Z"
  },
  {
   "kind": "added",
-  "id": "1552916",
-  "tour": "t1552900",
-  "what": "Kenya v Sierra Leone",
-  "to": "2026-09-13T07:30:00Z"
+  "id": "1534405",
+  "tour": "t8859",
+  "what": "Nottinghamshire 2nd XI v Somerset 2nd XI",
+  "to": "2026-08-18T10:00:00Z"
  },
  {
-  "kind": "added",
-  "id": "1552917",
-  "tour": "t1552900",
-  "what": "Rwanda v Botswana",
-  "to": "2026-09-13T11:30:00Z"
+  "kind": "dropped",
+  "id": "1521215",
+  "tour": "hun_w",
+  "what": "Welsh Fire (Women) v Southern Brave (Women)",
+  "from": "2026-08-03T14:00:00Z"
  },
  {
-  "kind": "added",
-  "id": "1552919",
-  "tour": "t1552900",
-  "what": "Rwanda v Kenya",
-  "to": "2026-09-15T11:30:00Z"
+  "kind": "dropped",
+  "id": "1521216",
+  "tour": "hun_w",
+  "what": "Sunrisers Leeds (Women) v London Spirit (Women)",
+  "from": "2026-08-04T14:00:00Z"
  },
  {
-  "kind": "added",
-  "id": "1552920",
-  "tour": "t1552900",
-  "what": "Botswana v Uganda",
-  "to": "2026-09-16T07:30:00Z"
+  "kind": "dropped",
+  "id": "1521225",
+  "tour": "hun_w",
+  "what": "Trent Rockets (Women) v Southern Brave (Women)",
+  "from": "2026-08-10T14:00:00Z"
  },
  {
-  "kind": "added",
-  "id": "1552923",
-  "tour": "t1552900",
-  "what": "Botswana v Kenya",
-  "to": "2026-09-17T11:30:00Z"
+  "kind": "dropped",
+  "id": "1535517",
+  "tour": "slt20",
+  "what": "Colts Cricket Club v Sinhalese Sports Club",
+  "from": "2026-08-12T08:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1552926",
-  "tour": "t1552900",
-  "what": "Kenya v Uganda",
-  "to": "2026-09-19T11:30:00Z"
+  "kind": "dropped",
+  "id": "1535514",
+  "tour": "slt20",
+  "what": "Tamil Union Cricket and Athletic Club v Kurunegala Youth Cricket Club",
+  "from": "2026-08-12T08:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1537351",
-  "tour": "lpl",
-  "what": "Galle Gallants v Jaffna Kings",
-  "to": "2026-08-05T09:30:00Z"
+  "kind": "dropped",
+  "id": "1535518",
+  "tour": "slt20",
+  "what": "Colombo Cricket Club v Tamil Union Cricket and Athletic Club",
+  "from": "2026-08-16T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1537353",
-  "tour": "lpl",
-  "what": "Colombo Kaps v Galle Gallants",
-  "to": "2026-08-07T14:00:00Z"
+  "kind": "dropped",
+  "id": "1535522",
+  "tour": "slt20",
+  "what": "Nondescripts Cricket Club v Badureliya Sports Club",
+  "from": "2026-08-16T08:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1545810",
-  "tour": "t8897",
-  "what": "Australian Capital Territory Women v Tasmania Women",
-  "to": "2027-03-10T00:00:00Z"
+  "kind": "dropped",
+  "id": "1521230",
+  "tour": "hun_w",
+  "what": "Sunrisers Leeds (Women) v Trent Rockets (Women)",
+  "from": "2026-08-16T13:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1545815",
-  "tour": "t8897",
-  "what": "Western Australia Women v New South Wales Women",
-  "to": "2027-03-12T05:30:00Z"
+  "kind": "dropped",
+  "id": "1535520",
+  "tour": "slt20",
+  "what": "Nugegoda Sports Welfare Club v Burgher Recreation Club",
+  "from": "2026-08-17T08:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1558209",
-  "tour": "t24832",
-  "what": "Oman Under-19s v Afghanistan Under-19s",
-  "to": "2026-10-27T05:30:00Z"
+  "kind": "dropped",
+  "id": "1535524",
+  "tour": "slt20",
+  "what": "Burgher Recreation Club v Colombo Cricket Club",
+  "from": "2026-08-20T08:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1558210",
-  "tour": "t24832",
-  "what": "Oman Under-19s v Afghanistan Under-19s",
-  "to": "2026-10-30T05:30:00Z"
+  "kind": "dropped",
+  "id": "1535528",
+  "tour": "slt20",
+  "what": "Police Sports Club v Kurunegala Youth Cricket Club",
+  "from": "2026-08-20T08:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1555120",
-  "tour": "t24799",
-  "what": "Afghanistan v Zimbabwe",
-  "to": "2026-10-27T14:30:00Z"
+  "kind": "dropped",
+  "id": "1535497",
+  "tour": "slt20",
+  "what": "Badureliya Sports Club v Colts Cricket Club",
+  "from": "2026-08-28T08:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1555121",
-  "tour": "t24799",
-  "what": "Afghanistan v Zimbabwe",
-  "to": "2026-10-29T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1555122",
-  "tour": "t24799",
-  "what": "Afghanistan v Zimbabwe",
-  "to": "2026-11-01T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1555123",
-  "tour": "t24799",
-  "what": "Afghanistan v Zimbabwe",
-  "to": "2026-11-05T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1555124",
-  "tour": "t24799",
-  "what": "Afghanistan v Zimbabwe",
-  "to": "2026-11-13T06:00:00Z"
+  "kind": "dropped",
+  "id": "1535501",
+  "tour": "slt20",
+  "what": "Police Sports Club v Colombo Cricket Club",
+  "from": "2026-09-01T08:30:00Z"
  }
 ]
