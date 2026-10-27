@@ -782,5 +782,13 @@
   "short": "Afghanistan v Zimbabwe 2026-27",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "8880": {
+  "id": "8880",
+  "key": "t8880",
+  "name": "The Ford Trophy",
+  "short": "The Ford Trophy",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
