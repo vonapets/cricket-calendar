@@ -790,5 +790,13 @@
   "short": "The Ford Trophy",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "21284": {
+  "id": "21284",
+  "key": "t21284",
+  "name": "Women's Big Bash League",
+  "short": "WBBL",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }

@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-28T08:43:44Z",
+ "generated_at": "2026-10-28T15:15:28Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-10-28",
  "totals": {
-  "events": 2398,
-  "volume": 90036435,
+  "events": 2392,
+  "volume": 90059693,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 245,
-   "traded": 129,
-   "median": 7810,
+   "matches": 244,
+   "traded": 130,
+   "median": 7680,
    "p75": 18696,
    "best": 74063,
-   "total": 1878037,
+   "total": 1883438,
    "outright": 2629062,
    "india_pct": 6,
    "name": "Domestic / minor",
@@ -56,14 +56,14 @@
    "not": []
   },
   "ICC ODI World Cup": {
-   "matches": 15,
-   "traded": 5,
-   "median": 48857,
-   "p75": 66652,
+   "matches": 14,
+   "traded": 4,
+   "median": 57755,
+   "p75": 148238,
    "best": 148238,
-   "total": 284433,
+   "total": 299830,
    "outright": 17918,
-   "india_pct": 20,
+   "india_pct": 21,
    "name": "ICC ODI World Cup",
    "detect": [
     "odi world cup",
@@ -72,12 +72,12 @@
    "not": []
   },
   "Other international": {
-   "matches": 131,
+   "matches": 132,
    "traded": 84,
    "median": 59880,
    "p75": 116228,
    "best": 350589,
-   "total": 6885600,
+   "total": 6904087,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -102,12 +102,12 @@
    ]
   },
   "India bilateral": {
-   "matches": 32,
-   "traded": 26,
-   "median": 258866,
+   "matches": 31,
+   "traded": 25,
+   "median": 270700,
    "p75": 402067,
    "best": 788605,
-   "total": 7120954,
+   "total": 7104024,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -148,7 +148,7 @@
    "median": 81644,
    "p75": 96310,
    "best": 235436,
-   "total": 3698501,
+   "total": 3698987,
    "outright": 0,
    "india_pct": 0,
    "name": "Big Bash League",
@@ -327,7 +327,7 @@
    "best": 145759
   },
   "pakistan": {
-   "n": 23,
+   "n": 24,
    "traded": 18,
    "median": 91190,
    "best": 284075
@@ -339,7 +339,7 @@
    "best": 111099
   },
   "sri lanka": {
-   "n": 30,
+   "n": 31,
    "traded": 27,
    "median": 73590,
    "best": 284075
@@ -449,7 +449,7 @@
    "best": 256852
   },
   "pakistan|sri lanka": {
-   "n": 8,
+   "n": 9,
    "traded": 8,
    "median": 118839,
    "best": 284075
@@ -524,7 +524,7 @@
    "n": 2,
    "traded": 0,
    "median": 0,
-   "best": 141
+   "best": 342
   },
   "ireland|namibia": {
    "n": 2,
