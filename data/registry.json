@@ -798,5 +798,13 @@
   "short": "WBBL",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "8768": {
+  "id": "8768",
+  "key": "t8768",
+  "name": "Hong Kong International Cricket Sixes",
+  "short": "Hong Kong International Cricket Sixes",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
