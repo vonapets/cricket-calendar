@@ -1,1311 +1,1297 @@
 [
  {
-  "kind": "dropped",
-  "id": "1537349",
-  "tour": "lpl",
-  "what": "Colombo Kaps v Galle Gallants",
-  "from": "2026-08-01T14:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1537350",
-  "tour": "lpl",
-  "what": "Dambulla Sixers v Jaffna Kings",
-  "from": "2026-08-02T14:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1537351",
-  "tour": "lpl",
-  "what": "Galle Gallants v Jaffna Kings",
-  "from": "2026-08-05T09:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1513504",
-  "tour": "t8335",
-  "what": "Nottinghamshire v Northamptonshire",
-  "from": "2026-08-07T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1537353",
-  "tour": "lpl",
-  "what": "Colombo Kaps v Galle Gallants",
-  "from": "2026-08-07T14:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547404",
-  "tour": "t8832",
-  "what": "Ace Capital Cricket Club v Panadura Sports Club",
-  "from": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547407",
-  "tour": "t8832",
-  "what": "Badureliya Sports Club v Bloomfield Cricket and Athletic Club",
-  "from": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547405",
-  "tour": "t8832",
-  "what": "Colts Cricket Club v Sinhalese Sports Club",
-  "from": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547402",
-  "tour": "t8832",
-  "what": "Kurunegala Youth Cricket Club v Tamil Union Cricket and Athletic Club",
-  "from": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547406",
-  "tour": "t8832",
-  "what": "Nondescripts Cricket Club v Burgher Recreation Club",
-  "from": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547403",
-  "tour": "t8832",
-  "what": "Nugegoda Sports Welfare Club v Moors Sports Club",
-  "from": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535515",
-  "tour": "slt20",
-  "what": "Burgher Recreation Club v Police Sports Club",
-  "from": "2026-08-12T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535512",
-  "tour": "slt20",
-  "what": "Colombo Cricket Club v Nugegoda Sports Welfare Club",
-  "from": "2026-08-12T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535514",
-  "tour": "slt20",
-  "what": "Tamil Union Cricket and Athletic Club v Kurunegala Youth Cricket Club",
-  "from": "2026-08-12T08:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547412",
-  "tour": "t8832",
-  "what": "Badureliya Sports Club v Colts Cricket Club",
-  "from": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547413",
-  "tour": "t8832",
-  "what": "Bloomfield Cricket and Athletic Club v Nondescripts Cricket Club",
-  "from": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547408",
-  "tour": "t8832",
-  "what": "Kurunegala Youth Cricket Club v Colombo Cricket Club",
-  "from": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547410",
-  "tour": "t8832",
-  "what": "Panadura Sports Club v Moors Sports Club",
-  "from": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547411",
-  "tour": "t8832",
-  "what": "Sinhalese Sports Club v Police Sports Club",
-  "from": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547409",
-  "tour": "t8832",
-  "what": "Tamil Union Cricket and Athletic Club v Ace Capital Cricket Club",
-  "from": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535518",
-  "tour": "slt20",
-  "what": "Colombo Cricket Club v Tamil Union Cricket and Athletic Club",
-  "from": "2026-08-16T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535522",
-  "tour": "slt20",
-  "what": "Nondescripts Cricket Club v Badureliya Sports Club",
-  "from": "2026-08-16T08:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535520",
-  "tour": "slt20",
-  "what": "Nugegoda Sports Welfare Club v Burgher Recreation Club",
-  "from": "2026-08-17T08:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534399",
-  "tour": "t8859",
-  "what": "Derbyshire 2nd XI v Northamptonshire 2nd XI",
-  "from": "2026-08-17T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534400",
-  "tour": "t8859",
-  "what": "Glamorgan 2nd XI v Essex 2nd XI",
-  "from": "2026-08-17T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534402",
-  "tour": "t8859",
-  "what": "Warwickshire 2nd XI v Lancashire 2nd XI",
-  "from": "2026-08-17T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547417",
-  "tour": "t8832",
-  "what": "Burgher Recreation Club v Police Sports Club",
-  "from": "2026-08-18T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547414",
-  "tour": "t8832",
-  "what": "Colombo Cricket Club v Nugegoda Sports Welfare Club",
-  "from": "2026-08-18T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547419",
-  "tour": "t8832",
-  "what": "Colts Cricket Club v Nondescripts Cricket Club",
-  "from": "2026-08-18T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547415",
-  "tour": "t8832",
-  "what": "Kurunegala Youth Cricket Club v Ace Capital Cricket Club",
-  "from": "2026-08-18T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547418",
-  "tour": "t8832",
-  "what": "Sinhalese Sports Club v Badureliya Sports Club",
-  "from": "2026-08-18T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547416",
-  "tour": "t8832",
-  "what": "Tamil Union Cricket and Athletic Club v Moors Sports Club",
-  "from": "2026-08-18T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534403",
-  "tour": "t8859",
-  "what": "Gloucestershire 2nd XI v Durham 2nd XI",
-  "from": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534404",
-  "tour": "t8859",
-  "what": "Leicestershire 2nd XI v Hampshire 2nd XI",
-  "from": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534401",
-  "tour": "t8859",
-  "what": "Middlesex 2nd XI v Sussex 2nd XI",
-  "from": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534405",
-  "tour": "t8859",
-  "what": "Nottinghamshire 2nd XI v Somerset 2nd XI",
-  "from": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534406",
-  "tour": "t8859",
-  "what": "Surrey 2nd XI v Kent 2nd XI",
-  "from": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535525",
-  "tour": "slt20",
-  "what": "Colts Cricket Club v Panadura Sports Club",
-  "from": "2026-08-20T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535529",
-  "tour": "slt20",
-  "what": "Sinhalese Sports Club v Badureliya Sports Club",
-  "from": "2026-08-20T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535528",
-  "tour": "slt20",
-  "what": "Police Sports Club v Kurunegala Youth Cricket Club",
-  "from": "2026-08-20T08:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547420",
-  "tour": "t8832",
-  "what": "Ace Capital Cricket Club v Colombo Cricket Club",
-  "from": "2026-08-21T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547421",
-  "tour": "t8832",
-  "what": "Nugegoda Sports Welfare Club v Panadura Sports Club",
-  "from": "2026-08-21T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547424",
-  "tour": "t8832",
-  "what": "Burgher Recreation Club v Bloomfield Cricket and Athletic Club",
-  "from": "2026-08-22T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547422",
-  "tour": "t8832",
-  "what": "Moors Sports Club v Kurunegala Youth Cricket Club",
-  "from": "2026-08-22T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547425",
-  "tour": "t8832",
-  "what": "Nondescripts Cricket Club v Sinhalese Sports Club",
-  "from": "2026-08-22T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547423",
-  "tour": "t8832",
-  "what": "Police Sports Club v Badureliya Sports Club",
-  "from": "2026-08-22T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535535",
-  "tour": "slt20",
-  "what": "Badureliya Sports Club v Ace Capital Cricket Club",
-  "from": "2026-08-24T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535532",
-  "tour": "slt20",
-  "what": "Police Sports Club v Tamil Union Cricket and Athletic Club",
-  "from": "2026-08-24T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535534",
-  "tour": "slt20",
-  "what": "Kurunegala Youth Cricket Club v Nugegoda Sports Welfare Club",
-  "from": "2026-08-24T08:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534408",
-  "tour": "t8859",
-  "what": "Durham 2nd XI v Nottinghamshire 2nd XI",
-  "from": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534409",
-  "tour": "t8859",
-  "what": "Essex 2nd XI v Hampshire 2nd XI",
-  "from": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534410",
-  "tour": "t8859",
-  "what": "Kent 2nd XI v Gloucestershire 2nd XI",
-  "from": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534412",
-  "tour": "t8859",
-  "what": "Sussex 2nd XI v Warwickshire 2nd XI",
-  "from": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547426",
-  "tour": "t8832",
-  "what": "Nugegoda Sports Welfare Club v Kurunegala Youth Cricket Club",
-  "from": "2026-08-25T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534413",
-  "tour": "t8859",
-  "what": "Somerset 2nd XI v Surrey 2nd XI",
-  "from": "2026-08-25T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547430",
-  "tour": "t8832",
-  "what": "Bloomfield Cricket and Athletic Club v Colts Cricket Club",
-  "from": "2026-08-26T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547427",
-  "tour": "t8832",
-  "what": "Moors Sports Club v Colombo Cricket Club",
-  "from": "2026-08-26T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547429",
-  "tour": "t8832",
-  "what": "Nondescripts Cricket Club v Police Sports Club",
-  "from": "2026-08-26T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547428",
-  "tour": "t8832",
-  "what": "Panadura Sports Club v Tamil Union Cricket and Athletic Club",
-  "from": "2026-08-26T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547431",
-  "tour": "t8832",
-  "what": "Sinhalese Sports Club v Burgher Recreation Club",
-  "from": "2026-08-26T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547874",
-  "tour": "eutpl",
-  "what": "Edinburgh Castle Rockers v Glasgow Cosmic",
-  "from": "2026-08-27T13:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535496",
-  "tour": "slt20",
-  "what": "Burgher Recreation Club v Kurunegala Youth Cricket Club",
-  "from": "2026-08-28T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535494",
-  "tour": "slt20",
-  "what": "Moors Sports Club v Police Sports Club",
-  "from": "2026-08-28T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535498",
-  "tour": "slt20",
-  "what": "Nugegoda Sports Welfare Club v Tamil Union Cricket and Athletic Club",
-  "from": "2026-08-28T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535497",
-  "tour": "slt20",
-  "what": "Badureliya Sports Club v Colts Cricket Club",
-  "from": "2026-08-28T08:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547875",
-  "tour": "eutpl",
-  "what": "Amsterdam Flames v Edinburgh Castle Rockers",
-  "from": "2026-08-28T13:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551332",
-  "tour": "t18479",
-  "what": "Maiwand Champions v Mah-e-Par Stars",
-  "from": "2026-08-29T05:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551333",
-  "tour": "t18479",
-  "what": "Hindukush Strikers v Pamir Legends",
-  "from": "2026-08-29T05:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547876",
-  "tour": "eutpl",
-  "what": "Glasgow Cosmic v Dublin Guardians",
-  "from": "2026-08-29T09:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549946",
-  "tour": "acc_pc",
-  "what": "Oman v Singapore",
-  "from": "2026-08-30T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549947",
-  "tour": "acc_pc",
-  "what": "Hong Kong v Saudi Arabia",
-  "from": "2026-08-30T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547436",
-  "tour": "t8832",
-  "what": "Badureliya Sports Club v Nondescripts Cricket Club",
-  "from": "2026-08-30T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547437",
-  "tour": "t8832",
-  "what": "Colts Cricket Club v Burgher Recreation Club",
-  "from": "2026-08-30T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547433",
-  "tour": "t8832",
-  "what": "Moors Sports Club v Ace Capital Cricket Club",
-  "from": "2026-08-30T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547435",
-  "tour": "t8832",
-  "what": "Police Sports Club v Bloomfield Cricket and Athletic Club",
-  "from": "2026-08-30T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547434",
-  "tour": "t8832",
-  "what": "Tamil Union Cricket and Athletic Club v Nugegoda Sports Welfare Club",
-  "from": "2026-08-30T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547878",
-  "tour": "eutpl",
-  "what": "Amsterdam Flames v Belfast Wolves",
-  "from": "2026-08-30T09:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549949",
-  "tour": "acc_pc",
-  "what": "Bahrain v Nepal",
-  "from": "2026-08-31T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547432",
-  "tour": "t8832",
-  "what": "Colombo Cricket Club v Panadura Sports Club",
-  "from": "2026-08-31T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534416",
-  "tour": "t8859",
-  "what": "Essex 2nd XI v Worcestershire 2nd XI",
-  "from": "2026-08-31T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534417",
-  "tour": "t8859",
-  "what": "Northamptonshire 2nd XI v Middlesex 2nd XI",
-  "from": "2026-08-31T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534418",
-  "tour": "t8859",
-  "what": "Warwickshire 2nd XI v Derbyshire 2nd XI",
-  "from": "2026-08-31T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549951",
-  "tour": "acc_pc",
-  "what": "Kuwait v Singapore",
-  "from": "2026-09-01T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535502",
-  "tour": "slt20",
-  "what": "Moors Sports Club v Nugegoda Sports Welfare Club",
-  "from": "2026-09-01T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535500",
-  "tour": "slt20",
-  "what": "Panadura Sports Club v Sinhalese Sports Club",
-  "from": "2026-09-01T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535504",
-  "tour": "slt20",
-  "what": "Tamil Union Cricket and Athletic Club v Burgher Recreation Club",
-  "from": "2026-09-01T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535505",
-  "tour": "slt20",
-  "what": "Bloomfield Cricket and Athletic Club v Colts Cricket Club",
-  "from": "2026-09-01T08:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535501",
-  "tour": "slt20",
-  "what": "Police Sports Club v Colombo Cricket Club",
-  "from": "2026-09-01T08:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534415",
-  "tour": "t8859",
-  "what": "Durham 2nd XI v Somerset 2nd XI",
-  "from": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534419",
-  "tour": "t8859",
-  "what": "Glamorgan 2nd XI v Hampshire 2nd XI",
-  "from": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1534420",
-  "tour": "t8859",
-  "what": "Gloucestershire 2nd XI v Surrey 2nd XI",
-  "from": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549952",
-  "tour": "acc_pc",
-  "what": "Bahrain v Hong Kong",
-  "from": "2026-09-02T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549953",
-  "tour": "acc_pc",
-  "what": "Oman v Qatar",
-  "from": "2026-09-02T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547881",
-  "tour": "eutpl",
-  "what": "Rotterdam Dockers v Dublin Guardians",
-  "from": "2026-09-02T09:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552317",
-  "tour": "t24740",
-  "what": "England Under-19s v Pakistan Under-19s",
-  "from": "2026-09-02T09:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549955",
-  "tour": "acc_pc",
-  "what": "Malaysia v Nepal",
-  "from": "2026-09-03T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547440",
-  "tour": "t8832",
-  "what": "Ace Capital Cricket Club v Nugegoda Sports Welfare Club",
-  "from": "2026-09-03T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547442",
-  "tour": "t8832",
-  "what": "Bloomfield Cricket and Athletic Club v Sinhalese Sports Club",
-  "from": "2026-09-03T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547443",
-  "tour": "t8832",
-  "what": "Burgher Recreation Club v Badureliya Sports Club",
-  "from": "2026-09-03T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547438",
-  "tour": "t8832",
-  "what": "Colombo Cricket Club v Tamil Union Cricket and Athletic Club",
-  "from": "2026-09-03T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547439",
-  "tour": "t8832",
-  "what": "Panadura Sports Club v Kurunegala Youth Cricket Club",
-  "from": "2026-09-03T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547441",
-  "tour": "t8832",
-  "what": "Police Sports Club v Colts Cricket Club",
-  "from": "2026-09-03T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547883",
-  "tour": "eutpl",
-  "what": "Amsterdam Flames v Glasgow Cosmic",
-  "from": "2026-09-03T13:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549956",
-  "tour": "acc_pc",
-  "what": "Qatar v Singapore",
-  "from": "2026-09-04T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549957",
-  "tour": "acc_pc",
-  "what": "Bahrain v Saudi Arabia",
-  "from": "2026-09-04T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551334",
-  "tour": "t18479",
-  "what": "Maiwand Champions v Mah-e-Par Stars",
-  "from": "2026-09-04T05:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551335",
-  "tour": "t18479",
-  "what": "Hindukush Strikers v Pamir Legends",
-  "from": "2026-09-04T05:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547884",
-  "tour": "eutpl",
-  "what": "Glasgow Cosmic v Belfast Wolves",
-  "from": "2026-09-04T13:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549958",
-  "tour": "acc_pc",
-  "what": "Kuwait v Oman",
-  "from": "2026-09-05T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549959",
-  "tour": "acc_pc",
-  "what": "Malaysia v Hong Kong",
-  "from": "2026-09-05T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535511",
-  "tour": "slt20",
-  "what": "Colts Cricket Club v Nondescripts Cricket Club",
-  "from": "2026-09-05T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535506",
-  "tour": "slt20",
-  "what": "Kurunegala Youth Cricket Club v Colombo Cricket Club",
-  "from": "2026-09-05T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535509",
-  "tour": "slt20",
-  "what": "Sinhalese Sports Club v Ace Capital Cricket Club",
-  "from": "2026-09-05T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535508",
-  "tour": "slt20",
-  "what": "Nugegoda Sports Welfare Club v Police Sports Club",
-  "from": "2026-09-05T08:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547885",
-  "tour": "eutpl",
-  "what": "Rotterdam Dockers v Edinburgh Castle Rockers",
-  "from": "2026-09-05T09:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547887",
-  "tour": "eutpl",
-  "what": "Glasgow Cosmic v Edinburgh Castle Rockers",
-  "from": "2026-09-06T09:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547888",
-  "tour": "eutpl",
-  "what": "Amsterdam Flames v Rotterdam Dockers",
-  "from": "2026-09-06T13:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549962",
-  "tour": "acc_pc",
-  "what": "Malaysia v Bahrain",
-  "from": "2026-09-07T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549963",
-  "tour": "acc_pc",
-  "what": "Kuwait v Qatar",
-  "from": "2026-09-07T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547444",
-  "tour": "t8832",
-  "what": "Colombo Cricket Club v Sinhalese Sports Club",
-  "from": "2026-09-07T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547445",
-  "tour": "t8832",
-  "what": "Moors Sports Club v Colts Cricket Club",
-  "from": "2026-09-07T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549964",
-  "tour": "acc_pc",
-  "what": "Hong Kong v Nepal",
-  "from": "2026-09-08T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552906",
-  "tour": "t1552900",
-  "what": "Rwanda v Botswana",
-  "from": "2026-09-08T07:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552907",
-  "tour": "t1552900",
-  "what": "Kenya v Sierra Leone",
-  "from": "2026-09-08T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535536",
-  "tour": "slt20",
-  "what": "Tamil Union Cricket and Athletic Club v Panadura Sports Club",
-  "from": "2026-09-09T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535538",
-  "tour": "slt20",
-  "what": "Moors Sports Club v Nondescripts Cricket Club",
-  "from": "2026-09-09T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552908",
-  "tour": "t1552900",
-  "what": "Sierra Leone v Uganda",
-  "from": "2026-09-09T07:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535537",
-  "tour": "slt20",
-  "what": "Sinhalese Sports Club v Police Sports Club",
-  "from": "2026-09-09T08:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535539",
-  "tour": "slt20",
-  "what": "Ace Capital Cricket Club v Colombo Cricket Club",
-  "from": "2026-09-09T08:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549966",
-  "tour": "acc_pc",
-  "what": "Nepal v Oman",
-  "from": "2026-09-10T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551336",
-  "tour": "t18479",
-  "what": "Maiwand Champions v Hindukush Strikers",
-  "from": "2026-09-10T05:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551337",
-  "tour": "t18479",
-  "what": "Pamir Legends v Mah-e-Par Stars",
-  "from": "2026-09-10T05:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552910",
-  "tour": "t1552900",
-  "what": "Botswana v Uganda",
-  "from": "2026-09-10T07:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552911",
-  "tour": "t1552900",
-  "what": "Rwanda v Sierra Leone",
-  "from": "2026-09-10T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547891",
-  "tour": "eutpl",
-  "what": "Belfast Wolves v Amsterdam Flames",
-  "from": "2026-09-10T13:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552912",
-  "tour": "t1552900",
-  "what": "Rwanda v Uganda",
-  "from": "2026-09-11T07:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547446",
-  "tour": "t8832",
-  "what": "Moors Sports Club v Sinhalese Sports Club",
-  "from": "2026-09-11T09:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552913",
-  "tour": "t1552900",
-  "what": "Botswana v Kenya",
-  "from": "2026-09-11T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1549968",
-  "tour": "acc_pc",
-  "what": "Hong Kong v Oman",
-  "from": "2026-09-12T01:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552915",
-  "tour": "t1552900",
-  "what": "Botswana v Sierra Leone",
-  "from": "2026-09-12T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547894",
-  "tour": "eutpl",
-  "what": "Dublin Guardians v Glasgow Cosmic",
-  "from": "2026-09-12T13:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552917",
-  "tour": "t1552900",
-  "what": "Rwanda v Botswana",
-  "from": "2026-09-13T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547896",
-  "tour": "eutpl",
-  "what": "Belfast Wolves v Glasgow Cosmic",
-  "from": "2026-09-13T13:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552918",
-  "tour": "t1552900",
-  "what": "Sierra Leone v Uganda",
-  "from": "2026-09-15T07:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547897",
-  "tour": "eutpl",
-  "what": "Dublin Guardians v Amsterdam Flames",
-  "from": "2026-09-15T09:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552919",
-  "tour": "t1552900",
-  "what": "Rwanda v Kenya",
-  "from": "2026-09-15T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547898",
-  "tour": "eutpl",
-  "what": "Edinburgh Castle Rockers v Rotterdam Dockers",
-  "from": "2026-09-15T13:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551338",
-  "tour": "t18479",
-  "what": "Maiwand Champions v Hindukush Strikers",
-  "from": "2026-09-16T05:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551339",
-  "tour": "t18479",
-  "what": "Pamir Legends v Mah-e-Par Stars",
-  "from": "2026-09-16T05:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552920",
-  "tour": "t1552900",
-  "what": "Botswana v Uganda",
-  "from": "2026-09-16T07:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552321",
-  "tour": "t24740",
-  "what": "England Under-19s v Pakistan Under-19s",
-  "from": "2026-09-16T09:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552921",
-  "tour": "t1552900",
-  "what": "Rwanda v Sierra Leone",
-  "from": "2026-09-16T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547899",
-  "tour": "eutpl",
-  "what": "Glasgow Cosmic v Amsterdam Flames",
-  "from": "2026-09-16T13:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552922",
-  "tour": "t1552900",
-  "what": "Rwanda v Uganda",
-  "from": "2026-09-17T07:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552923",
-  "tour": "t1552900",
-  "what": "Botswana v Kenya",
-  "from": "2026-09-17T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552925",
-  "tour": "t1552900",
-  "what": "Botswana v Sierra Leone",
-  "from": "2026-09-18T11:30:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1552306",
   "tour": "t24735",
   "what": "Japan v Hong Kong",
-  "from": "2026-09-19T01:00:00Z"
+  "to": "2026-09-19T01:00:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1552926",
-  "tour": "t1552900",
-  "what": "Kenya v Uganda",
-  "from": "2026-09-19T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547902",
-  "tour": "eutpl",
-  "what": "Belfast Wolves v Amsterdam Flames",
-  "from": "2026-09-19T13:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554583",
-  "tour": "t1554562",
-  "what": "Nigeria v Ghana",
-  "from": "2026-09-21T13:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551340",
-  "tour": "t18479",
-  "what": "Maiwand Champions v Pamir Legends",
-  "from": "2026-09-22T05:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551341",
-  "tour": "t18479",
-  "what": "Mah-e-Par Stars v Hindukush Strikers",
-  "from": "2026-09-22T05:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554585",
-  "tour": "t1554562",
-  "what": "Ghana v Sierra Leone",
-  "from": "2026-09-22T09:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554587",
-  "tour": "t1554562",
-  "what": "Nigeria v Sierra Leone",
-  "from": "2026-09-23T09:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554589",
-  "tour": "t1554562",
-  "what": "Ghana v Sierra Leone",
-  "from": "2026-09-25T09:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551342",
-  "tour": "t18479",
-  "what": "Maiwand Champions v Pamir Legends",
-  "from": "2026-09-28T05:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551343",
-  "tour": "t18479",
-  "what": "Mah-e-Par Stars v Hindukush Strikers",
-  "from": "2026-09-28T05:30:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1555135",
   "tour": "t24803",
   "what": "South Korea v Indonesia",
-  "from": "2026-10-03T01:00:00Z"
+  "to": "2026-10-03T01:00:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1554978",
-  "tour": "t24796",
-  "what": "Zimbabwe Women v West Indies Women",
-  "from": "2026-10-03T11:00:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1555136",
   "tour": "t24803",
   "what": "South Korea v Indonesia",
-  "from": "2026-10-04T01:00:00Z"
+  "to": "2026-10-04T01:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
+  "id": "1552317",
+  "tour": "t24740",
+  "what": "England Under-19s v Pakistan Under-19s",
+  "to": "2026-09-02T09:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552321",
+  "tour": "t24740",
+  "what": "England Under-19s v Pakistan Under-19s",
+  "to": "2026-09-16T09:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554978",
+  "tour": "t24796",
+  "what": "Zimbabwe Women v West Indies Women",
+  "to": "2026-10-03T11:00:00Z"
+ },
+ {
+  "kind": "added",
   "id": "1554979",
   "tour": "t24796",
   "what": "Zimbabwe Women v West Indies Women",
-  "from": "2026-10-05T10:00:00Z"
+  "to": "2026-10-05T10:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1554980",
   "tour": "t24796",
   "what": "Zimbabwe Women v West Indies Women",
-  "from": "2026-10-07T10:00:00Z"
+  "to": "2026-10-07T10:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
+  "id": "1549946",
+  "tour": "acc_pc",
+  "what": "Oman v Singapore",
+  "to": "2026-08-30T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1549947",
+  "tour": "acc_pc",
+  "what": "Hong Kong v Saudi Arabia",
+  "to": "2026-08-30T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1549949",
+  "tour": "acc_pc",
+  "what": "Bahrain v Nepal",
+  "to": "2026-08-31T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1549951",
+  "tour": "acc_pc",
+  "what": "Kuwait v Singapore",
+  "to": "2026-09-01T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1549952",
+  "tour": "acc_pc",
+  "what": "Bahrain v Hong Kong",
+  "to": "2026-09-02T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1549953",
+  "tour": "acc_pc",
+  "what": "Oman v Qatar",
+  "to": "2026-09-02T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1549955",
+  "tour": "acc_pc",
+  "what": "Malaysia v Nepal",
+  "to": "2026-09-03T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1549956",
+  "tour": "acc_pc",
+  "what": "Qatar v Singapore",
+  "to": "2026-09-04T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1549957",
+  "tour": "acc_pc",
+  "what": "Bahrain v Saudi Arabia",
+  "to": "2026-09-04T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1549958",
+  "tour": "acc_pc",
+  "what": "Kuwait v Oman",
+  "to": "2026-09-05T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1549959",
+  "tour": "acc_pc",
+  "what": "Malaysia v Hong Kong",
+  "to": "2026-09-05T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1549962",
+  "tour": "acc_pc",
+  "what": "Malaysia v Bahrain",
+  "to": "2026-09-07T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1549963",
+  "tour": "acc_pc",
+  "what": "Kuwait v Qatar",
+  "to": "2026-09-07T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1549964",
+  "tour": "acc_pc",
+  "what": "Hong Kong v Nepal",
+  "to": "2026-09-08T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1549966",
+  "tour": "acc_pc",
+  "what": "Nepal v Oman",
+  "to": "2026-09-10T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1549968",
+  "tour": "acc_pc",
+  "what": "Hong Kong v Oman",
+  "to": "2026-09-12T01:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551332",
+  "tour": "t18479",
+  "what": "Maiwand Champions v Mah-e-Par Stars",
+  "to": "2026-08-29T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551333",
+  "tour": "t18479",
+  "what": "Hindukush Strikers v Pamir Legends",
+  "to": "2026-08-29T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551334",
+  "tour": "t18479",
+  "what": "Maiwand Champions v Mah-e-Par Stars",
+  "to": "2026-09-04T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551335",
+  "tour": "t18479",
+  "what": "Hindukush Strikers v Pamir Legends",
+  "to": "2026-09-04T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551336",
+  "tour": "t18479",
+  "what": "Maiwand Champions v Hindukush Strikers",
+  "to": "2026-09-10T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551337",
+  "tour": "t18479",
+  "what": "Pamir Legends v Mah-e-Par Stars",
+  "to": "2026-09-10T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551338",
+  "tour": "t18479",
+  "what": "Maiwand Champions v Hindukush Strikers",
+  "to": "2026-09-16T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551339",
+  "tour": "t18479",
+  "what": "Pamir Legends v Mah-e-Par Stars",
+  "to": "2026-09-16T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551340",
+  "tour": "t18479",
+  "what": "Maiwand Champions v Pamir Legends",
+  "to": "2026-09-22T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551341",
+  "tour": "t18479",
+  "what": "Mah-e-Par Stars v Hindukush Strikers",
+  "to": "2026-09-22T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551342",
+  "tour": "t18479",
+  "what": "Maiwand Champions v Pamir Legends",
+  "to": "2026-09-28T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551343",
+  "tour": "t18479",
+  "what": "Mah-e-Par Stars v Hindukush Strikers",
+  "to": "2026-09-28T05:30:00Z"
+ },
+ {
+  "kind": "added",
   "id": "1551717",
   "tour": "t1551603",
   "what": "KwaZulu-Natal Inland v South Western Districts",
-  "from": "2027-01-07T08:00:00Z"
+  "to": "2027-01-07T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551718",
   "tour": "t1551603",
   "what": "Limpopo v Northern Cape",
-  "from": "2027-01-07T08:00:00Z"
+  "to": "2027-01-07T08:00:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1551804",
-  "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v South Western Districts",
-  "from": "2027-01-10T07:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554077",
-  "tour": "t1554057",
-  "what": "Eastern Province Women v Western Province Women",
-  "from": "2027-01-10T08:00:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551720",
   "tour": "t1551603",
   "what": "Northern Cape v South Western Districts",
-  "from": "2027-01-14T08:00:00Z"
+  "to": "2027-01-14T08:00:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1551809",
-  "tour": "t20676",
-  "what": "South Western Districts v Mpumalanga",
-  "from": "2027-01-24T08:00:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551726",
   "tour": "t1551603",
   "what": "Border v KwaZulu-Natal Inland",
-  "from": "2027-02-04T08:00:00Z"
+  "to": "2027-02-04T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551727",
   "tour": "t1551603",
   "what": "Northern Cape v Mpumalanga",
-  "from": "2027-02-04T08:00:00Z"
+  "to": "2027-02-04T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551729",
   "tour": "t1551603",
   "what": "Easterns v Limpopo",
-  "from": "2027-02-11T08:00:00Z"
+  "to": "2027-02-11T08:00:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1551815",
-  "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v Border",
-  "from": "2027-02-14T07:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551821",
-  "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v Easterns",
-  "from": "2027-03-07T07:00:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551739",
   "tour": "t1551603",
   "what": "Easterns v Mpumalanga",
-  "from": "2027-03-11T08:00:00Z"
+  "to": "2027-03-11T08:00:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1554086",
-  "tour": "t1554057",
-  "what": "Dolphins Women v South Western Districts Women",
-  "from": "2027-03-14T07:30:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551743",
   "tour": "t1551603",
   "what": "Mpumalanga v Border",
-  "from": "2027-03-25T08:00:00Z"
+  "to": "2027-03-25T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551744",
   "tour": "t1551603",
   "what": "TBA v TBA",
-  "from": "2027-04-08T08:00:00Z"
+  "to": "2027-04-08T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551804",
+  "tour": "t20676",
+  "what": "KwaZulu-Natal Inland v South Western Districts",
+  "to": "2027-01-10T07:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551809",
+  "tour": "t20676",
+  "what": "South Western Districts v Mpumalanga",
+  "to": "2027-01-24T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551815",
+  "tour": "t20676",
+  "what": "KwaZulu-Natal Inland v Border",
+  "to": "2027-02-14T07:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551821",
+  "tour": "t20676",
+  "what": "KwaZulu-Natal Inland v Easterns",
+  "to": "2027-03-07T07:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547874",
+  "tour": "eutpl",
+  "what": "Edinburgh Castle Rockers v Glasgow Cosmic",
+  "to": "2026-08-27T13:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547875",
+  "tour": "eutpl",
+  "what": "Amsterdam Flames v Edinburgh Castle Rockers",
+  "to": "2026-08-28T13:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547876",
+  "tour": "eutpl",
+  "what": "Glasgow Cosmic v Dublin Guardians",
+  "to": "2026-08-29T09:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547878",
+  "tour": "eutpl",
+  "what": "Amsterdam Flames v Belfast Wolves",
+  "to": "2026-08-30T09:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547881",
+  "tour": "eutpl",
+  "what": "Rotterdam Dockers v Dublin Guardians",
+  "to": "2026-09-02T09:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547883",
+  "tour": "eutpl",
+  "what": "Amsterdam Flames v Glasgow Cosmic",
+  "to": "2026-09-03T13:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547884",
+  "tour": "eutpl",
+  "what": "Glasgow Cosmic v Belfast Wolves",
+  "to": "2026-09-04T13:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547885",
+  "tour": "eutpl",
+  "what": "Rotterdam Dockers v Edinburgh Castle Rockers",
+  "to": "2026-09-05T09:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547887",
+  "tour": "eutpl",
+  "what": "Glasgow Cosmic v Edinburgh Castle Rockers",
+  "to": "2026-09-06T09:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547888",
+  "tour": "eutpl",
+  "what": "Amsterdam Flames v Rotterdam Dockers",
+  "to": "2026-09-06T13:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547891",
+  "tour": "eutpl",
+  "what": "Belfast Wolves v Amsterdam Flames",
+  "to": "2026-09-10T13:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547894",
+  "tour": "eutpl",
+  "what": "Dublin Guardians v Glasgow Cosmic",
+  "to": "2026-09-12T13:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547896",
+  "tour": "eutpl",
+  "what": "Belfast Wolves v Glasgow Cosmic",
+  "to": "2026-09-13T13:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547897",
+  "tour": "eutpl",
+  "what": "Dublin Guardians v Amsterdam Flames",
+  "to": "2026-09-15T09:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547898",
+  "tour": "eutpl",
+  "what": "Edinburgh Castle Rockers v Rotterdam Dockers",
+  "to": "2026-09-15T13:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547899",
+  "tour": "eutpl",
+  "what": "Glasgow Cosmic v Amsterdam Flames",
+  "to": "2026-09-16T13:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547902",
+  "tour": "eutpl",
+  "what": "Belfast Wolves v Amsterdam Flames",
+  "to": "2026-09-19T13:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552906",
+  "tour": "t1552900",
+  "what": "Rwanda v Botswana",
+  "to": "2026-09-08T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552907",
+  "tour": "t1552900",
+  "what": "Kenya v Sierra Leone",
+  "to": "2026-09-08T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552908",
+  "tour": "t1552900",
+  "what": "Sierra Leone v Uganda",
+  "to": "2026-09-09T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552910",
+  "tour": "t1552900",
+  "what": "Botswana v Uganda",
+  "to": "2026-09-10T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552911",
+  "tour": "t1552900",
+  "what": "Rwanda v Sierra Leone",
+  "to": "2026-09-10T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552912",
+  "tour": "t1552900",
+  "what": "Rwanda v Uganda",
+  "to": "2026-09-11T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552913",
+  "tour": "t1552900",
+  "what": "Botswana v Kenya",
+  "to": "2026-09-11T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552915",
+  "tour": "t1552900",
+  "what": "Botswana v Sierra Leone",
+  "to": "2026-09-12T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552917",
+  "tour": "t1552900",
+  "what": "Rwanda v Botswana",
+  "to": "2026-09-13T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552918",
+  "tour": "t1552900",
+  "what": "Sierra Leone v Uganda",
+  "to": "2026-09-15T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552919",
+  "tour": "t1552900",
+  "what": "Rwanda v Kenya",
+  "to": "2026-09-15T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552920",
+  "tour": "t1552900",
+  "what": "Botswana v Uganda",
+  "to": "2026-09-16T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552921",
+  "tour": "t1552900",
+  "what": "Rwanda v Sierra Leone",
+  "to": "2026-09-16T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552922",
+  "tour": "t1552900",
+  "what": "Rwanda v Uganda",
+  "to": "2026-09-17T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552923",
+  "tour": "t1552900",
+  "what": "Botswana v Kenya",
+  "to": "2026-09-17T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552925",
+  "tour": "t1552900",
+  "what": "Botswana v Sierra Leone",
+  "to": "2026-09-18T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552926",
+  "tour": "t1552900",
+  "what": "Kenya v Uganda",
+  "to": "2026-09-19T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1537349",
+  "tour": "lpl",
+  "what": "Colombo Kaps v Galle Gallants",
+  "to": "2026-08-01T14:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1537350",
+  "tour": "lpl",
+  "what": "Dambulla Sixers v Jaffna Kings",
+  "to": "2026-08-02T14:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1537351",
+  "tour": "lpl",
+  "what": "Galle Gallants v Jaffna Kings",
+  "to": "2026-08-05T09:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1537353",
+  "tour": "lpl",
+  "what": "Colombo Kaps v Galle Gallants",
+  "to": "2026-08-07T14:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554583",
+  "tour": "t1554562",
+  "what": "Nigeria v Ghana",
+  "to": "2026-09-21T13:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554585",
+  "tour": "t1554562",
+  "what": "Ghana v Sierra Leone",
+  "to": "2026-09-22T09:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554587",
+  "tour": "t1554562",
+  "what": "Nigeria v Sierra Leone",
+  "to": "2026-09-23T09:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554589",
+  "tour": "t1554562",
+  "what": "Ghana v Sierra Leone",
+  "to": "2026-09-25T09:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547404",
+  "tour": "t8832",
+  "what": "Ace Capital Cricket Club v Panadura Sports Club",
+  "to": "2026-08-10T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547407",
+  "tour": "t8832",
+  "what": "Badureliya Sports Club v Bloomfield Cricket and Athletic Club",
+  "to": "2026-08-10T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547405",
+  "tour": "t8832",
+  "what": "Colts Cricket Club v Sinhalese Sports Club",
+  "to": "2026-08-10T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547402",
+  "tour": "t8832",
+  "what": "Kurunegala Youth Cricket Club v Tamil Union Cricket and Athletic Club",
+  "to": "2026-08-10T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547406",
+  "tour": "t8832",
+  "what": "Nondescripts Cricket Club v Burgher Recreation Club",
+  "to": "2026-08-10T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547403",
+  "tour": "t8832",
+  "what": "Nugegoda Sports Welfare Club v Moors Sports Club",
+  "to": "2026-08-10T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547412",
+  "tour": "t8832",
+  "what": "Badureliya Sports Club v Colts Cricket Club",
+  "to": "2026-08-14T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547413",
+  "tour": "t8832",
+  "what": "Bloomfield Cricket and Athletic Club v Nondescripts Cricket Club",
+  "to": "2026-08-14T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547408",
+  "tour": "t8832",
+  "what": "Kurunegala Youth Cricket Club v Colombo Cricket Club",
+  "to": "2026-08-14T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547410",
+  "tour": "t8832",
+  "what": "Panadura Sports Club v Moors Sports Club",
+  "to": "2026-08-14T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547411",
+  "tour": "t8832",
+  "what": "Sinhalese Sports Club v Police Sports Club",
+  "to": "2026-08-14T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547409",
+  "tour": "t8832",
+  "what": "Tamil Union Cricket and Athletic Club v Ace Capital Cricket Club",
+  "to": "2026-08-14T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547417",
+  "tour": "t8832",
+  "what": "Burgher Recreation Club v Police Sports Club",
+  "to": "2026-08-18T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547414",
+  "tour": "t8832",
+  "what": "Colombo Cricket Club v Nugegoda Sports Welfare Club",
+  "to": "2026-08-18T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547419",
+  "tour": "t8832",
+  "what": "Colts Cricket Club v Nondescripts Cricket Club",
+  "to": "2026-08-18T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547415",
+  "tour": "t8832",
+  "what": "Kurunegala Youth Cricket Club v Ace Capital Cricket Club",
+  "to": "2026-08-18T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547418",
+  "tour": "t8832",
+  "what": "Sinhalese Sports Club v Badureliya Sports Club",
+  "to": "2026-08-18T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547416",
+  "tour": "t8832",
+  "what": "Tamil Union Cricket and Athletic Club v Moors Sports Club",
+  "to": "2026-08-18T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547420",
+  "tour": "t8832",
+  "what": "Ace Capital Cricket Club v Colombo Cricket Club",
+  "to": "2026-08-21T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547421",
+  "tour": "t8832",
+  "what": "Nugegoda Sports Welfare Club v Panadura Sports Club",
+  "to": "2026-08-21T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547424",
+  "tour": "t8832",
+  "what": "Burgher Recreation Club v Bloomfield Cricket and Athletic Club",
+  "to": "2026-08-22T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547422",
+  "tour": "t8832",
+  "what": "Moors Sports Club v Kurunegala Youth Cricket Club",
+  "to": "2026-08-22T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547425",
+  "tour": "t8832",
+  "what": "Nondescripts Cricket Club v Sinhalese Sports Club",
+  "to": "2026-08-22T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547423",
+  "tour": "t8832",
+  "what": "Police Sports Club v Badureliya Sports Club",
+  "to": "2026-08-22T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547426",
+  "tour": "t8832",
+  "what": "Nugegoda Sports Welfare Club v Kurunegala Youth Cricket Club",
+  "to": "2026-08-25T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547430",
+  "tour": "t8832",
+  "what": "Bloomfield Cricket and Athletic Club v Colts Cricket Club",
+  "to": "2026-08-26T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547427",
+  "tour": "t8832",
+  "what": "Moors Sports Club v Colombo Cricket Club",
+  "to": "2026-08-26T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547429",
+  "tour": "t8832",
+  "what": "Nondescripts Cricket Club v Police Sports Club",
+  "to": "2026-08-26T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547428",
+  "tour": "t8832",
+  "what": "Panadura Sports Club v Tamil Union Cricket and Athletic Club",
+  "to": "2026-08-26T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547431",
+  "tour": "t8832",
+  "what": "Sinhalese Sports Club v Burgher Recreation Club",
+  "to": "2026-08-26T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547436",
+  "tour": "t8832",
+  "what": "Badureliya Sports Club v Nondescripts Cricket Club",
+  "to": "2026-08-30T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547437",
+  "tour": "t8832",
+  "what": "Colts Cricket Club v Burgher Recreation Club",
+  "to": "2026-08-30T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547433",
+  "tour": "t8832",
+  "what": "Moors Sports Club v Ace Capital Cricket Club",
+  "to": "2026-08-30T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547435",
+  "tour": "t8832",
+  "what": "Police Sports Club v Bloomfield Cricket and Athletic Club",
+  "to": "2026-08-30T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547434",
+  "tour": "t8832",
+  "what": "Tamil Union Cricket and Athletic Club v Nugegoda Sports Welfare Club",
+  "to": "2026-08-30T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547432",
+  "tour": "t8832",
+  "what": "Colombo Cricket Club v Panadura Sports Club",
+  "to": "2026-08-31T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547440",
+  "tour": "t8832",
+  "what": "Ace Capital Cricket Club v Nugegoda Sports Welfare Club",
+  "to": "2026-09-03T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547442",
+  "tour": "t8832",
+  "what": "Bloomfield Cricket and Athletic Club v Sinhalese Sports Club",
+  "to": "2026-09-03T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547443",
+  "tour": "t8832",
+  "what": "Burgher Recreation Club v Badureliya Sports Club",
+  "to": "2026-09-03T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547438",
+  "tour": "t8832",
+  "what": "Colombo Cricket Club v Tamil Union Cricket and Athletic Club",
+  "to": "2026-09-03T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547439",
+  "tour": "t8832",
+  "what": "Panadura Sports Club v Kurunegala Youth Cricket Club",
+  "to": "2026-09-03T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547441",
+  "tour": "t8832",
+  "what": "Police Sports Club v Colts Cricket Club",
+  "to": "2026-09-03T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547444",
+  "tour": "t8832",
+  "what": "Colombo Cricket Club v Sinhalese Sports Club",
+  "to": "2026-09-07T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547445",
+  "tour": "t8832",
+  "what": "Moors Sports Club v Colts Cricket Club",
+  "to": "2026-09-07T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547446",
+  "tour": "t8832",
+  "what": "Moors Sports Club v Sinhalese Sports Club",
+  "to": "2026-09-11T09:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1513504",
+  "tour": "t8335",
+  "what": "Nottinghamshire v Northamptonshire",
+  "to": "2026-08-07T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535515",
+  "tour": "slt20",
+  "what": "Burgher Recreation Club v Police Sports Club",
+  "to": "2026-08-12T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535514",
+  "tour": "slt20",
+  "what": "Tamil Union Cricket and Athletic Club v Kurunegala Youth Cricket Club",
+  "to": "2026-08-12T08:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535518",
+  "tour": "slt20",
+  "what": "Colombo Cricket Club v Tamil Union Cricket and Athletic Club",
+  "to": "2026-08-16T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535522",
+  "tour": "slt20",
+  "what": "Nondescripts Cricket Club v Badureliya Sports Club",
+  "to": "2026-08-16T08:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535520",
+  "tour": "slt20",
+  "what": "Nugegoda Sports Welfare Club v Burgher Recreation Club",
+  "to": "2026-08-17T08:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535529",
+  "tour": "slt20",
+  "what": "Sinhalese Sports Club v Badureliya Sports Club",
+  "to": "2026-08-20T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535528",
+  "tour": "slt20",
+  "what": "Police Sports Club v Kurunegala Youth Cricket Club",
+  "to": "2026-08-20T08:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535535",
+  "tour": "slt20",
+  "what": "Badureliya Sports Club v Ace Capital Cricket Club",
+  "to": "2026-08-24T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535532",
+  "tour": "slt20",
+  "what": "Police Sports Club v Tamil Union Cricket and Athletic Club",
+  "to": "2026-08-24T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535534",
+  "tour": "slt20",
+  "what": "Kurunegala Youth Cricket Club v Nugegoda Sports Welfare Club",
+  "to": "2026-08-24T08:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535496",
+  "tour": "slt20",
+  "what": "Burgher Recreation Club v Kurunegala Youth Cricket Club",
+  "to": "2026-08-28T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535494",
+  "tour": "slt20",
+  "what": "Moors Sports Club v Police Sports Club",
+  "to": "2026-08-28T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535498",
+  "tour": "slt20",
+  "what": "Nugegoda Sports Welfare Club v Tamil Union Cricket and Athletic Club",
+  "to": "2026-08-28T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535497",
+  "tour": "slt20",
+  "what": "Badureliya Sports Club v Colts Cricket Club",
+  "to": "2026-08-28T08:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535502",
+  "tour": "slt20",
+  "what": "Moors Sports Club v Nugegoda Sports Welfare Club",
+  "to": "2026-09-01T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535500",
+  "tour": "slt20",
+  "what": "Panadura Sports Club v Sinhalese Sports Club",
+  "to": "2026-09-01T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535504",
+  "tour": "slt20",
+  "what": "Tamil Union Cricket and Athletic Club v Burgher Recreation Club",
+  "to": "2026-09-01T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535505",
+  "tour": "slt20",
+  "what": "Bloomfield Cricket and Athletic Club v Colts Cricket Club",
+  "to": "2026-09-01T08:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535501",
+  "tour": "slt20",
+  "what": "Police Sports Club v Colombo Cricket Club",
+  "to": "2026-09-01T08:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535511",
+  "tour": "slt20",
+  "what": "Colts Cricket Club v Nondescripts Cricket Club",
+  "to": "2026-09-05T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535506",
+  "tour": "slt20",
+  "what": "Kurunegala Youth Cricket Club v Colombo Cricket Club",
+  "to": "2026-09-05T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535509",
+  "tour": "slt20",
+  "what": "Sinhalese Sports Club v Ace Capital Cricket Club",
+  "to": "2026-09-05T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535508",
+  "tour": "slt20",
+  "what": "Nugegoda Sports Welfare Club v Police Sports Club",
+  "to": "2026-09-05T08:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535536",
+  "tour": "slt20",
+  "what": "Tamil Union Cricket and Athletic Club v Panadura Sports Club",
+  "to": "2026-09-09T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535538",
+  "tour": "slt20",
+  "what": "Moors Sports Club v Nondescripts Cricket Club",
+  "to": "2026-09-09T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535537",
+  "tour": "slt20",
+  "what": "Sinhalese Sports Club v Police Sports Club",
+  "to": "2026-09-09T08:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535539",
+  "tour": "slt20",
+  "what": "Ace Capital Cricket Club v Colombo Cricket Club",
+  "to": "2026-09-09T08:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534399",
+  "tour": "t8859",
+  "what": "Derbyshire 2nd XI v Northamptonshire 2nd XI",
+  "to": "2026-08-17T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534400",
+  "tour": "t8859",
+  "what": "Glamorgan 2nd XI v Essex 2nd XI",
+  "to": "2026-08-17T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534403",
+  "tour": "t8859",
+  "what": "Gloucestershire 2nd XI v Durham 2nd XI",
+  "to": "2026-08-18T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534404",
+  "tour": "t8859",
+  "what": "Leicestershire 2nd XI v Hampshire 2nd XI",
+  "to": "2026-08-18T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534401",
+  "tour": "t8859",
+  "what": "Middlesex 2nd XI v Sussex 2nd XI",
+  "to": "2026-08-18T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534405",
+  "tour": "t8859",
+  "what": "Nottinghamshire 2nd XI v Somerset 2nd XI",
+  "to": "2026-08-18T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534406",
+  "tour": "t8859",
+  "what": "Surrey 2nd XI v Kent 2nd XI",
+  "to": "2026-08-18T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534408",
+  "tour": "t8859",
+  "what": "Durham 2nd XI v Nottinghamshire 2nd XI",
+  "to": "2026-08-24T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534409",
+  "tour": "t8859",
+  "what": "Essex 2nd XI v Hampshire 2nd XI",
+  "to": "2026-08-24T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534410",
+  "tour": "t8859",
+  "what": "Kent 2nd XI v Gloucestershire 2nd XI",
+  "to": "2026-08-24T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534412",
+  "tour": "t8859",
+  "what": "Sussex 2nd XI v Warwickshire 2nd XI",
+  "to": "2026-08-24T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534413",
+  "tour": "t8859",
+  "what": "Somerset 2nd XI v Surrey 2nd XI",
+  "to": "2026-08-25T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534416",
+  "tour": "t8859",
+  "what": "Essex 2nd XI v Worcestershire 2nd XI",
+  "to": "2026-08-31T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534417",
+  "tour": "t8859",
+  "what": "Northamptonshire 2nd XI v Middlesex 2nd XI",
+  "to": "2026-08-31T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534418",
+  "tour": "t8859",
+  "what": "Warwickshire 2nd XI v Derbyshire 2nd XI",
+  "to": "2026-08-31T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534415",
+  "tour": "t8859",
+  "what": "Durham 2nd XI v Somerset 2nd XI",
+  "to": "2026-09-01T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534419",
+  "tour": "t8859",
+  "what": "Glamorgan 2nd XI v Hampshire 2nd XI",
+  "to": "2026-09-01T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1534420",
+  "tour": "t8859",
+  "what": "Gloucestershire 2nd XI v Surrey 2nd XI",
+  "to": "2026-09-01T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513499",
+  "tour": "t8335",
+  "what": "Surrey v Kent",
+  "from": "2026-08-05T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513505",
+  "tour": "t8335",
+  "what": "Somerset v Surrey",
+  "from": "2026-08-07T13:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513511",
+  "tour": "t8335",
+  "what": "Gloucestershire v Nottinghamshire",
+  "from": "2026-08-09T10:00:00Z"
  }
 ]
