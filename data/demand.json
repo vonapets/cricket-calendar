@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-30T19:27:06Z",
+ "generated_at": "2026-10-31T02:48:37Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
- "observed_to": "2026-10-30",
+ "observed_to": "2026-10-31",
  "totals": {
-  "events": 2344,
-  "volume": 90097017,
+  "events": 2354,
+  "volume": 90108970,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 237,
-   "traded": 129,
-   "median": 7810,
+   "matches": 238,
+   "traded": 130,
+   "median": 7680,
    "p75": 18696,
    "best": 74063,
-   "total": 1877971,
+   "total": 1883353,
    "outright": 2629062,
    "india_pct": 6,
    "name": "Domestic / minor",
@@ -61,7 +61,7 @@
    "median": 66652,
    "p75": 148238,
    "best": 148238,
-   "total": 264763,
+   "total": 264817,
    "outright": 17918,
    "india_pct": 27,
    "name": "ICC ODI World Cup",
@@ -77,7 +77,7 @@
    "median": 63090,
    "p75": 116228,
    "best": 350589,
-   "total": 6979875,
+   "total": 6984216,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -102,12 +102,12 @@
    ]
   },
   "India bilateral": {
-   "matches": 30,
+   "matches": 32,
    "traded": 25,
    "median": 270700,
    "p75": 402067,
    "best": 788605,
-   "total": 7101600,
+   "total": 7102067,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -144,11 +144,11 @@
   },
   "Big Bash League": {
    "matches": 51,
-   "traded": 47,
-   "median": 81644,
+   "traded": 48,
+   "median": 80795,
    "p75": 96310,
    "best": 235436,
-   "total": 3698682,
+   "total": 3700292,
    "outright": 0,
    "india_pct": 0,
    "name": "Big Bash League",
@@ -291,7 +291,7 @@
  },
  "teams": {
   "india": {
-   "n": 27,
+   "n": 28,
    "traded": 24,
    "median": 280301,
    "best": 788605
@@ -327,7 +327,7 @@
    "best": 145759
   },
   "new zealand": {
-   "n": 32,
+   "n": 33,
    "traded": 20,
    "median": 90813,
    "best": 788605
@@ -413,7 +413,7 @@
  },
  "pairs": {
   "india|new zealand": {
-   "n": 10,
+   "n": 11,
    "traded": 8,
    "median": 407869,
    "best": 788605
@@ -499,8 +499,8 @@
   "bangladesh|west indies": {
    "n": 2,
    "traded": 1,
-   "median": 29918,
-   "best": 29918
+   "median": 30264,
+   "best": 30264
   },
   "afghanistan|sri lanka": {
    "n": 7,
@@ -530,7 +530,7 @@
    "n": 2,
    "traded": 0,
    "median": 0,
-   "best": 212
+   "best": 217
   }
  }
 }
