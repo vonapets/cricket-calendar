@@ -806,5 +806,13 @@
   "short": "Hong Kong International Cricket Sixes",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24841": {
+  "id": "24841",
+  "key": "t24841",
+  "name": "England Lions tour of West Indies 2026/27",
+  "short": "England Lions in West Indies 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
