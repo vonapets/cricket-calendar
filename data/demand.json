@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-31T18:42:28Z",
+ "generated_at": "2026-11-01T02:42:49Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-10-31",
  "totals": {
-  "events": 2333,
-  "volume": 89977583,
+  "events": 2344,
+  "volume": 89970818,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 236,
-   "traded": 130,
-   "median": 7680,
+   "matches": 240,
+   "traded": 129,
+   "median": 7810,
    "p75": 18696,
    "best": 74063,
-   "total": 1885412,
+   "total": 1878518,
    "outright": 2629062,
    "india_pct": 6,
    "name": "Domestic / minor",
@@ -77,7 +77,7 @@
    "median": 63557,
    "p75": 116228,
    "best": 350589,
-   "total": 6841223,
+   "total": 6841417,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -107,7 +107,7 @@
    "median": 258866,
    "p75": 402067,
    "best": 788605,
-   "total": 7112787,
+   "total": 7112963,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -115,12 +115,12 @@
    "not": []
   },
   "Sheffield Shield": {
-   "matches": 11,
+   "matches": 10,
    "traded": 5,
    "median": 10478,
    "p75": 10763,
    "best": 11735,
-   "total": 46042,
+   "total": 46021,
    "outright": 0,
    "india_pct": 0,
    "name": "Sheffield Shield",
@@ -148,7 +148,7 @@
    "median": 80795,
    "p75": 96310,
    "best": 235436,
-   "total": 3701991,
+   "total": 3702305,
    "outright": 0,
    "india_pct": 0,
    "name": "Big Bash League",
@@ -524,7 +524,7 @@
    "n": 2,
    "traded": 0,
    "median": 0,
-   "best": 224
+   "best": 249
   }
  }
 }
