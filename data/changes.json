@@ -1,429 +1,261 @@
 [
  {
   "kind": "added",
-  "id": "1528551",
-  "tour": "t24263",
-  "what": "Ireland v Afghanistan",
-  "to": "2026-08-07T09:45:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552912",
-  "tour": "t1552900",
-  "what": "Rwanda v Uganda",
-  "to": "2026-09-11T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552913",
-  "tour": "t1552900",
-  "what": "Botswana v Kenya",
-  "to": "2026-09-11T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552923",
-  "tour": "t1552900",
-  "what": "Botswana v Kenya",
-  "to": "2026-09-17T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547410",
-  "tour": "t8832",
-  "what": "Panadura Sports Club v Moors Sports Club",
-  "to": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513490",
-  "tour": "t8335",
-  "what": "Derbyshire v Sussex",
-  "to": "2026-08-02T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513491",
-  "tour": "t8335",
-  "what": "Essex v Worcestershire",
-  "to": "2026-08-02T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513494",
-  "tour": "t8335",
-  "what": "Leicestershire v Somerset",
-  "to": "2026-08-02T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513501",
-  "tour": "t8335",
-  "what": "Glamorgan v Essex",
-  "to": "2026-08-07T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513504",
-  "tour": "t8335",
-  "what": "Nottinghamshire v Northamptonshire",
-  "to": "2026-08-07T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513507",
-  "tour": "t8335",
-  "what": "Yorkshire v Derbyshire",
-  "to": "2026-08-07T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513500",
-  "tour": "t8335",
-  "what": "Durham v Middlesex",
-  "to": "2026-08-07T12:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513503",
-  "tour": "t8335",
-  "what": "Leicestershire v Warwickshire",
-  "to": "2026-08-07T13:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513510",
-  "tour": "t8335",
-  "what": "Glamorgan v Worcestershire",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513511",
-  "tour": "t8335",
-  "what": "Gloucestershire v Nottinghamshire",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513512",
-  "tour": "t8335",
-  "what": "Kent v Leicestershire",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513514",
-  "tour": "t8335",
-  "what": "Sussex v Hampshire",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513515",
-  "tour": "t8335",
-  "what": "Warwickshire v Lancashire",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513516",
-  "tour": "t8335",
-  "what": "Essex v Yorkshire",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513518",
-  "tour": "t8335",
-  "what": "Hampshire v Derbyshire",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513519",
-  "tour": "t8335",
-  "what": "Middlesex v Sussex",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513521",
-  "tour": "t8335",
-  "what": "Surrey v Nottinghamshire",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513522",
-  "tour": "t8335",
-  "what": "Warwickshire v Kent",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513523",
-  "tour": "t8335",
-  "what": "Worcestershire v Durham",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513524",
-  "tour": "t8335",
-  "what": "Lancashire v Durham",
-  "to": "2026-08-14T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513525",
-  "tour": "t8335",
-  "what": "Yorkshire v Nottinghamshire",
-  "to": "2026-08-14T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513526",
-  "tour": "t8335",
-  "what": "Leicestershire v Nottinghamshire",
-  "to": "2026-08-16T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534399",
-  "tour": "t8859",
-  "what": "Derbyshire 2nd XI v Northamptonshire 2nd XI",
-  "to": "2026-08-17T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534400",
-  "tour": "t8859",
-  "what": "Glamorgan 2nd XI v Essex 2nd XI",
-  "to": "2026-08-17T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534402",
-  "tour": "t8859",
-  "what": "Warwickshire 2nd XI v Lancashire 2nd XI",
-  "to": "2026-08-17T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534403",
-  "tour": "t8859",
-  "what": "Gloucestershire 2nd XI v Durham 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534404",
-  "tour": "t8859",
-  "what": "Leicestershire 2nd XI v Hampshire 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534401",
-  "tour": "t8859",
-  "what": "Middlesex 2nd XI v Sussex 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534405",
-  "tour": "t8859",
-  "what": "Nottinghamshire 2nd XI v Somerset 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534406",
-  "tour": "t8859",
-  "what": "Surrey 2nd XI v Kent 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534407",
-  "tour": "t8859",
-  "what": "Derbyshire 2nd XI v Middlesex 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534408",
-  "tour": "t8859",
-  "what": "Durham 2nd XI v Nottinghamshire 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534409",
-  "tour": "t8859",
-  "what": "Essex 2nd XI v Hampshire 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534410",
-  "tour": "t8859",
-  "what": "Kent 2nd XI v Gloucestershire 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534411",
-  "tour": "t8859",
-  "what": "Leicestershire 2nd XI v Glamorgan 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534412",
-  "tour": "t8859",
-  "what": "Sussex 2nd XI v Warwickshire 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534413",
-  "tour": "t8859",
-  "what": "Somerset 2nd XI v Surrey 2nd XI",
-  "to": "2026-08-25T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534414",
-  "tour": "t8859",
-  "what": "Worcestershire 2nd XI v Yorkshire 2nd XI",
-  "to": "2026-08-25T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534416",
-  "tour": "t8859",
-  "what": "Essex 2nd XI v Worcestershire 2nd XI",
-  "to": "2026-08-31T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534417",
-  "tour": "t8859",
-  "what": "Northamptonshire 2nd XI v Middlesex 2nd XI",
-  "to": "2026-08-31T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534418",
-  "tour": "t8859",
-  "what": "Warwickshire 2nd XI v Derbyshire 2nd XI",
-  "to": "2026-08-31T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534415",
-  "tour": "t8859",
-  "what": "Durham 2nd XI v Somerset 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534419",
-  "tour": "t8859",
-  "what": "Glamorgan 2nd XI v Hampshire 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534420",
-  "tour": "t8859",
-  "what": "Gloucestershire 2nd XI v Surrey 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534421",
-  "tour": "t8859",
-  "what": "Nottinghamshire 2nd XI v Kent 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534422",
-  "tour": "t8859",
-  "what": "Sussex 2nd XI v Lancashire 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534423",
-  "tour": "t8859",
-  "what": "Yorkshire 2nd XI v Leicestershire 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534424",
-  "tour": "t8859",
-  "what": "TBA v TBA",
-  "to": "2026-09-08T10:00:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1528553",
   "tour": "t24263",
   "what": "Ireland v Afghanistan",
-  "from": "2026-08-12T09:45:00Z"
+  "to": "2026-08-12T09:45:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1549972",
   "tour": "t24688",
   "what": "Scotland Women v Netherlands Women",
-  "from": "2026-08-28T10:00:00Z"
+  "to": "2026-08-28T10:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1549973",
   "tour": "t24688",
   "what": "Scotland Women v Netherlands Women",
-  "from": "2026-08-30T10:00:00Z"
+  "to": "2026-08-30T10:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1549974",
   "tour": "t24688",
   "what": "Scotland Women v Netherlands Women",
-  "from": "2026-09-01T10:00:00Z"
+  "to": "2026-09-01T10:00:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1551823",
-  "tour": "t20676",
-  "what": "Limpopo v South Western Districts",
-  "from": "2027-03-07T08:00:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551692",
   "tour": "t21185",
   "what": "Titans v North West",
-  "from": "2027-04-03T08:00:00Z"
+  "to": "2027-04-03T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551690",
   "tour": "t21185",
   "what": "Warriors v Boland",
-  "from": "2027-04-03T08:00:00Z"
+  "to": "2027-04-03T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551694",
   "tour": "t21185",
   "what": "Western Province v Lions",
-  "from": "2027-04-10T08:00:00Z"
+  "to": "2027-04-10T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551823",
+  "tour": "t20676",
+  "what": "Limpopo v South Western Districts",
+  "to": "2027-03-07T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561015",
+  "tour": "t1561011",
+  "what": "Faisalabad Region v Peshawar Region Blues",
+  "to": "2026-11-03T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561017",
+  "tour": "t1561011",
+  "what": "Islamabad Region v Multan Region",
+  "to": "2026-11-03T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561014",
+  "tour": "t1561011",
+  "what": "Karachi Region Blues v Sialkot Region Blues",
+  "to": "2026-11-03T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561016",
+  "tour": "t1561011",
+  "what": "Lahore Region Whites v Federally Administered Tribal Areas",
+  "to": "2026-11-03T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561021",
+  "tour": "t1561011",
+  "what": "Federally Administered Tribal Areas v Peshawar Region Blues",
+  "to": "2026-11-09T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561020",
+  "tour": "t1561011",
+  "what": "Islamabad Region v Lahore Region Whites",
+  "to": "2026-11-09T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561018",
+  "tour": "t1561011",
+  "what": "Karachi Region Blues v Multan Region",
+  "to": "2026-11-09T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561019",
+  "tour": "t1561011",
+  "what": "Sialkot Region Blues v Faisalabad Region",
+  "to": "2026-11-09T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561022",
+  "tour": "t1561011",
+  "what": "Islamabad Region v Karachi Region Blues",
+  "to": "2026-11-15T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561025",
+  "tour": "t1561011",
+  "what": "Lahore Region Whites v Peshawar Region Blues",
+  "to": "2026-11-15T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561024",
+  "tour": "t1561011",
+  "what": "Multan Region v Faisalabad Region",
+  "to": "2026-11-15T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561023",
+  "tour": "t1561011",
+  "what": "Sialkot Region Blues v Federally Administered Tribal Areas",
+  "to": "2026-11-15T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561026",
+  "tour": "t1561011",
+  "what": "Faisalabad Region v Karachi Region Blues",
+  "to": "2026-11-21T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561029",
+  "tour": "t1561011",
+  "what": "Federally Administered Tribal Areas v Islamabad Region",
+  "to": "2026-11-21T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561028",
+  "tour": "t1561011",
+  "what": "Multan Region v Lahore Region Whites",
+  "to": "2026-11-21T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561027",
+  "tour": "t1561011",
+  "what": "Peshawar Region Blues v Sialkot Region Blues",
+  "to": "2026-11-21T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561032",
+  "tour": "t1561011",
+  "what": "Federally Administered Tribal Areas v Faisalabad Region",
+  "to": "2026-11-27T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561030",
+  "tour": "t1561011",
+  "what": "Lahore Region Whites v Karachi Region Blues",
+  "to": "2026-11-27T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561033",
+  "tour": "t1561011",
+  "what": "Multan Region v Peshawar Region Blues",
+  "to": "2026-11-27T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561031",
+  "tour": "t1561011",
+  "what": "Sialkot Region Blues v Islamabad Region",
+  "to": "2026-11-27T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561036",
+  "tour": "t1561011",
+  "what": "Faisalabad Region v Islamabad Region",
+  "to": "2026-12-03T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561034",
+  "tour": "t1561011",
+  "what": "Karachi Region Blues v Peshawar Region Blues",
+  "to": "2026-12-03T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561035",
+  "tour": "t1561011",
+  "what": "Lahore Region Whites v Sialkot Region Blues",
+  "to": "2026-12-03T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561037",
+  "tour": "t1561011",
+  "what": "Multan Region v Federally Administered Tribal Areas",
+  "to": "2026-12-03T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561040",
+  "tour": "t1561011",
+  "what": "Faisalabad Region v Lahore Region Whites",
+  "to": "2026-12-09T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561038",
+  "tour": "t1561011",
+  "what": "Federally Administered Tribal Areas v Karachi Region Blues",
+  "to": "2026-12-09T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561041",
+  "tour": "t1561011",
+  "what": "Peshawar Region Blues v Islamabad Region",
+  "to": "2026-12-09T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561039",
+  "tour": "t1561011",
+  "what": "Sialkot Region Blues v Multan Region",
+  "to": "2026-12-09T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1561042",
+  "tour": "t1561011",
+  "what": "TBA v TBA",
+  "to": "2026-12-15T05:00:00Z"
  }
 ]

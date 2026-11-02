@@ -814,5 +814,13 @@
   "short": "England Lions in West Indies 2026-27",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1561011": {
+  "id": "1561011",
+  "key": "t1561011",
+  "name": "Quaid-e-Azam Trophy Gold 2026/27",
+  "short": "Quaid-e-Azam Troph",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
