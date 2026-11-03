@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-02T22:49:54Z",
+ "generated_at": "2026-11-03T04:06:49Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
- "observed_to": "2026-11-02",
+ "observed_to": "2026-11-03",
  "totals": {
-  "events": 2337,
-  "volume": 89970252,
+  "events": 2370,
+  "volume": 89997296,
   "competitions": 19
  },
  "competitions": {
@@ -16,7 +16,7 @@
    "median": 7810,
    "p75": 18696,
    "best": 74063,
-   "total": 1878594,
+   "total": 1878759,
    "outright": 2629062,
    "india_pct": 6,
    "name": "Domestic / minor",
@@ -41,14 +41,14 @@
    ]
   },
   "Asia Cup": {
-   "matches": 21,
+   "matches": 31,
    "traded": 17,
    "median": 11755,
    "p75": 25486,
    "best": 72678,
    "total": 323708,
    "outright": 366406,
-   "india_pct": 38,
+   "india_pct": 32,
    "name": "Asia Cup",
    "detect": [
     "asia cup"
@@ -102,12 +102,12 @@
    ]
   },
   "India bilateral": {
-   "matches": 31,
+   "matches": 32,
    "traded": 25,
    "median": 270700,
    "p75": 402067,
    "best": 788605,
-   "total": 7111600,
+   "total": 7138248,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -148,7 +148,7 @@
    "median": 81644,
    "p75": 96310,
    "best": 235436,
-   "total": 3698505,
+   "total": 3698532,
    "outright": 0,
    "india_pct": 0,
    "name": "Big Bash League",
@@ -291,7 +291,7 @@
  },
  "teams": {
   "india": {
-   "n": 27,
+   "n": 28,
    "traded": 24,
    "median": 280301,
    "best": 788605
@@ -339,7 +339,7 @@
    "best": 284075
   },
   "new zealand": {
-   "n": 32,
+   "n": 33,
    "traded": 20,
    "median": 90813,
    "best": 788605
@@ -407,7 +407,7 @@
  },
  "pairs": {
   "india|new zealand": {
-   "n": 10,
+   "n": 11,
    "traded": 8,
    "median": 407869,
    "best": 788605

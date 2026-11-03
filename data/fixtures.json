@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T22:49:40Z",
+ "generated_at": "2026-11-03T04:06:30Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -25602,18 +25602,18 @@
    "tour": "t24805",
    "utc": "2026-10-30T22:00:00Z",
    "ts": 1793397600,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "2nd unofficial Test",
    "home": "New Zealand A",
    "away": "India A",
    "home_score": "424",
-   "away_score": "346 & 32/0 (11 ov)",
+   "away_score": "346 & 282/2 (52.4 ov)",
    "venue": "Hagley Oval, Christchurch",
    "city": "Christchurch",
    "country": "New Zealand",
    "format": "Test",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -25651,8 +25651,8 @@
    "round": "9th Match",
    "home": "Queensland",
    "away": "Victoria",
-   "home_score": "280",
-   "away_score": "307 & 136/6 (66 ov)",
+   "home_score": "280 & 32/1 (12 ov, target 201)",
+   "away_score": "307 & 173",
    "venue": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
    "city": "Brisbane",
    "country": "Australia",
@@ -26664,7 +26664,7 @@
    "home": "Assam",
    "away": "Karnataka",
    "home_score": "135",
-   "away_score": "180/2 (36 ov)",
+   "away_score": "218/3 (45 ov)",
    "venue": "Barsapara Cricket Stadium, Guwahati",
    "city": "Guwahati",
    "country": "India",
@@ -26685,8 +26685,8 @@
    "round": "Plate Group",
    "home": "Meghalaya",
    "away": "Nagaland",
-   "home_score": "",
-   "away_score": "244/8 (67 ov)",
+   "home_score": "10/1 (2.3 ov)",
+   "away_score": "254",
    "venue": "Meghalaya Cricket Association Cricket Ground, Shillong",
    "city": "Shillong",
    "country": "India",
@@ -26707,7 +26707,7 @@
    "round": "Elite, Group B",
    "home": "Tripura",
    "away": "Saurashtra",
-   "home_score": "219/7 (74.3 ov)",
+   "home_score": "240/8 (80.5 ov)",
    "away_score": "",
    "venue": "Maharaja Bir Bikram College Stadium, Agartala",
    "city": "Agartala",
@@ -26752,7 +26752,7 @@
    "home": "Odisha",
    "away": "Jharkhand",
    "home_score": "",
-   "away_score": "37/3 (25 ov)",
+   "away_score": "39/3 (27 ov)",
    "venue": "KIIT Stadium, Bhubaneswar",
    "city": "Bhubaneswar",
    "country": "India",
@@ -27164,8 +27164,8 @@
    "tour": "t1559944",
    "utc": "2026-11-03T00:00:00Z",
    "ts": 1793664000,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Final",
+   "status_long": "Final",
    "round": "Final",
    "home": "Toronto Kings",
    "away": "Montreal Warriors",
@@ -27175,7 +27175,7 @@
    "city": "Kingstown",
    "country": "West Indies",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -38380,267 +38380,7 @@
    "india": false
   }
  ],
- "changes": [
-  {
-   "kind": "added",
-   "id": "1528553",
-   "tour": "t24263",
-   "what": "Ireland v Afghanistan",
-   "to": "2026-08-12T09:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1549972",
-   "tour": "t24688",
-   "what": "Scotland Women v Netherlands Women",
-   "to": "2026-08-28T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1549973",
-   "tour": "t24688",
-   "what": "Scotland Women v Netherlands Women",
-   "to": "2026-08-30T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1549974",
-   "tour": "t24688",
-   "what": "Scotland Women v Netherlands Women",
-   "to": "2026-09-01T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551692",
-   "tour": "t21185",
-   "what": "Titans v North West",
-   "to": "2027-04-03T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551690",
-   "tour": "t21185",
-   "what": "Warriors v Boland",
-   "to": "2027-04-03T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551694",
-   "tour": "t21185",
-   "what": "Western Province v Lions",
-   "to": "2027-04-10T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551823",
-   "tour": "t20676",
-   "what": "Limpopo v South Western Districts",
-   "to": "2027-03-07T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561015",
-   "tour": "t1561011",
-   "what": "Faisalabad Region v Peshawar Region Blues",
-   "to": "2026-11-03T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561017",
-   "tour": "t1561011",
-   "what": "Islamabad Region v Multan Region",
-   "to": "2026-11-03T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561014",
-   "tour": "t1561011",
-   "what": "Karachi Region Blues v Sialkot Region Blues",
-   "to": "2026-11-03T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561016",
-   "tour": "t1561011",
-   "what": "Lahore Region Whites v Federally Administered Tribal Areas",
-   "to": "2026-11-03T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561021",
-   "tour": "t1561011",
-   "what": "Federally Administered Tribal Areas v Peshawar Region Blues",
-   "to": "2026-11-09T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561020",
-   "tour": "t1561011",
-   "what": "Islamabad Region v Lahore Region Whites",
-   "to": "2026-11-09T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561018",
-   "tour": "t1561011",
-   "what": "Karachi Region Blues v Multan Region",
-   "to": "2026-11-09T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561019",
-   "tour": "t1561011",
-   "what": "Sialkot Region Blues v Faisalabad Region",
-   "to": "2026-11-09T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561022",
-   "tour": "t1561011",
-   "what": "Islamabad Region v Karachi Region Blues",
-   "to": "2026-11-15T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561025",
-   "tour": "t1561011",
-   "what": "Lahore Region Whites v Peshawar Region Blues",
-   "to": "2026-11-15T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561024",
-   "tour": "t1561011",
-   "what": "Multan Region v Faisalabad Region",
-   "to": "2026-11-15T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561023",
-   "tour": "t1561011",
-   "what": "Sialkot Region Blues v Federally Administered Tribal Areas",
-   "to": "2026-11-15T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561026",
-   "tour": "t1561011",
-   "what": "Faisalabad Region v Karachi Region Blues",
-   "to": "2026-11-21T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561029",
-   "tour": "t1561011",
-   "what": "Federally Administered Tribal Areas v Islamabad Region",
-   "to": "2026-11-21T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561028",
-   "tour": "t1561011",
-   "what": "Multan Region v Lahore Region Whites",
-   "to": "2026-11-21T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561027",
-   "tour": "t1561011",
-   "what": "Peshawar Region Blues v Sialkot Region Blues",
-   "to": "2026-11-21T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561032",
-   "tour": "t1561011",
-   "what": "Federally Administered Tribal Areas v Faisalabad Region",
-   "to": "2026-11-27T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561030",
-   "tour": "t1561011",
-   "what": "Lahore Region Whites v Karachi Region Blues",
-   "to": "2026-11-27T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561033",
-   "tour": "t1561011",
-   "what": "Multan Region v Peshawar Region Blues",
-   "to": "2026-11-27T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561031",
-   "tour": "t1561011",
-   "what": "Sialkot Region Blues v Islamabad Region",
-   "to": "2026-11-27T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561036",
-   "tour": "t1561011",
-   "what": "Faisalabad Region v Islamabad Region",
-   "to": "2026-12-03T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561034",
-   "tour": "t1561011",
-   "what": "Karachi Region Blues v Peshawar Region Blues",
-   "to": "2026-12-03T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561035",
-   "tour": "t1561011",
-   "what": "Lahore Region Whites v Sialkot Region Blues",
-   "to": "2026-12-03T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561037",
-   "tour": "t1561011",
-   "what": "Multan Region v Federally Administered Tribal Areas",
-   "to": "2026-12-03T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561040",
-   "tour": "t1561011",
-   "what": "Faisalabad Region v Lahore Region Whites",
-   "to": "2026-12-09T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561038",
-   "tour": "t1561011",
-   "what": "Federally Administered Tribal Areas v Karachi Region Blues",
-   "to": "2026-12-09T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561041",
-   "tour": "t1561011",
-   "what": "Peshawar Region Blues v Islamabad Region",
-   "to": "2026-12-09T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561039",
-   "tour": "t1561011",
-   "what": "Sialkot Region Blues v Multan Region",
-   "to": "2026-12-09T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561042",
-   "tour": "t1561011",
-   "what": "TBA v TBA",
-   "to": "2026-12-15T05:00:00Z"
-  }
- ],
+ "changes": [],
  "counts": {
   "tournaments": 111,
   "fixtures": 1647,
@@ -38673,8 +38413,8 @@
   {
    "id": "24367",
    "name": "Bangladesh Women tour of Scotland 2026",
-   "matches": 4,
-   "last_seen": "2026-05-30 to 2026-06-04"
+   "matches": 2,
+   "last_seen": "2026-05-31 to 2026-06-04"
   },
   {
    "id": "24233",
