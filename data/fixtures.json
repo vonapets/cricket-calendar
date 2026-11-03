@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T16:23:17Z",
+ "generated_at": "2026-11-03T20:34:34Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -203,7 +203,7 @@
    "color": "#7a8899",
    "start": "2026-08-17",
    "end": "2026-09-08",
-   "matches": 24,
+   "matches": 22,
    "india": false,
    "world": false,
    "formats": [
@@ -4629,50 +4629,6 @@
    "india": false
   },
   {
-   "id": "1534400",
-   "tour": "t8859",
-   "utc": "2026-08-17T10:00:00Z",
-   "ts": 1786960800,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "Group 2",
-   "home": "Glamorgan 2nd XI",
-   "away": "Essex 2nd XI",
-   "home_score": "321/9d & 202/7d",
-   "away_score": "91 & 173 (39 ov, target 433)",
-   "venue": "Pen-y-Pound, Abergavenny",
-   "city": "Abergavenny",
-   "country": "England",
-   "format": "Test",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1534402",
-   "tour": "t8859",
-   "utc": "2026-08-17T10:00:00Z",
-   "ts": 1786960800,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "Group 1",
-   "home": "Warwickshire 2nd XI",
-   "away": "Lancashire 2nd XI",
-   "home_score": "134 & 236 (57 ov) (f/o)",
-   "away_score": "388",
-   "venue": "Edgbaston Foundation Community Sports Ground, Birmingham",
-   "city": "Birmingham",
-   "country": "England",
-   "format": "Test",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1547417",
    "tour": "t8832",
    "utc": "2026-08-18T04:15:00Z",
@@ -4862,6 +4818,28 @@
    "away_score": "213 & 348/4d",
    "venue": "Nottinghamshire Sports Ground, Nottingham",
    "city": "Nottingham",
+   "country": "England",
+   "format": "Test",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1534406",
+   "tour": "t8859",
+   "utc": "2026-08-18T10:00:00Z",
+   "ts": 1787047200,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group 3",
+   "home": "Surrey 2nd XI",
+   "away": "Kent 2nd XI",
+   "home_score": "231 & 82 (23 ov, target 183)",
+   "away_score": "224 & 189",
+   "venue": "New Malden Cricket Club Ground, New Malden",
+   "city": "New Malden",
    "country": "England",
    "format": "Test",
    "note": "Final",
@@ -5808,28 +5786,6 @@
    "away_score": "347 & 56/6 (16.1 ov)",
    "venue": "Belper Meadows Cricket Club Ground, Belper",
    "city": "Belper",
-   "country": "England",
-   "format": "Test",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1534408",
-   "tour": "t8859",
-   "utc": "2026-08-24T10:00:00Z",
-   "ts": 1787565600,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "Group 3",
-   "home": "Durham 2nd XI",
-   "away": "Nottinghamshire 2nd XI",
-   "home_score": "202 & 171 (49.4 ov, target 379)",
-   "away_score": "335 & 245",
-   "venue": "Feethams Cricket Ground, Darlington",
-   "city": "Darlington",
    "country": "England",
    "format": "Test",
    "note": "Final",
@@ -27157,28 +27113,6 @@
    "india": false
   },
   {
-   "id": "1561213",
-   "tour": "t1561006",
-   "utc": "2026-11-03T05:00:00Z",
-   "ts": 1793682000,
-   "status": "Live",
-   "status_long": "Live",
-   "round": "Group B",
-   "home": "Abbottabad Region",
-   "away": "Sialkot Region Whites",
-   "home_score": "",
-   "away_score": "",
-   "venue": "Bahawal Stadium, Bahawalpur",
-   "city": "Bahawalpur",
-   "country": "Pakistan",
-   "format": "Test",
-   "note": "Live",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1561210",
    "tour": "t1561006",
    "utc": "2026-11-03T05:00:00Z",
@@ -27280,6 +27214,28 @@
    "away_score": "",
    "venue": "Multan Cricket Stadium",
    "city": "Multan",
+   "country": "Pakistan",
+   "format": "Test",
+   "note": "Live",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1561213",
+   "tour": "t1561006",
+   "utc": "2026-11-03T05:00:00Z",
+   "ts": 1793682000,
+   "status": "Live",
+   "status_long": "Live",
+   "round": "Group B",
+   "home": "Abbottabad Region",
+   "away": "Sialkot Region Whites",
+   "home_score": "175",
+   "away_score": "108/2 (32.3 ov)",
+   "venue": "Bahawal Stadium, Bahawalpur",
+   "city": "Bahawalpur",
    "country": "Pakistan",
    "format": "Test",
    "note": "Live",
@@ -27425,8 +27381,8 @@
    "tour": "t8656",
    "utc": "2026-11-03T16:00:00Z",
    "ts": 1793721600,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "Super Eights",
    "home": "Dolphins",
    "away": "Western Province",
@@ -27436,7 +27392,7 @@
    "city": "Durban",
    "country": "South Africa",
    "format": "T20",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -27447,18 +27403,18 @@
    "tour": "t24841",
    "utc": "2026-11-03T17:00:00Z",
    "ts": 1793725200,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "2nd unofficial T20I",
    "home": "West Indies A",
    "away": "England Lions",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "116/6 (18/20 ov, target 152)",
+   "away_score": "151",
    "venue": "Conaree Sports Club, Basseterre, St Kitts",
    "city": "Basseterre",
    "country": "West Indies",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -27557,8 +27513,8 @@
    "tour": "t24707",
    "utc": "2026-11-04T04:30:00Z",
    "ts": 1793766600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "Tour Match",
    "home": "Pakistan Cricket Board Patron's XI",
    "away": "Sri Lanka",
@@ -27568,7 +27524,7 @@
    "city": "Islamabad",
    "country": "Pakistan",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": true,
    "disrupted": false,
    "finished": false,
@@ -39040,244 +38996,41 @@
  "changes": [
   {
    "kind": "added",
-   "id": "1561213",
-   "tour": "t1561006",
-   "what": "Abbottabad Region v Sialkot Region Whites",
-   "to": "2026-11-03T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561210",
-   "tour": "t1561006",
-   "what": "Bahawalpur Region v Peshawar Region Whites",
-   "to": "2026-11-03T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561212",
-   "tour": "t1561006",
-   "what": "Dera Murad Jamali Region v Hyderabad Region",
-   "to": "2026-11-03T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561208",
-   "tour": "t1561006",
-   "what": "Lahore Region Blues v Rawalpindi Region",
-   "to": "2026-11-03T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561209",
-   "tour": "t1561006",
-   "what": "Larkana Region v Quetta Region",
-   "to": "2026-11-03T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561211",
-   "tour": "t1561006",
-   "what": "Pakistan-administered Kashmir Region v Karachi Region Whites",
-   "to": "2026-11-03T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561217",
-   "tour": "t1561006",
-   "what": "Abbottabad Region v Dera Murad Jamali Region",
-   "to": "2026-11-09T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561214",
-   "tour": "t1561006",
-   "what": "Bahawalpur Region v Quetta Region",
-   "to": "2026-11-09T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561218",
-   "tour": "t1561006",
-   "what": "Karachi Region Whites v Sialkot Region Whites",
-   "to": "2026-11-09T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561215",
-   "tour": "t1561006",
-   "what": "Lahore Region Blues v Peshawar Region Whites",
-   "to": "2026-11-09T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561216",
-   "tour": "t1561006",
-   "what": "Larkana Region v Rawalpindi Region",
-   "to": "2026-11-09T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561219",
-   "tour": "t1561006",
-   "what": "Pakistan-administered Kashmir Region v Hyderabad Region",
-   "to": "2026-11-09T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561223",
-   "tour": "t1561006",
-   "what": "Abbottabad Region v Hyderabad Region",
-   "to": "2026-11-15T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561220",
-   "tour": "t1561006",
-   "what": "Bahawalpur Region v Larkana Region",
-   "to": "2026-11-15T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561225",
-   "tour": "t1561006",
-   "what": "Dera Murad Jamali Region v Karachi Region Whites",
-   "to": "2026-11-15T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561222",
-   "tour": "t1561006",
-   "what": "Lahore Region Blues v Quetta Region",
-   "to": "2026-11-15T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561224",
-   "tour": "t1561006",
-   "what": "Pakistan-administered Kashmir Region v Sialkot Region Whites",
-   "to": "2026-11-15T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561221",
-   "tour": "t1561006",
-   "what": "Peshawar Region Whites v Rawalpindi Region",
-   "to": "2026-11-15T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561230",
-   "tour": "t1561006",
-   "what": "Abbottabad Region v Karachi Region Whites",
-   "to": "2026-11-21T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561227",
-   "tour": "t1561006",
-   "what": "Bahawalpur Region v Lahore Region Blues",
-   "to": "2026-11-21T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561229",
-   "tour": "t1561006",
-   "what": "Hyderabad Region v Sialkot Region Whites",
-   "to": "2026-11-21T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561226",
-   "tour": "t1561006",
-   "what": "Larkana Region v Peshawar Region Whites",
-   "to": "2026-11-21T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561231",
-   "tour": "t1561006",
-   "what": "Pakistan-administered Kashmir Region v Dera Murad Jamali Region",
-   "to": "2026-11-21T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561228",
-   "tour": "t1561006",
-   "what": "Quetta Region v Rawalpindi Region",
-   "to": "2026-11-21T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561236",
-   "tour": "t1561006",
-   "what": "Abbottabad Region v Pakistan-administered Kashmir Region",
-   "to": "2026-11-27T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561233",
-   "tour": "t1561006",
-   "what": "Bahawalpur Region v Rawalpindi Region",
-   "to": "2026-11-27T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561237",
-   "tour": "t1561006",
-   "what": "Dera Murad Jamali Region v Sialkot Region Whites",
-   "to": "2026-11-27T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561235",
-   "tour": "t1561006",
-   "what": "Hyderabad Region v Karachi Region Whites",
-   "to": "2026-11-27T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561232",
-   "tour": "t1561006",
-   "what": "Lahore Region Blues v Larkana Region",
-   "to": "2026-11-27T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561234",
-   "tour": "t1561006",
-   "what": "Peshawar Region Whites v Quetta Region",
-   "to": "2026-11-27T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561238",
-   "tour": "t1561006",
-   "what": "TBA v TBA",
-   "to": "2026-12-03T05:00:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1534401",
-   "tour": "t8859",
-   "what": "Middlesex 2nd XI v Sussex 2nd XI",
-   "from": "2026-08-18T10:00:00Z"
-  },
-  {
-   "kind": "dropped",
    "id": "1534406",
    "tour": "t8859",
    "what": "Surrey 2nd XI v Kent 2nd XI",
-   "from": "2026-08-18T10:00:00Z"
+   "to": "2026-08-18T10:00:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1534400",
+   "tour": "t8859",
+   "what": "Glamorgan 2nd XI v Essex 2nd XI",
+   "from": "2026-08-17T10:00:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1534402",
+   "tour": "t8859",
+   "what": "Warwickshire 2nd XI v Lancashire 2nd XI",
+   "from": "2026-08-17T10:00:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1534408",
+   "tour": "t8859",
+   "what": "Durham 2nd XI v Nottinghamshire 2nd XI",
+   "from": "2026-08-24T10:00:00Z"
   }
  ],
  "counts": {
   "tournaments": 112,
-  "fixtures": 1676,
+  "fixtures": 1674,
   "india": 53,
   "major": 41,
   "projected": 9,
   "projected_matches": 261,
-  "failures": 0
+  "failures": 1
  },
  "projection_horizon": "2027-03-31",
  "unpublished": [
@@ -39378,12 +39131,6 @@
    "last_seen": "2026-05-28 to 2026-07-15"
   },
   {
-   "id": "24356",
-   "name": "Zimbabwe Women tour of Pakistan 2026",
-   "matches": 6,
-   "last_seen": "2026-05-04 to 2026-05-15"
-  },
-  {
    "id": "8604",
    "name": "ICC Men's T20 World Cup",
    "matches": 55,
@@ -39402,6 +39149,8 @@
    "last_seen": "2026-06-18 to 2026-06-23"
   }
  ],
- "failures": [],
+ "failures": [
+  "Zimbabwe Women tour of Pakistan 2026 2026: giving up on https://site.api.espn.com/apis/site/v2/sports/cricket/24356/scoreboard?dates=2026: HTTP Error 502: Bad Gateway"
+ ],
  "warnings": []
 }

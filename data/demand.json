@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-11-03T16:23:33Z",
+ "generated_at": "2026-11-03T20:34:52Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-11-03",
  "totals": {
-  "events": 2383,
-  "volume": 89992968,
+  "events": 2387,
+  "volume": 89987489,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 238,
-   "traded": 130,
-   "median": 7817,
-   "p75": 19122,
+   "matches": 239,
+   "traded": 129,
+   "median": 7810,
+   "p75": 18696,
    "best": 74063,
-   "total": 1906919,
+   "total": 1878595,
    "outright": 2629062,
    "india_pct": 5,
    "name": "Domestic / minor",
@@ -77,7 +77,7 @@
    "median": 63557,
    "p75": 116228,
    "best": 350589,
-   "total": 6837990,
+   "total": 6857063,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -103,11 +103,11 @@
   },
   "India bilateral": {
    "matches": 31,
-   "traded": 24,
-   "median": 280301,
-   "p75": 429186,
+   "traded": 25,
+   "median": 270700,
+   "p75": 402067,
    "best": 788605,
-   "total": 7100966,
+   "total": 7104738,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -292,8 +292,8 @@
  "teams": {
   "india": {
    "n": 28,
-   "traded": 24,
-   "median": 280301,
+   "traded": 25,
+   "median": 270700,
    "best": 788605
   },
   "australia": {
@@ -338,12 +338,6 @@
    "median": 91190,
    "best": 284075
   },
-  "new zealand": {
-   "n": 33,
-   "traded": 20,
-   "median": 90813,
-   "best": 788605
-  },
   "sri lanka": {
    "n": 30,
    "traded": 26,
@@ -367,6 +361,12 @@
    "traded": 2,
    "median": 65327,
    "best": 91118
+  },
+  "new zealand": {
+   "n": 33,
+   "traded": 21,
+   "median": 64297,
+   "best": 788605
   },
   "ireland": {
    "n": 5,
@@ -408,8 +408,8 @@
  "pairs": {
   "india|new zealand": {
    "n": 11,
-   "traded": 8,
-   "median": 407869,
+   "traded": 9,
+   "median": 358602,
    "best": 788605
   },
   "australia|india": {
