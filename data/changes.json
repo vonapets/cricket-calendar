@@ -1,30 +1,44 @@
 [
  {
   "kind": "added",
-  "id": "1534406",
-  "tour": "t8859",
-  "what": "Surrey 2nd XI v Kent 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1534400",
   "tour": "t8859",
   "what": "Glamorgan 2nd XI v Essex 2nd XI",
-  "from": "2026-08-17T10:00:00Z"
+  "to": "2026-08-17T10:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1534402",
   "tour": "t8859",
   "what": "Warwickshire 2nd XI v Lancashire 2nd XI",
-  "from": "2026-08-17T10:00:00Z"
+  "to": "2026-08-17T10:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
+  "id": "1534401",
+  "tour": "t8859",
+  "what": "Middlesex 2nd XI v Sussex 2nd XI",
+  "to": "2026-08-18T10:00:00Z"
+ },
+ {
+  "kind": "added",
   "id": "1534408",
   "tour": "t8859",
   "what": "Durham 2nd XI v Nottinghamshire 2nd XI",
-  "from": "2026-08-24T10:00:00Z"
+  "to": "2026-08-24T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513492",
+  "tour": "t8335",
+  "what": "Hampshire v Durham",
+  "from": "2026-08-02T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513504",
+  "tour": "t8335",
+  "what": "Nottinghamshire v Northamptonshire",
+  "from": "2026-08-07T10:00:00Z"
  }
 ]
