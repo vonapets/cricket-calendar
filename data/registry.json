@@ -838,5 +838,13 @@
   "short": "Asian Cricket Coun",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24826": {
+  "id": "24826",
+  "key": "t24826",
+  "name": "Ireland A tour of Zimbabwe 2026/27",
+  "short": "Ireland A in Zimbabwe 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
