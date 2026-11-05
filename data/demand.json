@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-04T20:58:10Z",
+ "generated_at": "2026-11-05T03:49:56Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-11-04",
  "totals": {
-  "events": 2388,
-  "volume": 89986718,
+  "events": 2412,
+  "volume": 89992344,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 236,
+   "matches": 242,
    "traded": 129,
    "median": 7810,
    "p75": 18696,
    "best": 74063,
-   "total": 1878615,
+   "total": 1878702,
    "outright": 2629062,
-   "india_pct": 6,
+   "india_pct": 5,
    "name": "Domestic / minor",
    "detect": [],
    "not": []
@@ -46,7 +46,7 @@
    "median": 11755,
    "p75": 25486,
    "best": 72678,
-   "total": 323726,
+   "total": 323859,
    "outright": 366406,
    "india_pct": 33,
    "name": "Asia Cup",
@@ -73,11 +73,11 @@
   },
   "Other international": {
    "matches": 134,
-   "traded": 82,
-   "median": 63090,
+   "traded": 83,
+   "median": 62622,
    "p75": 116228,
    "best": 350589,
-   "total": 6859378,
+   "total": 6862320,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -144,11 +144,11 @@
   },
   "Big Bash League": {
    "matches": 51,
-   "traded": 47,
-   "median": 81644,
+   "traded": 48,
+   "median": 80795,
    "p75": 96310,
    "best": 235436,
-   "total": 3698903,
+   "total": 3701366,
    "outright": 0,
    "india_pct": 0,
    "name": "Big Bash League",
@@ -380,29 +380,29 @@
    "median": 63557,
    "best": 350589
   },
-  "zimbabwe": {
-   "n": 13,
-   "traded": 9,
-   "median": 62622,
-   "best": 143355
-  },
   "scotland": {
    "n": 2,
    "traded": 2,
    "median": 59353,
    "best": 73050
   },
-  "afghanistan": {
-   "n": 12,
-   "traded": 6,
-   "median": 42615,
-   "best": 78050
+  "zimbabwe": {
+   "n": 13,
+   "traded": 10,
+   "median": 54452,
+   "best": 143355
   },
   "nepal": {
    "n": 2,
    "traded": 2,
    "median": 39605,
    "best": 46398
+  },
+  "afghanistan": {
+   "n": 12,
+   "traded": 7,
+   "median": 12180,
+   "best": 78050
   }
  },
  "pairs": {

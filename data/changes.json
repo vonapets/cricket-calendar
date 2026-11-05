@@ -1,101 +1,143 @@
 [
  {
   "kind": "moved",
-  "id": "1553296",
+  "id": "1553295",
   "tour": "t24756",
   "what": "Bangladesh v West Indies",
-  "from": "2026-11-05T04:00:00Z",
-  "to": "2026-11-05T03:30:00Z"
+  "from": "2026-10-28T03:30:00Z",
+  "to": "2026-10-28T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551692",
-  "tour": "t21185",
-  "what": "Titans v North West",
-  "to": "2027-04-03T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551690",
-  "tour": "t21185",
-  "what": "Warriors v Boland",
-  "to": "2027-04-03T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551694",
-  "tour": "t21185",
-  "what": "Western Province v Lions",
-  "to": "2027-04-10T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554134",
-  "tour": "t22562",
-  "what": "Free State Women v Kei Women",
-  "to": "2027-02-21T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554141",
-  "tour": "t22562",
-  "what": "Limpopo Women v Easterns Women",
-  "to": "2027-03-14T08:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1521221",
-  "tour": "hun_w",
-  "what": "MI London (Women) v Trent Rockets (Women)",
-  "from": "2026-08-08T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1521226",
-  "tour": "hun_w",
-  "what": "Manchester Super Giants (Women) v Sunrisers Leeds (Women)",
-  "from": "2026-08-11T13:45:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1521227",
-  "tour": "hun_w",
-  "what": "Welsh Fire (Women) v London Spirit (Women)",
-  "from": "2026-08-12T10:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554533",
-  "tour": "t1554524",
-  "what": "Bhutan v Myanmar",
-  "from": "2026-10-05T01:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554549",
-  "tour": "t1554524",
-  "what": "Myanmar v Thailand",
-  "from": "2026-10-12T06:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1545792",
-  "tour": "t8897",
-  "what": "South Australia Women v Australian Capital Territory Women",
-  "from": "2027-01-19T04:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1545793",
-  "tour": "t8897",
-  "what": "Victoria Women v Queensland Women",
-  "from": "2027-01-20T03:30:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1551733",
   "tour": "t1551603",
   "what": "Limpopo v Mpumalanga",
-  "from": "2027-02-18T08:00:00Z"
+  "to": "2027-02-18T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554533",
+  "tour": "t1554524",
+  "what": "Bhutan v Myanmar",
+  "to": "2026-10-05T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554549",
+  "tour": "t1554524",
+  "what": "Myanmar v Thailand",
+  "to": "2026-10-12T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1521221",
+  "tour": "hun_w",
+  "what": "MI London (Women) v Trent Rockets (Women)",
+  "to": "2026-08-08T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1521226",
+  "tour": "hun_w",
+  "what": "Manchester Super Giants (Women) v Sunrisers Leeds (Women)",
+  "to": "2026-08-11T13:45:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1521227",
+  "tour": "hun_w",
+  "what": "Welsh Fire (Women) v London Spirit (Women)",
+  "to": "2026-08-12T10:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1545792",
+  "tour": "t8897",
+  "what": "South Australia Women v Australian Capital Territory Women",
+  "to": "2027-01-19T04:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1545793",
+  "tour": "t8897",
+  "what": "Victoria Women v Queensland Women",
+  "to": "2027-01-20T03:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1558430",
+  "tour": "t1558428",
+  "what": "Malaysia Under-19s v Sri Lanka Under-19s",
+  "to": "2026-11-05T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1558433",
+  "tour": "t1558428",
+  "what": "India Under-19s v Nepal Under-19s",
+  "to": "2026-11-06T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1558432",
+  "tour": "t1558428",
+  "what": "Pakistan Under-19s v United Arab Emirates Under-19s",
+  "to": "2026-11-06T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1558437",
+  "tour": "t1558428",
+  "what": "India Under-19s v Pakistan Under-19s",
+  "to": "2026-11-08T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1558436",
+  "tour": "t1558428",
+  "what": "Nepal Under-19s v United Arab Emirates Under-19s",
+  "to": "2026-11-08T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1558440",
+  "tour": "t1558428",
+  "what": "India Under-19s v United Arab Emirates Under-19s",
+  "to": "2026-11-10T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1558441",
+  "tour": "t1558428",
+  "what": "Nepal Under-19s v Pakistan Under-19s",
+  "to": "2026-11-10T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1558442",
+  "tour": "t1558428",
+  "what": "TBA v TBA",
+  "to": "2026-11-12T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1558443",
+  "tour": "t1558428",
+  "what": "TBA v TBA",
+  "to": "2026-11-12T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1558444",
+  "tour": "t1558428",
+  "what": "TBA v TBA",
+  "to": "2026-11-14T05:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1545803",
+  "tour": "t8897",
+  "what": "Tasmania Women v South Australia Women",
+  "from": "2027-02-10T00:00:00Z"
  }
 ]

@@ -830,5 +830,13 @@
   "short": "Quaid-e-Azam Troph",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1558428": {
+  "id": "1558428",
+  "key": "t1558428",
+  "name": "Asian Cricket Council Under-19s Asia Cup 2026/27",
+  "short": "Asian Cricket Coun",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
