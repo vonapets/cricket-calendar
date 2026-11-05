@@ -1,16 +1,16 @@
 [
  {
-  "kind": "dropped",
-  "id": "1535527",
-  "tour": "slt20",
-  "what": "Tamil Union Cricket and Athletic Club v Moors Sports Club",
-  "from": "2026-08-20T08:30:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551822",
   "tour": "t20676",
   "what": "Northern Cape v Border",
-  "from": "2027-03-07T08:00:00Z"
+  "to": "2027-03-07T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535527",
+  "tour": "slt20",
+  "what": "Tamil Union Cricket and Athletic Club v Moors Sports Club",
+  "to": "2026-08-20T08:30:00Z"
  }
 ]

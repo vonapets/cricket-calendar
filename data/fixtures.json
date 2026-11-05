@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T16:38:27Z",
+ "generated_at": "2026-11-05T21:08:00Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -165,7 +165,7 @@
    "color": "#6d675d",
    "start": "2026-08-12",
    "end": "2026-09-16",
-   "matches": 48,
+   "matches": 49,
    "india": false,
    "world": false,
    "formats": [
@@ -743,7 +743,7 @@
    "color": "#7a8899",
    "start": "2026-09-13",
    "end": "2027-03-28",
-   "matches": 41,
+   "matches": 42,
    "india": false,
    "world": false,
    "formats": [
@@ -5208,6 +5208,28 @@
    "home_score": "207/3",
    "away_score": "176 (19/20 ov, target 208)",
    "venue": "P Sara Oval, Colombo",
+   "city": "Colombo",
+   "country": "Sri Lanka",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1535527",
+   "tour": "slt20",
+   "utc": "2026-08-20T08:30:00Z",
+   "ts": 1787214600,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group A",
+   "home": "Tamil Union Cricket and Athletic Club",
+   "away": "Moors Sports Club",
+   "home_score": "156/9 (16 ov, target 156)",
+   "away_score": "181/6 (20 ov)",
+   "venue": "Colts Cricket Club Ground, Colombo",
    "city": "Colombo",
    "country": "Sri Lanka",
    "format": "T20",
@@ -27909,8 +27931,8 @@
    "round": "Super Eights",
    "home": "Warriors",
    "away": "Boland",
-   "home_score": "",
-   "away_score": "13/0 (1/20 ov)",
+   "home_score": "138/7 (20 ov)",
+   "away_score": "138/5",
    "venue": "St George's Park, Gqeberha",
    "city": "Gqeberha",
    "country": "South Africa",
@@ -38372,6 +38394,28 @@
    "india": false
   },
   {
+   "id": "1551822",
+   "tour": "t20676",
+   "utc": "2027-03-07T08:00:00Z",
+   "ts": 1804406400,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "34th Match",
+   "home": "Northern Cape",
+   "away": "Border",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Diamond Oval, Kimberley",
+   "city": "Kimberley",
+   "country": "South Africa",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1554138",
    "tour": "t22562",
    "utc": "2027-03-07T08:00:00Z",
@@ -39474,28 +39518,28 @@
  ],
  "changes": [
   {
-   "kind": "dropped",
-   "id": "1535527",
-   "tour": "slt20",
-   "what": "Tamil Union Cricket and Athletic Club v Moors Sports Club",
-   "from": "2026-08-20T08:30:00Z"
-  },
-  {
-   "kind": "dropped",
+   "kind": "added",
    "id": "1551822",
    "tour": "t20676",
    "what": "Northern Cape v Border",
-   "from": "2027-03-07T08:00:00Z"
+   "to": "2027-03-07T08:00:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1535527",
+   "tour": "slt20",
+   "what": "Tamil Union Cricket and Athletic Club v Moors Sports Club",
+   "to": "2026-08-20T08:30:00Z"
   }
  ],
  "counts": {
   "tournaments": 114,
-  "fixtures": 1694,
+  "fixtures": 1696,
   "india": 53,
   "major": 42,
   "projected": 9,
   "projected_matches": 261,
-  "failures": 1
+  "failures": 0
  },
  "projection_horizon": "2027-03-31",
  "unpublished": [
@@ -39620,8 +39664,6 @@
    "last_seen": "2026-06-18 to 2026-06-23"
   }
  ],
- "failures": [
-  "Lanka Premier League 2027: giving up on https://site.api.espn.com/apis/site/v2/sports/cricket/19943/scoreboard?dates=2027: HTTP Error 502: Bad Gateway"
- ],
+ "failures": [],
  "warnings": []
 }
