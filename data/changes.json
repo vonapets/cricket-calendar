@@ -1,25 +1,33 @@
 [
  {
   "kind": "moved",
-  "id": "1558205",
-  "tour": "t24832",
-  "what": "Afghanistan Under-19s v Bangladesh Under-19s",
-  "from": "2026-10-16T05:30:00Z",
-  "to": "2026-10-17T05:30:00Z"
+  "id": "1553296",
+  "tour": "t24756",
+  "what": "Bangladesh v West Indies",
+  "from": "2026-11-05T03:30:00Z",
+  "to": "2026-11-05T04:00:00Z"
  },
  {
-  "kind": "moved",
-  "id": "1558206",
-  "tour": "t24832",
-  "what": "Afghanistan Under-19s v Bangladesh Under-19s",
-  "from": "2026-10-18T05:30:00Z",
-  "to": "2026-10-19T05:30:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551826",
   "tour": "t20676",
   "what": "Easterns v Mpumalanga",
-  "from": "2027-03-14T08:00:00Z"
+  "to": "2027-03-14T08:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1559697",
+  "tour": "t8838",
+  "what": "Matabeleland Tuskers v Southern Rocks",
+  "from": "2026-11-20T07:30:00Z",
+  "to": "2026-11-26T07:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1559699",
+  "tour": "t8838",
+  "what": "Matabeleland Tuskers v Southern Rocks",
+  "from": "2026-11-22T07:30:00Z",
+  "to": "2026-11-28T07:30:00Z"
  }
 ]
