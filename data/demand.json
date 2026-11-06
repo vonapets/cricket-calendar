@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-05T21:08:14Z",
+ "generated_at": "2026-11-06T03:44:17Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
- "observed_to": "2026-11-11",
+ "observed_to": "2026-11-06",
  "totals": {
-  "events": 2414,
-  "volume": 90213758,
+  "events": 2402,
+  "volume": 89979332,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
-   "matches": 237,
+   "matches": 233,
    "traded": 129,
    "median": 7810,
    "p75": 18696,
    "best": 74063,
-   "total": 1879789,
+   "total": 1879636,
    "outright": 2629062,
-   "india_pct": 5,
+   "india_pct": 6,
    "name": "Domestic / minor",
    "detect": [],
    "not": []
@@ -46,7 +46,7 @@
    "median": 11755,
    "p75": 25486,
    "best": 72678,
-   "total": 323727,
+   "total": 324598,
    "outright": 366406,
    "india_pct": 35,
    "name": "Asia Cup",
@@ -77,7 +77,7 @@
    "median": 63090,
    "p75": 116228,
    "best": 350589,
-   "total": 6855612,
+   "total": 6860222,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -102,12 +102,12 @@
    ]
   },
   "India bilateral": {
-   "matches": 30,
+   "matches": 31,
    "traded": 25,
    "median": 270700,
    "p75": 402067,
    "best": 788605,
-   "total": 7102975,
+   "total": 7103167,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -143,12 +143,12 @@
    "not": []
   },
   "Big Bash League": {
-   "matches": 52,
-   "traded": 49,
-   "median": 84039,
-   "p75": 96701,
+   "matches": 50,
+   "traded": 47,
+   "median": 81644,
+   "p75": 96310,
    "best": 235436,
-   "total": 3938406,
+   "total": 3699224,
    "outright": 0,
    "india_pct": 0,
    "name": "Big Bash League",
@@ -291,7 +291,7 @@
  },
  "teams": {
   "india": {
-   "n": 27,
+   "n": 28,
    "traded": 25,
    "median": 270700,
    "best": 788605
@@ -363,7 +363,7 @@
    "best": 290952
   },
   "new zealand": {
-   "n": 32,
+   "n": 33,
    "traded": 21,
    "median": 64297,
    "best": 788605
@@ -401,13 +401,13 @@
   "afghanistan": {
    "n": 12,
    "traded": 7,
-   "median": 12180,
+   "median": 14244,
    "best": 78050
   }
  },
  "pairs": {
   "india|new zealand": {
-   "n": 10,
+   "n": 11,
    "traded": 9,
    "median": 358602,
    "best": 788605

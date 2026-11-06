@@ -1,16 +1,100 @@
 [
  {
   "kind": "added",
-  "id": "1551822",
-  "tour": "t20676",
-  "what": "Northern Cape v Border",
-  "to": "2027-03-07T08:00:00Z"
+  "id": "1560718",
+  "tour": "t21353",
+  "what": "Uganda Women v Namibia Women",
+  "to": "2026-11-06T06:30:00Z"
  },
  {
   "kind": "added",
-  "id": "1535527",
-  "tour": "slt20",
-  "what": "Tamil Union Cricket and Athletic Club v Moors Sports Club",
-  "to": "2026-08-20T08:30:00Z"
+  "id": "1560719",
+  "tour": "t21353",
+  "what": "Rwanda Women v United States of America Women",
+  "to": "2026-11-06T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1560720",
+  "tour": "t21353",
+  "what": "Namibia Women v United States of America Women",
+  "to": "2026-11-07T06:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1560721",
+  "tour": "t21353",
+  "what": "Uganda Women v Rwanda Women",
+  "to": "2026-11-07T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1560722",
+  "tour": "t21353",
+  "what": "Namibia Women v Rwanda Women",
+  "to": "2026-11-08T06:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1560723",
+  "tour": "t21353",
+  "what": "Uganda Women v United States of America Women",
+  "to": "2026-11-08T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1560724",
+  "tour": "t21353",
+  "what": "Rwanda Women v United States of America Women",
+  "to": "2026-11-10T06:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1560725",
+  "tour": "t21353",
+  "what": "Uganda Women v Namibia Women",
+  "to": "2026-11-10T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1560726",
+  "tour": "t21353",
+  "what": "Uganda Women v Rwanda Women",
+  "to": "2026-11-11T06:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1560727",
+  "tour": "t21353",
+  "what": "Namibia Women v United States of America Women",
+  "to": "2026-11-11T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1560728",
+  "tour": "t21353",
+  "what": "Uganda Women v United States of America Women",
+  "to": "2026-11-12T06:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1560729",
+  "tour": "t21353",
+  "what": "Namibia Women v Rwanda Women",
+  "to": "2026-11-12T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1560730",
+  "tour": "t21353",
+  "what": "TBA v TBA",
+  "to": "2026-11-14T06:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1560731",
+  "tour": "t21353",
+  "what": "TBA v TBA",
+  "to": "2026-11-14T11:00:00Z"
  }
 ]

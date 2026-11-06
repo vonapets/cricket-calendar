@@ -846,5 +846,13 @@
   "short": "Ireland A in Zimbabwe 2026-27",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "21353": {
+  "id": "21353",
+  "key": "t21353",
+  "name": "Victoria Women T20 Series",
+  "short": "Victoria Women T20 Series",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
