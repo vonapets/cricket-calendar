@@ -1,100 +1,25 @@
 [
  {
-  "kind": "added",
-  "id": "1560718",
-  "tour": "t21353",
-  "what": "Uganda Women v Namibia Women",
-  "to": "2026-11-06T06:30:00Z"
+  "kind": "moved",
+  "id": "1558205",
+  "tour": "t24832",
+  "what": "Afghanistan Under-19s v Bangladesh Under-19s",
+  "from": "2026-10-16T05:30:00Z",
+  "to": "2026-10-17T05:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1560719",
-  "tour": "t21353",
-  "what": "Rwanda Women v United States of America Women",
-  "to": "2026-11-06T11:00:00Z"
+  "kind": "moved",
+  "id": "1558206",
+  "tour": "t24832",
+  "what": "Afghanistan Under-19s v Bangladesh Under-19s",
+  "from": "2026-10-18T05:30:00Z",
+  "to": "2026-10-19T05:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1560720",
-  "tour": "t21353",
-  "what": "Namibia Women v United States of America Women",
-  "to": "2026-11-07T06:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1560721",
-  "tour": "t21353",
-  "what": "Uganda Women v Rwanda Women",
-  "to": "2026-11-07T11:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1560722",
-  "tour": "t21353",
-  "what": "Namibia Women v Rwanda Women",
-  "to": "2026-11-08T06:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1560723",
-  "tour": "t21353",
-  "what": "Uganda Women v United States of America Women",
-  "to": "2026-11-08T11:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1560724",
-  "tour": "t21353",
-  "what": "Rwanda Women v United States of America Women",
-  "to": "2026-11-10T06:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1560725",
-  "tour": "t21353",
-  "what": "Uganda Women v Namibia Women",
-  "to": "2026-11-10T11:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1560726",
-  "tour": "t21353",
-  "what": "Uganda Women v Rwanda Women",
-  "to": "2026-11-11T06:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1560727",
-  "tour": "t21353",
-  "what": "Namibia Women v United States of America Women",
-  "to": "2026-11-11T11:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1560728",
-  "tour": "t21353",
-  "what": "Uganda Women v United States of America Women",
-  "to": "2026-11-12T06:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1560729",
-  "tour": "t21353",
-  "what": "Namibia Women v Rwanda Women",
-  "to": "2026-11-12T11:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1560730",
-  "tour": "t21353",
-  "what": "TBA v TBA",
-  "to": "2026-11-14T06:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1560731",
-  "tour": "t21353",
-  "what": "TBA v TBA",
-  "to": "2026-11-14T11:00:00Z"
+  "kind": "dropped",
+  "id": "1551826",
+  "tour": "t20676",
+  "what": "Easterns v Mpumalanga",
+  "from": "2027-03-14T08:00:00Z"
  }
 ]
