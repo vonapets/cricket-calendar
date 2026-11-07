@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T03:21:04Z",
+ "generated_at": "2026-11-07T08:55:36Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -1359,7 +1359,7 @@
    "color": "#7a8899",
    "start": "2026-10-09",
    "end": "2026-11-17",
-   "matches": 10,
+   "matches": 11,
    "india": false,
    "world": false,
    "formats": [
@@ -1553,8 +1553,8 @@
    "group": "Discovered",
    "color": "#7a8899",
    "start": "2026-10-20",
-   "end": "2026-10-31",
-   "matches": 3,
+   "end": "2026-10-25",
+   "matches": 2,
    "india": false,
    "world": false,
    "formats": [
@@ -19012,8 +19012,8 @@
    "tour": "t8050",
    "utc": "2026-10-11T04:00:00Z",
    "ts": 1791691200,
-   "status": "POST",
-   "status_long": "Postponed",
+   "status": "Final",
+   "status_long": "Final",
    "round": "Plate Group",
    "home": "Arunachal Pradesh",
    "away": "Nagaland",
@@ -19023,7 +19023,7 @@
    "city": "Ahmedabad",
    "country": "India",
    "format": "Test",
-   "note": "Postponed",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -26115,7 +26115,7 @@
   },
   {
    "id": "1550719",
-   "tour": "t1550706",
+   "tour": "t24707",
    "utc": "2026-10-31T08:00:00Z",
    "ts": 1793433600,
    "status": "Final",
@@ -27751,7 +27751,7 @@
    "round": "2nd Test",
    "home": "Bangladesh",
    "away": "West Indies",
-   "home_score": "88/3 (40 ov)",
+   "home_score": "318/8 (96 ov)",
    "away_score": "356",
    "venue": "Sylhet International Cricket Stadium",
    "city": "Sylhet",
@@ -27839,7 +27839,7 @@
    "round": "1st Test",
    "home": "Afghanistan",
    "away": "Zimbabwe",
-   "home_score": "113/1 (35 ov)",
+   "home_score": "217/1 (64.3 ov)",
    "away_score": "504",
    "venue": "Sharjah Cricket Stadium",
    "city": "Sharjah",
@@ -28169,7 +28169,7 @@
    "round": "Super Eights",
    "home": "Easterns",
    "away": "Dolphins",
-   "home_score": "162/2",
+   "home_score": "162/2 (20 ov)",
    "away_score": "118/5 (16.1 ov, target 127)",
    "venue": "Willowmoore Park, Benoni",
    "city": "Benoni",
@@ -28184,15 +28184,15 @@
   {
    "id": "1552531",
    "tour": "t24805",
-   "utc": "2026-11-06T22:00:00Z",
-   "ts": 1794002400,
+   "utc": "2026-11-06T21:30:00Z",
+   "ts": 1794000600,
    "status": "Live",
    "status_long": "Live",
    "round": "3rd unofficial Test",
    "home": "New Zealand A",
    "away": "India A",
    "home_score": "",
-   "away_score": "182/1 (50.5 ov)",
+   "away_score": "227/2 (69.3 ov)",
    "venue": "Bert Sutcliffe Oval, Lincoln",
    "city": "Lincoln",
    "country": "New Zealand",
@@ -28213,8 +28213,8 @@
    "round": "2nd ODI",
    "home": "New Zealand",
    "away": "India",
-   "home_score": "4/1 (2.4/47 ov)",
-   "away_score": "",
+   "home_score": "134 (41/47 ov)",
+   "away_score": "103/5 (23.2/47 ov, target 135)",
    "venue": "Hnry Stadium, Wellington",
    "city": "Wellington",
    "country": "New Zealand",
@@ -28230,18 +28230,18 @@
    "tour": "t24273",
    "utc": "2026-11-07T03:30:00Z",
    "ts": 1794022200,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "Tour Match",
    "home": "Western Australia",
    "away": "England",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "60/1 (11.4/50 ov, target 252)",
+   "away_score": "251",
    "venue": "W.A.C.A. Ground, Perth",
    "city": "Perth",
    "country": "Australia",
    "format": "ODI",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -28252,8 +28252,8 @@
    "tour": "t8814",
    "utc": "2026-11-07T03:30:00Z",
    "ts": 1794022200,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "23rd Match",
    "home": "Dhaka Division",
    "away": "Khulna Division",
@@ -28263,7 +28263,7 @@
    "city": "Rajshahi",
    "country": "Bangladesh",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -28274,8 +28274,8 @@
    "tour": "t8814",
    "utc": "2026-11-07T03:30:00Z",
    "ts": 1794022200,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "22nd Match",
    "home": "Mymensingh Division",
    "away": "Barishal Division",
@@ -28285,7 +28285,7 @@
    "city": "Chattogram",
    "country": "Bangladesh",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -28296,8 +28296,8 @@
    "tour": "t8814",
    "utc": "2026-11-07T03:30:00Z",
    "ts": 1794022200,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "24th Match",
    "home": "Rangpur Division",
    "away": "Chattogram Division",
@@ -28307,7 +28307,7 @@
    "city": "Khulna",
    "country": "Bangladesh",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -28318,8 +28318,8 @@
    "tour": "t8814",
    "utc": "2026-11-07T03:30:00Z",
    "ts": 1794022200,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "21st Match",
    "home": "Sylhet Division",
    "away": "Rajshahi Division",
@@ -28329,7 +28329,7 @@
    "city": "Bogra",
    "country": "Bangladesh",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -28340,18 +28340,18 @@
    "tour": "t21284",
    "utc": "2026-11-07T04:40:00Z",
    "ts": 1794026400,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Final",
+   "status_long": "Final",
    "round": "13th Match",
    "home": "Melbourne Renegades Women",
    "away": "Adelaide Strikers Women",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "188/3",
+   "away_score": "152/8 (20 ov, target 189)",
    "venue": "Junction Oval, Melbourne",
    "city": "Melbourne",
    "country": "Australia",
    "format": "Women's T20",
-   "note": "Scheduled",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -28362,18 +28362,18 @@
    "tour": "t24831",
    "utc": "2026-11-07T05:00:00Z",
    "ts": 1794027600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "6th Match, Group B",
    "home": "Bangladesh Under-19s",
    "away": "Sri Lanka Under-19s",
-   "home_score": "",
+   "home_score": "94/2 (19/50 ov)",
    "away_score": "",
    "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
    "city": "Al Amarat",
    "country": "Oman",
    "format": "ODI",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -28384,18 +28384,18 @@
    "tour": "t24832",
    "utc": "2026-11-07T05:00:00Z",
    "ts": 1794027600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "5th Match, Group B",
    "home": "Afghanistan Under-19s",
    "away": "Malaysia Under-19s",
    "home_score": "",
-   "away_score": "",
+   "away_score": "23/7 (14/50 ov)",
    "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)",
    "city": "Al Amarat",
    "country": "Oman",
    "format": "ODI",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -28406,8 +28406,8 @@
    "tour": "t21353",
    "utc": "2026-11-07T06:30:00Z",
    "ts": 1794033000,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "3rd Match",
    "home": "Namibia Women",
    "away": "United States of America Women",
@@ -28417,7 +28417,7 @@
    "city": "Entebbe",
    "country": "Uganda",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -28428,8 +28428,8 @@
    "tour": "t1554058",
    "utc": "2026-11-07T07:30:00Z",
    "ts": 1794036600,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "10th Match",
    "home": "Dolphins Women",
    "away": "Lions Women",
@@ -28439,7 +28439,7 @@
    "city": "Durban",
    "country": "South Africa",
    "format": "ODI",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -28450,8 +28450,8 @@
    "tour": "t1554058",
    "utc": "2026-11-07T08:00:00Z",
    "ts": 1794038400,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "9th Match",
    "home": "Eastern Province Women",
    "away": "Titans Women",
@@ -28461,7 +28461,7 @@
    "city": "Gqeberha",
    "country": "South Africa",
    "format": "ODI",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -40548,256 +40548,12 @@
  ],
  "changes": [
   {
-   "kind": "added",
-   "id": "1545802",
-   "tour": "t8897",
-   "what": "Tasmania Women v South Australia Women",
-   "to": "2027-02-08T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545807",
-   "tour": "t8897",
-   "what": "New South Wales Women v South Australia Women",
-   "to": "2027-02-23T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545809",
-   "tour": "t8897",
-   "what": "Victoria Women v Australian Capital Territory Women",
-   "to": "2027-02-25T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545815",
-   "tour": "t8897",
-   "what": "Western Australia Women v New South Wales Women",
-   "to": "2027-03-12T05:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561250",
-   "tour": "t18522",
-   "what": "UAE Bulls v Yas Lions",
-   "to": "2026-11-07T11:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561251",
-   "tour": "t18522",
-   "what": "Emirates Eagles v Royal Desert Champions",
-   "to": "2026-11-07T13:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561252",
-   "tour": "t18522",
-   "what": "Arabian Aces v United Tigers",
-   "to": "2026-11-07T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561253",
-   "tour": "t18522",
-   "what": "Emirates Eagles v Yas Lions",
-   "to": "2026-11-08T11:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561254",
-   "tour": "t18522",
-   "what": "UAE Bulls v United Tigers",
-   "to": "2026-11-08T13:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561255",
-   "tour": "t18522",
-   "what": "Arabian Aces v Royal Desert Champions",
-   "to": "2026-11-08T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561256",
-   "tour": "t18522",
-   "what": "Arabian Aces v Emirates Eagles",
-   "to": "2026-11-09T13:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561257",
-   "tour": "t18522",
-   "what": "Royal Desert Champions v United Tigers",
-   "to": "2026-11-09T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561258",
-   "tour": "t18522",
-   "what": "United Tigers v Yas Lions",
-   "to": "2026-11-10T13:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561259",
-   "tour": "t18522",
-   "what": "Emirates Eagles v UAE Bulls",
-   "to": "2026-11-10T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561260",
-   "tour": "t18522",
-   "what": "Royal Desert Champions v UAE Bulls",
-   "to": "2026-11-11T13:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561261",
-   "tour": "t18522",
-   "what": "Arabian Aces v Yas Lions",
-   "to": "2026-11-11T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561262",
-   "tour": "t18522",
-   "what": "Emirates Eagles v United Tigers",
-   "to": "2026-11-13T11:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561263",
-   "tour": "t18522",
-   "what": "Royal Desert Champions v Yas Lions",
-   "to": "2026-11-13T13:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561264",
-   "tour": "t18522",
-   "what": "Arabian Aces v UAE Bulls",
-   "to": "2026-11-13T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561265",
-   "tour": "t18522",
-   "what": "Royal Desert Champions v United Tigers",
-   "to": "2026-11-14T11:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561266",
-   "tour": "t18522",
-   "what": "Arabian Aces v Emirates Eagles",
-   "to": "2026-11-14T13:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561267",
-   "tour": "t18522",
-   "what": "UAE Bulls v Yas Lions",
-   "to": "2026-11-14T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561268",
-   "tour": "t18522",
-   "what": "Arabian Aces v Royal Desert Champions",
-   "to": "2026-11-15T11:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561269",
-   "tour": "t18522",
-   "what": "Emirates Eagles v UAE Bulls",
-   "to": "2026-11-15T13:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561270",
-   "tour": "t18522",
-   "what": "United Tigers v Yas Lions",
-   "to": "2026-11-15T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561271",
-   "tour": "t18522",
-   "what": "Arabian Aces v United Tigers",
-   "to": "2026-11-16T13:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561272",
-   "tour": "t18522",
-   "what": "Emirates Eagles v Royal Desert Champions",
-   "to": "2026-11-16T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561273",
-   "tour": "t18522",
-   "what": "Arabian Aces v Yas Lions",
-   "to": "2026-11-17T13:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561274",
-   "tour": "t18522",
-   "what": "Royal Desert Champions v UAE Bulls",
-   "to": "2026-11-17T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561275",
-   "tour": "t18522",
-   "what": "UAE Bulls v United Tigers",
-   "to": "2026-11-18T13:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561276",
-   "tour": "t18522",
-   "what": "Emirates Eagles v Yas Lions",
-   "to": "2026-11-18T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561277",
-   "tour": "t18522",
-   "what": "Arabian Aces v UAE Bulls",
-   "to": "2026-11-19T11:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561278",
-   "tour": "t18522",
-   "what": "Royal Desert Champions v Yas Lions",
-   "to": "2026-11-19T13:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561279",
-   "tour": "t18522",
-   "what": "Emirates Eagles v United Tigers",
-   "to": "2026-11-19T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561281",
-   "tour": "t18522",
-   "what": "TBA v TBA",
-   "to": "2026-11-20T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1561280",
-   "tour": "t18522",
-   "what": "TBA v TBA",
-   "to": "2026-11-20T13:30:00Z"
+   "kind": "moved",
+   "id": "1552531",
+   "tour": "t24805",
+   "what": "New Zealand A v India A",
+   "from": "2026-11-06T22:00:00Z",
+   "to": "2026-11-06T21:30:00Z"
   }
  ],
  "counts": {
@@ -40807,7 +40563,7 @@
   "major": 42,
   "projected": 8,
   "projected_matches": 261,
-  "failures": 1
+  "failures": 0
  },
  "projection_horizon": "2027-03-31",
  "unpublished": [
@@ -40838,8 +40594,8 @@
   {
    "id": "24233",
    "name": "India Women tour of South Africa 2026",
-   "matches": 4,
-   "last_seen": "2026-04-17 to 2026-04-25"
+   "matches": 5,
+   "last_seen": "2026-04-17 to 2026-04-27"
   },
   {
    "id": "24258",
@@ -40880,14 +40636,20 @@
   {
    "id": "24259",
    "name": "Pakistan Women tour of Ireland 2026",
-   "matches": 3,
+   "matches": 4,
    "last_seen": "2026-05-29 to 2026-06-04"
+  },
+  {
+   "id": "24326",
+   "name": "Pakistan tour of Bangladesh 2026",
+   "matches": 2,
+   "last_seen": "2026-05-08 to 2026-05-16"
   },
   {
    "id": "24148",
    "name": "Pakistan tour of Sri Lanka [Feb 2026] 2025/26",
-   "matches": 4,
-   "last_seen": "2026-02-15 to 2026-02-24"
+   "matches": 8,
+   "last_seen": "2026-02-04 to 2026-02-28"
   },
   {
    "id": "24244",
@@ -40898,8 +40660,8 @@
   {
    "id": "24256",
    "name": "West Indies Women tour of Ireland 2026",
-   "matches": 5,
-   "last_seen": "2026-05-29 to 2026-07-15"
+   "matches": 7,
+   "last_seen": "2026-05-28 to 2026-07-15"
   },
   {
    "id": "24356",
@@ -40922,12 +40684,10 @@
   {
    "id": "20893",
    "name": "Namibia T20 Tri-Series",
-   "matches": 4,
-   "last_seen": "2026-06-18 to 2026-06-22"
+   "matches": 6,
+   "last_seen": "2026-06-18 to 2026-06-23"
   }
  ],
- "failures": [
-  "Pakistan tour of Bangladesh 2026 2026: giving up on https://site.api.espn.com/apis/site/v2/sports/cricket/24326/scoreboard?dates=2026: HTTP Error 502: Bad Gateway"
- ],
+ "failures": [],
  "warnings": []
 }
