@@ -854,5 +854,13 @@
   "short": "Victoria Women T20 Series",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "18522": {
+  "id": "18522",
+  "key": "t18522",
+  "name": "Abu Dhabi T10",
+  "short": "Abu Dhabi T10",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
