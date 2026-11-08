@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-08T15:24:47Z",
+ "generated_at": "2026-11-08T18:52:42Z",
  "source": "Polymarket Gamma API (gamma-api.polymarket.com), settled markets included",
  "traded_floor": 1000,
  "observed_from": "2024-06-07",
  "observed_to": "2026-11-08",
  "totals": {
-  "events": 2408,
-  "volume": 90157031,
+  "events": 2420,
+  "volume": 90134457,
   "competitions": 19
  },
  "competitions": {
   "Domestic / minor": {
    "matches": 236,
-   "traded": 132,
+   "traded": 130,
    "median": 7817,
    "p75": 18696,
    "best": 74063,
-   "total": 1908810,
-   "outright": 2629073,
+   "total": 1888091,
+   "outright": 2634026,
    "india_pct": 6,
    "name": "Domestic / minor",
    "detect": [],
@@ -46,7 +46,7 @@
    "median": 11616,
    "p75": 25486,
    "best": 72678,
-   "total": 326306,
+   "total": 326714,
    "outright": 366406,
    "india_pct": 36,
    "name": "Asia Cup",
@@ -72,12 +72,12 @@
    "not": []
   },
   "Other international": {
-   "matches": 142,
-   "traded": 84,
-   "median": 62916,
+   "matches": 141,
+   "traded": 83,
+   "median": 63217,
    "p75": 116228,
    "best": 350589,
-   "total": 6951452,
+   "total": 6944598,
    "outright": 1417891,
    "india_pct": 0,
    "name": "Other international",
@@ -107,7 +107,7 @@
    "median": 270700,
    "p75": 402067,
    "best": 788605,
-   "total": 7109776,
+   "total": 7109831,
    "outright": 0,
    "india_pct": 100,
    "name": "India bilateral",
@@ -143,7 +143,7 @@
    "not": []
   },
   "Big Bash League": {
-   "matches": 49,
+   "matches": 52,
    "traded": 48,
    "median": 80795,
    "p75": 96310,
@@ -383,13 +383,13 @@
   "afghanistan": {
    "n": 13,
    "traded": 7,
-   "median": 63210,
+   "median": 63217,
    "best": 78050
   },
   "zimbabwe": {
    "n": 14,
    "traded": 10,
-   "median": 62916,
+   "median": 62920,
    "best": 143355
   },
   "scotland": {
@@ -481,8 +481,8 @@
   "afghanistan|zimbabwe": {
    "n": 2,
    "traded": 1,
-   "median": 63210,
-   "best": 63210
+   "median": 63217,
+   "best": 63217
   },
   "new zealand|west indies": {
    "n": 7,
@@ -524,7 +524,7 @@
    "n": 2,
    "traded": 0,
    "median": 0,
-   "best": 2
+   "best": 10
   }
  }
 }
