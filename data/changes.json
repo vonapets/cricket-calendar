@@ -1,10 +1,16 @@
 [
  {
-  "kind": "moved",
-  "id": "1544875",
-  "tour": "t8043",
-  "what": "Queensland v Tasmania",
-  "from": "2026-11-11T00:30:00Z",
-  "to": "2026-11-11T00:00:00Z"
+  "kind": "added",
+  "id": "1545815",
+  "tour": "t8897",
+  "what": "Western Australia Women v New South Wales Women",
+  "to": "2027-03-12T05:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547412",
+  "tour": "t8832",
+  "what": "Badureliya Sports Club v Colts Cricket Club",
+  "from": "2026-08-14T04:15:00Z"
  }
 ]
