@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T20:52:54Z",
+ "generated_at": "2026-11-11T03:12:52Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -146,7 +146,7 @@
    "color": "#7a8899",
    "start": "2026-08-10",
    "end": "2026-09-11",
-   "matches": 44,
+   "matches": 45,
    "india": false,
    "world": false,
    "formats": [
@@ -165,7 +165,7 @@
    "color": "#6d675d",
    "start": "2026-08-12",
    "end": "2026-09-16",
-   "matches": 49,
+   "matches": 47,
    "india": false,
    "world": false,
    "formats": [
@@ -356,7 +356,7 @@
    "color": "#7a8899",
    "start": "2026-08-28",
    "end": "2026-09-13",
-   "matches": 8,
+   "matches": 7,
    "india": false,
    "world": false,
    "formats": [
@@ -433,14 +433,14 @@
    "color": "#7a8899",
    "start": "2026-08-31",
    "end": "2026-09-03",
-   "matches": 2,
+   "matches": 3,
    "india": false,
    "world": false,
    "formats": [
     "T20"
    ],
    "in_india": false,
-   "tier": "minor",
+   "tier": "major",
    "planned": false
   },
   {
@@ -4181,6 +4181,28 @@
    "india": false
   },
   {
+   "id": "1547412",
+   "tour": "t8832",
+   "utc": "2026-08-14T04:15:00Z",
+   "ts": 1786680900,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group B",
+   "home": "Badureliya Sports Club",
+   "away": "Colts Cricket Club",
+   "home_score": "103 (42.3/50 ov, target 133)",
+   "away_score": "132",
+   "venue": "Surrey Village Ground, Maggona",
+   "city": "Maggona",
+   "country": "Sri Lanka",
+   "format": "ODI",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1547413",
    "tour": "t8832",
    "utc": "2026-08-14T04:15:00Z",
@@ -4480,28 +4502,6 @@
    "away_score": "144/2 (17.3/20 ov, target 144)",
    "venue": "Surrey Village Ground, Maggona",
    "city": "Maggona",
-   "country": "Sri Lanka",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1535522",
-   "tour": "slt20",
-   "utc": "2026-08-16T08:30:00Z",
-   "ts": 1786869000,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "Group B",
-   "home": "Nondescripts Cricket Club",
-   "away": "Badureliya Sports Club",
-   "home_score": "232/2",
-   "away_score": "138/7 (20 ov, target 233)",
-   "venue": "R.Premadasa Stadium, Khettarama, Colombo",
-   "city": "Colombo",
    "country": "Sri Lanka",
    "format": "T20",
    "note": "Final",
@@ -5183,28 +5183,6 @@
    "home_score": "110/8",
    "away_score": "113/3 (11.1/20 ov, target 111)",
    "venue": "Nondescripts Cricket Club Ground, Colombo",
-   "city": "Colombo",
-   "country": "Sri Lanka",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1535528",
-   "tour": "slt20",
-   "utc": "2026-08-20T08:30:00Z",
-   "ts": 1787214600,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "Group A",
-   "home": "Police Sports Club",
-   "away": "Kurunegala Youth Cricket Club",
-   "home_score": "207/3",
-   "away_score": "176 (19/20 ov, target 208)",
-   "venue": "P Sara Oval, Colombo",
    "city": "Colombo",
    "country": "Sri Lanka",
    "format": "T20",
@@ -7877,6 +7855,28 @@
    "india": false
   },
   {
+   "id": "1549527",
+   "tour": "t1549518",
+   "utc": "2026-09-01T12:00:00Z",
+   "ts": 1788264000,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "4th Match",
+   "home": "South Africa",
+   "away": "Zimbabwe",
+   "home_score": "185/7",
+   "away_score": "142 (17.4/20 ov, target 186)",
+   "venue": "Namibia Cricket Ground, Windhoek",
+   "city": "Windhoek",
+   "country": "Namibia",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1496552",
    "tour": "t23803",
    "utc": "2026-09-01T12:00:00Z",
@@ -7892,28 +7892,6 @@
    "city": "Leicester",
    "country": "England",
    "format": "ODI",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1549527",
-   "tour": "t24670",
-   "utc": "2026-09-01T12:00:00Z",
-   "ts": 1788264000,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "4th Match",
-   "home": "South Africa",
-   "away": "Zimbabwe",
-   "home_score": "185/7",
-   "away_score": "142 (17.4/20 ov, target 186)",
-   "venue": "Namibia Cricket Ground, Windhoek",
-   "city": "Windhoek",
-   "country": "Namibia",
-   "format": "T20",
    "note": "Final",
    "tbd": false,
    "disrupted": false,
@@ -29749,18 +29727,18 @@
    "tour": "t8043",
    "utc": "2026-11-10T23:30:00Z",
    "ts": 1794353400,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "10th Match",
    "home": "New South Wales",
    "away": "South Australia",
-   "home_score": "",
+   "home_score": "143/4 (28 ov)",
    "away_score": "",
    "venue": "Cricket Central, Sydney",
    "city": "Sydney",
    "country": "Australia",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -29771,18 +29749,18 @@
    "tour": "t8043",
    "utc": "2026-11-10T23:30:00Z",
    "ts": 1794353400,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "11th Match",
    "home": "Victoria",
    "away": "Western Australia",
-   "home_score": "",
+   "home_score": "90/2 (27 ov)",
    "away_score": "",
    "venue": "Melbourne Cricket Ground",
    "city": "Melbourne",
    "country": "Australia",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -29793,18 +29771,18 @@
    "tour": "t8043",
    "utc": "2026-11-11T00:00:00Z",
    "ts": 1794355200,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "12th Match",
    "home": "Queensland",
    "away": "Tasmania",
-   "home_score": "",
+   "home_score": "49/1 (19.2 ov)",
    "away_score": "",
    "venue": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
    "city": "Brisbane",
    "country": "Australia",
    "format": "Test",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -40528,27 +40506,34 @@
  "changes": [
   {
    "kind": "added",
-   "id": "1545815",
-   "tour": "t8897",
-   "what": "Western Australia Women v New South Wales Women",
-   "to": "2027-03-12T05:30:00Z"
-  },
-  {
-   "kind": "dropped",
    "id": "1547412",
    "tour": "t8832",
    "what": "Badureliya Sports Club v Colts Cricket Club",
-   "from": "2026-08-14T04:15:00Z"
+   "to": "2026-08-14T04:15:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1535522",
+   "tour": "slt20",
+   "what": "Nondescripts Cricket Club v Badureliya Sports Club",
+   "from": "2026-08-16T08:30:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1535528",
+   "tour": "slt20",
+   "what": "Police Sports Club v Kurunegala Youth Cricket Club",
+   "from": "2026-08-20T08:30:00Z"
   }
  ],
  "counts": {
   "tournaments": 115,
-  "fixtures": 1741,
+  "fixtures": 1740,
   "india": 53,
-  "major": 42,
+  "major": 43,
   "projected": 8,
   "projected_matches": 261,
-  "failures": 0
+  "failures": 1
  },
  "projection_horizon": "2027-03-31",
  "unpublished": [
@@ -40573,20 +40558,14 @@
   {
    "id": "24367",
    "name": "Bangladesh Women tour of Scotland 2026",
-   "matches": 4,
+   "matches": 3,
    "last_seen": "2026-05-30 to 2026-06-04"
-  },
-  {
-   "id": "24233",
-   "name": "India Women tour of South Africa 2026",
-   "matches": 5,
-   "last_seen": "2026-04-17 to 2026-04-27"
   },
   {
    "id": "24258",
    "name": "India tour of Ireland 2026",
-   "matches": 2,
-   "last_seen": "2026-06-26 to 2026-06-28"
+   "matches": 1,
+   "last_seen": "2026-06-26 to 2026-06-26"
   },
   {
    "id": "24301",
@@ -40597,13 +40576,19 @@
   {
    "id": "24382",
    "name": "New Zealand A Women tour of Sri Lanka 2026",
-   "matches": 6,
-   "last_seen": "2026-05-12 to 2026-05-25"
+   "matches": 3,
+   "last_seen": "2026-05-15 to 2026-05-25"
+  },
+  {
+   "id": "24294",
+   "name": "New Zealand A tour of Sri Lanka 2026",
+   "matches": 5,
+   "last_seen": "2026-04-05 to 2026-04-23"
   },
   {
    "id": "24246",
    "name": "New Zealand tour of Bangladesh 2026",
-   "matches": 6,
+   "matches": 5,
    "last_seen": "2026-04-17 to 2026-05-02"
   },
   {
@@ -40633,7 +40618,7 @@
   {
    "id": "24244",
    "name": "Sri Lanka Women tour of Bangladesh 2026",
-   "matches": 6,
+   "matches": 5,
    "last_seen": "2026-04-20 to 2026-05-02"
   },
   {
@@ -40651,7 +40636,7 @@
   {
    "id": "8604",
    "name": "ICC Men's T20 World Cup",
-   "matches": 55,
+   "matches": 54,
    "last_seen": "2026-02-07 to 2026-03-08"
   },
   {
@@ -40663,10 +40648,12 @@
   {
    "id": "20893",
    "name": "Namibia T20 Tri-Series",
-   "matches": 6,
-   "last_seen": "2026-06-18 to 2026-06-23"
+   "matches": 4,
+   "last_seen": "2026-06-19 to 2026-06-23"
   }
  ],
- "failures": [],
+ "failures": [
+  "India Women tour of South Africa 2026 2026: giving up on https://site.api.espn.com/apis/site/v2/sports/cricket/24233/scoreboard?dates=2026: HTTP Error 502: Bad Gateway"
+ ],
  "warnings": []
 }

@@ -1,16 +1,23 @@
 [
  {
   "kind": "added",
-  "id": "1545815",
-  "tour": "t8897",
-  "what": "Western Australia Women v New South Wales Women",
-  "to": "2027-03-12T05:30:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1547412",
   "tour": "t8832",
   "what": "Badureliya Sports Club v Colts Cricket Club",
-  "from": "2026-08-14T04:15:00Z"
+  "to": "2026-08-14T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535522",
+  "tour": "slt20",
+  "what": "Nondescripts Cricket Club v Badureliya Sports Club",
+  "from": "2026-08-16T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535528",
+  "tour": "slt20",
+  "what": "Police Sports Club v Kurunegala Youth Cricket Club",
+  "from": "2026-08-20T08:30:00Z"
  }
 ]
