@@ -862,5 +862,13 @@
   "short": "Abu Dhabi T10",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24142": {
+  "id": "24142",
+  "key": "t24142",
+  "name": "ICC Women's Emerging Nations Trophy",
+  "short": "ICC Women's Emerging Trophy",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
