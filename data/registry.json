@@ -870,5 +870,13 @@
   "short": "ICC Women's Emerging Trophy",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24141": {
+  "id": "24141",
+  "key": "asiars",
+  "name": "Asia Cup Rising Stars",
+  "short": "ASIARS",
+  "group": "ICC",
+  "color": "#c8801a"
  }
 }

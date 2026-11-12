@@ -1,18 +1,198 @@
 [
  {
-  "kind": "moved",
-  "id": "1553296",
-  "tour": "t24756",
-  "what": "Bangladesh v West Indies",
-  "from": "2026-11-05T03:30:00Z",
-  "to": "2026-11-05T04:00:00Z"
+  "kind": "added",
+  "id": "1562342",
+  "tour": "asiars",
+  "what": "Bangladesh A v Hong Kong",
+  "to": "2026-11-19T06:00:00Z"
  },
  {
-  "kind": "moved",
-  "id": "1546635",
-  "tour": "t8050",
+  "kind": "added",
+  "id": "1562343",
+  "tour": "asiars",
+  "what": "Sri Lanka A v Afghanistan A",
+  "to": "2026-11-19T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1562344",
+  "tour": "asiars",
+  "what": "Pakistan A v United Arab Emirates",
+  "to": "2026-11-20T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1562345",
+  "tour": "asiars",
+  "what": "India A v Nepal",
+  "to": "2026-11-20T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1562346",
+  "tour": "asiars",
+  "what": "Sri Lanka A v Hong Kong",
+  "to": "2026-11-21T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1562347",
+  "tour": "asiars",
+  "what": "Bangladesh A v Afghanistan A",
+  "to": "2026-11-21T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1562348",
+  "tour": "asiars",
+  "what": "United Arab Emirates v Nepal",
+  "to": "2026-11-22T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1562349",
+  "tour": "asiars",
+  "what": "India A v Pakistan A",
+  "to": "2026-11-22T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1562350",
+  "tour": "asiars",
+  "what": "Afghanistan A v Hong Kong",
+  "to": "2026-11-23T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1562351",
+  "tour": "asiars",
+  "what": "Sri Lanka A v Bangladesh A",
+  "to": "2026-11-23T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1562352",
+  "tour": "asiars",
+  "what": "Pakistan A v Nepal",
+  "to": "2026-11-24T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1562353",
+  "tour": "asiars",
+  "what": "India A v United Arab Emirates",
+  "to": "2026-11-24T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1562354",
+  "tour": "asiars",
   "what": "TBA v TBA",
-  "from": "2027-01-24T04:00:00Z",
-  "to": "2027-01-31T04:00:00Z"
+  "to": "2026-11-26T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1562355",
+  "tour": "asiars",
+  "what": "TBA v TBA",
+  "to": "2026-11-27T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1562356",
+  "tour": "asiars",
+  "what": "TBA v TBA",
+  "to": "2026-11-29T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547404",
+  "tour": "t8832",
+  "what": "Ace Capital Cricket Club v Panadura Sports Club",
+  "from": "2026-08-10T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547407",
+  "tour": "t8832",
+  "what": "Badureliya Sports Club v Bloomfield Cricket and Athletic Club",
+  "from": "2026-08-10T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547405",
+  "tour": "t8832",
+  "what": "Colts Cricket Club v Sinhalese Sports Club",
+  "from": "2026-08-10T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547402",
+  "tour": "t8832",
+  "what": "Kurunegala Youth Cricket Club v Tamil Union Cricket and Athletic Club",
+  "from": "2026-08-10T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547406",
+  "tour": "t8832",
+  "what": "Nondescripts Cricket Club v Burgher Recreation Club",
+  "from": "2026-08-10T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547403",
+  "tour": "t8832",
+  "what": "Nugegoda Sports Welfare Club v Moors Sports Club",
+  "from": "2026-08-10T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513516",
+  "tour": "t8335",
+  "what": "Essex v Yorkshire",
+  "from": "2026-08-11T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535516",
+  "tour": "slt20",
+  "what": "Bloomfield Cricket and Athletic Club v Badureliya Sports Club",
+  "from": "2026-08-12T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535523",
+  "tour": "slt20",
+  "what": "Kurunegala Youth Cricket Club v Moors Sports Club",
+  "from": "2026-08-16T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547425",
+  "tour": "t8832",
+  "what": "Nondescripts Cricket Club v Sinhalese Sports Club",
+  "from": "2026-08-22T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547426",
+  "tour": "t8832",
+  "what": "Nugegoda Sports Welfare Club v Kurunegala Youth Cricket Club",
+  "from": "2026-08-25T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547431",
+  "tour": "t8832",
+  "what": "Sinhalese Sports Club v Burgher Recreation Club",
+  "from": "2026-08-26T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547439",
+  "tour": "t8832",
+  "what": "Panadura Sports Club v Kurunegala Youth Cricket Club",
+  "from": "2026-09-03T04:15:00Z"
  }
 ]
