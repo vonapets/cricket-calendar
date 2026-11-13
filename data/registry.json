@@ -878,5 +878,13 @@
   "short": "ASIARS",
   "group": "ICC",
   "color": "#c8801a"
+ },
+ "8818": {
+  "id": "8818",
+  "key": "t8818",
+  "name": "New Zealand Cricket Women's One Day Competition",
+  "short": "New Zealand Cricket Women's One Day Competition",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }

@@ -1,214 +1,401 @@
 [
  {
-  "kind": "moved",
-  "id": "1559693",
-  "tour": "t8838",
-  "what": "Mashonaland Eagles v Mountaineers",
-  "from": "2026-11-13T07:30:00Z",
-  "to": "2026-11-15T07:30:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1559695",
-  "tour": "t8838",
-  "what": "Mashonaland Eagles v Mountaineers",
-  "from": "2026-11-15T07:30:00Z",
-  "to": "2026-11-17T07:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535515",
-  "tour": "slt20",
-  "what": "Burgher Recreation Club v Police Sports Club",
-  "from": "2026-08-12T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1513582",
-  "tour": "t23080",
-  "what": "Surrey Women v Hampshire Women",
-  "from": "2026-08-19T09:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535535",
-  "tour": "slt20",
-  "what": "Badureliya Sports Club v Ace Capital Cricket Club",
-  "from": "2026-08-24T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535532",
-  "tour": "slt20",
-  "what": "Police Sports Club v Tamil Union Cricket and Athletic Club",
-  "from": "2026-08-24T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535533",
-  "tour": "slt20",
-  "what": "Bloomfield Cricket and Athletic Club v Sinhalese Sports Club",
-  "from": "2026-08-24T08:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1535496",
-  "tour": "slt20",
-  "what": "Burgher Recreation Club v Kurunegala Youth Cricket Club",
-  "from": "2026-08-28T04:15:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1549947",
   "tour": "acc_pc",
   "what": "Hong Kong v Saudi Arabia",
-  "from": "2026-08-30T01:30:00Z"
+  "to": "2026-08-30T01:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1549952",
   "tour": "acc_pc",
   "what": "Bahrain v Hong Kong",
-  "from": "2026-09-02T01:30:00Z"
+  "to": "2026-09-02T01:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1549957",
   "tour": "acc_pc",
   "what": "Bahrain v Saudi Arabia",
-  "from": "2026-09-04T01:30:00Z"
+  "to": "2026-09-04T01:30:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1555256",
-  "tour": "t18940",
-  "what": "Chile Women v Costa Rica Women",
-  "from": "2026-09-23T16:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554533",
-  "tour": "t1554524",
-  "what": "Bhutan v Myanmar",
-  "from": "2026-10-05T01:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554535",
-  "tour": "t1554524",
-  "what": "Kuwait v Qatar",
-  "from": "2026-10-05T06:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554536",
-  "tour": "t1554524",
-  "what": "Qatar v Thailand",
-  "from": "2026-10-06T01:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554539",
-  "tour": "t1554524",
-  "what": "Kuwait v Thailand",
-  "from": "2026-10-08T01:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554540",
-  "tour": "t1554524",
-  "what": "Bhutan v Mongolia",
-  "from": "2026-10-08T01:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554544",
-  "tour": "t1554524",
-  "what": "Myanmar v Qatar",
-  "from": "2026-10-09T01:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554545",
-  "tour": "t1554524",
-  "what": "Kuwait v Myanmar",
-  "from": "2026-10-11T06:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554547",
-  "tour": "t1554524",
-  "what": "Bahrain v Mongolia",
-  "from": "2026-10-11T06:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554548",
-  "tour": "t1554524",
-  "what": "Mongolia v Qatar",
-  "from": "2026-10-12T06:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554550",
-  "tour": "t1554524",
-  "what": "Bhutan v Kuwait",
-  "from": "2026-10-12T06:00:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551728",
   "tour": "t1551603",
   "what": "KwaZulu-Natal Inland v Border",
-  "from": "2027-02-11T08:00:00Z"
+  "to": "2027-02-11T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551732",
   "tour": "t1551603",
   "what": "Northern Cape v Easterns",
-  "from": "2027-02-18T08:00:00Z"
+  "to": "2027-02-18T08:00:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1554079",
-  "tour": "t1554057",
-  "what": "South Western Districts Women v Titans Women",
-  "from": "2027-02-21T08:00:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551818",
   "tour": "t20676",
   "what": "Border v South Western Districts",
-  "from": "2027-02-21T08:00:00Z"
+  "to": "2027-02-21T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551820",
   "tour": "t20676",
   "what": "Limpopo v Mpumalanga",
-  "from": "2027-02-21T08:00:00Z"
+  "to": "2027-02-21T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1551819",
   "tour": "t20676",
   "what": "Northern Cape v Easterns",
-  "from": "2027-02-21T08:00:00Z"
+  "to": "2027-02-21T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
+  "id": "1554079",
+  "tour": "t1554057",
+  "what": "South Western Districts Women v Titans Women",
+  "to": "2027-02-21T08:00:00Z"
+ },
+ {
+  "kind": "added",
   "id": "1554134",
   "tour": "t22562",
   "what": "Free State Women v Kei Women",
-  "from": "2027-02-21T08:00:00Z"
+  "to": "2027-02-21T08:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1554135",
   "tour": "t22562",
   "what": "KwaZulu-Natal Inland Women v Limpopo Women",
-  "from": "2027-02-21T08:00:00Z"
+  "to": "2027-02-21T08:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1513582",
+  "tour": "t23080",
+  "what": "Surrey Women v Hampshire Women",
+  "to": "2026-08-19T09:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554535",
+  "tour": "t1554524",
+  "what": "Kuwait v Qatar",
+  "to": "2026-10-05T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554536",
+  "tour": "t1554524",
+  "what": "Qatar v Thailand",
+  "to": "2026-10-06T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554539",
+  "tour": "t1554524",
+  "what": "Kuwait v Thailand",
+  "to": "2026-10-08T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554540",
+  "tour": "t1554524",
+  "what": "Bhutan v Mongolia",
+  "to": "2026-10-08T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554544",
+  "tour": "t1554524",
+  "what": "Myanmar v Qatar",
+  "to": "2026-10-09T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554545",
+  "tour": "t1554524",
+  "what": "Kuwait v Myanmar",
+  "to": "2026-10-11T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554548",
+  "tour": "t1554524",
+  "what": "Mongolia v Qatar",
+  "to": "2026-10-12T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554550",
+  "tour": "t1554524",
+  "what": "Bhutan v Kuwait",
+  "to": "2026-10-12T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535515",
+  "tour": "slt20",
+  "what": "Burgher Recreation Club v Police Sports Club",
+  "to": "2026-08-12T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535535",
+  "tour": "slt20",
+  "what": "Badureliya Sports Club v Ace Capital Cricket Club",
+  "to": "2026-08-24T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535532",
+  "tour": "slt20",
+  "what": "Police Sports Club v Tamil Union Cricket and Athletic Club",
+  "to": "2026-08-24T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535533",
+  "tour": "slt20",
+  "what": "Bloomfield Cricket and Athletic Club v Sinhalese Sports Club",
+  "to": "2026-08-24T08:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1535496",
+  "tour": "slt20",
+  "what": "Burgher Recreation Club v Kurunegala Youth Cricket Club",
+  "to": "2026-08-28T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1555256",
+  "tour": "t18940",
+  "what": "Chile Women v Costa Rica Women",
+  "to": "2026-09-23T16:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550439",
+  "tour": "t8818",
+  "what": "Auckland Women v Wellington Women",
+  "to": "2026-11-13T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550441",
+  "tour": "t8818",
+  "what": "Canterbury Women v Otago Women",
+  "to": "2026-11-13T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550440",
+  "tour": "t8818",
+  "what": "Central Districts Women v Northern Districts Women",
+  "to": "2026-11-13T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550442",
+  "tour": "t8818",
+  "what": "Auckland Women v Wellington Women",
+  "to": "2026-11-14T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550444",
+  "tour": "t8818",
+  "what": "Canterbury Women v Otago Women",
+  "to": "2026-11-14T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550443",
+  "tour": "t8818",
+  "what": "Central Districts Women v Northern Districts Women",
+  "to": "2026-11-14T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550445",
+  "tour": "t8818",
+  "what": "Auckland Women v Northern Districts Women",
+  "to": "2026-11-27T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550447",
+  "tour": "t8818",
+  "what": "Canterbury Women v Wellington Women",
+  "to": "2026-11-27T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550446",
+  "tour": "t8818",
+  "what": "Central Districts Women v Otago Women",
+  "to": "2026-11-27T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550448",
+  "tour": "t8818",
+  "what": "Auckland Women v Northern Districts Women",
+  "to": "2026-11-28T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550450",
+  "tour": "t8818",
+  "what": "Canterbury Women v Wellington Women",
+  "to": "2026-11-28T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550449",
+  "tour": "t8818",
+  "what": "Central Districts Women v Otago Women",
+  "to": "2026-11-28T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550453",
+  "tour": "t8818",
+  "what": "Auckland Women v Otago Women",
+  "to": "2026-12-11T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550452",
+  "tour": "t8818",
+  "what": "Canterbury Women v Central Districts Women",
+  "to": "2026-12-11T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550451",
+  "tour": "t8818",
+  "what": "Northern Districts Women v Wellington Women",
+  "to": "2026-12-11T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550456",
+  "tour": "t8818",
+  "what": "Auckland Women v Otago Women",
+  "to": "2026-12-12T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550455",
+  "tour": "t8818",
+  "what": "Canterbury Women v Central Districts Women",
+  "to": "2026-12-12T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550454",
+  "tour": "t8818",
+  "what": "Northern Districts Women v Wellington Women",
+  "to": "2026-12-12T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550457",
+  "tour": "t8818",
+  "what": "Auckland Women v Central Districts Women",
+  "to": "2027-02-05T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550458",
+  "tour": "t8818",
+  "what": "Canterbury Women v Northern Districts Women",
+  "to": "2027-02-05T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550459",
+  "tour": "t8818",
+  "what": "Otago Women v Wellington Women",
+  "to": "2027-02-05T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550460",
+  "tour": "t8818",
+  "what": "Auckland Women v Central Districts Women",
+  "to": "2027-02-06T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550461",
+  "tour": "t8818",
+  "what": "Otago Women v Wellington Women",
+  "to": "2027-02-06T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550462",
+  "tour": "t8818",
+  "what": "Canterbury Women v Northern Districts Women",
+  "to": "2027-02-07T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550463",
+  "tour": "t8818",
+  "what": "Auckland Women v Canterbury Women",
+  "to": "2027-02-12T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550464",
+  "tour": "t8818",
+  "what": "Central Districts Women v Wellington Women",
+  "to": "2027-02-12T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550465",
+  "tour": "t8818",
+  "what": "Northern Districts Women v Otago Women",
+  "to": "2027-02-12T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550466",
+  "tour": "t8818",
+  "what": "Auckland Women v Canterbury Women",
+  "to": "2027-02-13T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550467",
+  "tour": "t8818",
+  "what": "Central Districts Women v Wellington Women",
+  "to": "2027-02-13T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550468",
+  "tour": "t8818",
+  "what": "Northern Districts Women v Otago Women",
+  "to": "2027-02-13T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550469",
+  "tour": "t8818",
+  "what": "TBA v TBA",
+  "to": "2027-02-19T21:30:00Z"
  }
 ]
