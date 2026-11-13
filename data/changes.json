@@ -1,58 +1,214 @@
 [
  {
-  "kind": "added",
-  "id": "1553777",
-  "tour": "t8836",
-  "what": "Ghani v Khan Research Laboratories",
-  "to": "2026-09-12T05:00:00Z"
+  "kind": "moved",
+  "id": "1559693",
+  "tour": "t8838",
+  "what": "Mashonaland Eagles v Mountaineers",
+  "from": "2026-11-13T07:30:00Z",
+  "to": "2026-11-15T07:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1553778",
-  "tour": "t8836",
-  "what": "Hyderabad Kingsmen Academy v Markhor IT Solutions",
-  "to": "2026-09-12T05:00:00Z"
+  "kind": "moved",
+  "id": "1559695",
+  "tour": "t8838",
+  "what": "Mashonaland Eagles v Mountaineers",
+  "from": "2026-11-15T07:30:00Z",
+  "to": "2026-11-17T07:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1553780",
-  "tour": "t8836",
-  "what": "State Bank of Pakistan v Sui Northern Gas Pipelines Limited",
-  "to": "2026-09-12T05:00:00Z"
+  "kind": "dropped",
+  "id": "1535515",
+  "tour": "slt20",
+  "what": "Burgher Recreation Club v Police Sports Club",
+  "from": "2026-08-12T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1553781",
-  "tour": "t8836",
-  "what": "Ghani v Sui Northern Gas Pipelines Limited",
-  "to": "2026-09-18T05:00:00Z"
+  "kind": "dropped",
+  "id": "1513582",
+  "tour": "t23080",
+  "what": "Surrey Women v Hampshire Women",
+  "from": "2026-08-19T09:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1553782",
-  "tour": "t8836",
-  "what": "Khan Research Laboratories v Markhor IT Solutions",
-  "to": "2026-09-18T05:00:00Z"
+  "kind": "dropped",
+  "id": "1535535",
+  "tour": "slt20",
+  "what": "Badureliya Sports Club v Ace Capital Cricket Club",
+  "from": "2026-08-24T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1553783",
-  "tour": "t8836",
-  "what": "Pakistan Television v State Bank of Pakistan",
-  "to": "2026-09-18T05:00:00Z"
+  "kind": "dropped",
+  "id": "1535532",
+  "tour": "slt20",
+  "what": "Police Sports Club v Tamil Union Cricket and Athletic Club",
+  "from": "2026-08-24T04:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1553784",
-  "tour": "t8836",
-  "what": "Hyderabad Kingsmen Academy v Oil & Gas Development Company Limited",
-  "to": "2026-09-18T05:00:00Z"
+  "kind": "dropped",
+  "id": "1535533",
+  "tour": "slt20",
+  "what": "Bloomfield Cricket and Athletic Club v Sinhalese Sports Club",
+  "from": "2026-08-24T08:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1553788",
-  "tour": "t8836",
-  "what": "Hyderabad Kingsmen Academy v Pakistan Television",
-  "to": "2026-09-24T05:00:00Z"
+  "kind": "dropped",
+  "id": "1535496",
+  "tour": "slt20",
+  "what": "Burgher Recreation Club v Kurunegala Youth Cricket Club",
+  "from": "2026-08-28T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1549947",
+  "tour": "acc_pc",
+  "what": "Hong Kong v Saudi Arabia",
+  "from": "2026-08-30T01:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1549952",
+  "tour": "acc_pc",
+  "what": "Bahrain v Hong Kong",
+  "from": "2026-09-02T01:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1549957",
+  "tour": "acc_pc",
+  "what": "Bahrain v Saudi Arabia",
+  "from": "2026-09-04T01:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1555256",
+  "tour": "t18940",
+  "what": "Chile Women v Costa Rica Women",
+  "from": "2026-09-23T16:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554533",
+  "tour": "t1554524",
+  "what": "Bhutan v Myanmar",
+  "from": "2026-10-05T01:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554535",
+  "tour": "t1554524",
+  "what": "Kuwait v Qatar",
+  "from": "2026-10-05T06:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554536",
+  "tour": "t1554524",
+  "what": "Qatar v Thailand",
+  "from": "2026-10-06T01:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554539",
+  "tour": "t1554524",
+  "what": "Kuwait v Thailand",
+  "from": "2026-10-08T01:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554540",
+  "tour": "t1554524",
+  "what": "Bhutan v Mongolia",
+  "from": "2026-10-08T01:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554544",
+  "tour": "t1554524",
+  "what": "Myanmar v Qatar",
+  "from": "2026-10-09T01:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554545",
+  "tour": "t1554524",
+  "what": "Kuwait v Myanmar",
+  "from": "2026-10-11T06:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554547",
+  "tour": "t1554524",
+  "what": "Bahrain v Mongolia",
+  "from": "2026-10-11T06:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554548",
+  "tour": "t1554524",
+  "what": "Mongolia v Qatar",
+  "from": "2026-10-12T06:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554550",
+  "tour": "t1554524",
+  "what": "Bhutan v Kuwait",
+  "from": "2026-10-12T06:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551728",
+  "tour": "t1551603",
+  "what": "KwaZulu-Natal Inland v Border",
+  "from": "2027-02-11T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551732",
+  "tour": "t1551603",
+  "what": "Northern Cape v Easterns",
+  "from": "2027-02-18T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554079",
+  "tour": "t1554057",
+  "what": "South Western Districts Women v Titans Women",
+  "from": "2027-02-21T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551818",
+  "tour": "t20676",
+  "what": "Border v South Western Districts",
+  "from": "2027-02-21T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551820",
+  "tour": "t20676",
+  "what": "Limpopo v Mpumalanga",
+  "from": "2027-02-21T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551819",
+  "tour": "t20676",
+  "what": "Northern Cape v Easterns",
+  "from": "2027-02-21T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554134",
+  "tour": "t22562",
+  "what": "Free State Women v Kei Women",
+  "from": "2027-02-21T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554135",
+  "tour": "t22562",
+  "what": "KwaZulu-Natal Inland Women v Limpopo Women",
+  "from": "2027-02-21T08:00:00Z"
  }
 ]
