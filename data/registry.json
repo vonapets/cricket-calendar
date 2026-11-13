@@ -886,5 +886,13 @@
   "short": "New Zealand Cricket Women's One Day Competition",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "8661": {
+  "id": "8661",
+  "key": "t8661",
+  "name": "Syed Mushtaq Ali Trophy",
+  "short": "India Dom T20",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
