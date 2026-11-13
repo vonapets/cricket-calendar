@@ -1,149 +1,58 @@
 [
  {
   "kind": "added",
-  "id": "1547404",
-  "tour": "t8832",
-  "what": "Ace Capital Cricket Club v Panadura Sports Club",
-  "to": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547407",
-  "tour": "t8832",
-  "what": "Badureliya Sports Club v Bloomfield Cricket and Athletic Club",
-  "to": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547405",
-  "tour": "t8832",
-  "what": "Colts Cricket Club v Sinhalese Sports Club",
-  "to": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547402",
-  "tour": "t8832",
-  "what": "Kurunegala Youth Cricket Club v Tamil Union Cricket and Athletic Club",
-  "to": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547406",
-  "tour": "t8832",
-  "what": "Nondescripts Cricket Club v Burgher Recreation Club",
-  "to": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547403",
-  "tour": "t8832",
-  "what": "Nugegoda Sports Welfare Club v Moors Sports Club",
-  "to": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547425",
-  "tour": "t8832",
-  "what": "Nondescripts Cricket Club v Sinhalese Sports Club",
-  "to": "2026-08-22T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547426",
-  "tour": "t8832",
-  "what": "Nugegoda Sports Welfare Club v Kurunegala Youth Cricket Club",
-  "to": "2026-08-25T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547431",
-  "tour": "t8832",
-  "what": "Sinhalese Sports Club v Burgher Recreation Club",
-  "to": "2026-08-26T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547439",
-  "tour": "t8832",
-  "what": "Panadura Sports Club v Kurunegala Youth Cricket Club",
-  "to": "2026-09-03T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513516",
-  "tour": "t8335",
-  "what": "Essex v Yorkshire",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535516",
-  "tour": "slt20",
-  "what": "Bloomfield Cricket and Athletic Club v Badureliya Sports Club",
-  "to": "2026-08-12T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535523",
-  "tour": "slt20",
-  "what": "Kurunegala Youth Cricket Club v Moors Sports Club",
-  "to": "2026-08-16T04:15:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1553777",
   "tour": "t8836",
   "what": "Ghani v Khan Research Laboratories",
-  "from": "2026-09-12T05:00:00Z"
+  "to": "2026-09-12T05:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1553778",
   "tour": "t8836",
   "what": "Hyderabad Kingsmen Academy v Markhor IT Solutions",
-  "from": "2026-09-12T05:00:00Z"
+  "to": "2026-09-12T05:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1553780",
   "tour": "t8836",
   "what": "State Bank of Pakistan v Sui Northern Gas Pipelines Limited",
-  "from": "2026-09-12T05:00:00Z"
+  "to": "2026-09-12T05:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1553781",
   "tour": "t8836",
   "what": "Ghani v Sui Northern Gas Pipelines Limited",
-  "from": "2026-09-18T05:00:00Z"
+  "to": "2026-09-18T05:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1553782",
   "tour": "t8836",
   "what": "Khan Research Laboratories v Markhor IT Solutions",
-  "from": "2026-09-18T05:00:00Z"
+  "to": "2026-09-18T05:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1553783",
   "tour": "t8836",
   "what": "Pakistan Television v State Bank of Pakistan",
-  "from": "2026-09-18T05:00:00Z"
+  "to": "2026-09-18T05:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1553784",
   "tour": "t8836",
   "what": "Hyderabad Kingsmen Academy v Oil & Gas Development Company Limited",
-  "from": "2026-09-18T05:00:00Z"
+  "to": "2026-09-18T05:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1553788",
   "tour": "t8836",
   "what": "Hyderabad Kingsmen Academy v Pakistan Television",
-  "from": "2026-09-24T05:00:00Z"
+  "to": "2026-09-24T05:00:00Z"
  }
 ]
