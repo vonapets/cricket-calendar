@@ -1,9 +1,850 @@
 [
  {
+  "kind": "moved",
+  "id": "1546673",
+  "tour": "t8661",
+  "what": "Vidarbha v Goa",
+  "from": "2026-11-14T08:00:00Z",
+  "to": "2026-11-14T07:00:00Z"
+ },
+ {
   "kind": "dropped",
-  "id": "1552797",
+  "id": "1513490",
+  "tour": "t8335",
+  "what": "Derbyshire v Sussex",
+  "from": "2026-08-02T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513492",
+  "tour": "t8335",
+  "what": "Hampshire v Durham",
+  "from": "2026-08-02T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513493",
+  "tour": "t8335",
+  "what": "Kent v Nottinghamshire",
+  "from": "2026-08-02T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513494",
+  "tour": "t8335",
+  "what": "Leicestershire v Somerset",
+  "from": "2026-08-02T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513495",
+  "tour": "t8335",
+  "what": "Middlesex v Yorkshire",
+  "from": "2026-08-02T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513496",
+  "tour": "t8335",
+  "what": "Northamptonshire v Lancashire",
+  "from": "2026-08-02T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513497",
+  "tour": "t8335",
+  "what": "Warwickshire v Gloucestershire",
+  "from": "2026-08-02T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513502",
+  "tour": "t8335",
+  "what": "Lancashire v Gloucestershire",
+  "from": "2026-08-07T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513504",
+  "tour": "t8335",
+  "what": "Nottinghamshire v Northamptonshire",
+  "from": "2026-08-07T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513507",
+  "tour": "t8335",
+  "what": "Yorkshire v Derbyshire",
+  "from": "2026-08-07T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513503",
+  "tour": "t8335",
+  "what": "Leicestershire v Warwickshire",
+  "from": "2026-08-07T13:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513505",
+  "tour": "t8335",
+  "what": "Somerset v Surrey",
+  "from": "2026-08-07T13:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513506",
+  "tour": "t8335",
+  "what": "Sussex v Worcestershire",
+  "from": "2026-08-07T13:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513508",
+  "tour": "t8335",
+  "what": "Derbyshire v Middlesex",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513509",
+  "tour": "t8335",
+  "what": "Durham v Essex",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513510",
+  "tour": "t8335",
+  "what": "Glamorgan v Worcestershire",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513511",
+  "tour": "t8335",
+  "what": "Gloucestershire v Nottinghamshire",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513512",
+  "tour": "t8335",
+  "what": "Kent v Leicestershire",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513514",
+  "tour": "t8335",
+  "what": "Sussex v Hampshire",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513515",
+  "tour": "t8335",
+  "what": "Warwickshire v Lancashire",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513516",
+  "tour": "t8335",
+  "what": "Essex v Yorkshire",
+  "from": "2026-08-11T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513517",
+  "tour": "t8335",
+  "what": "Gloucestershire v Northamptonshire",
+  "from": "2026-08-11T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513519",
+  "tour": "t8335",
+  "what": "Middlesex v Sussex",
+  "from": "2026-08-11T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513520",
+  "tour": "t8335",
+  "what": "Somerset v Lancashire",
+  "from": "2026-08-11T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513521",
+  "tour": "t8335",
+  "what": "Surrey v Nottinghamshire",
+  "from": "2026-08-11T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513522",
+  "tour": "t8335",
+  "what": "Warwickshire v Kent",
+  "from": "2026-08-11T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535515",
+  "tour": "slt20",
+  "what": "Burgher Recreation Club v Police Sports Club",
+  "from": "2026-08-12T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535517",
+  "tour": "slt20",
+  "what": "Colts Cricket Club v Sinhalese Sports Club",
+  "from": "2026-08-12T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535514",
+  "tour": "slt20",
+  "what": "Tamil Union Cricket and Athletic Club v Kurunegala Youth Cricket Club",
+  "from": "2026-08-12T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513524",
+  "tour": "t8335",
+  "what": "Lancashire v Durham",
+  "from": "2026-08-14T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513525",
+  "tour": "t8335",
+  "what": "Yorkshire v Nottinghamshire",
+  "from": "2026-08-14T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1528554",
+  "tour": "t24263",
+  "what": "Ireland v Afghanistan",
+  "from": "2026-08-15T09:45:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513527",
+  "tour": "t8335",
+  "what": "Middlesex v Durham",
+  "from": "2026-08-16T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535520",
+  "tour": "slt20",
+  "what": "Nugegoda Sports Welfare Club v Burgher Recreation Club",
+  "from": "2026-08-17T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534400",
+  "tour": "t8859",
+  "what": "Glamorgan 2nd XI v Essex 2nd XI",
+  "from": "2026-08-17T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534402",
+  "tour": "t8859",
+  "what": "Warwickshire 2nd XI v Lancashire 2nd XI",
+  "from": "2026-08-17T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513582",
+  "tour": "t23080",
+  "what": "Surrey Women v Hampshire Women",
+  "from": "2026-08-19T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513584",
+  "tour": "t23080",
+  "what": "Essex Women v Somerset Women",
+  "from": "2026-08-19T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1546437",
+  "tour": "duleep",
+  "what": "East Zone v North East Zone",
+  "from": "2026-08-23T04:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1546438",
+  "tour": "duleep",
+  "what": "North Zone v West Zone",
+  "from": "2026-08-23T04:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535530",
+  "tour": "slt20",
+  "what": "Nondescripts Cricket Club v Panadura Sports Club",
+  "from": "2026-08-24T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535534",
+  "tour": "slt20",
+  "what": "Kurunegala Youth Cricket Club v Nugegoda Sports Welfare Club",
+  "from": "2026-08-24T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534407",
+  "tour": "t8859",
+  "what": "Derbyshire 2nd XI v Middlesex 2nd XI",
+  "from": "2026-08-24T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534408",
+  "tour": "t8859",
+  "what": "Durham 2nd XI v Nottinghamshire 2nd XI",
+  "from": "2026-08-24T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534410",
+  "tour": "t8859",
+  "what": "Kent 2nd XI v Gloucestershire 2nd XI",
+  "from": "2026-08-24T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534411",
+  "tour": "t8859",
+  "what": "Leicestershire 2nd XI v Glamorgan 2nd XI",
+  "from": "2026-08-24T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534412",
+  "tour": "t8859",
+  "what": "Sussex 2nd XI v Warwickshire 2nd XI",
+  "from": "2026-08-24T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534413",
+  "tour": "t8859",
+  "what": "Somerset 2nd XI v Surrey 2nd XI",
+  "from": "2026-08-25T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513586",
+  "tour": "t23080",
+  "what": "Warwickshire Women v The Blaze Women",
+  "from": "2026-08-26T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513587",
+  "tour": "t23080",
+  "what": "Yorkshire Women v Surrey Women",
+  "from": "2026-08-26T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535496",
+  "tour": "slt20",
+  "what": "Burgher Recreation Club v Kurunegala Youth Cricket Club",
+  "from": "2026-08-28T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535498",
+  "tour": "slt20",
+  "what": "Nugegoda Sports Welfare Club v Tamil Union Cricket and Athletic Club",
+  "from": "2026-08-28T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535499",
+  "tour": "slt20",
+  "what": "Ace Capital Cricket Club v Bloomfield Cricket and Athletic Club",
+  "from": "2026-08-28T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535497",
+  "tour": "slt20",
+  "what": "Badureliya Sports Club v Colts Cricket Club",
+  "from": "2026-08-28T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1546439",
+  "tour": "duleep",
+  "what": "Central Zone v East Zone",
+  "from": "2026-08-30T04:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1546440",
+  "tour": "duleep",
+  "what": "South Zone v North Zone",
+  "from": "2026-08-30T04:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534416",
+  "tour": "t8859",
+  "what": "Essex 2nd XI v Worcestershire 2nd XI",
+  "from": "2026-08-31T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534417",
+  "tour": "t8859",
+  "what": "Northamptonshire 2nd XI v Middlesex 2nd XI",
+  "from": "2026-08-31T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534418",
+  "tour": "t8859",
+  "what": "Warwickshire 2nd XI v Derbyshire 2nd XI",
+  "from": "2026-08-31T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534415",
+  "tour": "t8859",
+  "what": "Durham 2nd XI v Somerset 2nd XI",
+  "from": "2026-09-01T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534419",
+  "tour": "t8859",
+  "what": "Glamorgan 2nd XI v Hampshire 2nd XI",
+  "from": "2026-09-01T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534420",
+  "tour": "t8859",
+  "what": "Gloucestershire 2nd XI v Surrey 2nd XI",
+  "from": "2026-09-01T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1534423",
+  "tour": "t8859",
+  "what": "Yorkshire 2nd XI v Leicestershire 2nd XI",
+  "from": "2026-09-01T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1552317",
+  "tour": "t24740",
+  "what": "England Under-19s v Pakistan Under-19s",
+  "from": "2026-09-02T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513590",
+  "tour": "t23080",
+  "what": "Durham Women v Hampshire Women",
+  "from": "2026-09-03T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513592",
+  "tour": "t23080",
+  "what": "Yorkshire Women v Somerset Women",
+  "from": "2026-09-03T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513593",
+  "tour": "t23080",
+  "what": "Warwickshire Women v Essex Women",
+  "from": "2026-09-03T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551072",
+  "tour": "t24742",
+  "what": "Belgium Women v Portugal Women",
+  "from": "2026-09-04T07:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551073",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Portugal Women",
+  "from": "2026-09-04T11:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551074",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Belgium Women",
+  "from": "2026-09-04T14:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535511",
+  "tour": "slt20",
+  "what": "Colts Cricket Club v Nondescripts Cricket Club",
+  "from": "2026-09-05T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551075",
+  "tour": "t24742",
+  "what": "Belgium Women v Portugal Women",
+  "from": "2026-09-05T07:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535507",
+  "tour": "slt20",
+  "what": "Badureliya Sports Club v Panadura Sports Club",
+  "from": "2026-09-05T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535508",
+  "tour": "slt20",
+  "what": "Nugegoda Sports Welfare Club v Police Sports Club",
+  "from": "2026-09-05T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551076",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Belgium Women",
+  "from": "2026-09-05T11:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551069",
+  "tour": "t24741",
+  "what": "Serbia Women v Bulgaria Women",
+  "from": "2026-09-05T12:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551077",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Portugal Women",
+  "from": "2026-09-05T14:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551078",
+  "tour": "t24742",
+  "what": "Belgium Women v Portugal Women",
+  "from": "2026-09-06T07:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513596",
+  "tour": "t23080",
+  "what": "The Blaze Women v Somerset Women",
+  "from": "2026-09-06T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513597",
+  "tour": "t23080",
+  "what": "Hampshire Women v Yorkshire Women",
+  "from": "2026-09-06T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551079",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Portugal Women",
+  "from": "2026-09-06T11:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535537",
+  "tour": "slt20",
+  "what": "Sinhalese Sports Club v Police Sports Club",
+  "from": "2026-09-09T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513600",
+  "tour": "t23080",
+  "what": "Essex Women v Yorkshire Women",
+  "from": "2026-09-09T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513601",
+  "tour": "t23080",
+  "what": "Hampshire Women v The Blaze Women",
+  "from": "2026-09-09T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1552895",
+  "tour": "t24681",
+  "what": "Malaysia v United Arab Emirates",
+  "from": "2026-09-14T02:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513606",
+  "tour": "t23080",
+  "what": "Hampshire Women v Surrey Women",
+  "from": "2026-09-16T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551665",
+  "tour": "t21185",
+  "what": "Boland v North West",
+  "from": "2026-09-17T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551666",
+  "tour": "t21185",
+  "what": "Western Province v Dolphins",
+  "from": "2026-09-17T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551667",
+  "tour": "t21185",
+  "what": "Knights v Lions",
+  "from": "2026-09-17T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551668",
+  "tour": "t21185",
+  "what": "Warriors v Titans",
+  "from": "2026-09-17T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535681",
+  "tour": "t24377",
+  "what": "India Under-19s v Australia Under-19s",
+  "from": "2026-09-18T03:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1553781",
+  "tour": "t8836",
+  "what": "Ghani v Sui Northern Gas Pipelines Limited",
+  "from": "2026-09-18T05:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1553782",
+  "tour": "t8836",
+  "what": "Khan Research Laboratories v Markhor IT Solutions",
+  "from": "2026-09-18T05:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1553783",
+  "tour": "t8836",
+  "what": "Pakistan Television v State Bank of Pakistan",
+  "from": "2026-09-18T05:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1553784",
+  "tour": "t8836",
+  "what": "Hyderabad Kingsmen Academy v Oil & Gas Development Company Limited",
+  "from": "2026-09-18T05:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1552306",
+  "tour": "t24735",
+  "what": "Japan v Hong Kong",
+  "from": "2026-09-19T01:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551794",
+  "tour": "t20676",
+  "what": "Mpumalanga v South Western Districts",
+  "from": "2026-09-20T07:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551792",
+  "tour": "t20676",
+  "what": "Northern Cape v Limpopo",
+  "from": "2026-09-20T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551793",
+  "tour": "t20676",
+  "what": "Easterns v Border",
+  "from": "2026-09-20T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1552794",
   "tour": "t23315",
   "what": "Cayman Islands v Bermuda",
-  "from": "2026-09-23T19:30:00Z"
+  "from": "2026-09-20T18:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1555255",
+  "tour": "t18940",
+  "what": "Brazil A Women v Chile Women",
+  "from": "2026-09-23T12:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1555386",
+  "tour": "t23315",
+  "what": "Cayman Islands v Bermuda",
+  "from": "2026-09-23T15:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1555256",
+  "tour": "t18940",
+  "what": "Chile Women v Costa Rica Women",
+  "from": "2026-09-23T16:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1555261",
+  "tour": "t18940",
+  "what": "Brazil A Women v Costa Rica Women",
+  "from": "2026-09-27T12:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1556876",
+  "tour": "t1556872",
+  "what": "Vancouver Warriors Women v Toronto Sixers Women",
+  "from": "2026-09-29T20:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1556688",
+  "tour": "t24139",
+  "what": "Brampton Blitz v Toronto Sixers",
+  "from": "2026-09-30T20:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1556877",
+  "tour": "t1556872",
+  "what": "Vancouver Anchors Women v Toronto Sixers Women",
+  "from": "2026-10-01T05:45:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1556878",
+  "tour": "t1556872",
+  "what": "Vancouver Anchors Women v Vancouver Warriors Women",
+  "from": "2026-10-01T20:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1556692",
+  "tour": "t24139",
+  "what": "Toronto Sixers v White Rock Warriors",
+  "from": "2026-10-02T01:45:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554535",
+  "tour": "t1554524",
+  "what": "Kuwait v Qatar",
+  "from": "2026-10-05T06:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554538",
+  "tour": "t1554524",
+  "what": "Kuwait v Mongolia",
+  "from": "2026-10-06T06:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554540",
+  "tour": "t1554524",
+  "what": "Bhutan v Mongolia",
+  "from": "2026-10-08T01:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554541",
+  "tour": "t1554524",
+  "what": "Bahrain v Myanmar",
+  "from": "2026-10-08T01:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554542",
+  "tour": "t1554524",
+  "what": "Mongolia v Thailand",
+  "from": "2026-10-09T01:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554544",
+  "tour": "t1554524",
+  "what": "Myanmar v Qatar",
+  "from": "2026-10-09T01:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554546",
+  "tour": "t1554524",
+  "what": "Bhutan v Qatar",
+  "from": "2026-10-11T06:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554547",
+  "tour": "t1554524",
+  "what": "Bahrain v Mongolia",
+  "from": "2026-10-11T06:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554550",
+  "tour": "t1554524",
+  "what": "Bhutan v Kuwait",
+  "from": "2026-10-12T06:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554551",
+  "tour": "t1554524",
+  "what": "Mongolia v Myanmar",
+  "from": "2026-10-14T01:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554552",
+  "tour": "t1554524",
+  "what": "Bahrain v Qatar",
+  "from": "2026-10-14T01:15:00Z"
  }
 ]
