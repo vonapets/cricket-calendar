@@ -894,5 +894,13 @@
   "short": "India Dom T20",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24484": {
+  "id": "24484",
+  "key": "t24484",
+  "name": "Bangladesh tour of South Africa 2026/27",
+  "short": "Bangladesh in South Africa 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
