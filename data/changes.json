@@ -1,1 +1,16 @@
-[]
+[
+ {
+  "kind": "dropped",
+  "id": "1547415",
+  "tour": "t8832",
+  "what": "Kurunegala Youth Cricket Club v Ace Capital Cricket Club",
+  "from": "2026-08-18T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1552907",
+  "tour": "t1552900",
+  "what": "Kenya v Sierra Leone",
+  "from": "2026-09-08T11:30:00Z"
+ }
+]

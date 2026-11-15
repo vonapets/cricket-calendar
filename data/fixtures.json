@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T15:46:00Z",
+ "generated_at": "2026-11-15T19:53:05Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -146,7 +146,7 @@
    "color": "#7a8899",
    "start": "2026-08-10",
    "end": "2026-09-11",
-   "matches": 45,
+   "matches": 44,
    "india": false,
    "world": false,
    "formats": [
@@ -569,7 +569,7 @@
    "color": "#7a8899",
    "start": "2026-09-08",
    "end": "2026-09-19",
-   "matches": 21,
+   "matches": 20,
    "india": false,
    "world": false,
    "formats": [
@@ -4882,28 +4882,6 @@
    "away_score": "149 (40.3/50 ov, target 228)",
    "venue": "Colts Cricket Club Ground, Colombo",
    "city": "Colombo",
-   "country": "Sri Lanka",
-   "format": "ODI",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1547415",
-   "tour": "t8832",
-   "utc": "2026-08-18T04:15:00Z",
-   "ts": 1787026500,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "Group A",
-   "home": "Kurunegala Youth Cricket Club",
-   "away": "Ace Capital Cricket Club",
-   "home_score": "178",
-   "away_score": "182/5 (34.4/50 ov, target 179)",
-   "venue": "Welagedara Stadium, Kurunegala",
-   "city": "Kurunegala",
    "country": "Sri Lanka",
    "format": "ODI",
    "note": "Final",
@@ -10340,28 +10318,6 @@
    "city": "",
    "country": "",
    "format": "Test",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1552907",
-   "tour": "t1552900",
-   "utc": "2026-09-08T11:30:00Z",
-   "ts": 1788867000,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "2nd Match",
-   "home": "Kenya",
-   "away": "Sierra Leone",
-   "home_score": "204/7",
-   "away_score": "110/7 (20 ov, target 205)",
-   "venue": "Gahanga B Ground, Rwanda",
-   "city": "Kigali City",
-   "country": "Rwanda",
-   "format": "T20",
    "note": "Final",
    "tbd": false,
    "disrupted": false,
@@ -30327,8 +30283,8 @@
    "tour": "t24826",
    "utc": "2026-11-12T08:00:00Z",
    "ts": 1794470400,
-   "status": "Live",
-   "status_long": "Live",
+   "status": "Final",
+   "status_long": "Final",
    "round": "2nd unofficial Test",
    "home": "Zimbabwe A",
    "away": "Ireland A",
@@ -30338,7 +30294,7 @@
    "city": "Harare",
    "country": "Zimbabwe",
    "format": "Test",
-   "note": "Live",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -31775,6 +31731,28 @@
    "india": false
   },
   {
+   "id": "1561224",
+   "tour": "t1561006",
+   "utc": "2026-11-15T05:00:00Z",
+   "ts": 1794718800,
+   "status": "Live",
+   "status_long": "Live",
+   "round": "Group B",
+   "home": "Pakistan-administered Kashmir Region",
+   "away": "Sialkot Region Whites",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Mehmood Stadium, Rahim Yar Khan",
+   "city": "Rahim Yar Khan",
+   "country": "Pakistan",
+   "format": "Test",
+   "note": "Live",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1561223",
    "tour": "t1561006",
    "utc": "2026-11-15T05:00:00Z",
@@ -31829,7 +31807,7 @@
    "home": "Dera Murad Jamali Region",
    "away": "Karachi Region Whites",
    "home_score": "",
-   "away_score": "",
+   "away_score": "245/7",
    "venue": "Bahawal Stadium, Bahawalpur",
    "city": "Bahawalpur",
    "country": "Pakistan",
@@ -31854,28 +31832,6 @@
    "away_score": "183/5 (47 ov)",
    "venue": "Karachi City C.A. Stadium",
    "city": "Karachi",
-   "country": "Pakistan",
-   "format": "Test",
-   "note": "Live",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1561224",
-   "tour": "t1561006",
-   "utc": "2026-11-15T05:00:00Z",
-   "ts": 1794718800,
-   "status": "Live",
-   "status_long": "Live",
-   "round": "Group B",
-   "home": "Pakistan-administered Kashmir Region",
-   "away": "Sialkot Region Whites",
-   "home_score": "",
-   "away_score": "",
-   "venue": "Mehmood Stadium, Rahim Yar Khan",
-   "city": "Rahim Yar Khan",
    "country": "Pakistan",
    "format": "Test",
    "note": "Live",
@@ -31929,19 +31885,19 @@
    "india": false
   },
   {
-   "id": "1561025",
+   "id": "1561023",
    "tour": "t1561011",
    "utc": "2026-11-15T05:00:00Z",
    "ts": 1794718800,
    "status": "Live",
    "status_long": "Live",
-   "round": "12th Match",
-   "home": "Lahore Region Whites",
-   "away": "Peshawar Region Blues",
-   "home_score": "116 & 0/0 (1 ov)",
-   "away_score": "138",
-   "venue": "Diamond Club Ground, Islamabad",
-   "city": "Islamabad",
+   "round": "10th Match",
+   "home": "Sialkot Region Blues",
+   "away": "Federally Administered Tribal Areas",
+   "home_score": "117",
+   "away_score": "44/5 (11.2 ov)",
+   "venue": "Abbottabad Cricket Stadium",
+   "city": "Abbottabad",
    "country": "Pakistan",
    "format": "Test",
    "note": "Live",
@@ -31973,19 +31929,19 @@
    "india": false
   },
   {
-   "id": "1561023",
+   "id": "1561025",
    "tour": "t1561011",
    "utc": "2026-11-15T05:00:00Z",
    "ts": 1794718800,
    "status": "Live",
    "status_long": "Live",
-   "round": "10th Match",
-   "home": "Sialkot Region Blues",
-   "away": "Federally Administered Tribal Areas",
-   "home_score": "117",
-   "away_score": "44/5 (11.2 ov)",
-   "venue": "Abbottabad Cricket Stadium",
-   "city": "Abbottabad",
+   "round": "12th Match",
+   "home": "Lahore Region Whites",
+   "away": "Peshawar Region Blues",
+   "home_score": "116 & 0/0 (1 ov)",
+   "away_score": "138",
+   "venue": "Diamond Club Ground, Islamabad",
+   "city": "Islamabad",
    "country": "Pakistan",
    "format": "Test",
    "note": "Live",
@@ -32307,18 +32263,18 @@
    "tour": "t18522",
    "utc": "2026-11-15T16:00:00Z",
    "ts": 1794758400,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Final",
+   "status_long": "Final",
    "round": "21st Match",
    "home": "United Tigers",
    "away": "Yas Lions",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "88",
+   "away_score": "90/2 (6/10 ov, target 89)",
    "venue": "Zayed Cricket Stadium, Abu Dhabi",
    "city": "Abu Dhabi",
    "country": "United Arab Emirates",
    "format": "ODI",
-   "note": "Scheduled",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -32329,8 +32285,8 @@
    "tour": "t24875",
    "utc": "2026-11-15T17:00:00Z",
    "ts": 1794762000,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "2nd T20I",
    "home": "Falkland Islands",
    "away": "Costa Rica",
@@ -32340,7 +32296,7 @@
    "city": "Stanley",
    "country": "Falkland Islands",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -45767,15 +45723,30 @@
    "india": false
   }
  ],
- "changes": [],
+ "changes": [
+  {
+   "kind": "dropped",
+   "id": "1547415",
+   "tour": "t8832",
+   "what": "Kurunegala Youth Cricket Club v Ace Capital Cricket Club",
+   "from": "2026-08-18T04:15:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1552907",
+   "tour": "t1552900",
+   "what": "Kenya v Sierra Leone",
+   "from": "2026-09-08T11:30:00Z"
+  }
+ ],
  "counts": {
   "tournaments": 120,
-  "fixtures": 1975,
+  "fixtures": 1973,
   "india": 60,
   "major": 42,
   "projected": 7,
   "projected_matches": 253,
-  "failures": 0
+  "failures": 1
  },
  "projection_horizon": "2027-03-31",
  "unpublished": [
@@ -45800,14 +45771,14 @@
   {
    "id": "24367",
    "name": "Bangladesh Women tour of Scotland 2026",
-   "matches": 4,
-   "last_seen": "2026-05-30 to 2026-06-04"
+   "matches": 3,
+   "last_seen": "2026-05-31 to 2026-06-04"
   },
   {
    "id": "24233",
    "name": "India Women tour of South Africa 2026",
-   "matches": 5,
-   "last_seen": "2026-04-17 to 2026-04-27"
+   "matches": 2,
+   "last_seen": "2026-04-25 to 2026-04-27"
   },
   {
    "id": "24258",
@@ -45824,19 +45795,19 @@
   {
    "id": "24382",
    "name": "New Zealand A Women tour of Sri Lanka 2026",
-   "matches": 6,
-   "last_seen": "2026-05-12 to 2026-05-25"
+   "matches": 2,
+   "last_seen": "2026-05-23 to 2026-05-25"
   },
   {
    "id": "24294",
    "name": "New Zealand A tour of Sri Lanka 2026",
-   "matches": 5,
-   "last_seen": "2026-04-05 to 2026-04-23"
+   "matches": 2,
+   "last_seen": "2026-04-08 to 2026-04-23"
   },
   {
    "id": "24246",
    "name": "New Zealand tour of Bangladesh 2026",
-   "matches": 6,
+   "matches": 5,
    "last_seen": "2026-04-17 to 2026-05-02"
   },
   {
@@ -45872,7 +45843,7 @@
   {
    "id": "24256",
    "name": "West Indies Women tour of Ireland 2026",
-   "matches": 7,
+   "matches": 6,
    "last_seen": "2026-05-28 to 2026-07-15"
   },
   {
@@ -45900,6 +45871,8 @@
    "last_seen": "2026-06-18 to 2026-06-23"
   }
  ],
- "failures": [],
+ "failures": [
+  "Afghanistan tour of United Arab Emirates [Mar 2026] 2025/26 2027: giving up on https://site.api.espn.com/apis/site/v2/sports/cricket/24206/scoreboard?dates=2027: HTTP Error 502: Bad Gateway"
+ ],
  "warnings": []
 }
