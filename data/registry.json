@@ -902,5 +902,13 @@
   "short": "Bangladesh in South Africa 2026-27",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24875": {
+  "id": "24875",
+  "key": "t24875",
+  "name": "Costa Rica tour of Falkland Islands 2026/27",
+  "short": "Costa Rica in Falkland Islands 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }

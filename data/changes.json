@@ -1,324 +1,98 @@
 [
  {
-  "kind": "added",
-  "id": "1535681",
-  "tour": "t24377",
-  "what": "India Under-19s v Australia Under-19s",
-  "to": "2026-09-18T03:30:00Z"
+  "kind": "moved",
+  "id": "1546695",
+  "tour": "t8661",
+  "what": "Nagaland v Manipur",
+  "from": "2026-11-16T03:00:00Z",
+  "to": "2026-11-16T02:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546694",
+  "tour": "t8661",
+  "what": "Sikkim v Arunachal Pradesh",
+  "from": "2026-11-16T03:00:00Z",
+  "to": "2026-11-16T02:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546690",
+  "tour": "t8661",
+  "what": "Vidarbha v Odisha",
+  "from": "2026-11-16T03:30:00Z",
+  "to": "2026-11-16T02:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546692",
+  "tour": "t8661",
+  "what": "Gujarat v Mumbai",
+  "from": "2026-11-16T08:00:00Z",
+  "to": "2026-11-16T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546696",
+  "tour": "t8661",
+  "what": "Services v Meghalaya",
+  "from": "2026-11-16T07:30:00Z",
+  "to": "2026-11-16T07:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1550139",
-  "tour": "t24694",
-  "what": "South Africa A v Bangladesh A",
-  "to": "2026-09-09T07:30:00Z"
+  "id": "1562227",
+  "tour": "t24875",
+  "what": "Falkland Islands v Costa Rica",
+  "to": "2026-11-15T13:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1554535",
-  "tour": "t1554524",
-  "what": "Kuwait v Qatar",
-  "to": "2026-10-05T06:00:00Z"
+  "id": "1562228",
+  "tour": "t24875",
+  "what": "Falkland Islands v Costa Rica",
+  "to": "2026-11-15T17:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1554538",
-  "tour": "t1554524",
-  "what": "Kuwait v Mongolia",
-  "to": "2026-10-06T06:00:00Z"
+  "id": "1562229",
+  "tour": "t24875",
+  "what": "Falkland Islands v Costa Rica",
+  "to": "2026-11-16T13:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1554540",
-  "tour": "t1554524",
-  "what": "Bhutan v Mongolia",
-  "to": "2026-10-08T01:15:00Z"
+  "id": "1562230",
+  "tour": "t24875",
+  "what": "Falkland Islands v Costa Rica",
+  "to": "2026-11-16T17:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1554541",
-  "tour": "t1554524",
-  "what": "Bahrain v Myanmar",
-  "to": "2026-10-08T01:15:00Z"
+  "id": "1562231",
+  "tour": "t24875",
+  "what": "Falkland Islands v Costa Rica",
+  "to": "2026-11-17T17:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1554542",
-  "tour": "t1554524",
-  "what": "Mongolia v Thailand",
-  "to": "2026-10-09T01:15:00Z"
+  "id": "1562232",
+  "tour": "t24875",
+  "what": "Falkland Islands v Costa Rica",
+  "to": "2026-11-18T17:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1554544",
-  "tour": "t1554524",
-  "what": "Myanmar v Qatar",
-  "to": "2026-10-09T01:15:00Z"
+  "id": "1562233",
+  "tour": "t24875",
+  "what": "Falkland Islands v Costa Rica",
+  "to": "2026-11-19T13:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1554546",
-  "tour": "t1554524",
-  "what": "Bhutan v Qatar",
-  "to": "2026-10-11T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554547",
-  "tour": "t1554524",
-  "what": "Bahrain v Mongolia",
-  "to": "2026-10-11T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554550",
-  "tour": "t1554524",
-  "what": "Bhutan v Kuwait",
-  "to": "2026-10-12T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554551",
-  "tour": "t1554524",
-  "what": "Mongolia v Myanmar",
-  "to": "2026-10-14T01:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554552",
-  "tour": "t1554524",
-  "what": "Bahrain v Qatar",
-  "to": "2026-10-14T01:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1537349",
-  "tour": "lpl",
-  "what": "Colombo Kaps v Galle Gallants",
-  "to": "2026-08-01T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552800",
-  "tour": "t23315",
-  "what": "Bahamas v Bermuda",
-  "to": "2026-09-26T18:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513505",
-  "tour": "t8335",
-  "what": "Somerset v Surrey",
-  "to": "2026-08-07T13:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535515",
-  "tour": "slt20",
-  "what": "Burgher Recreation Club v Police Sports Club",
-  "to": "2026-08-12T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535517",
-  "tour": "slt20",
-  "what": "Colts Cricket Club v Sinhalese Sports Club",
-  "to": "2026-08-12T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535514",
-  "tour": "slt20",
-  "what": "Tamil Union Cricket and Athletic Club v Kurunegala Youth Cricket Club",
-  "to": "2026-08-12T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535520",
-  "tour": "slt20",
-  "what": "Nugegoda Sports Welfare Club v Burgher Recreation Club",
-  "to": "2026-08-17T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535530",
-  "tour": "slt20",
-  "what": "Nondescripts Cricket Club v Panadura Sports Club",
-  "to": "2026-08-24T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535534",
-  "tour": "slt20",
-  "what": "Kurunegala Youth Cricket Club v Nugegoda Sports Welfare Club",
-  "to": "2026-08-24T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535496",
-  "tour": "slt20",
-  "what": "Burgher Recreation Club v Kurunegala Youth Cricket Club",
-  "to": "2026-08-28T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535498",
-  "tour": "slt20",
-  "what": "Nugegoda Sports Welfare Club v Tamil Union Cricket and Athletic Club",
-  "to": "2026-08-28T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535499",
-  "tour": "slt20",
-  "what": "Ace Capital Cricket Club v Bloomfield Cricket and Athletic Club",
-  "to": "2026-08-28T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535497",
-  "tour": "slt20",
-  "what": "Badureliya Sports Club v Colts Cricket Club",
-  "to": "2026-08-28T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535511",
-  "tour": "slt20",
-  "what": "Colts Cricket Club v Nondescripts Cricket Club",
-  "to": "2026-09-05T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535507",
-  "tour": "slt20",
-  "what": "Badureliya Sports Club v Panadura Sports Club",
-  "to": "2026-09-05T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535508",
-  "tour": "slt20",
-  "what": "Nugegoda Sports Welfare Club v Police Sports Club",
-  "to": "2026-09-05T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535537",
-  "tour": "slt20",
-  "what": "Sinhalese Sports Club v Police Sports Club",
-  "to": "2026-09-09T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551069",
-  "tour": "t24741",
-  "what": "Serbia Women v Bulgaria Women",
-  "to": "2026-09-05T12:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1555255",
-  "tour": "t18940",
-  "what": "Brazil A Women v Chile Women",
-  "to": "2026-09-23T12:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1555256",
-  "tour": "t18940",
-  "what": "Chile Women v Costa Rica Women",
-  "to": "2026-09-23T16:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1555261",
-  "tour": "t18940",
-  "what": "Brazil A Women v Costa Rica Women",
-  "to": "2026-09-27T12:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1558403",
-  "tour": "t22804",
-  "what": "Hobart Hurricanes Women v Melbourne Renegades Women",
-  "to": "2026-10-17T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521227",
-  "tour": "hun_w",
-  "what": "Welsh Fire (Women) v London Spirit (Women)",
-  "to": "2026-08-12T10:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545806",
-  "tour": "t8897",
-  "what": "Queensland Women v Western Australia Women",
-  "to": "2027-02-23T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545808",
-  "tour": "t8897",
-  "what": "Victoria Women v Australian Capital Territory Women",
-  "to": "2027-02-23T03:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1525662",
-  "tour": "t24484",
-  "what": "South Africa v Bangladesh",
-  "to": "2026-11-15T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1525663",
-  "tour": "t24484",
-  "what": "South Africa v Bangladesh",
-  "to": "2026-11-23T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1525664",
-  "tour": "t24484",
-  "what": "South Africa v Bangladesh",
-  "to": "2026-12-01T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1525665",
-  "tour": "t24484",
-  "what": "South Africa v Bangladesh",
-  "to": "2026-12-04T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1525666",
-  "tour": "t24484",
-  "what": "South Africa v Bangladesh",
-  "to": "2026-12-07T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1525667",
-  "tour": "t24484",
-  "what": "South Africa v Bangladesh",
-  "to": "2026-12-10T16:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1525668",
-  "tour": "t24484",
-  "what": "South Africa v Bangladesh",
-  "to": "2026-12-12T12:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1525669",
-  "tour": "t24484",
-  "what": "South Africa v Bangladesh",
-  "to": "2026-12-13T12:30:00Z"
+  "id": "1562234",
+  "tour": "t24875",
+  "what": "Falkland Islands v Costa Rica",
+  "to": "2026-11-19T17:00:00Z"
  }
 ]
