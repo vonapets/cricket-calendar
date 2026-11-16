@@ -1,23 +1,401 @@
 [
  {
-  "kind": "added",
-  "id": "1552907",
-  "tour": "t1552900",
-  "what": "Kenya v Sierra Leone",
-  "to": "2026-09-08T11:30:00Z"
+  "kind": "moved",
+  "id": "1559698",
+  "tour": "t8838",
+  "what": "Mid West Rhinos v Mashonaland Eagles",
+  "from": "2026-11-20T07:30:00Z",
+  "to": "2026-11-22T07:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1559700",
+  "tour": "t8838",
+  "what": "Mid West Rhinos v Mashonaland Eagles",
+  "from": "2026-11-22T07:30:00Z",
+  "to": "2026-11-24T07:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546686",
+  "tour": "t8661",
+  "what": "Himachal Pradesh v Andhra",
+  "from": "2026-11-16T03:30:00Z",
+  "to": "2026-11-16T03:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546688",
+  "tour": "t8661",
+  "what": "Tripura v Puducherry",
+  "from": "2026-11-16T08:00:00Z",
+  "to": "2026-11-16T07:15:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546709",
+  "tour": "t8661",
+  "what": "Chhattisgarh v Odisha",
+  "from": "2026-11-18T03:30:00Z",
+  "to": "2026-11-18T02:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546714",
+  "tour": "t8661",
+  "what": "Services v Arunachal Pradesh",
+  "from": "2026-11-18T03:00:00Z",
+  "to": "2026-11-18T02:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546713",
+  "tour": "t8661",
+  "what": "Sikkim v Nagaland",
+  "from": "2026-11-18T03:00:00Z",
+  "to": "2026-11-18T02:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546705",
+  "tour": "t8661",
+  "what": "Keralam v Andhra",
+  "from": "2026-11-18T03:30:00Z",
+  "to": "2026-11-18T03:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546710",
+  "tour": "t8661",
+  "what": "Hyderabad (India) v Vidarbha",
+  "from": "2026-11-18T05:00:00Z",
+  "to": "2026-11-18T05:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546711",
+  "tour": "t8661",
+  "what": "Goa v Mumbai",
+  "from": "2026-11-18T08:00:00Z",
+  "to": "2026-11-18T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546715",
+  "tour": "t8661",
+  "what": "Meghalaya v Manipur",
+  "from": "2026-11-18T07:30:00Z",
+  "to": "2026-11-18T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546707",
+  "tour": "t8661",
+  "what": "Assam v Puducherry",
+  "from": "2026-11-18T08:00:00Z",
+  "to": "2026-11-18T07:15:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546732",
+  "tour": "t8661",
+  "what": "Arunachal Pradesh v Meghalaya",
+  "from": "2026-11-20T03:00:00Z",
+  "to": "2026-11-20T02:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546728",
+  "tour": "t8661",
+  "what": "Hyderabad (India) v Goa",
+  "from": "2026-11-20T03:30:00Z",
+  "to": "2026-11-20T02:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546733",
+  "tour": "t8661",
+  "what": "Services v Nagaland",
+  "from": "2026-11-20T03:00:00Z",
+  "to": "2026-11-20T02:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546724",
+  "tour": "t8661",
+  "what": "Maharashtra v Assam",
+  "from": "2026-11-20T03:30:00Z",
+  "to": "2026-11-20T03:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546730",
+  "tour": "t8661",
+  "what": "Chhattisgarh v Tripura",
+  "from": "2026-11-20T08:00:00Z",
+  "to": "2026-11-20T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546734",
+  "tour": "t8661",
+  "what": "Sikkim v Manipur",
+  "from": "2026-11-20T07:30:00Z",
+  "to": "2026-11-20T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546726",
+  "tour": "t8661",
+  "what": "Keralam v Tripura",
+  "from": "2026-11-20T08:00:00Z",
+  "to": "2026-11-20T07:15:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546751",
+  "tour": "t8661",
+  "what": "Services v Manipur",
+  "from": "2026-11-22T03:00:00Z",
+  "to": "2026-11-22T02:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546752",
+  "tour": "t8661",
+  "what": "Sikkim v Meghalaya",
+  "from": "2026-11-22T03:00:00Z",
+  "to": "2026-11-22T02:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546747",
+  "tour": "t8661",
+  "what": "Vidarbha v Gujarat",
+  "from": "2026-11-22T03:00:00Z",
+  "to": "2026-11-22T02:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546744",
+  "tour": "t8661",
+  "what": "Keralam v Puducherry",
+  "from": "2026-11-22T05:00:00Z",
+  "to": "2026-11-22T05:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546753",
+  "tour": "t8661",
+  "what": "Arunachal Pradesh v Nagaland",
+  "from": "2026-11-22T07:30:00Z",
+  "to": "2026-11-22T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546749",
+  "tour": "t8661",
+  "what": "Uttarakhand v Hyderabad (India)",
+  "from": "2026-11-22T08:00:00Z",
+  "to": "2026-11-22T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546745",
+  "tour": "t8661",
+  "what": "Madhya Pradesh v Maharashtra",
+  "from": "2026-11-22T08:00:00Z",
+  "to": "2026-11-22T07:15:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546766",
+  "tour": "t8661",
+  "what": "Chhattisgarh v Goa",
+  "from": "2026-11-24T03:30:00Z",
+  "to": "2026-11-24T02:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546762",
+  "tour": "t8661",
+  "what": "Keralam v Assam",
+  "from": "2026-11-24T03:30:00Z",
+  "to": "2026-11-24T03:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546770",
+  "tour": "t8661",
+  "what": "TBA v TBA",
+  "from": "2026-11-24T07:30:00Z",
+  "to": "2026-11-24T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546768",
+  "tour": "t8661",
+  "what": "Uttarakhand v Vidarbha",
+  "from": "2026-11-24T08:00:00Z",
+  "to": "2026-11-24T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546764",
+  "tour": "t8661",
+  "what": "Madhya Pradesh v Himachal Pradesh",
+  "from": "2026-11-24T08:00:00Z",
+  "to": "2026-11-24T07:15:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546783",
+  "tour": "t8661",
+  "what": "Uttarakhand v Mumbai",
+  "from": "2026-11-26T03:30:00Z",
+  "to": "2026-11-26T02:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546779",
+  "tour": "t8661",
+  "what": "Madhya Pradesh v Puducherry",
+  "from": "2026-11-26T03:30:00Z",
+  "to": "2026-11-26T03:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546780",
+  "tour": "t8661",
+  "what": "Keralam v Himachal Pradesh",
+  "from": "2026-11-26T05:00:00Z",
+  "to": "2026-11-26T05:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546785",
+  "tour": "t8661",
+  "what": "Hyderabad (India) v Odisha",
+  "from": "2026-11-26T08:00:00Z",
+  "to": "2026-11-26T07:00:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546781",
+  "tour": "t8661",
+  "what": "Maharashtra v Andhra",
+  "from": "2026-11-26T08:00:00Z",
+  "to": "2026-11-26T07:15:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546787",
+  "tour": "t8661",
+  "what": "TBA v TBA",
+  "from": "2026-11-30T00:00:00Z",
+  "to": "2026-11-30T03:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546788",
+  "tour": "t8661",
+  "what": "TBA v TBA",
+  "from": "2026-11-30T00:00:00Z",
+  "to": "2026-11-30T03:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546789",
+  "tour": "t8661",
+  "what": "TBA v TBA",
+  "from": "2026-11-30T00:00:00Z",
+  "to": "2026-11-30T03:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546790",
+  "tour": "t8661",
+  "what": "TBA v TBA",
+  "from": "2026-11-30T00:00:00Z",
+  "to": "2026-11-30T03:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546791",
+  "tour": "t8661",
+  "what": "TBA v TBA",
+  "from": "2026-12-02T00:00:00Z",
+  "to": "2026-12-02T03:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546792",
+  "tour": "t8661",
+  "what": "TBA v TBA",
+  "from": "2026-12-02T00:00:00Z",
+  "to": "2026-12-02T03:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546793",
+  "tour": "t8661",
+  "what": "TBA v TBA",
+  "from": "2026-12-02T00:00:00Z",
+  "to": "2026-12-02T03:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546794",
+  "tour": "t8661",
+  "what": "TBA v TBA",
+  "from": "2026-12-02T00:00:00Z",
+  "to": "2026-12-02T03:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546795",
+  "tour": "t8661",
+  "what": "TBA v TBA",
+  "from": "2026-12-04T00:00:00Z",
+  "to": "2026-12-04T03:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546796",
+  "tour": "t8661",
+  "what": "TBA v TBA",
+  "from": "2026-12-04T00:00:00Z",
+  "to": "2026-12-04T03:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546797",
+  "tour": "t8661",
+  "what": "TBA v TBA",
+  "from": "2026-12-04T00:00:00Z",
+  "to": "2026-12-04T03:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546798",
+  "tour": "t8661",
+  "what": "TBA v TBA",
+  "from": "2026-12-04T00:00:00Z",
+  "to": "2026-12-04T03:30:00Z"
+ },
+ {
+  "kind": "moved",
+  "id": "1546799",
+  "tour": "t8661",
+  "what": "TBA v TBA",
+  "from": "2026-12-06T00:00:00Z",
+  "to": "2026-12-06T03:30:00Z"
  },
  {
   "kind": "added",
-  "id": "1547415",
-  "tour": "t8832",
-  "what": "Kurunegala Youth Cricket Club v Ace Capital Cricket Club",
-  "to": "2026-08-18T04:15:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1545815",
   "tour": "t8897",
   "what": "Western Australia Women v New South Wales Women",
-  "from": "2027-03-12T05:30:00Z"
+  "to": "2027-03-12T05:30:00Z"
  }
 ]
