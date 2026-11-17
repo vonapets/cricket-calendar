@@ -1,34 +1,16 @@
 [
  {
-  "kind": "moved",
-  "id": "1562231",
-  "tour": "t24875",
-  "what": "Falkland Islands v Costa Rica",
-  "from": "2026-11-17T17:00:00Z",
-  "to": "2026-11-17T13:00:00Z"
+  "kind": "dropped",
+  "id": "1535524",
+  "tour": "slt20",
+  "what": "Burgher Recreation Club v Colombo Cricket Club",
+  "from": "2026-08-20T08:30:00Z"
  },
  {
-  "kind": "moved",
-  "id": "1562232",
-  "tour": "t24875",
-  "what": "Falkland Islands v Costa Rica",
-  "from": "2026-11-18T17:00:00Z",
-  "to": "2026-11-17T17:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1562233",
-  "tour": "t24875",
-  "what": "Falkland Islands v Costa Rica",
-  "from": "2026-11-19T13:00:00Z",
-  "to": "2026-11-18T13:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1562234",
-  "tour": "t24875",
-  "what": "Falkland Islands v Costa Rica",
-  "from": "2026-11-19T17:00:00Z",
-  "to": "2026-11-18T17:00:00Z"
+  "kind": "dropped",
+  "id": "1535527",
+  "tour": "slt20",
+  "what": "Tamil Union Cricket and Athletic Club v Moors Sports Club",
+  "from": "2026-08-20T08:30:00Z"
  }
 ]
