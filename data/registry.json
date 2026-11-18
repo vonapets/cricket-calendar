@@ -918,5 +918,13 @@
   "short": "Plunket Shield",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "20978": {
+  "id": "20978",
+  "key": "t20978",
+  "name": "SLC Major League Tournament",
+  "short": "Major League Tournament",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
