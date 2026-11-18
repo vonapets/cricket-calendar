@@ -910,5 +910,13 @@
   "short": "Costa Rica in Falkland Islands 2026-27",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "8828": {
+  "id": "8828",
+  "key": "t8828",
+  "name": "Plunket Shield",
+  "short": "Plunket Shield",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
