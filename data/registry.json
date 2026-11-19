@@ -934,5 +934,13 @@
   "short": "Asia Cup Rising Stars (50 Ov)",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1562322": {
+  "id": "1562322",
+  "key": "t1562322",
+  "name": "Malaysia Women's T20I Tri-Series 2026/27",
+  "short": "Malaysia Women's T",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
