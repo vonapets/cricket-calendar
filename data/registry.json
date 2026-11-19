@@ -926,5 +926,13 @@
   "short": "Major League Tournament",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "1562333": {
+  "id": "1562333",
+  "key": "t1562333",
+  "name": "Asia Cup Rising Stars (50 Overs)",
+  "short": "Asia Cup Rising Stars (50 Ov)",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
