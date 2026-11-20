@@ -942,5 +942,13 @@
   "short": "Malaysia Women's T",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "20921": {
+  "id": "20921",
+  "key": "t20921",
+  "name": "International League T20",
+  "short": "ILT20",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
