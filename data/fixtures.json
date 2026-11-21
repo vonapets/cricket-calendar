@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T21:53:42Z",
+ "generated_at": "2026-11-21T04:21:08Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -165,7 +165,7 @@
    "color": "#6d675d",
    "start": "2026-08-12",
    "end": "2026-09-16",
-   "matches": 44,
+   "matches": 45,
    "india": false,
    "world": false,
    "formats": [
@@ -203,7 +203,7 @@
    "color": "#7a8899",
    "start": "2026-08-17",
    "end": "2026-09-08",
-   "matches": 13,
+   "matches": 16,
    "india": false,
    "world": false,
    "formats": [
@@ -357,7 +357,7 @@
    "color": "#c8801a",
    "start": "2026-08-28",
    "end": "2026-09-13",
-   "matches": 13,
+   "matches": 15,
    "india": false,
    "world": true,
    "formats": [
@@ -395,7 +395,7 @@
    "color": "#c8801a",
    "start": "2026-08-30",
    "end": "2026-09-12",
-   "matches": 19,
+   "matches": 18,
    "india": false,
    "world": false,
    "formats": [
@@ -444,6 +444,26 @@
    "planned": false
   },
   {
+   "key": "t24681",
+   "id": "24681",
+   "name": "United Arab Emirates tour of Malaysia 2026",
+   "short": "United Arab Emirates in Malaysia 2026",
+   "group": "Discovered",
+   "color": "#7a8899",
+   "start": "2026-08-31",
+   "end": "2026-09-17",
+   "matches": 9,
+   "india": false,
+   "world": false,
+   "formats": [
+    "ODI",
+    "T20"
+   ],
+   "in_india": false,
+   "tier": "minor",
+   "planned": false
+  },
+  {
    "key": "t23803",
    "id": "23803",
    "name": "Ireland Women tour of England 2026",
@@ -471,33 +491,13 @@
    "group": "Discovered",
    "color": "#7a8899",
    "start": "2026-09-02",
-   "end": "2026-09-16",
-   "matches": 5,
+   "end": "2026-09-14",
+   "matches": 4,
    "india": false,
    "world": false,
    "formats": [
     "ODI",
     "Test"
-   ],
-   "in_india": false,
-   "tier": "minor",
-   "planned": false
-  },
-  {
-   "key": "t24681",
-   "id": "24681",
-   "name": "United Arab Emirates tour of Malaysia 2026",
-   "short": "United Arab Emirates in Malaysia 2026",
-   "group": "Discovered",
-   "color": "#7a8899",
-   "start": "2026-09-03",
-   "end": "2026-09-17",
-   "matches": 8,
-   "india": false,
-   "world": false,
-   "formats": [
-    "ODI",
-    "T20"
    ],
    "in_india": false,
    "tier": "minor",
@@ -531,7 +531,7 @@
    "color": "#7a8899",
    "start": "2026-09-04",
    "end": "2026-09-06",
-   "matches": 6,
+   "matches": 5,
    "india": false,
    "world": false,
    "formats": [
@@ -569,7 +569,7 @@
    "color": "#7a8899",
    "start": "2026-09-08",
    "end": "2026-09-19",
-   "matches": 18,
+   "matches": 20,
    "india": false,
    "world": false,
    "formats": [
@@ -618,15 +618,15 @@
    "planned": false
   },
   {
-   "key": "t24737",
-   "id": "24737",
-   "name": "Malaysia Women tour of Japan 2026",
-   "short": "Malaysia Women in Japan 2026",
+   "key": "t24565",
+   "id": "24565",
+   "name": "South Africa Women tour of Zimbabwe 2026",
+   "short": "South Africa Women in Zimbabwe 2026",
    "group": "Discovered",
    "color": "#7a8899",
    "start": "2026-09-11",
-   "end": "2026-09-18",
-   "matches": 4,
+   "end": "2026-09-19",
+   "matches": 5,
    "india": false,
    "world": false,
    "formats": [
@@ -634,6 +634,26 @@
    ],
    "in_india": false,
    "tier": "minor",
+   "planned": false
+  },
+  {
+   "key": "t23802",
+   "id": "23802",
+   "name": "Sri Lanka tour of England 2026",
+   "short": "Sri Lanka in England 2026",
+   "group": "Discovered",
+   "color": "#7a8899",
+   "start": "2026-09-11",
+   "end": "2026-09-27",
+   "matches": 8,
+   "india": false,
+   "world": false,
+   "formats": [
+    "ODI",
+    "T20"
+   ],
+   "in_india": false,
+   "tier": "major",
    "planned": false
   },
   {
@@ -654,6 +674,25 @@
     "Test"
    ],
    "in_india": true,
+   "tier": "minor",
+   "planned": false
+  },
+  {
+   "key": "t24737",
+   "id": "24737",
+   "name": "Malaysia Women tour of Japan 2026",
+   "short": "Malaysia Women in Japan 2026",
+   "group": "Discovered",
+   "color": "#7a8899",
+   "start": "2026-09-12",
+   "end": "2026-09-18",
+   "matches": 2,
+   "india": false,
+   "world": false,
+   "formats": [
+    "T20"
+   ],
+   "in_india": false,
    "tier": "minor",
    "planned": false
   },
@@ -715,25 +754,6 @@
    "planned": false
   },
   {
-   "key": "t24565",
-   "id": "24565",
-   "name": "South Africa Women tour of Zimbabwe 2026",
-   "short": "South Africa Women in Zimbabwe 2026",
-   "group": "Discovered",
-   "color": "#7a8899",
-   "start": "2026-09-13",
-   "end": "2026-09-19",
-   "matches": 4,
-   "india": false,
-   "world": false,
-   "formats": [
-    "T20"
-   ],
-   "in_india": false,
-   "tier": "minor",
-   "planned": false
-  },
-  {
    "key": "t24303",
    "id": "24303",
    "name": "Australia tour of Zimbabwe 2026",
@@ -747,26 +767,6 @@
    "world": false,
    "formats": [
     "ODI"
-   ],
-   "in_india": false,
-   "tier": "major",
-   "planned": false
-  },
-  {
-   "key": "t23802",
-   "id": "23802",
-   "name": "Sri Lanka tour of England 2026",
-   "short": "Sri Lanka in England 2026",
-   "group": "Discovered",
-   "color": "#7a8899",
-   "start": "2026-09-15",
-   "end": "2026-09-27",
-   "matches": 6,
-   "india": false,
-   "world": false,
-   "formats": [
-    "ODI",
-    "T20"
    ],
    "in_india": false,
    "tier": "major",
@@ -935,7 +935,7 @@
    "color": "#7a8899",
    "start": "2026-09-23",
    "end": "2026-09-27",
-   "matches": 7,
+   "matches": 6,
    "india": false,
    "world": false,
    "formats": [
@@ -1070,8 +1070,8 @@
    "group": "Discovered",
    "color": "#7a8899",
    "start": "2026-09-29",
-   "end": "2026-10-05",
-   "matches": 18,
+   "end": "2026-10-04",
+   "matches": 16,
    "india": false,
    "world": false,
    "formats": [
@@ -1109,7 +1109,7 @@
    "color": "#7a8899",
    "start": "2026-09-29",
    "end": "2027-03-20",
-   "matches": 42,
+   "matches": 43,
    "india": false,
    "world": false,
    "formats": [
@@ -1147,7 +1147,7 @@
    "color": "#7a8899",
    "start": "2026-10-02",
    "end": "2026-10-16",
-   "matches": 10,
+   "matches": 9,
    "india": false,
    "world": false,
    "formats": [
@@ -1437,7 +1437,7 @@
    "color": "#7a8899",
    "start": "2026-10-15",
    "end": "2026-10-18",
-   "matches": 8,
+   "matches": 6,
    "india": false,
    "world": false,
    "formats": [
@@ -1995,8 +1995,8 @@
    "group": "Discovered",
    "color": "#7a8899",
    "start": "2026-11-13",
-   "end": "2027-02-12",
-   "matches": 27,
+   "end": "2027-02-19",
+   "matches": 31,
    "india": false,
    "world": false,
    "formats": [
@@ -4924,6 +4924,28 @@
    "india": false
   },
   {
+   "id": "1534404",
+   "tour": "t8859",
+   "utc": "2026-08-18T10:00:00Z",
+   "ts": 1787047200,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group 2",
+   "home": "Leicestershire 2nd XI",
+   "away": "Hampshire 2nd XI",
+   "home_score": "376/8d",
+   "away_score": "350 & 199/1d (53 ov)",
+   "venue": "Park Road Ground, Loughborough",
+   "city": "Loughborough",
+   "country": "England",
+   "format": "Test",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1534401",
    "tour": "t8859",
    "utc": "2026-08-18T10:00:00Z",
@@ -5804,28 +5826,6 @@
    "india": false
   },
   {
-   "id": "1535530",
-   "tour": "slt20",
-   "utc": "2026-08-24T04:15:00Z",
-   "ts": 1787544900,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "Group B",
-   "home": "Nondescripts Cricket Club",
-   "away": "Panadura Sports Club",
-   "home_score": "140/8 (20 ov, target 143)",
-   "away_score": "142/9",
-   "venue": "Colts Cricket Club Ground, Colombo",
-   "city": "Colombo",
-   "country": "Sri Lanka",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1535532",
    "tour": "slt20",
    "utc": "2026-08-24T04:15:00Z",
@@ -6618,6 +6618,28 @@
    "india": false
   },
   {
+   "id": "1535498",
+   "tour": "slt20",
+   "utc": "2026-08-28T04:15:00Z",
+   "ts": 1787890500,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group A",
+   "home": "Nugegoda Sports Welfare Club",
+   "away": "Tamil Union Cricket and Athletic Club",
+   "home_score": "152/9 (20 ov, target 181)",
+   "away_score": "180/9",
+   "venue": "Nondescripts Cricket Club Ground, Colombo",
+   "city": "Colombo",
+   "country": "Sri Lanka",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1535499",
    "tour": "slt20",
    "utc": "2026-08-28T08:30:00Z",
@@ -7256,28 +7278,6 @@
    "india": false
   },
   {
-   "id": "1549948",
-   "tour": "acc_pc",
-   "utc": "2026-08-31T01:30:00Z",
-   "ts": 1788139800,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "3rd Match, Group B",
-   "home": "Qatar",
-   "away": "United Arab Emirates",
-   "home_score": "171 (37.3/50 ov, target 264)",
-   "away_score": "263/9",
-   "venue": "Bayuemas Oval, Kuala Lumpur",
-   "city": "Kuala Lumpur",
-   "country": "Malaysia",
-   "format": "ODI",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1549949",
    "tour": "acc_pc",
    "utc": "2026-08-31T01:30:00Z",
@@ -7291,6 +7291,28 @@
    "away_score": "88/3 (21/50 ov, target 88)",
    "venue": "YSD-UKM Cricket Oval, Bangi",
    "city": "Bangi",
+   "country": "Malaysia",
+   "format": "ODI",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1549948",
+   "tour": "t24681",
+   "utc": "2026-08-31T01:30:00Z",
+   "ts": 1788139800,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "3rd Match, Group B",
+   "home": "Qatar",
+   "away": "United Arab Emirates",
+   "home_score": "171 (37.3/50 ov, target 264)",
+   "away_score": "263/9",
+   "venue": "Bayuemas Oval, Kuala Lumpur",
+   "city": "Kuala Lumpur",
    "country": "Malaysia",
    "format": "ODI",
    "note": "Final",
@@ -7315,6 +7337,28 @@
    "city": "Panadura",
    "country": "Sri Lanka",
    "format": "ODI",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1534418",
+   "tour": "t8859",
+   "utc": "2026-08-31T10:00:00Z",
+   "ts": 1788170400,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group 1",
+   "home": "Warwickshire 2nd XI",
+   "away": "Derbyshire 2nd XI",
+   "home_score": "60/0d & 402/5 (88 ov, target 402)",
+   "away_score": "461/8d & forfeit",
+   "venue": "Edgbaston Foundation Community Sports Ground, Birmingham",
+   "city": "Birmingham",
+   "country": "England",
+   "format": "Test",
    "note": "Final",
    "tbd": false,
    "disrupted": false,
@@ -7557,6 +7601,28 @@
    "city": "Stirling",
    "country": "Scotland",
    "format": "ODI",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1534415",
+   "tour": "t8859",
+   "utc": "2026-09-01T10:00:00Z",
+   "ts": 1788256800,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group 3",
+   "home": "Durham 2nd XI",
+   "away": "Somerset 2nd XI",
+   "home_score": "407/8d & 241/5d",
+   "away_score": "329 & 176/4 (32 ov, target 320)",
+   "venue": "Eastwood Gardens, Gateshead Fell",
+   "city": "Gateshead Fell",
+   "country": "England",
+   "format": "Test",
    "note": "Final",
    "tbd": false,
    "disrupted": false,
@@ -8070,6 +8136,28 @@
    "india": false
   },
   {
+   "id": "1548896",
+   "tour": "asia_w",
+   "utc": "2026-09-02T14:30:00Z",
+   "ts": 1788359400,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "6th Match, Group B",
+   "home": "Indonesia Women",
+   "away": "Sri Lanka Women",
+   "home_score": "49 (18.3/20 ov, target 125)",
+   "away_score": "124/7",
+   "venue": "Dubai International Cricket Stadium",
+   "city": "Dubai",
+   "country": "United Arab Emirates",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1534202",
    "tour": "cpl",
    "utc": "2026-09-02T23:00:00Z",
@@ -8392,6 +8480,28 @@
    "venue": "Sportpark Westvliet, The Hague",
    "city": "The Hague",
    "country": "Netherlands",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1548897",
+   "tour": "asia_w",
+   "utc": "2026-09-03T14:30:00Z",
+   "ts": 1788445800,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "7th Match, Group A",
+   "home": "Hong Kong Women",
+   "away": "India Women",
+   "home_score": "56 (16.2/20 ov, target 194)",
+   "away_score": "193/5",
+   "venue": "Dubai International Cricket Stadium",
+   "city": "Dubai",
+   "country": "United Arab Emirates",
    "format": "T20",
    "note": "Final",
    "tbd": false,
@@ -8862,6 +8972,28 @@
    "india": false
   },
   {
+   "id": "1535508",
+   "tour": "slt20",
+   "utc": "2026-09-05T08:30:00Z",
+   "ts": 1788597000,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group A",
+   "home": "Nugegoda Sports Welfare Club",
+   "away": "Police Sports Club",
+   "home_score": "160/6",
+   "away_score": "161/5 (19/20 ov, target 161)",
+   "venue": "R.Premadasa Stadium, Khettarama, Colombo",
+   "city": "Colombo",
+   "country": "Sri Lanka",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1547885",
    "tour": "eutpl",
    "utc": "2026-09-05T09:30:00Z",
@@ -8876,28 +9008,6 @@
    "venue": "Sportpark Westvliet, The Hague",
    "city": "The Hague",
    "country": "Netherlands",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1551069",
-   "tour": "t24741",
-   "utc": "2026-09-05T12:00:00Z",
-   "ts": 1788609600,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "4th Match",
-   "home": "Serbia Women",
-   "away": "Bulgaria Women",
-   "home_score": "94/3 (12.4/20 ov, target 91)",
-   "away_score": "90/9",
-   "venue": "Lisicji Jarak Cricket Ground, Belgrade",
-   "city": "Belgrade",
-   "country": "Serbia",
    "format": "T20",
    "note": "Final",
    "tbd": false,
@@ -10182,6 +10292,28 @@
    "india": false
   },
   {
+   "id": "1552909",
+   "tour": "t1552900",
+   "utc": "2026-09-09T11:30:00Z",
+   "ts": 1788953400,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "4th Match",
+   "home": "Rwanda",
+   "away": "Kenya",
+   "home_score": "139/8",
+   "away_score": "144/8 (20 ov, target 140)",
+   "venue": "Gahanga B Ground, Rwanda",
+   "city": "Kigali City",
+   "country": "Rwanda",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1547889",
    "tour": "eutpl",
    "utc": "2026-09-09T13:15:00Z",
@@ -10622,28 +10754,6 @@
    "india": false
   },
   {
-   "id": "1552311",
-   "tour": "t24737",
-   "utc": "2026-09-11T01:00:00Z",
-   "ts": 1789088400,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "1st T20I",
-   "home": "Japan Women",
-   "away": "Malaysia Women",
-   "home_score": "",
-   "away_score": "",
-   "venue": "Sano International Cricket Ground",
-   "city": "Sano",
-   "country": "Japan",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1552912",
    "tour": "t1552900",
    "utc": "2026-09-11T07:30:00Z",
@@ -10754,6 +10864,28 @@
    "india": false
   },
   {
+   "id": "1543887",
+   "tour": "t24565",
+   "utc": "2026-09-11T11:30:00Z",
+   "ts": 1789126200,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "1st T20I",
+   "home": "Zimbabwe Women",
+   "away": "South Africa Women",
+   "home_score": "116",
+   "away_score": "117/4 (13.1/20 ov, target 117)",
+   "venue": "Queens Sports Club, Bulawayo",
+   "city": "Bulawayo",
+   "country": "Zimbabwe",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1547892",
    "tour": "eutpl",
    "utc": "2026-09-11T13:15:00Z",
@@ -10790,6 +10922,28 @@
    "venue": "Dubai International Cricket Stadium",
    "city": "Dubai",
    "country": "United Arab Emirates",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1553239",
+   "tour": "t23802",
+   "utc": "2026-09-11T17:30:00Z",
+   "ts": 1789147800,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Tour Match",
+   "home": "England Lions",
+   "away": "Sri Lanka",
+   "home_score": "118/1 (7.2/20 ov, target 118)",
+   "away_score": "117",
+   "venue": "County Ground, Chelmsford",
+   "city": "Chelmsford",
+   "country": "England",
    "format": "T20",
    "note": "Final",
    "tbd": false,
@@ -11260,28 +11414,6 @@
    "india": false
   },
   {
-   "id": "1552313",
-   "tour": "t24737",
-   "utc": "2026-09-13T06:00:00Z",
-   "ts": 1789279200,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "3rd T20I",
-   "home": "Japan Women",
-   "away": "Malaysia Women",
-   "home_score": "105/6",
-   "away_score": "94 (17.5/20 ov, target 106)",
-   "venue": "Sano International Cricket Ground",
-   "city": "Sano",
-   "country": "Japan",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1551791",
    "tour": "t20676",
    "utc": "2026-09-13T07:00:00Z",
@@ -11414,6 +11546,28 @@
    "india": false
   },
   {
+   "id": "1552917",
+   "tour": "t1552900",
+   "utc": "2026-09-13T11:30:00Z",
+   "ts": 1789299000,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "12th Match",
+   "home": "Rwanda",
+   "away": "Botswana",
+   "home_score": "183/9 (20 ov)",
+   "away_score": "146/6 (16 ov, target 153)",
+   "venue": "Gahanga B Ground, Rwanda",
+   "city": "Kigali City",
+   "country": "Rwanda",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1543888",
    "tour": "t24565",
    "utc": "2026-09-13T11:30:00Z",
@@ -11494,6 +11648,28 @@
    "venue": "R.Premadasa Stadium, Khettarama, Colombo",
    "city": "Colombo",
    "country": "Sri Lanka",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1553240",
+   "tour": "t23802",
+   "utc": "2026-09-13T13:30:00Z",
+   "ts": 1789306200,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Tour Match",
+   "home": "England Lions",
+   "away": "Sri Lanka",
+   "home_score": "76/1 (6.2/8 ov, target 73)",
+   "away_score": "156/9 (20 ov)",
+   "venue": "The Kent County Cricket Ground, Beckenham",
+   "city": "Beckenham",
+   "country": "England",
    "format": "T20",
    "note": "Final",
    "tbd": false,
@@ -11898,6 +12074,28 @@
    "india": false
   },
   {
+   "id": "1552919",
+   "tour": "t1552900",
+   "utc": "2026-09-15T11:30:00Z",
+   "ts": 1789471800,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "14th Match",
+   "home": "Rwanda",
+   "away": "Kenya",
+   "home_score": "157/6 (20 ov, target 190)",
+   "away_score": "189/4",
+   "venue": "Gahanga International Cricket Stadium, Rwanda",
+   "city": "Kigali City",
+   "country": "Rwanda",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1543889",
    "tour": "t24565",
    "utc": "2026-09-15T11:30:00Z",
@@ -12074,28 +12272,6 @@
    "india": false
   },
   {
-   "id": "1552920",
-   "tour": "t1552900",
-   "utc": "2026-09-16T07:30:00Z",
-   "ts": 1789543800,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "15th Match",
-   "home": "Botswana",
-   "away": "Uganda",
-   "home_score": "119/8",
-   "away_score": "125/5 (15/20 ov, target 120)",
-   "venue": "Gahanga International Cricket Stadium, Rwanda",
-   "city": "Kigali City",
-   "country": "Rwanda",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1513606",
    "tour": "t23080",
    "utc": "2026-09-16T09:30:00Z",
@@ -12109,28 +12285,6 @@
    "away_score": "109 (27.3/50 ov, target 304)",
    "venue": "The Rose Bowl, Southampton",
    "city": "Southampton",
-   "country": "England",
-   "format": "ODI",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1552321",
-   "tour": "t24740",
-   "utc": "2026-09-16T09:30:00Z",
-   "ts": 1789551000,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "4th Youth ODI",
-   "home": "England Under-19s",
-   "away": "Pakistan Under-19s",
-   "home_score": "150 (20.4/50 ov, target 351)",
-   "away_score": "350/4",
-   "venue": "Sir Paul Getty's Ground, Wormsley",
-   "city": "Wormsley",
    "country": "England",
    "format": "ODI",
    "note": "Final",
@@ -13760,28 +13914,6 @@
    "venue": "Tafawa Balewa Square Cricket Oval, Lagos",
    "city": "Lagos",
    "country": "Nigeria",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1555255",
-   "tour": "t18940",
-   "utc": "2026-09-23T12:00:00Z",
-   "ts": 1790164800,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "1st Match",
-   "home": "Brazil A Women",
-   "away": "Chile Women",
-   "home_score": "53/1 (5/20 ov, target 53)",
-   "away_score": "52",
-   "venue": "Pocos Oval, Pocos de Caldas",
-   "city": "Minas Gerias",
-   "country": "Brazil",
    "format": "T20",
    "note": "Final",
    "tbd": false,
@@ -15946,28 +16078,6 @@
    "india": false
   },
   {
-   "id": "1556692",
-   "tour": "t24139",
-   "utc": "2026-10-02T01:45:00Z",
-   "ts": 1790905500,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "8th Match",
-   "home": "Toronto Sixers",
-   "away": "White Rock Warriors",
-   "home_score": "129/5 (9.3/10 ov, target 129)",
-   "away_score": "128/6",
-   "venue": "BC Place, Vancouver",
-   "city": "Vancouver",
-   "country": "Canada",
-   "format": "ODI",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1554707",
    "tour": "t1554704",
    "utc": "2026-10-02T05:00:00Z",
@@ -16892,28 +17002,6 @@
    "india": false
   },
   {
-   "id": "1556702",
-   "tour": "t24139",
-   "utc": "2026-10-05T03:30:00Z",
-   "ts": 1791171000,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "Final",
-   "home": "Toronto Sixers",
-   "away": "Vancouver Anchors",
-   "home_score": "168/5 (10 ov, target 165)",
-   "away_score": "164/3",
-   "venue": "BC Place, Vancouver",
-   "city": "Vancouver",
-   "country": "Canada",
-   "format": "ODI",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1535685",
    "tour": "t24377",
    "utc": "2026-10-05T04:00:00Z",
@@ -17567,28 +17655,6 @@
    "city": "Perth",
    "country": "Australia",
    "format": "Test",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1554711",
-   "tour": "t1554704",
-   "utc": "2026-10-08T05:00:00Z",
-   "ts": 1791435600,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "5th Match",
-   "home": "Bangladesh Women Under-19s",
-   "away": "Sri Lanka Women Under-19s",
-   "home_score": "126/8",
-   "away_score": "128/4 (19.1/20 ov, target 127)",
-   "venue": "Iqbal Stadium, Faisalabad",
-   "city": "Faisalabad",
-   "country": "Pakistan",
-   "format": "T20",
    "note": "Final",
    "tbd": false,
    "disrupted": false,
@@ -20038,28 +20104,6 @@
    "india": false
   },
   {
-   "id": "1558245",
-   "tour": "t1558221",
-   "utc": "2026-10-15T11:00:00Z",
-   "ts": 1792062000,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "2nd Match",
-   "home": "Bulgaria Women",
-   "away": "Sweden Women",
-   "home_score": "98/9",
-   "away_score": "99/0 (5.5/20 ov, target 99)",
-   "venue": "Moara Vlasiei Cricket Ground",
-   "city": "Ilfov County",
-   "country": "Romania",
-   "format": "T20",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1558398",
    "tour": "t22804",
    "utc": "2026-10-16T03:30:00Z",
@@ -21131,28 +21175,6 @@
    "city": "Kanpur",
    "country": "India",
    "format": "Test",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1558250",
-   "tour": "t1558221",
-   "utc": "2026-10-18T07:00:00Z",
-   "ts": 1792306800,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "Final",
-   "home": "Austria Women",
-   "away": "Sweden Women",
-   "home_score": "60 (15/20 ov, target 125)",
-   "away_score": "124/9",
-   "venue": "Moara Vlasiei Cricket Ground",
-   "city": "Ilfov County",
-   "country": "Romania",
-   "format": "T20",
    "note": "Final",
    "tbd": false,
    "disrupted": false,
@@ -33314,7 +33336,7 @@
    "home": "New Zealand",
    "away": "India",
    "home_score": "368",
-   "away_score": "159/1 (39 ov)",
+   "away_score": "402/3 (107.4 ov)",
    "venue": "Basin Reserve, Wellington",
    "city": "Wellington",
    "country": "New Zealand",
@@ -34408,18 +34430,18 @@
    "tour": "t21284",
    "utc": "2026-11-21T01:00:00Z",
    "ts": 1795222800,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Final",
+   "status_long": "Final",
    "round": "29th Match",
    "home": "Hobart Hurricanes Women",
    "away": "Sydney Thunder Women",
-   "home_score": "",
-   "away_score": "",
+   "home_score": "151/2 (15.1/20 ov, target 151)",
+   "away_score": "150/5",
    "venue": "Bellerive Oval, Hobart",
    "city": "Hobart",
    "country": "Australia",
    "format": "Women's T20",
-   "note": "Scheduled",
+   "note": "Final",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -34430,8 +34452,8 @@
    "tour": "t1562322",
    "utc": "2026-11-21T02:00:00Z",
    "ts": 1795226400,
-   "status": "Schedu",
-   "status_long": "Scheduled",
+   "status": "Live",
+   "status_long": "Live",
    "round": "2nd Match",
    "home": "China Women",
    "away": "Indonesia Women",
@@ -34441,7 +34463,7 @@
    "city": "Kuala Lumpur",
    "country": "Malaysia",
    "format": "T20",
-   "note": "Scheduled",
+   "note": "Live",
    "tbd": false,
    "disrupted": false,
    "finished": false,
@@ -44568,6 +44590,28 @@
    "india": false
   },
   {
+   "id": "1545802",
+   "tour": "t8897",
+   "utc": "2027-02-08T00:00:00Z",
+   "ts": 1802044800,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": " at Hobart",
+   "home": "Tasmania Women",
+   "away": "South Australia Women",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Bellerive Oval, Hobart",
+   "city": "Hobart",
+   "country": "Australia",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": true,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1544882",
    "tour": "t8043",
    "utc": "2027-02-08T03:30:00Z",
@@ -45184,6 +45228,72 @@
    "india": false
   },
   {
+   "id": "1550466",
+   "tour": "t8818",
+   "utc": "2027-02-13T21:30:00Z",
+   "ts": 1802554200,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "28th Match",
+   "home": "Auckland Women",
+   "away": "Canterbury Women",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Colin Maiden Park, Auckland",
+   "city": "Auckland",
+   "country": "New Zealand",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1550467",
+   "tour": "t8818",
+   "utc": "2027-02-13T21:30:00Z",
+   "ts": 1802554200,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "29th Match",
+   "home": "Central Districts Women",
+   "away": "Wellington Women",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Basin Reserve, Wellington",
+   "city": "Wellington",
+   "country": "New Zealand",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1550468",
+   "tour": "t8818",
+   "utc": "2027-02-13T21:30:00Z",
+   "ts": 1802554200,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "30th Match",
+   "home": "Northern Districts Women",
+   "away": "Otago Women",
+   "home_score": "",
+   "away_score": "",
+   "venue": "University Oval, Dunedin",
+   "city": "Dunedin",
+   "country": "New Zealand",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1544863",
    "tour": "marsh",
    "utc": "2027-02-14T00:00:00Z",
@@ -45534,6 +45644,28 @@
    "disrupted": false,
    "finished": false,
    "india": true
+  },
+  {
+   "id": "1550469",
+   "tour": "t8818",
+   "utc": "2027-02-19T21:30:00Z",
+   "ts": 1803072600,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "Final",
+   "home": "TBA",
+   "away": "TBA",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Basin Reserve, Wellington",
+   "city": "Wellington",
+   "country": "New Zealand",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
   },
   {
    "id": "1544885",
@@ -47915,1051 +48047,218 @@
  "changes": [
   {
    "kind": "added",
-   "id": "1552022",
-   "tour": "t24725",
-   "what": "India A Women v Australia A Women",
-   "to": "2026-09-15T12:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1550137",
-   "tour": "t24694",
-   "what": "South Africa A v Bangladesh A",
-   "to": "2026-08-30T07:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1555135",
-   "tour": "t24803",
-   "what": "South Korea v Indonesia",
-   "to": "2026-10-03T01:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1555136",
-   "tour": "t24803",
-   "what": "South Korea v Indonesia",
-   "to": "2026-10-04T01:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1555137",
-   "tour": "t24803",
-   "what": "South Korea v Indonesia",
-   "to": "2026-10-05T01:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1555138",
-   "tour": "t24803",
-   "what": "South Korea v Indonesia",
-   "to": "2026-10-05T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1549973",
-   "tour": "t24688",
-   "what": "Scotland Women v Netherlands Women",
-   "to": "2026-08-30T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1549974",
-   "tour": "t24688",
-   "what": "Scotland Women v Netherlands Women",
-   "to": "2026-09-01T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1543888",
+   "id": "1543887",
    "tour": "t24565",
    "what": "Zimbabwe Women v South Africa Women",
+   "to": "2026-09-11T11:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1553239",
+   "tour": "t23802",
+   "what": "England Lions v Sri Lanka",
+   "to": "2026-09-11T17:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1553240",
+   "tour": "t23802",
+   "what": "England Lions v Sri Lanka",
+   "to": "2026-09-13T13:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1552909",
+   "tour": "t1552900",
+   "what": "Rwanda v Kenya",
+   "to": "2026-09-09T11:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1552917",
+   "tour": "t1552900",
+   "what": "Rwanda v Botswana",
    "to": "2026-09-13T11:30:00Z"
   },
   {
    "kind": "added",
-   "id": "1543889",
-   "tour": "t24565",
-   "what": "Zimbabwe Women v South Africa Women",
+   "id": "1552919",
+   "tour": "t1552900",
+   "what": "Rwanda v Kenya",
    "to": "2026-09-15T11:30:00Z"
   },
   {
    "kind": "added",
-   "id": "1543890",
-   "tour": "t24565",
-   "what": "Zimbabwe Women v South Africa Women",
-   "to": "2026-09-17T11:30:00Z"
+   "id": "1550466",
+   "tour": "t8818",
+   "what": "Auckland Women v Canterbury Women",
+   "to": "2027-02-13T21:30:00Z"
   },
   {
    "kind": "added",
-   "id": "1543891",
-   "tour": "t24565",
-   "what": "Zimbabwe Women v South Africa Women",
-   "to": "2026-09-19T11:30:00Z"
+   "id": "1550467",
+   "tour": "t8818",
+   "what": "Central Districts Women v Wellington Women",
+   "to": "2027-02-13T21:30:00Z"
   },
   {
    "kind": "added",
-   "id": "1549946",
-   "tour": "acc_pc",
-   "what": "Oman v Singapore",
-   "to": "2026-08-30T01:30:00Z"
+   "id": "1550468",
+   "tour": "t8818",
+   "what": "Northern Districts Women v Otago Women",
+   "to": "2027-02-13T21:30:00Z"
   },
   {
    "kind": "added",
-   "id": "1549950",
-   "tour": "acc_pc",
-   "what": "Malaysia v Saudi Arabia",
-   "to": "2026-09-01T01:30:00Z"
+   "id": "1550469",
+   "tour": "t8818",
+   "what": "TBA v TBA",
+   "to": "2027-02-19T21:30:00Z"
   },
   {
    "kind": "added",
-   "id": "1549951",
-   "tour": "acc_pc",
-   "what": "Kuwait v Singapore",
-   "to": "2026-09-01T01:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1549952",
-   "tour": "acc_pc",
-   "what": "Bahrain v Hong Kong",
-   "to": "2026-09-02T01:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1549956",
-   "tour": "acc_pc",
-   "what": "Qatar v Singapore",
-   "to": "2026-09-04T01:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1549959",
-   "tour": "acc_pc",
-   "what": "Malaysia v Hong Kong",
-   "to": "2026-09-05T01:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1549960",
-   "tour": "acc_pc",
-   "what": "Nepal v Saudi Arabia",
-   "to": "2026-09-06T01:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1549968",
-   "tour": "acc_pc",
-   "what": "Hong Kong v Oman",
-   "to": "2026-09-12T01:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551332",
-   "tour": "t18479",
-   "what": "Maiwand Champions v Mah-e-Par Stars",
-   "to": "2026-08-29T05:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551333",
-   "tour": "t18479",
-   "what": "Hindukush Strikers v Pamir Legends",
-   "to": "2026-08-29T05:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551334",
-   "tour": "t18479",
-   "what": "Maiwand Champions v Mah-e-Par Stars",
-   "to": "2026-09-04T05:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551337",
-   "tour": "t18479",
-   "what": "Pamir Legends v Mah-e-Par Stars",
-   "to": "2026-09-10T05:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551794",
-   "tour": "t20676",
-   "what": "Mpumalanga v South Western Districts",
-   "to": "2026-09-20T07:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551806",
-   "tour": "t20676",
-   "what": "Border v Mpumalanga",
-   "to": "2027-01-17T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551810",
-   "tour": "t20676",
-   "what": "Border v Northern Cape",
-   "to": "2027-01-24T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551814",
-   "tour": "t20676",
-   "what": "Northern Cape v Mpumalanga",
-   "to": "2027-02-07T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551823",
-   "tour": "t20676",
-   "what": "Limpopo v South Western Districts",
-   "to": "2027-03-07T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551826",
-   "tour": "t20676",
-   "what": "Easterns v Mpumalanga",
-   "to": "2027-03-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552794",
-   "tour": "t23315",
-   "what": "Cayman Islands v Bermuda",
-   "to": "2026-09-20T18:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1555386",
-   "tour": "t23315",
-   "what": "Cayman Islands v Bermuda",
-   "to": "2026-09-23T15:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552797",
-   "tour": "t23315",
-   "what": "Cayman Islands v Bermuda",
-   "to": "2026-09-23T19:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552795",
-   "tour": "t23315",
-   "what": "Cayman Islands v Bahamas",
-   "to": "2026-09-24T15:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552798",
-   "tour": "t23315",
-   "what": "Cayman Islands v Bahamas",
-   "to": "2026-09-24T19:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552796",
-   "tour": "t23315",
-   "what": "Bahamas v Bermuda",
-   "to": "2026-09-25T15:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552799",
-   "tour": "t23315",
-   "what": "Bahamas v Bermuda",
-   "to": "2026-09-25T19:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552800",
-   "tour": "t23315",
-   "what": "Bahamas v Bermuda",
-   "to": "2026-09-26T18:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552801",
-   "tour": "t23315",
-   "what": "Cayman Islands v Bermuda",
-   "to": "2026-09-27T18:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1554714",
-   "tour": "t1554704",
-   "what": "Pakistan Women Under-19s v Sri Lanka Women Under-19s",
-   "to": "2026-10-12T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547404",
-   "tour": "t8832",
-   "what": "Ace Capital Cricket Club v Panadura Sports Club",
-   "to": "2026-08-10T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547407",
-   "tour": "t8832",
-   "what": "Badureliya Sports Club v Bloomfield Cricket and Athletic Club",
-   "to": "2026-08-10T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547412",
-   "tour": "t8832",
-   "what": "Badureliya Sports Club v Colts Cricket Club",
-   "to": "2026-08-14T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547421",
-   "tour": "t8832",
-   "what": "Nugegoda Sports Welfare Club v Panadura Sports Club",
-   "to": "2026-08-21T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547426",
-   "tour": "t8832",
-   "what": "Nugegoda Sports Welfare Club v Kurunegala Youth Cricket Club",
-   "to": "2026-08-25T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547430",
-   "tour": "t8832",
-   "what": "Bloomfield Cricket and Athletic Club v Colts Cricket Club",
-   "to": "2026-08-26T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547427",
-   "tour": "t8832",
-   "what": "Moors Sports Club v Colombo Cricket Club",
-   "to": "2026-08-26T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547429",
-   "tour": "t8832",
-   "what": "Nondescripts Cricket Club v Police Sports Club",
-   "to": "2026-08-26T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547428",
-   "tour": "t8832",
-   "what": "Panadura Sports Club v Tamil Union Cricket and Athletic Club",
-   "to": "2026-08-26T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547437",
-   "tour": "t8832",
-   "what": "Colts Cricket Club v Burgher Recreation Club",
-   "to": "2026-08-30T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547435",
-   "tour": "t8832",
-   "what": "Police Sports Club v Bloomfield Cricket and Athletic Club",
-   "to": "2026-08-30T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547434",
-   "tour": "t8832",
-   "what": "Tamil Union Cricket and Athletic Club v Nugegoda Sports Welfare Club",
-   "to": "2026-08-30T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547442",
-   "tour": "t8832",
-   "what": "Bloomfield Cricket and Athletic Club v Sinhalese Sports Club",
-   "to": "2026-09-03T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547445",
-   "tour": "t8832",
-   "what": "Moors Sports Club v Colts Cricket Club",
-   "to": "2026-09-07T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547446",
-   "tour": "t8832",
-   "what": "Moors Sports Club v Sinhalese Sports Club",
-   "to": "2026-09-11T09:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513504",
-   "tour": "t8335",
-   "what": "Nottinghamshire v Northamptonshire",
-   "to": "2026-08-07T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513519",
-   "tour": "t8335",
-   "what": "Middlesex v Sussex",
-   "to": "2026-08-11T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513523",
-   "tour": "t8335",
-   "what": "Worcestershire v Durham",
-   "to": "2026-08-11T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513525",
-   "tour": "t8335",
-   "what": "Yorkshire v Nottinghamshire",
-   "to": "2026-08-14T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535516",
+   "id": "1535498",
    "tour": "slt20",
-   "what": "Bloomfield Cricket and Athletic Club v Badureliya Sports Club",
-   "to": "2026-08-12T04:15:00Z"
+   "what": "Nugegoda Sports Welfare Club v Tamil Union Cricket and Athletic Club",
+   "to": "2026-08-28T04:15:00Z"
   },
   {
    "kind": "added",
-   "id": "1535517",
+   "id": "1535508",
    "tour": "slt20",
-   "what": "Colts Cricket Club v Sinhalese Sports Club",
-   "to": "2026-08-12T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535513",
-   "tour": "slt20",
-   "what": "Panadura Sports Club v Ace Capital Cricket Club",
-   "to": "2026-08-12T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535518",
-   "tour": "slt20",
-   "what": "Colombo Cricket Club v Tamil Union Cricket and Athletic Club",
-   "to": "2026-08-16T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535519",
-   "tour": "slt20",
-   "what": "Panadura Sports Club v Bloomfield Cricket and Athletic Club",
-   "to": "2026-08-16T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535520",
-   "tour": "slt20",
-   "what": "Nugegoda Sports Welfare Club v Burgher Recreation Club",
-   "to": "2026-08-17T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535525",
-   "tour": "slt20",
-   "what": "Colts Cricket Club v Panadura Sports Club",
-   "to": "2026-08-20T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535529",
-   "tour": "slt20",
-   "what": "Sinhalese Sports Club v Badureliya Sports Club",
-   "to": "2026-08-20T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535528",
-   "tour": "slt20",
-   "what": "Police Sports Club v Kurunegala Youth Cricket Club",
-   "to": "2026-08-20T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535527",
-   "tour": "slt20",
-   "what": "Tamil Union Cricket and Athletic Club v Moors Sports Club",
-   "to": "2026-08-20T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535532",
-   "tour": "slt20",
-   "what": "Police Sports Club v Tamil Union Cricket and Athletic Club",
-   "to": "2026-08-24T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535533",
-   "tour": "slt20",
-   "what": "Bloomfield Cricket and Athletic Club v Sinhalese Sports Club",
-   "to": "2026-08-24T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535531",
-   "tour": "slt20",
-   "what": "Colombo Cricket Club v Moors Sports Club",
-   "to": "2026-08-24T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535534",
-   "tour": "slt20",
-   "what": "Kurunegala Youth Cricket Club v Nugegoda Sports Welfare Club",
-   "to": "2026-08-24T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535499",
-   "tour": "slt20",
-   "what": "Ace Capital Cricket Club v Bloomfield Cricket and Athletic Club",
-   "to": "2026-08-28T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535497",
-   "tour": "slt20",
-   "what": "Badureliya Sports Club v Colts Cricket Club",
-   "to": "2026-08-28T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535502",
-   "tour": "slt20",
-   "what": "Moors Sports Club v Nugegoda Sports Welfare Club",
-   "to": "2026-09-01T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535504",
-   "tour": "slt20",
-   "what": "Tamil Union Cricket and Athletic Club v Burgher Recreation Club",
-   "to": "2026-09-01T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535505",
-   "tour": "slt20",
-   "what": "Bloomfield Cricket and Athletic Club v Colts Cricket Club",
-   "to": "2026-09-01T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535506",
-   "tour": "slt20",
-   "what": "Kurunegala Youth Cricket Club v Colombo Cricket Club",
-   "to": "2026-09-05T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535509",
-   "tour": "slt20",
-   "what": "Sinhalese Sports Club v Ace Capital Cricket Club",
-   "to": "2026-09-05T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535507",
-   "tour": "slt20",
-   "what": "Badureliya Sports Club v Panadura Sports Club",
+   "what": "Nugegoda Sports Welfare Club v Police Sports Club",
    "to": "2026-09-05T08:30:00Z"
   },
   {
    "kind": "added",
-   "id": "1535536",
-   "tour": "slt20",
-   "what": "Tamil Union Cricket and Athletic Club v Panadura Sports Club",
-   "to": "2026-09-09T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535539",
-   "tour": "slt20",
-   "what": "Ace Capital Cricket Club v Colombo Cricket Club",
-   "to": "2026-09-09T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534400",
+   "id": "1534404",
    "tour": "t8859",
-   "what": "Glamorgan 2nd XI v Essex 2nd XI",
-   "to": "2026-08-17T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534401",
-   "tour": "t8859",
-   "what": "Middlesex 2nd XI v Sussex 2nd XI",
+   "what": "Leicestershire 2nd XI v Hampshire 2nd XI",
    "to": "2026-08-18T10:00:00Z"
   },
   {
    "kind": "added",
-   "id": "1534405",
+   "id": "1534418",
    "tour": "t8859",
-   "what": "Nottinghamshire 2nd XI v Somerset 2nd XI",
-   "to": "2026-08-18T10:00:00Z"
+   "what": "Warwickshire 2nd XI v Derbyshire 2nd XI",
+   "to": "2026-08-31T10:00:00Z"
   },
   {
    "kind": "added",
-   "id": "1534406",
+   "id": "1534415",
    "tour": "t8859",
-   "what": "Surrey 2nd XI v Kent 2nd XI",
-   "to": "2026-08-18T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534407",
-   "tour": "t8859",
-   "what": "Derbyshire 2nd XI v Middlesex 2nd XI",
-   "to": "2026-08-24T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534411",
-   "tour": "t8859",
-   "what": "Leicestershire 2nd XI v Glamorgan 2nd XI",
-   "to": "2026-08-24T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534414",
-   "tour": "t8859",
-   "what": "Worcestershire 2nd XI v Yorkshire 2nd XI",
-   "to": "2026-08-25T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534421",
-   "tour": "t8859",
-   "what": "Nottinghamshire 2nd XI v Kent 2nd XI",
+   "what": "Durham 2nd XI v Somerset 2nd XI",
    "to": "2026-09-01T10:00:00Z"
   },
   {
    "kind": "added",
-   "id": "1534422",
-   "tour": "t8859",
-   "what": "Sussex 2nd XI v Lancashire 2nd XI",
-   "to": "2026-09-01T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534423",
-   "tour": "t8859",
-   "what": "Yorkshire 2nd XI v Leicestershire 2nd XI",
-   "to": "2026-09-01T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551066",
-   "tour": "t24741",
-   "what": "Serbia Women v Croatia Women",
-   "to": "2026-09-04T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551067",
-   "tour": "t24741",
-   "what": "Bulgaria Women v Croatia Women",
-   "to": "2026-09-04T12:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551068",
-   "tour": "t24741",
-   "what": "Bulgaria Women v Croatia Women",
-   "to": "2026-09-05T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551069",
-   "tour": "t24741",
-   "what": "Serbia Women v Bulgaria Women",
-   "to": "2026-09-05T12:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551070",
-   "tour": "t24741",
-   "what": "Serbia Women v Croatia Women",
-   "to": "2026-09-06T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1555257",
-   "tour": "t18940",
-   "what": "Brazil A Women v Costa Rica Women",
-   "to": "2026-09-24T12:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1555259",
-   "tour": "t18940",
-   "what": "Chile Women v Costa Rica Women",
-   "to": "2026-09-25T12:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1555260",
-   "tour": "t18940",
-   "what": "Brazil A Women v Costa Rica Women",
-   "to": "2026-09-25T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545793",
-   "tour": "t8897",
-   "what": "Victoria Women v Queensland Women",
-   "to": "2027-01-20T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545803",
+   "id": "1545802",
    "tour": "t8897",
    "what": "Tasmania Women v South Australia Women",
-   "to": "2027-02-10T00:00:00Z"
+   "to": "2027-02-08T00:00:00Z"
   },
   {
    "kind": "added",
-   "id": "1545806",
-   "tour": "t8897",
-   "what": "Queensland Women v Western Australia Women",
-   "to": "2027-02-23T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1545810",
-   "tour": "t8897",
-   "what": "Australian Capital Territory Women v Tasmania Women",
-   "to": "2027-03-10T00:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1548899",
-   "tour": "asia_w",
-   "what": "India Women v Pakistan Women",
-   "to": "2026-09-05T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557443",
-   "tour": "t20921",
-   "what": "Desert Vipers v MI Emirates",
-   "to": "2026-11-21T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557444",
-   "tour": "t20921",
-   "what": "Sharjah Warriorz v Gulf Giants",
-   "to": "2026-11-22T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557445",
-   "tour": "t20921",
-   "what": "Dubai Capitals v Abu Dhabi Knight Riders",
-   "to": "2026-11-22T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557446",
-   "tour": "t20921",
-   "what": "Sharjah Warriorz v Desert Vipers",
-   "to": "2026-11-23T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557447",
-   "tour": "t20921",
-   "what": "Gulf Giants v MI Emirates",
-   "to": "2026-11-24T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557448",
-   "tour": "t20921",
-   "what": "Dubai Capitals v Desert Vipers",
-   "to": "2026-11-25T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557449",
-   "tour": "t20921",
-   "what": "Abu Dhabi Knight Riders v MI Emirates",
-   "to": "2026-11-26T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557450",
-   "tour": "t20921",
-   "what": "Sharjah Warriorz v Dubai Capitals",
-   "to": "2026-11-27T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557451",
-   "tour": "t20921",
-   "what": "Desert Vipers v MI Emirates",
-   "to": "2026-11-28T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557452",
-   "tour": "t20921",
-   "what": "Dubai Capitals v Gulf Giants",
-   "to": "2026-11-28T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557453",
-   "tour": "t20921",
-   "what": "Abu Dhabi Knight Riders v Sharjah Warriorz",
-   "to": "2026-11-29T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557454",
-   "tour": "t20921",
-   "what": "Desert Vipers v Gulf Giants",
-   "to": "2026-11-29T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557455",
-   "tour": "t20921",
-   "what": "Abu Dhabi Knight Riders v MI Emirates",
-   "to": "2026-11-30T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557456",
-   "tour": "t20921",
-   "what": "Sharjah Warriorz v Gulf Giants",
-   "to": "2026-12-01T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557457",
-   "tour": "t20921",
-   "what": "Abu Dhabi Knight Riders v Desert Vipers",
-   "to": "2026-12-02T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557458",
-   "tour": "t20921",
-   "what": "Dubai Capitals v MI Emirates",
-   "to": "2026-12-02T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557459",
-   "tour": "t20921",
-   "what": "Abu Dhabi Knight Riders v Gulf Giants",
-   "to": "2026-12-03T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557460",
-   "tour": "t20921",
-   "what": "Sharjah Warriorz v Desert Vipers",
-   "to": "2026-12-04T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557461",
-   "tour": "t20921",
-   "what": "Abu Dhabi Knight Riders v Gulf Giants",
-   "to": "2026-12-05T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557462",
-   "tour": "t20921",
-   "what": "MI Emirates v Sharjah Warriorz",
-   "to": "2026-12-06T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557463",
-   "tour": "t20921",
-   "what": "Dubai Capitals v Desert Vipers",
-   "to": "2026-12-06T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557464",
-   "tour": "t20921",
-   "what": "Gulf Giants v MI Emirates",
-   "to": "2026-12-07T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557465",
-   "tour": "t20921",
-   "what": "Dubai Capitals v Sharjah Warriorz",
-   "to": "2026-12-08T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557466",
-   "tour": "t20921",
-   "what": "Sharjah Warriorz v Abu Dhabi Knight Riders",
-   "to": "2026-12-09T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557467",
-   "tour": "t20921",
-   "what": "Dubai Capitals v Gulf Giants",
-   "to": "2026-12-10T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557468",
-   "tour": "t20921",
-   "what": "Sharjah Warriorz v MI Emirates",
-   "to": "2026-12-11T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557469",
-   "tour": "t20921",
-   "what": "Abu Dhabi Knight Riders v Desert Vipers",
-   "to": "2026-12-12T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557470",
-   "tour": "t20921",
-   "what": "Dubai Capitals v MI Emirates",
-   "to": "2026-12-13T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557471",
-   "tour": "t20921",
-   "what": "Desert Vipers v Gulf Giants",
-   "to": "2026-12-13T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557472",
-   "tour": "t20921",
-   "what": "Abu Dhabi Knight Riders v Dubai Capitals",
-   "to": "2026-12-14T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557473",
-   "tour": "t20921",
-   "what": "TBA v TBA",
-   "to": "2026-12-16T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557474",
-   "tour": "t20921",
-   "what": "TBA v TBA",
-   "to": "2026-12-17T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557475",
-   "tour": "t20921",
-   "what": "TBA v TBA",
-   "to": "2026-12-18T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557476",
-   "tour": "t20921",
-   "what": "TBA v TBA",
-   "to": "2026-12-20T14:30:00Z"
-  },
-  {
-   "kind": "dropped",
    "id": "1548896",
    "tour": "asia_w",
    "what": "Indonesia Women v Sri Lanka Women",
-   "from": "2026-09-02T14:30:00Z"
+   "to": "2026-09-02T14:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1548897",
+   "tour": "asia_w",
+   "what": "Hong Kong Women v India Women",
+   "to": "2026-09-03T14:30:00Z"
   },
   {
    "kind": "dropped",
-   "id": "1551076",
-   "tour": "t24742",
-   "what": "Czech Republic Women v Belgium Women",
-   "from": "2026-09-05T11:30:00Z"
+   "id": "1535530",
+   "tour": "slt20",
+   "what": "Nondescripts Cricket Club v Panadura Sports Club",
+   "from": "2026-08-24T04:15:00Z"
   },
   {
    "kind": "dropped",
-   "id": "1552909",
+   "id": "1551069",
+   "tour": "t24741",
+   "what": "Serbia Women v Bulgaria Women",
+   "from": "2026-09-05T12:00:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1552311",
+   "tour": "t24737",
+   "what": "Japan Women v Malaysia Women",
+   "from": "2026-09-11T01:00:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1552313",
+   "tour": "t24737",
+   "what": "Japan Women v Malaysia Women",
+   "from": "2026-09-13T06:00:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1552920",
    "tour": "t1552900",
-   "what": "Rwanda v Kenya",
-   "from": "2026-09-09T11:30:00Z"
+   "what": "Botswana v Uganda",
+   "from": "2026-09-16T07:30:00Z"
   },
   {
    "kind": "dropped",
-   "id": "1552917",
-   "tour": "t1552900",
-   "what": "Rwanda v Botswana",
-   "from": "2026-09-13T11:30:00Z"
+   "id": "1552321",
+   "tour": "t24740",
+   "what": "England Under-19s v Pakistan Under-19s",
+   "from": "2026-09-16T09:30:00Z"
   },
   {
    "kind": "dropped",
-   "id": "1552919",
-   "tour": "t1552900",
-   "what": "Rwanda v Kenya",
-   "from": "2026-09-15T11:30:00Z"
+   "id": "1555255",
+   "tour": "t18940",
+   "what": "Brazil A Women v Chile Women",
+   "from": "2026-09-23T12:00:00Z"
   },
   {
    "kind": "dropped",
-   "id": "1550466",
-   "tour": "t8818",
-   "what": "Auckland Women v Canterbury Women",
-   "from": "2027-02-13T21:30:00Z"
+   "id": "1556692",
+   "tour": "t24139",
+   "what": "Toronto Sixers v White Rock Warriors",
+   "from": "2026-10-02T01:45:00Z"
   },
   {
    "kind": "dropped",
-   "id": "1550467",
-   "tour": "t8818",
-   "what": "Central Districts Women v Wellington Women",
-   "from": "2027-02-13T21:30:00Z"
+   "id": "1556702",
+   "tour": "t24139",
+   "what": "Toronto Sixers v Vancouver Anchors",
+   "from": "2026-10-05T03:30:00Z"
   },
   {
    "kind": "dropped",
-   "id": "1550468",
-   "tour": "t8818",
-   "what": "Northern Districts Women v Otago Women",
-   "from": "2027-02-13T21:30:00Z"
+   "id": "1554711",
+   "tour": "t1554704",
+   "what": "Bangladesh Women Under-19s v Sri Lanka Women Under-19s",
+   "from": "2026-10-08T05:00:00Z"
   },
   {
    "kind": "dropped",
-   "id": "1550469",
-   "tour": "t8818",
-   "what": "TBA v TBA",
-   "from": "2027-02-19T21:30:00Z"
+   "id": "1558245",
+   "tour": "t1558221",
+   "what": "Bulgaria Women v Sweden Women",
+   "from": "2026-10-15T11:00:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1558250",
+   "tour": "t1558221",
+   "what": "Austria Women v Sweden Women",
+   "from": "2026-10-18T07:00:00Z"
   }
  ],
  "counts": {
   "tournaments": 123,
-  "fixtures": 2070,
+  "fixtures": 2076,
   "india": 60,
   "major": 42,
   "projected": 6,
