@@ -1,4042 +1,1584 @@
 [
  {
   "kind": "added",
-  "id": "1528550",
-  "tour": "t24263",
-  "what": "Ireland v Afghanistan",
-  "to": "2026-08-05T09:45:00Z"
- },
- {
-  "kind": "added",
-  "id": "1528552",
-  "tour": "t24263",
-  "what": "Ireland v Afghanistan",
-  "to": "2026-08-10T09:45:00Z"
- },
- {
-  "kind": "added",
-  "id": "1528553",
-  "tour": "t24263",
-  "what": "Ireland v Afghanistan",
-  "to": "2026-08-12T09:45:00Z"
- },
- {
-  "kind": "added",
-  "id": "1528554",
-  "tour": "t24263",
-  "what": "Ireland v Afghanistan",
-  "to": "2026-08-15T09:45:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535673",
+  "id": "1535672",
   "tour": "t24375",
   "what": "India A v Australia A",
-  "to": "2026-09-29T04:00:00Z"
+  "to": "2026-09-22T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1555135",
-  "tour": "t24803",
-  "what": "South Korea v Indonesia",
-  "to": "2026-10-03T01:00:00Z"
+  "id": "1535674",
+  "tour": "t24375",
+  "what": "India A v Australia A",
+  "to": "2026-10-06T08:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1555136",
-  "tour": "t24803",
-  "what": "South Korea v Indonesia",
-  "to": "2026-10-04T01:00:00Z"
+  "id": "1554139",
+  "tour": "t22562",
+  "what": "Easterns Women v KwaZulu-Natal Inland Women",
+  "to": "2027-03-07T08:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1555137",
-  "tour": "t24803",
-  "what": "South Korea v Indonesia",
-  "to": "2026-10-05T01:00:00Z"
+  "id": "1545998",
+  "tour": "t19439",
+  "what": "Scotland v United Arab Emirates",
+  "to": "2026-08-03T10:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1555138",
-  "tour": "t24803",
-  "what": "South Korea v Indonesia",
+  "id": "1545999",
+  "tour": "t19439",
+  "what": "Canada v United Arab Emirates",
+  "to": "2026-08-05T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1546000",
+  "tour": "t19439",
+  "what": "Scotland v Canada",
+  "to": "2026-08-07T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1546001",
+  "tour": "t19439",
+  "what": "Scotland v United Arab Emirates",
+  "to": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1546002",
+  "tour": "t19439",
+  "what": "Canada v United Arab Emirates",
+  "to": "2026-08-11T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1546003",
+  "tour": "t19439",
+  "what": "Scotland v Canada",
+  "to": "2026-08-13T10:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554409",
+  "tour": "t19439",
+  "what": "Namibia v United Arab Emirates",
+  "to": "2026-10-03T15:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554410",
+  "tour": "t19439",
+  "what": "United States of America v United Arab Emirates",
+  "to": "2026-10-05T15:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554411",
+  "tour": "t19439",
+  "what": "United States of America v Namibia",
+  "to": "2026-10-07T15:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554415",
+  "tour": "t19439",
+  "what": "Oman v Canada",
+  "to": "2026-10-09T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554412",
+  "tour": "t19439",
+  "what": "Namibia v United Arab Emirates",
+  "to": "2026-10-09T15:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554416",
+  "tour": "t19439",
+  "what": "Canada v Nepal",
+  "to": "2026-10-11T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554413",
+  "tour": "t19439",
+  "what": "United States of America v United Arab Emirates",
+  "to": "2026-10-11T15:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554417",
+  "tour": "t19439",
+  "what": "Oman v Nepal",
+  "to": "2026-10-13T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554414",
+  "tour": "t19439",
+  "what": "United States of America v Namibia",
+  "to": "2026-10-13T15:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554418",
+  "tour": "t19439",
+  "what": "Oman v Canada",
+  "to": "2026-10-15T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554419",
+  "tour": "t19439",
+  "what": "Canada v Nepal",
+  "to": "2026-10-17T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554420",
+  "tour": "t19439",
+  "what": "Oman v Nepal",
+  "to": "2026-10-19T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559563",
+  "tour": "t19439",
+  "what": "United Arab Emirates v Netherlands",
+  "to": "2026-10-25T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559564",
+  "tour": "t19439",
+  "what": "Netherlands v Oman",
+  "to": "2026-10-27T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559565",
+  "tour": "t19439",
+  "what": "United Arab Emirates v Oman",
+  "to": "2026-10-29T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559566",
+  "tour": "t19439",
+  "what": "United Arab Emirates v Netherlands",
+  "to": "2026-10-31T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559567",
+  "tour": "t19439",
+  "what": "Netherlands v Oman",
+  "to": "2026-11-02T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1559568",
+  "tour": "t19439",
+  "what": "United Arab Emirates v Oman",
+  "to": "2026-11-04T05:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550458",
+  "tour": "t8818",
+  "what": "Canterbury Women v Northern Districts Women",
+  "to": "2027-02-05T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550460",
+  "tour": "t8818",
+  "what": "Auckland Women v Central Districts Women",
+  "to": "2027-02-06T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550462",
+  "tour": "t8818",
+  "what": "Canterbury Women v Northern Districts Women",
+  "to": "2027-02-07T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1550465",
+  "tour": "t8818",
+  "what": "Northern Districts Women v Otago Women",
+  "to": "2027-02-12T21:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554707",
+  "tour": "t1554704",
+  "what": "Pakistan Women Under-19s v Bangladesh Women Under-19s",
+  "to": "2026-10-02T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554708",
+  "tour": "t1554704",
+  "what": "Pakistan Women Under-19s v Sri Lanka Women Under-19s",
+  "to": "2026-10-03T05:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554709",
+  "tour": "t1554704",
+  "what": "Bangladesh Women Under-19s v Sri Lanka Women Under-19s",
   "to": "2026-10-05T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1552312",
-  "tour": "t24737",
-  "what": "Japan Women v Malaysia Women",
-  "to": "2026-09-12T01:00:00Z"
+  "id": "1554710",
+  "tour": "t1554704",
+  "what": "Pakistan Women Under-19s v Bangladesh Women Under-19s",
+  "to": "2026-10-06T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1552313",
-  "tour": "t24737",
-  "what": "Japan Women v Malaysia Women",
-  "to": "2026-09-13T06:00:00Z"
+  "id": "1554711",
+  "tour": "t1554704",
+  "what": "Bangladesh Women Under-19s v Sri Lanka Women Under-19s",
+  "to": "2026-10-08T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549972",
-  "tour": "t24688",
-  "what": "Scotland Women v Netherlands Women",
-  "to": "2026-08-28T10:00:00Z"
+  "id": "1554712",
+  "tour": "t1554704",
+  "what": "Pakistan Women Under-19s v Sri Lanka Women Under-19s",
+  "to": "2026-10-09T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549973",
-  "tour": "t24688",
-  "what": "Scotland Women v Netherlands Women",
-  "to": "2026-08-30T10:00:00Z"
+  "id": "1554713",
+  "tour": "t1554704",
+  "what": "Pakistan Women Under-19s v Bangladesh Women Under-19s",
+  "to": "2026-10-11T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1543887",
-  "tour": "t24565",
-  "what": "Zimbabwe Women v South Africa Women",
-  "to": "2026-09-11T11:30:00Z"
+  "id": "1554714",
+  "tour": "t1554704",
+  "what": "Pakistan Women Under-19s v Sri Lanka Women Under-19s",
+  "to": "2026-10-12T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1543888",
-  "tour": "t24565",
-  "what": "Zimbabwe Women v South Africa Women",
-  "to": "2026-09-13T11:30:00Z"
+  "id": "1554715",
+  "tour": "t1554704",
+  "what": "Bangladesh Women Under-19s v Sri Lanka Women Under-19s",
+  "to": "2026-10-14T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1543890",
-  "tour": "t24565",
-  "what": "Zimbabwe Women v South Africa Women",
-  "to": "2026-09-17T11:30:00Z"
+  "id": "1554716",
+  "tour": "t1554704",
+  "what": "Bangladesh Women Under-19s v Sri Lanka Women Under-19s",
+  "to": "2026-10-16T06:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1543891",
-  "tour": "t24565",
-  "what": "Zimbabwe Women v South Africa Women",
-  "to": "2026-09-19T11:30:00Z"
+  "id": "1553777",
+  "tour": "t8836",
+  "what": "Ghani v Khan Research Laboratories",
+  "to": "2026-09-12T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549524",
-  "tour": "t24670",
-  "what": "Namibia v South Africa",
-  "to": "2026-08-28T12:00:00Z"
+  "id": "1553778",
+  "tour": "t8836",
+  "what": "Hyderabad Kingsmen Academy v Markhor IT Solutions",
+  "to": "2026-09-12T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549525",
-  "tour": "t24670",
-  "what": "South Africa v Zimbabwe",
-  "to": "2026-08-29T12:00:00Z"
+  "id": "1553779",
+  "tour": "t8836",
+  "what": "Oil & Gas Development Company Limited v Pakistan Television",
+  "to": "2026-09-12T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549527",
-  "tour": "t24670",
-  "what": "South Africa v Zimbabwe",
-  "to": "2026-09-01T12:00:00Z"
+  "id": "1553780",
+  "tour": "t8836",
+  "what": "State Bank of Pakistan v Sui Northern Gas Pipelines Limited",
+  "to": "2026-09-12T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549529",
-  "tour": "t24670",
-  "what": "Namibia v South Africa",
-  "to": "2026-09-04T12:00:00Z"
+  "id": "1553781",
+  "tour": "t8836",
+  "what": "Ghani v Sui Northern Gas Pipelines Limited",
+  "to": "2026-09-18T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549530",
-  "tour": "t24670",
-  "what": "South Africa v Zimbabwe",
-  "to": "2026-09-06T12:00:00Z"
+  "id": "1553782",
+  "tour": "t8836",
+  "what": "Khan Research Laboratories v Markhor IT Solutions",
+  "to": "2026-09-18T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549531",
-  "tour": "t24670",
-  "what": "Namibia v South Africa",
-  "to": "2026-09-09T07:30:00Z"
+  "id": "1553783",
+  "tour": "t8836",
+  "what": "Pakistan Television v State Bank of Pakistan",
+  "to": "2026-09-18T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549532",
-  "tour": "t24670",
-  "what": "Namibia v South Africa",
-  "to": "2026-09-11T07:30:00Z"
+  "id": "1553784",
+  "tour": "t8836",
+  "what": "Hyderabad Kingsmen Academy v Oil & Gas Development Company Limited",
+  "to": "2026-09-18T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549533",
-  "tour": "t24670",
-  "what": "Namibia v South Africa",
-  "to": "2026-09-13T07:30:00Z"
+  "id": "1553786",
+  "tour": "t8836",
+  "what": "Khan Research Laboratories v Oil & Gas Development Company Limited",
+  "to": "2026-09-24T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549946",
-  "tour": "acc_pc",
-  "what": "Oman v Singapore",
-  "to": "2026-08-30T01:30:00Z"
+  "id": "1553787",
+  "tour": "t8836",
+  "what": "Markhor IT Solutions v Sui Northern Gas Pipelines Limited",
+  "to": "2026-09-24T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549947",
-  "tour": "acc_pc",
-  "what": "Hong Kong v Saudi Arabia",
-  "to": "2026-08-30T01:30:00Z"
+  "id": "1553785",
+  "tour": "t8836",
+  "what": "Ghani v State Bank of Pakistan",
+  "to": "2026-09-24T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549949",
-  "tour": "acc_pc",
-  "what": "Bahrain v Nepal",
-  "to": "2026-08-31T01:30:00Z"
+  "id": "1553788",
+  "tour": "t8836",
+  "what": "Hyderabad Kingsmen Academy v Pakistan Television",
+  "to": "2026-09-24T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549950",
-  "tour": "acc_pc",
-  "what": "Malaysia v Saudi Arabia",
-  "to": "2026-09-01T01:30:00Z"
+  "id": "1553789",
+  "tour": "t8836",
+  "what": "Ghani v Markhor IT Solutions",
+  "to": "2026-09-30T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549951",
-  "tour": "acc_pc",
-  "what": "Kuwait v Singapore",
-  "to": "2026-09-01T01:30:00Z"
+  "id": "1553790",
+  "tour": "t8836",
+  "what": "Khan Research Laboratories v Hyderabad Kingsmen Academy",
+  "to": "2026-09-30T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549952",
-  "tour": "acc_pc",
-  "what": "Bahrain v Hong Kong",
-  "to": "2026-09-02T01:30:00Z"
+  "id": "1553791",
+  "tour": "t8836",
+  "what": "Pakistan Television v Sui Northern Gas Pipelines Limited",
+  "to": "2026-09-30T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549953",
-  "tour": "acc_pc",
-  "what": "Oman v Qatar",
-  "to": "2026-09-02T01:30:00Z"
+  "id": "1553792",
+  "tour": "t8836",
+  "what": "Oil & Gas Development Company Limited v State Bank of Pakistan",
+  "to": "2026-09-30T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549955",
-  "tour": "acc_pc",
-  "what": "Malaysia v Nepal",
-  "to": "2026-09-03T01:30:00Z"
+  "id": "1553796",
+  "tour": "t8836",
+  "what": "Hyderabad Kingsmen Academy v Sui Northern Gas Pipelines Limited",
+  "to": "2026-10-06T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549956",
-  "tour": "acc_pc",
-  "what": "Qatar v Singapore",
-  "to": "2026-09-04T01:30:00Z"
+  "id": "1553793",
+  "tour": "t8836",
+  "what": "Ghani v Pakistan Television",
+  "to": "2026-10-06T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549957",
-  "tour": "acc_pc",
-  "what": "Bahrain v Saudi Arabia",
-  "to": "2026-09-04T01:30:00Z"
+  "id": "1553794",
+  "tour": "t8836",
+  "what": "Khan Research Laboratories v State Bank of Pakistan",
+  "to": "2026-10-06T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549958",
-  "tour": "acc_pc",
-  "what": "Kuwait v Oman",
-  "to": "2026-09-05T01:30:00Z"
+  "id": "1553795",
+  "tour": "t8836",
+  "what": "Markhor IT Solutions v Oil & Gas Development Company Limited",
+  "to": "2026-10-06T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549959",
-  "tour": "acc_pc",
-  "what": "Malaysia v Hong Kong",
-  "to": "2026-09-05T01:30:00Z"
+  "id": "1553798",
+  "tour": "t8836",
+  "what": "Khan Research Laboratories v Pakistan Television",
+  "to": "2026-10-12T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549960",
-  "tour": "acc_pc",
-  "what": "Nepal v Saudi Arabia",
-  "to": "2026-09-06T01:30:00Z"
+  "id": "1553799",
+  "tour": "t8836",
+  "what": "Markhor IT Solutions v State Bank of Pakistan",
+  "to": "2026-10-12T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549962",
-  "tour": "acc_pc",
-  "what": "Malaysia v Bahrain",
-  "to": "2026-09-07T01:30:00Z"
+  "id": "1553797",
+  "tour": "t8836",
+  "what": "Ghani v Hyderabad Kingsmen Academy",
+  "to": "2026-10-14T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549963",
-  "tour": "acc_pc",
-  "what": "Kuwait v Qatar",
-  "to": "2026-09-07T01:30:00Z"
+  "id": "1553800",
+  "tour": "t8836",
+  "what": "Oil & Gas Development Company Limited v Sui Northern Gas Pipelines Limited",
+  "to": "2026-10-14T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549964",
-  "tour": "acc_pc",
-  "what": "Hong Kong v Nepal",
-  "to": "2026-09-08T01:30:00Z"
+  "id": "1553801",
+  "tour": "t8836",
+  "what": "Ghani v Oil & Gas Development Company Limited",
+  "to": "2026-10-19T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549966",
-  "tour": "acc_pc",
-  "what": "Nepal v Oman",
-  "to": "2026-09-10T01:30:00Z"
+  "id": "1553802",
+  "tour": "t8836",
+  "what": "Khan Research Laboratories v Sui Northern Gas Pipelines Limited",
+  "to": "2026-10-19T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1549968",
-  "tour": "acc_pc",
-  "what": "Hong Kong v Oman",
-  "to": "2026-09-12T01:30:00Z"
+  "id": "1553803",
+  "tour": "t8836",
+  "what": "Pakistan Television v Markhor IT Solutions",
+  "to": "2026-10-19T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551717",
-  "tour": "t1551603",
-  "what": "KwaZulu-Natal Inland v South Western Districts",
-  "to": "2027-01-07T08:00:00Z"
+  "id": "1553804",
+  "tour": "t8836",
+  "what": "Hyderabad Kingsmen Academy v State Bank of Pakistan",
+  "to": "2026-10-19T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551718",
-  "tour": "t1551603",
-  "what": "Limpopo v Northern Cape",
-  "to": "2027-01-07T08:00:00Z"
+  "id": "1553805",
+  "tour": "t8836",
+  "what": "State Bank of Pakistan v Markhor IT Solutions",
+  "to": "2026-10-27T05:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551719",
-  "tour": "t1551603",
-  "what": "Border v Mpumalanga",
-  "to": "2027-01-14T08:00:00Z"
+  "id": "1546541",
+  "tour": "t8050",
+  "what": "Sikkim v Meghalaya",
+  "to": "2026-10-11T02:45:00Z"
  },
  {
   "kind": "added",
-  "id": "1551721",
-  "tour": "t1551603",
-  "what": "Easterns v KwaZulu-Natal Inland",
-  "to": "2027-01-14T08:00:00Z"
+  "id": "1546534",
+  "tour": "t8050",
+  "what": "Bengal v Delhi",
+  "to": "2026-10-11T03:30:00Z"
  },
  {
   "kind": "added",
-  "id": "1551720",
-  "tour": "t1551603",
-  "what": "Northern Cape v South Western Districts",
-  "to": "2027-01-14T08:00:00Z"
+  "id": "1546525",
+  "tour": "t8050",
+  "what": "Bihar v Uttar Pradesh",
+  "to": "2026-10-11T03:30:00Z"
  },
  {
   "kind": "added",
-  "id": "1551723",
-  "tour": "t1551603",
-  "what": "Border v Northern Cape",
-  "to": "2027-01-21T08:00:00Z"
+  "id": "1546529",
+  "tour": "t8050",
+  "what": "Andhra v Karnataka",
+  "to": "2026-10-11T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551724",
-  "tour": "t1551603",
-  "what": "KwaZulu-Natal Inland v Limpopo",
-  "to": "2027-01-21T08:00:00Z"
+  "id": "1546524",
+  "tour": "t8050",
+  "what": "Goa v Baroda",
+  "to": "2026-10-11T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551722",
-  "tour": "t1551603",
-  "what": "South Western Districts v Mpumalanga",
-  "to": "2027-01-21T08:00:00Z"
+  "id": "1546533",
+  "tour": "t8050",
+  "what": "Gujarat v Odisha",
+  "to": "2026-10-11T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551726",
-  "tour": "t1551603",
-  "what": "Border v KwaZulu-Natal Inland",
-  "to": "2027-02-04T08:00:00Z"
+  "id": "1546536",
+  "tour": "t8050",
+  "what": "Haryana v Himachal Pradesh",
+  "to": "2026-10-11T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551727",
-  "tour": "t1551603",
-  "what": "Northern Cape v Mpumalanga",
-  "to": "2027-02-04T08:00:00Z"
+  "id": "1546528",
+  "tour": "t8050",
+  "what": "Hyderabad (India) v Tripura",
+  "to": "2026-10-11T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551725",
-  "tour": "t1551603",
-  "what": "South Western Districts v Easterns",
-  "to": "2027-02-04T08:00:00Z"
+  "id": "1546526",
+  "tour": "t8050",
+  "what": "Jammu & Kashmir v Madhya Pradesh",
+  "to": "2026-10-11T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551729",
-  "tour": "t1551603",
-  "what": "Easterns v Limpopo",
-  "to": "2027-02-11T08:00:00Z"
+  "id": "1546540",
+  "tour": "t8050",
+  "what": "Mizoram v Manipur",
+  "to": "2026-10-11T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551728",
-  "tour": "t1551603",
-  "what": "KwaZulu-Natal Inland v Border",
-  "to": "2027-02-11T08:00:00Z"
+  "id": "1546539",
+  "tour": "t8050",
+  "what": "Mumbai v Chandigarh",
+  "to": "2026-10-11T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551730",
-  "tour": "t1551603",
-  "what": "Mpumalanga v Northern Cape",
-  "to": "2027-02-11T08:00:00Z"
+  "id": "1546559",
+  "tour": "t8050",
+  "what": "Meghalaya v Manipur",
+  "to": "2026-10-18T03:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551731",
-  "tour": "t1551603",
-  "what": "Border v South Western Districts",
-  "to": "2027-02-18T08:00:00Z"
+  "id": "1546550",
+  "tour": "t8050",
+  "what": "Assam v Tripura",
+  "to": "2026-10-18T03:15:00Z"
  },
  {
   "kind": "added",
-  "id": "1551733",
-  "tour": "t1551603",
-  "what": "Limpopo v Mpumalanga",
-  "to": "2027-02-18T08:00:00Z"
+  "id": "1546543",
+  "tour": "t8050",
+  "what": "Baroda v Bihar",
+  "to": "2026-10-18T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551732",
-  "tour": "t1551603",
-  "what": "Northern Cape v Easterns",
-  "to": "2027-02-18T08:00:00Z"
+  "id": "1546548",
+  "tour": "t8050",
+  "what": "Karnataka v Saurashtra",
+  "to": "2026-10-18T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551734",
-  "tour": "t1551603",
-  "what": "KwaZulu-Natal Inland v Easterns",
-  "to": "2027-03-04T08:00:00Z"
+  "id": "1546544",
+  "tour": "t8050",
+  "what": "Puducherry v Madhya Pradesh",
+  "to": "2026-10-18T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551736",
-  "tour": "t1551603",
-  "what": "Limpopo v South Western Districts",
-  "to": "2027-03-04T08:00:00Z"
+  "id": "1546546",
+  "tour": "t8050",
+  "what": "Uttar Pradesh v Goa",
+  "to": "2026-10-18T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551735",
-  "tour": "t1551603",
-  "what": "Northern Cape v Border",
-  "to": "2027-03-04T08:00:00Z"
+  "id": "1546611",
+  "tour": "t8050",
+  "what": "Maharashtra v Keralam",
+  "to": "2027-01-17T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551738",
-  "tour": "t1551603",
-  "what": "Border v Limpopo",
-  "to": "2027-03-11T08:00:00Z"
+  "id": "1546612",
+  "tour": "t8050",
+  "what": "Railways v Haryana",
+  "to": "2027-01-17T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551739",
-  "tour": "t1551603",
-  "what": "Easterns v Mpumalanga",
-  "to": "2027-03-11T08:00:00Z"
+  "id": "1546651",
+  "tour": "t8050",
+  "what": "Himachal Pradesh v Railways",
+  "to": "2027-02-01T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551737",
-  "tour": "t1551603",
-  "what": "South Western Districts v KwaZulu-Natal Inland",
-  "to": "2027-03-11T08:00:00Z"
+  "id": "1546639",
+  "tour": "t8050",
+  "what": "Jammu & Kashmir v Goa",
+  "to": "2027-02-01T04:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1551740",
-  "tour": "t1551603",
-  "what": "Mpumalanga v Easterns",
-  "to": "2027-03-18T08:00:00Z"
+  "id": "1550286",
+  "tour": "t8880",
+  "what": "Wellington v Otago",
+  "to": "2026-10-28T21:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1551742",
-  "tour": "t1551603",
-  "what": "KwaZulu-Natal Inland v Northern Cape",
-  "to": "2027-03-25T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551743",
-  "tour": "t1551603",
-  "what": "Mpumalanga v Border",
-  "to": "2027-03-25T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551741",
-  "tour": "t1551603",
-  "what": "South Western Districts v Limpopo",
-  "to": "2027-03-25T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551744",
-  "tour": "t1551603",
-  "what": "TBA v TBA",
-  "to": "2027-04-08T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551804",
-  "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v South Western Districts",
-  "to": "2027-01-10T07:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551805",
-  "tour": "t20676",
-  "what": "Limpopo v Northern Cape",
-  "to": "2027-01-10T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551806",
-  "tour": "t20676",
-  "what": "Border v Mpumalanga",
-  "to": "2027-01-17T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551808",
-  "tour": "t20676",
-  "what": "Easterns v KwaZulu-Natal Inland",
-  "to": "2027-01-17T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551807",
-  "tour": "t20676",
-  "what": "Northern Cape v South Western Districts",
-  "to": "2027-01-17T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551811",
-  "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v Limpopo",
-  "to": "2027-01-24T07:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551810",
-  "tour": "t20676",
-  "what": "Border v Northern Cape",
-  "to": "2027-01-24T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551809",
-  "tour": "t20676",
-  "what": "South Western Districts v Mpumalanga",
-  "to": "2027-01-24T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551813",
-  "tour": "t20676",
-  "what": "Border v KwaZulu-Natal Inland",
-  "to": "2027-02-07T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551814",
-  "tour": "t20676",
-  "what": "Northern Cape v Mpumalanga",
-  "to": "2027-02-07T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551812",
-  "tour": "t20676",
-  "what": "South Western Districts v Easterns",
-  "to": "2027-02-07T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551815",
-  "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v Border",
-  "to": "2027-02-14T07:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551817",
-  "tour": "t20676",
-  "what": "Mpumalanga v Northern Cape",
-  "to": "2027-02-14T07:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551816",
-  "tour": "t20676",
-  "what": "Easterns v Limpopo",
-  "to": "2027-02-14T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551818",
-  "tour": "t20676",
-  "what": "Border v South Western Districts",
-  "to": "2027-02-21T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551820",
-  "tour": "t20676",
-  "what": "Limpopo v Mpumalanga",
-  "to": "2027-02-21T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551819",
-  "tour": "t20676",
-  "what": "Northern Cape v Easterns",
-  "to": "2027-02-21T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551821",
-  "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v Easterns",
-  "to": "2027-03-07T07:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551823",
-  "tour": "t20676",
-  "what": "Limpopo v South Western Districts",
-  "to": "2027-03-07T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551822",
-  "tour": "t20676",
-  "what": "Northern Cape v Border",
-  "to": "2027-03-07T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551825",
-  "tour": "t20676",
-  "what": "Border v Limpopo",
-  "to": "2027-03-14T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551826",
-  "tour": "t20676",
-  "what": "Easterns v Mpumalanga",
-  "to": "2027-03-14T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551824",
-  "tour": "t20676",
-  "what": "South Western Districts v KwaZulu-Natal Inland",
-  "to": "2027-03-14T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551827",
-  "tour": "t20676",
-  "what": "Mpumalanga v Easterns",
-  "to": "2027-03-21T07:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551829",
-  "tour": "t20676",
-  "what": "KwaZulu-Natal Inland v Northern Cape",
-  "to": "2027-03-28T07:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551830",
-  "tour": "t20676",
-  "what": "Mpumalanga v Border",
-  "to": "2027-03-28T07:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551828",
-  "tour": "t20676",
-  "what": "South Western Districts v Limpopo",
-  "to": "2027-03-28T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534179",
-  "tour": "cpl",
-  "what": "Antigua and Barbuda Falcons v Jamaica Kingsmen",
-  "to": "2026-08-07T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534180",
-  "tour": "cpl",
-  "what": "St Kitts and Nevis Patriots v Trinbago Knight Riders",
-  "to": "2026-08-08T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534181",
-  "tour": "cpl",
-  "what": "Antigua and Barbuda Falcons v St Lucia Kings",
-  "to": "2026-08-09T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534182",
-  "tour": "cpl",
-  "what": "Jamaica Kingsmen v Barbados Tridents",
-  "to": "2026-08-12T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534183",
-  "tour": "cpl",
-  "what": "St Lucia Kings v St Kitts and Nevis Patriots",
-  "to": "2026-08-12T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534184",
-  "tour": "cpl",
-  "what": "Jamaica Kingsmen v Guyana Amazon Warriors",
-  "to": "2026-08-14T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534185",
-  "tour": "cpl",
-  "what": "St Lucia Kings v Antigua and Barbuda Falcons",
-  "to": "2026-08-14T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534186",
-  "tour": "cpl",
-  "what": "Jamaica Kingsmen v Trinbago Knight Riders",
-  "to": "2026-08-16T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534187",
-  "tour": "cpl",
-  "what": "St Lucia Kings v Barbados Tridents",
-  "to": "2026-08-16T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534188",
-  "tour": "cpl",
-  "what": "Jamaica Kingsmen v St Kitts and Nevis Patriots",
-  "to": "2026-08-19T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534189",
-  "tour": "cpl",
-  "what": "St Lucia Kings v Guyana Amazon Warriors",
-  "to": "2026-08-19T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534190",
-  "tour": "cpl",
-  "what": "Antigua and Barbuda Falcons v St Kitts and Nevis Patriots",
-  "to": "2026-08-20T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534191",
-  "tour": "cpl",
-  "what": "St Lucia Kings v Jamaica Kingsmen",
-  "to": "2026-08-21T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534192",
-  "tour": "cpl",
-  "what": "Antigua and Barbuda Falcons v Trinbago Knight Riders",
-  "to": "2026-08-22T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534193",
-  "tour": "cpl",
-  "what": "Antigua and Barbuda Falcons v Guyana Amazon Warriors",
-  "to": "2026-08-23T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534194",
-  "tour": "cpl",
-  "what": "Antigua and Barbuda Falcons v Barbados Tridents",
-  "to": "2026-08-25T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534195",
-  "tour": "cpl",
-  "what": "Trinbago Knight Riders v St Lucia Kings",
-  "to": "2026-08-26T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534196",
-  "tour": "cpl",
-  "what": "St Kitts and Nevis Patriots v Jamaica Kingsmen",
-  "to": "2026-08-27T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534197",
-  "tour": "cpl",
-  "what": "Trinbago Knight Riders v Barbados Tridents",
-  "to": "2026-08-29T00:00:00Z"
+  "kind": "dropped",
+  "id": "1537349",
+  "tour": "lpl",
+  "what": "Colombo Kaps v Galle Gallants",
+  "from": "2026-08-01T14:00:00Z"
  },
  {
-  "kind": "added",
-  "id": "1534198",
-  "tour": "cpl",
-  "what": "Trinbago Knight Riders v Jamaica Kingsmen",
-  "to": "2026-08-29T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534199",
-  "tour": "cpl",
-  "what": "St Kitts and Nevis Patriots v Antigua and Barbuda Falcons",
-  "to": "2026-08-30T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534200",
-  "tour": "cpl",
-  "what": "Trinbago Knight Riders v Guyana Amazon Warriors",
-  "to": "2026-08-31T21:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534201",
-  "tour": "cpl",
-  "what": "St Kitts and Nevis Patriots v Barbados Tridents",
-  "to": "2026-09-01T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534202",
-  "tour": "cpl",
-  "what": "Trinbago Knight Riders v Antigua and Barbuda Falcons",
-  "to": "2026-09-02T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534203",
-  "tour": "cpl",
-  "what": "St Kitts and Nevis Patriots v St Lucia Kings",
-  "to": "2026-09-03T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534204",
-  "tour": "cpl",
-  "what": "Guyana Amazon Warriors v Jamaica Kingsmen",
-  "to": "2026-09-04T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534205",
-  "tour": "cpl",
-  "what": "Barbados Tridents v Trinbago Knight Riders",
-  "to": "2026-09-06T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534206",
-  "tour": "cpl",
-  "what": "Guyana Amazon Warriors v St Kitts and Nevis Patriots",
-  "to": "2026-09-06T19:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534207",
-  "tour": "cpl",
-  "what": "Barbados Tridents v St Lucia Kings",
-  "to": "2026-09-06T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534208",
-  "tour": "cpl",
-  "what": "Guyana Amazon Warriors v Antigua and Barbuda Falcons",
-  "to": "2026-09-08T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534209",
-  "tour": "cpl",
-  "what": "Guyana Amazon Warriors v St Lucia Kings",
-  "to": "2026-09-09T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534210",
-  "tour": "cpl",
-  "what": "Barbados Tridents v St Kitts and Nevis Patriots",
-  "to": "2026-09-10T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534211",
-  "tour": "cpl",
-  "what": "Guyana Amazon Warriors v Trinbago Knight Riders",
-  "to": "2026-09-11T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534212",
-  "tour": "cpl",
-  "what": "Barbados Tridents v Jamaica Kingsmen",
-  "to": "2026-09-13T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534213",
-  "tour": "cpl",
-  "what": "Barbados Tridents v Guyana Amazon Warriors",
-  "to": "2026-09-13T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534214",
-  "tour": "cpl",
-  "what": "Barbados Tridents v Jamaica Kingsmen",
-  "to": "2026-09-16T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534215",
-  "tour": "cpl",
-  "what": "Antigua and Barbuda Falcons v Guyana Amazon Warriors",
-  "to": "2026-09-18T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534216",
-  "tour": "cpl",
-  "what": "Guyana Amazon Warriors v Jamaica Kingsmen",
-  "to": "2026-09-18T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534217",
-  "tour": "cpl",
-  "what": "Antigua and Barbuda Falcons v Jamaica Kingsmen",
-  "to": "2026-09-20T23:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551072",
-  "tour": "t24742",
-  "what": "Belgium Women v Portugal Women",
-  "to": "2026-09-04T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551073",
-  "tour": "t24742",
-  "what": "Czech Republic Women v Portugal Women",
-  "to": "2026-09-04T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551074",
-  "tour": "t24742",
-  "what": "Czech Republic Women v Belgium Women",
-  "to": "2026-09-04T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551075",
-  "tour": "t24742",
-  "what": "Belgium Women v Portugal Women",
-  "to": "2026-09-05T07:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551076",
-  "tour": "t24742",
-  "what": "Czech Republic Women v Belgium Women",
-  "to": "2026-09-05T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551077",
-  "tour": "t24742",
-  "what": "Czech Republic Women v Portugal Women",
-  "to": "2026-09-05T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551078",
-  "tour": "t24742",
-  "what": "Belgium Women v Portugal Women",
-  "to": "2026-09-06T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1551079",
-  "tour": "t24742",
-  "what": "Czech Republic Women v Portugal Women",
-  "to": "2026-09-06T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513582",
-  "tour": "t23080",
-  "what": "Surrey Women v Hampshire Women",
-  "to": "2026-08-19T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513583",
-  "tour": "t23080",
-  "what": "The Blaze Women v Durham Women",
-  "to": "2026-08-19T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513584",
-  "tour": "t23080",
-  "what": "Essex Women v Somerset Women",
-  "to": "2026-08-19T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513585",
-  "tour": "t23080",
-  "what": "Warwickshire Women v Yorkshire Women",
-  "to": "2026-08-19T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513586",
-  "tour": "t23080",
-  "what": "Warwickshire Women v The Blaze Women",
-  "to": "2026-08-26T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513587",
-  "tour": "t23080",
-  "what": "Yorkshire Women v Surrey Women",
-  "to": "2026-08-26T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513588",
-  "tour": "t23080",
-  "what": "Somerset Women v Durham Women",
-  "to": "2026-08-26T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513589",
-  "tour": "t23080",
-  "what": "Hampshire Women v Lancashire Women",
-  "to": "2026-08-26T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513590",
-  "tour": "t23080",
-  "what": "Durham Women v Hampshire Women",
-  "to": "2026-09-03T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513591",
-  "tour": "t23080",
-  "what": "Lancashire Women v Surrey Women",
-  "to": "2026-09-03T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513592",
-  "tour": "t23080",
-  "what": "Yorkshire Women v Somerset Women",
-  "to": "2026-09-03T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513593",
-  "tour": "t23080",
-  "what": "Warwickshire Women v Essex Women",
-  "to": "2026-09-03T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513594",
-  "tour": "t23080",
-  "what": "Essex Women v Surrey Women",
-  "to": "2026-09-06T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513595",
-  "tour": "t23080",
-  "what": "Lancashire Women v Durham Women",
-  "to": "2026-09-06T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513596",
-  "tour": "t23080",
-  "what": "The Blaze Women v Somerset Women",
-  "to": "2026-09-06T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513597",
-  "tour": "t23080",
-  "what": "Hampshire Women v Yorkshire Women",
-  "to": "2026-09-06T09:30:00Z"
+  "kind": "dropped",
+  "id": "1537350",
+  "tour": "lpl",
+  "what": "Dambulla Sixers v Jaffna Kings",
+  "from": "2026-08-02T14:00:00Z"
  },
  {
-  "kind": "added",
-  "id": "1513598",
-  "tour": "t23080",
-  "what": "Surrey Women v Warwickshire Women",
-  "to": "2026-09-09T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513599",
-  "tour": "t23080",
-  "what": "Somerset Women v Lancashire Women",
-  "to": "2026-09-09T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513600",
-  "tour": "t23080",
-  "what": "Essex Women v Yorkshire Women",
-  "to": "2026-09-09T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513601",
-  "tour": "t23080",
-  "what": "Hampshire Women v The Blaze Women",
-  "to": "2026-09-09T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513602",
-  "tour": "t23080",
-  "what": "The Blaze Women v Essex Women",
-  "to": "2026-09-11T09:30:00Z"
+  "kind": "dropped",
+  "id": "1537351",
+  "tour": "lpl",
+  "what": "Galle Gallants v Jaffna Kings",
+  "from": "2026-08-05T09:30:00Z"
  },
  {
-  "kind": "added",
-  "id": "1513603",
-  "tour": "t23080",
-  "what": "Durham Women v Warwickshire Women",
-  "to": "2026-09-12T09:30:00Z"
+  "kind": "dropped",
+  "id": "1537353",
+  "tour": "lpl",
+  "what": "Colombo Kaps v Galle Gallants",
+  "from": "2026-08-07T14:00:00Z"
  },
  {
-  "kind": "added",
-  "id": "1513604",
-  "tour": "t23080",
-  "what": "Yorkshire Women v Lancashire Women",
-  "to": "2026-09-12T09:30:00Z"
+  "kind": "dropped",
+  "id": "1513428",
+  "tour": "t8204",
+  "what": "Middlesex v Kent",
+  "from": "2026-08-20T10:00:00Z"
  },
  {
-  "kind": "added",
-  "id": "1513605",
-  "tour": "t23080",
-  "what": "Surrey Women v Somerset Women",
-  "to": "2026-09-12T09:30:00Z"
+  "kind": "dropped",
+  "id": "1513429",
+  "tour": "t8204",
+  "what": "Derbyshire v Durham",
+  "from": "2026-08-20T10:00:00Z"
  },
  {
-  "kind": "added",
-  "id": "1513606",
-  "tour": "t23080",
-  "what": "Hampshire Women v Surrey Women",
-  "to": "2026-09-16T09:30:00Z"
+  "kind": "dropped",
+  "id": "1513430",
+  "tour": "t8204",
+  "what": "Lancashire v Northamptonshire",
+  "from": "2026-08-20T10:00:00Z"
  },
  {
-  "kind": "added",
-  "id": "1513607",
-  "tour": "t23080",
-  "what": "Hampshire Women v The Blaze Women",
-  "to": "2026-09-19T09:30:00Z"
+  "kind": "dropped",
+  "id": "1513431",
+  "tour": "t8204",
+  "what": "Gloucestershire v Worcestershire",
+  "from": "2026-08-20T10:00:00Z"
  },
  {
-  "kind": "added",
-  "id": "1547880",
+  "kind": "dropped",
+  "id": "1547872",
   "tour": "eutpl",
-  "what": "Rotterdam Dockers v Glasgow Cosmic",
-  "to": "2026-09-01T13:15:00Z"
+  "what": "Rotterdam Dockers v Amsterdam Flames",
+  "from": "2026-08-26T13:15:00Z"
  },
  {
-  "kind": "added",
-  "id": "1547883",
-  "tour": "eutpl",
-  "what": "Amsterdam Flames v Glasgow Cosmic",
-  "to": "2026-09-03T13:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547885",
-  "tour": "eutpl",
-  "what": "Rotterdam Dockers v Edinburgh Castle Rockers",
-  "to": "2026-09-05T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547886",
-  "tour": "eutpl",
-  "what": "Amsterdam Flames v Dublin Guardians",
-  "to": "2026-09-05T13:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547887",
-  "tour": "eutpl",
-  "what": "Glasgow Cosmic v Edinburgh Castle Rockers",
-  "to": "2026-09-06T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547888",
-  "tour": "eutpl",
-  "what": "Amsterdam Flames v Rotterdam Dockers",
-  "to": "2026-09-06T13:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547891",
-  "tour": "eutpl",
-  "what": "Belfast Wolves v Amsterdam Flames",
-  "to": "2026-09-10T13:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547897",
-  "tour": "eutpl",
-  "what": "Dublin Guardians v Amsterdam Flames",
-  "to": "2026-09-15T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547902",
-  "tour": "eutpl",
-  "what": "Belfast Wolves v Amsterdam Flames",
-  "to": "2026-09-19T13:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554568",
-  "tour": "t1554555",
-  "what": "China v Maldives",
-  "to": "2026-10-08T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554569",
-  "tour": "t1554555",
-  "what": "Saudi Arabia v Singapore",
-  "to": "2026-10-08T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554570",
-  "tour": "t1554555",
-  "what": "Malaysia v Hong Kong",
-  "to": "2026-10-08T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554571",
-  "tour": "t1554555",
-  "what": "Malaysia v Saudi Arabia",
-  "to": "2026-10-09T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554572",
-  "tour": "t1554555",
-  "what": "China v Hong Kong",
-  "to": "2026-10-09T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554573",
-  "tour": "t1554555",
-  "what": "Maldives v Singapore",
-  "to": "2026-10-09T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554574",
-  "tour": "t1554555",
-  "what": "Hong Kong v Saudi Arabia",
-  "to": "2026-10-11T01:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554575",
-  "tour": "t1554555",
-  "what": "Malaysia v Maldives",
-  "to": "2026-10-11T01:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554576",
-  "tour": "t1554555",
-  "what": "China v Singapore",
-  "to": "2026-10-11T01:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554577",
-  "tour": "t1554555",
-  "what": "Malaysia v Singapore",
-  "to": "2026-10-12T01:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554578",
-  "tour": "t1554555",
-  "what": "Hong Kong v Maldives",
-  "to": "2026-10-12T01:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554579",
-  "tour": "t1554555",
-  "what": "China v Saudi Arabia",
-  "to": "2026-10-12T01:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554580",
-  "tour": "t1554555",
-  "what": "Malaysia v China",
-  "to": "2026-10-14T01:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554581",
-  "tour": "t1554555",
-  "what": "Hong Kong v Singapore",
-  "to": "2026-10-14T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554582",
-  "tour": "t1554555",
-  "what": "Maldives v Saudi Arabia",
-  "to": "2026-10-14T06:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552906",
-  "tour": "t1552900",
-  "what": "Rwanda v Botswana",
-  "to": "2026-09-08T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552907",
-  "tour": "t1552900",
-  "what": "Kenya v Sierra Leone",
-  "to": "2026-09-08T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552908",
-  "tour": "t1552900",
-  "what": "Sierra Leone v Uganda",
-  "to": "2026-09-09T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552909",
-  "tour": "t1552900",
-  "what": "Rwanda v Kenya",
-  "to": "2026-09-09T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552910",
-  "tour": "t1552900",
-  "what": "Botswana v Uganda",
-  "to": "2026-09-10T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552911",
-  "tour": "t1552900",
-  "what": "Rwanda v Sierra Leone",
-  "to": "2026-09-10T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552912",
-  "tour": "t1552900",
-  "what": "Rwanda v Uganda",
-  "to": "2026-09-11T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552913",
-  "tour": "t1552900",
-  "what": "Botswana v Kenya",
-  "to": "2026-09-11T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552914",
-  "tour": "t1552900",
-  "what": "Kenya v Uganda",
-  "to": "2026-09-12T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552915",
-  "tour": "t1552900",
-  "what": "Botswana v Sierra Leone",
-  "to": "2026-09-12T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552916",
-  "tour": "t1552900",
-  "what": "Kenya v Sierra Leone",
-  "to": "2026-09-13T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552917",
-  "tour": "t1552900",
-  "what": "Rwanda v Botswana",
-  "to": "2026-09-13T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552918",
-  "tour": "t1552900",
-  "what": "Sierra Leone v Uganda",
-  "to": "2026-09-15T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552919",
-  "tour": "t1552900",
-  "what": "Rwanda v Kenya",
-  "to": "2026-09-15T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552920",
-  "tour": "t1552900",
-  "what": "Botswana v Uganda",
-  "to": "2026-09-16T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552921",
-  "tour": "t1552900",
-  "what": "Rwanda v Sierra Leone",
-  "to": "2026-09-16T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552922",
-  "tour": "t1552900",
-  "what": "Rwanda v Uganda",
-  "to": "2026-09-17T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552923",
-  "tour": "t1552900",
-  "what": "Botswana v Kenya",
-  "to": "2026-09-17T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552924",
-  "tour": "t1552900",
-  "what": "Kenya v Uganda",
-  "to": "2026-09-18T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552925",
-  "tour": "t1552900",
-  "what": "Botswana v Sierra Leone",
-  "to": "2026-09-18T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552926",
-  "tour": "t1552900",
-  "what": "Kenya v Uganda",
-  "to": "2026-09-19T11:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1549526",
-  "tour": "t1549518",
-  "what": "Namibia v Zimbabwe",
-  "to": "2026-08-31T12:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1549528",
-  "tour": "t1549518",
-  "what": "Namibia v Zimbabwe",
-  "to": "2026-09-03T12:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1552795",
-  "tour": "t23315",
-  "what": "Cayman Islands v Bahamas",
-  "to": "2026-09-24T15:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547404",
-  "tour": "t8832",
-  "what": "Ace Capital Cricket Club v Panadura Sports Club",
-  "to": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547407",
-  "tour": "t8832",
-  "what": "Badureliya Sports Club v Bloomfield Cricket and Athletic Club",
-  "to": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547405",
-  "tour": "t8832",
-  "what": "Colts Cricket Club v Sinhalese Sports Club",
-  "to": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547402",
-  "tour": "t8832",
-  "what": "Kurunegala Youth Cricket Club v Tamil Union Cricket and Athletic Club",
-  "to": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547406",
-  "tour": "t8832",
-  "what": "Nondescripts Cricket Club v Burgher Recreation Club",
-  "to": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547403",
-  "tour": "t8832",
-  "what": "Nugegoda Sports Welfare Club v Moors Sports Club",
-  "to": "2026-08-10T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547412",
-  "tour": "t8832",
-  "what": "Badureliya Sports Club v Colts Cricket Club",
-  "to": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547413",
-  "tour": "t8832",
-  "what": "Bloomfield Cricket and Athletic Club v Nondescripts Cricket Club",
-  "to": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547408",
-  "tour": "t8832",
-  "what": "Kurunegala Youth Cricket Club v Colombo Cricket Club",
-  "to": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547410",
-  "tour": "t8832",
-  "what": "Panadura Sports Club v Moors Sports Club",
-  "to": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547411",
-  "tour": "t8832",
-  "what": "Sinhalese Sports Club v Police Sports Club",
-  "to": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547409",
-  "tour": "t8832",
-  "what": "Tamil Union Cricket and Athletic Club v Ace Capital Cricket Club",
-  "to": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547417",
-  "tour": "t8832",
-  "what": "Burgher Recreation Club v Police Sports Club",
-  "to": "2026-08-18T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547414",
-  "tour": "t8832",
-  "what": "Colombo Cricket Club v Nugegoda Sports Welfare Club",
-  "to": "2026-08-18T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547419",
-  "tour": "t8832",
-  "what": "Colts Cricket Club v Nondescripts Cricket Club",
-  "to": "2026-08-18T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547415",
-  "tour": "t8832",
-  "what": "Kurunegala Youth Cricket Club v Ace Capital Cricket Club",
-  "to": "2026-08-18T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547418",
-  "tour": "t8832",
-  "what": "Sinhalese Sports Club v Badureliya Sports Club",
-  "to": "2026-08-18T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547420",
-  "tour": "t8832",
-  "what": "Ace Capital Cricket Club v Colombo Cricket Club",
-  "to": "2026-08-21T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547421",
-  "tour": "t8832",
-  "what": "Nugegoda Sports Welfare Club v Panadura Sports Club",
-  "to": "2026-08-21T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547424",
-  "tour": "t8832",
-  "what": "Burgher Recreation Club v Bloomfield Cricket and Athletic Club",
-  "to": "2026-08-22T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547425",
-  "tour": "t8832",
-  "what": "Nondescripts Cricket Club v Sinhalese Sports Club",
-  "to": "2026-08-22T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547423",
-  "tour": "t8832",
-  "what": "Police Sports Club v Badureliya Sports Club",
-  "to": "2026-08-22T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547426",
-  "tour": "t8832",
-  "what": "Nugegoda Sports Welfare Club v Kurunegala Youth Cricket Club",
-  "to": "2026-08-25T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547430",
-  "tour": "t8832",
-  "what": "Bloomfield Cricket and Athletic Club v Colts Cricket Club",
-  "to": "2026-08-26T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547427",
-  "tour": "t8832",
-  "what": "Moors Sports Club v Colombo Cricket Club",
-  "to": "2026-08-26T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547429",
-  "tour": "t8832",
-  "what": "Nondescripts Cricket Club v Police Sports Club",
-  "to": "2026-08-26T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547428",
-  "tour": "t8832",
-  "what": "Panadura Sports Club v Tamil Union Cricket and Athletic Club",
-  "to": "2026-08-26T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547431",
-  "tour": "t8832",
-  "what": "Sinhalese Sports Club v Burgher Recreation Club",
-  "to": "2026-08-26T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547436",
-  "tour": "t8832",
-  "what": "Badureliya Sports Club v Nondescripts Cricket Club",
-  "to": "2026-08-30T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547437",
-  "tour": "t8832",
-  "what": "Colts Cricket Club v Burgher Recreation Club",
-  "to": "2026-08-30T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547433",
-  "tour": "t8832",
-  "what": "Moors Sports Club v Ace Capital Cricket Club",
-  "to": "2026-08-30T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547435",
-  "tour": "t8832",
-  "what": "Police Sports Club v Bloomfield Cricket and Athletic Club",
-  "to": "2026-08-30T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547434",
-  "tour": "t8832",
-  "what": "Tamil Union Cricket and Athletic Club v Nugegoda Sports Welfare Club",
-  "to": "2026-08-30T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547432",
-  "tour": "t8832",
-  "what": "Colombo Cricket Club v Panadura Sports Club",
-  "to": "2026-08-31T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547440",
-  "tour": "t8832",
-  "what": "Ace Capital Cricket Club v Nugegoda Sports Welfare Club",
-  "to": "2026-09-03T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547442",
-  "tour": "t8832",
-  "what": "Bloomfield Cricket and Athletic Club v Sinhalese Sports Club",
-  "to": "2026-09-03T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547443",
-  "tour": "t8832",
-  "what": "Burgher Recreation Club v Badureliya Sports Club",
-  "to": "2026-09-03T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547438",
-  "tour": "t8832",
-  "what": "Colombo Cricket Club v Tamil Union Cricket and Athletic Club",
-  "to": "2026-09-03T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547439",
-  "tour": "t8832",
-  "what": "Panadura Sports Club v Kurunegala Youth Cricket Club",
-  "to": "2026-09-03T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547441",
-  "tour": "t8832",
-  "what": "Police Sports Club v Colts Cricket Club",
-  "to": "2026-09-03T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547444",
-  "tour": "t8832",
-  "what": "Colombo Cricket Club v Sinhalese Sports Club",
-  "to": "2026-09-07T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1547446",
-  "tour": "t8832",
-  "what": "Moors Sports Club v Sinhalese Sports Club",
-  "to": "2026-09-11T09:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513490",
-  "tour": "t8335",
-  "what": "Derbyshire v Sussex",
-  "to": "2026-08-02T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513491",
-  "tour": "t8335",
-  "what": "Essex v Worcestershire",
-  "to": "2026-08-02T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513492",
-  "tour": "t8335",
-  "what": "Hampshire v Durham",
-  "to": "2026-08-02T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513493",
-  "tour": "t8335",
-  "what": "Kent v Nottinghamshire",
-  "to": "2026-08-02T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513494",
-  "tour": "t8335",
-  "what": "Leicestershire v Somerset",
-  "to": "2026-08-02T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513495",
-  "tour": "t8335",
-  "what": "Middlesex v Yorkshire",
-  "to": "2026-08-02T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513496",
-  "tour": "t8335",
-  "what": "Northamptonshire v Lancashire",
-  "to": "2026-08-02T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513497",
-  "tour": "t8335",
-  "what": "Warwickshire v Gloucestershire",
-  "to": "2026-08-02T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513498",
-  "tour": "t8335",
-  "what": "Hampshire v Glamorgan",
-  "to": "2026-08-05T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513499",
-  "tour": "t8335",
-  "what": "Surrey v Kent",
-  "to": "2026-08-05T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513501",
-  "tour": "t8335",
-  "what": "Glamorgan v Essex",
-  "to": "2026-08-07T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513502",
-  "tour": "t8335",
-  "what": "Lancashire v Gloucestershire",
-  "to": "2026-08-07T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513504",
-  "tour": "t8335",
-  "what": "Nottinghamshire v Northamptonshire",
-  "to": "2026-08-07T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513507",
-  "tour": "t8335",
-  "what": "Yorkshire v Derbyshire",
-  "to": "2026-08-07T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513500",
-  "tour": "t8335",
-  "what": "Durham v Middlesex",
-  "to": "2026-08-07T12:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513503",
-  "tour": "t8335",
-  "what": "Leicestershire v Warwickshire",
-  "to": "2026-08-07T13:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513505",
-  "tour": "t8335",
-  "what": "Somerset v Surrey",
-  "to": "2026-08-07T13:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513506",
-  "tour": "t8335",
-  "what": "Sussex v Worcestershire",
-  "to": "2026-08-07T13:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513508",
-  "tour": "t8335",
+  "kind": "dropped",
+  "id": "1513432",
+  "tour": "t8204",
   "what": "Derbyshire v Middlesex",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513509",
-  "tour": "t8335",
-  "what": "Durham v Essex",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513510",
-  "tour": "t8335",
-  "what": "Glamorgan v Worcestershire",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513511",
-  "tour": "t8335",
-  "what": "Gloucestershire v Nottinghamshire",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513512",
-  "tour": "t8335",
-  "what": "Kent v Leicestershire",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513513",
-  "tour": "t8335",
-  "what": "Northamptonshire v Somerset",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513514",
-  "tour": "t8335",
-  "what": "Sussex v Hampshire",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513515",
-  "tour": "t8335",
-  "what": "Warwickshire v Lancashire",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513516",
-  "tour": "t8335",
-  "what": "Essex v Yorkshire",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513517",
-  "tour": "t8335",
-  "what": "Gloucestershire v Northamptonshire",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513518",
-  "tour": "t8335",
-  "what": "Hampshire v Derbyshire",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513519",
-  "tour": "t8335",
-  "what": "Middlesex v Sussex",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513520",
-  "tour": "t8335",
-  "what": "Somerset v Lancashire",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513521",
-  "tour": "t8335",
-  "what": "Surrey v Nottinghamshire",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513522",
-  "tour": "t8335",
-  "what": "Warwickshire v Kent",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513523",
-  "tour": "t8335",
-  "what": "Worcestershire v Durham",
-  "to": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513524",
-  "tour": "t8335",
-  "what": "Lancashire v Durham",
-  "to": "2026-08-14T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513525",
-  "tour": "t8335",
-  "what": "Yorkshire v Nottinghamshire",
-  "to": "2026-08-14T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513526",
-  "tour": "t8335",
-  "what": "Leicestershire v Nottinghamshire",
-  "to": "2026-08-16T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513527",
-  "tour": "t8335",
-  "what": "Middlesex v Durham",
-  "to": "2026-08-16T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1513528",
-  "tour": "t8335",
-  "what": "Leicestershire v Middlesex",
-  "to": "2026-09-20T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535516",
-  "tour": "slt20",
-  "what": "Bloomfield Cricket and Athletic Club v Badureliya Sports Club",
-  "to": "2026-08-12T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535512",
-  "tour": "slt20",
-  "what": "Colombo Cricket Club v Nugegoda Sports Welfare Club",
-  "to": "2026-08-12T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535513",
-  "tour": "slt20",
-  "what": "Panadura Sports Club v Ace Capital Cricket Club",
-  "to": "2026-08-12T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535514",
-  "tour": "slt20",
-  "what": "Tamil Union Cricket and Athletic Club v Kurunegala Youth Cricket Club",
-  "to": "2026-08-12T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535521",
-  "tour": "slt20",
-  "what": "Ace Capital Cricket Club v Colts Cricket Club",
-  "to": "2026-08-16T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535518",
-  "tour": "slt20",
-  "what": "Colombo Cricket Club v Tamil Union Cricket and Athletic Club",
-  "to": "2026-08-16T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535523",
-  "tour": "slt20",
-  "what": "Kurunegala Youth Cricket Club v Moors Sports Club",
-  "to": "2026-08-16T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535522",
-  "tour": "slt20",
-  "what": "Nondescripts Cricket Club v Badureliya Sports Club",
-  "to": "2026-08-16T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535519",
-  "tour": "slt20",
-  "what": "Panadura Sports Club v Bloomfield Cricket and Athletic Club",
-  "to": "2026-08-16T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535520",
-  "tour": "slt20",
-  "what": "Nugegoda Sports Welfare Club v Burgher Recreation Club",
-  "to": "2026-08-17T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535525",
-  "tour": "slt20",
-  "what": "Colts Cricket Club v Panadura Sports Club",
-  "to": "2026-08-20T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535526",
-  "tour": "slt20",
-  "what": "Nondescripts Cricket Club v Bloomfield Cricket and Athletic Club",
-  "to": "2026-08-20T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535529",
-  "tour": "slt20",
-  "what": "Sinhalese Sports Club v Badureliya Sports Club",
-  "to": "2026-08-20T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535524",
-  "tour": "slt20",
-  "what": "Burgher Recreation Club v Colombo Cricket Club",
-  "to": "2026-08-20T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535528",
-  "tour": "slt20",
-  "what": "Police Sports Club v Kurunegala Youth Cricket Club",
-  "to": "2026-08-20T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535527",
-  "tour": "slt20",
-  "what": "Tamil Union Cricket and Athletic Club v Moors Sports Club",
-  "to": "2026-08-20T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535535",
-  "tour": "slt20",
-  "what": "Badureliya Sports Club v Ace Capital Cricket Club",
-  "to": "2026-08-24T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535530",
-  "tour": "slt20",
-  "what": "Nondescripts Cricket Club v Panadura Sports Club",
-  "to": "2026-08-24T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535532",
-  "tour": "slt20",
-  "what": "Police Sports Club v Tamil Union Cricket and Athletic Club",
-  "to": "2026-08-24T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535533",
-  "tour": "slt20",
-  "what": "Bloomfield Cricket and Athletic Club v Sinhalese Sports Club",
-  "to": "2026-08-24T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535531",
-  "tour": "slt20",
-  "what": "Colombo Cricket Club v Moors Sports Club",
-  "to": "2026-08-24T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535534",
-  "tour": "slt20",
-  "what": "Kurunegala Youth Cricket Club v Nugegoda Sports Welfare Club",
-  "to": "2026-08-24T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535496",
-  "tour": "slt20",
-  "what": "Burgher Recreation Club v Kurunegala Youth Cricket Club",
-  "to": "2026-08-28T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535494",
-  "tour": "slt20",
-  "what": "Moors Sports Club v Police Sports Club",
-  "to": "2026-08-28T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535498",
-  "tour": "slt20",
-  "what": "Nugegoda Sports Welfare Club v Tamil Union Cricket and Athletic Club",
-  "to": "2026-08-28T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535499",
-  "tour": "slt20",
-  "what": "Ace Capital Cricket Club v Bloomfield Cricket and Athletic Club",
-  "to": "2026-08-28T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535497",
-  "tour": "slt20",
-  "what": "Badureliya Sports Club v Colts Cricket Club",
-  "to": "2026-08-28T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535495",
-  "tour": "slt20",
-  "what": "Sinhalese Sports Club v Nondescripts Cricket Club",
-  "to": "2026-08-28T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535502",
-  "tour": "slt20",
-  "what": "Moors Sports Club v Nugegoda Sports Welfare Club",
-  "to": "2026-09-01T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535504",
-  "tour": "slt20",
-  "what": "Tamil Union Cricket and Athletic Club v Burgher Recreation Club",
-  "to": "2026-09-01T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535503",
-  "tour": "slt20",
-  "what": "Ace Capital Cricket Club v Nondescripts Cricket Club",
-  "to": "2026-09-01T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535505",
-  "tour": "slt20",
-  "what": "Bloomfield Cricket and Athletic Club v Colts Cricket Club",
-  "to": "2026-09-01T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535501",
-  "tour": "slt20",
-  "what": "Police Sports Club v Colombo Cricket Club",
-  "to": "2026-09-01T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535511",
-  "tour": "slt20",
-  "what": "Colts Cricket Club v Nondescripts Cricket Club",
-  "to": "2026-09-05T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535506",
-  "tour": "slt20",
-  "what": "Kurunegala Youth Cricket Club v Colombo Cricket Club",
-  "to": "2026-09-05T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535509",
-  "tour": "slt20",
-  "what": "Sinhalese Sports Club v Ace Capital Cricket Club",
-  "to": "2026-09-05T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535507",
-  "tour": "slt20",
-  "what": "Badureliya Sports Club v Panadura Sports Club",
-  "to": "2026-09-05T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535510",
-  "tour": "slt20",
-  "what": "Moors Sports Club v Burgher Recreation Club",
-  "to": "2026-09-05T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535508",
-  "tour": "slt20",
-  "what": "Nugegoda Sports Welfare Club v Police Sports Club",
-  "to": "2026-09-05T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535536",
-  "tour": "slt20",
-  "what": "Tamil Union Cricket and Athletic Club v Panadura Sports Club",
-  "to": "2026-09-09T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535538",
-  "tour": "slt20",
-  "what": "Moors Sports Club v Nondescripts Cricket Club",
-  "to": "2026-09-09T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535537",
-  "tour": "slt20",
-  "what": "Sinhalese Sports Club v Police Sports Club",
-  "to": "2026-09-09T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535539",
-  "tour": "slt20",
-  "what": "Ace Capital Cricket Club v Colombo Cricket Club",
-  "to": "2026-09-09T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535540",
-  "tour": "slt20",
-  "what": "Tamil Union Cricket and Athletic Club v Colombo Cricket Club",
-  "to": "2026-09-13T13:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535541",
-  "tour": "slt20",
-  "what": "Sinhalese Sports Club v Nondescripts Cricket Club",
-  "to": "2026-09-13T13:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535542",
-  "tour": "slt20",
-  "what": "Tamil Union Cricket and Athletic Club v Sinhalese Sports Club",
-  "to": "2026-09-16T13:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534399",
-  "tour": "t8859",
-  "what": "Derbyshire 2nd XI v Northamptonshire 2nd XI",
-  "to": "2026-08-17T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534400",
-  "tour": "t8859",
-  "what": "Glamorgan 2nd XI v Essex 2nd XI",
-  "to": "2026-08-17T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534402",
-  "tour": "t8859",
-  "what": "Warwickshire 2nd XI v Lancashire 2nd XI",
-  "to": "2026-08-17T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534403",
-  "tour": "t8859",
-  "what": "Gloucestershire 2nd XI v Durham 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534404",
-  "tour": "t8859",
-  "what": "Leicestershire 2nd XI v Hampshire 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534401",
-  "tour": "t8859",
-  "what": "Middlesex 2nd XI v Sussex 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534405",
-  "tour": "t8859",
-  "what": "Nottinghamshire 2nd XI v Somerset 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534406",
-  "tour": "t8859",
-  "what": "Surrey 2nd XI v Kent 2nd XI",
-  "to": "2026-08-18T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534407",
-  "tour": "t8859",
-  "what": "Derbyshire 2nd XI v Middlesex 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534408",
-  "tour": "t8859",
-  "what": "Durham 2nd XI v Nottinghamshire 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534409",
-  "tour": "t8859",
-  "what": "Essex 2nd XI v Hampshire 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534410",
-  "tour": "t8859",
-  "what": "Kent 2nd XI v Gloucestershire 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534411",
-  "tour": "t8859",
-  "what": "Leicestershire 2nd XI v Glamorgan 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534412",
-  "tour": "t8859",
-  "what": "Sussex 2nd XI v Warwickshire 2nd XI",
-  "to": "2026-08-24T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534413",
-  "tour": "t8859",
-  "what": "Somerset 2nd XI v Surrey 2nd XI",
-  "to": "2026-08-25T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534414",
-  "tour": "t8859",
-  "what": "Worcestershire 2nd XI v Yorkshire 2nd XI",
-  "to": "2026-08-25T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534416",
-  "tour": "t8859",
-  "what": "Essex 2nd XI v Worcestershire 2nd XI",
-  "to": "2026-08-31T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534417",
-  "tour": "t8859",
-  "what": "Northamptonshire 2nd XI v Middlesex 2nd XI",
-  "to": "2026-08-31T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534418",
-  "tour": "t8859",
-  "what": "Warwickshire 2nd XI v Derbyshire 2nd XI",
-  "to": "2026-08-31T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534415",
-  "tour": "t8859",
-  "what": "Durham 2nd XI v Somerset 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534419",
-  "tour": "t8859",
-  "what": "Glamorgan 2nd XI v Hampshire 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534420",
-  "tour": "t8859",
-  "what": "Gloucestershire 2nd XI v Surrey 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534421",
-  "tour": "t8859",
-  "what": "Nottinghamshire 2nd XI v Kent 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534422",
-  "tour": "t8859",
-  "what": "Sussex 2nd XI v Lancashire 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534423",
-  "tour": "t8859",
-  "what": "Yorkshire 2nd XI v Leicestershire 2nd XI",
-  "to": "2026-09-01T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1534424",
-  "tour": "t8859",
-  "what": "TBA v TBA",
-  "to": "2026-09-08T10:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546770",
-  "tour": "t8661",
-  "what": "Services v Meghalaya",
-  "from": "2026-11-24T07:00:00Z",
-  "to": "2026-11-24T02:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1558392",
-  "tour": "t22804",
-  "what": "Melbourne Renegades Women v Perth Scorchers Women",
-  "to": "2026-10-12T03:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1558395",
-  "tour": "t22804",
-  "what": "Sydney Thunder Women v Brisbane Heat Women",
-  "to": "2026-10-13T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1558397",
-  "tour": "t22804",
-  "what": "Adelaide Strikers Women v Hobart Hurricanes Women",
-  "to": "2026-10-14T08:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1550284",
-  "tour": "t8880",
-  "what": "Auckland v Canterbury",
-  "to": "2026-10-27T21:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1550285",
-  "tour": "t8880",
-  "what": "Central Districts v Northern Districts",
-  "to": "2026-10-27T21:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1550287",
-  "tour": "t8880",
-  "what": "Northern Districts v Auckland",
-  "to": "2026-10-30T21:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1550289",
-  "tour": "t8880",
-  "what": "Otago v Central Districts",
-  "to": "2026-10-31T21:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1550290",
-  "tour": "t8880",
-  "what": "Central Districts v Auckland",
-  "to": "2026-11-03T21:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1550291",
-  "tour": "t8880",
-  "what": "Wellington v Northern Districts",
-  "to": "2026-11-03T21:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1550292",
-  "tour": "t8880",
-  "what": "Otago v Canterbury",
-  "to": "2026-11-03T21:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1550293",
-  "tour": "t8880",
-  "what": "Northern Districts v Otago",
-  "to": "2026-11-07T21:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1550294",
-  "tour": "t8880",
-  "what": "Wellington v Auckland",
-  "to": "2026-11-07T21:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1550295",
-  "tour": "t8880",
-  "what": "Central Districts v Canterbury",
-  "to": "2026-11-07T21:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1550296",
-  "tour": "t8880",
-  "what": "Auckland v Otago",
-  "to": "2026-11-11T21:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1550297",
-  "tour": "t8880",
-  "what": "Central Districts v Wellington",
-  "to": "2026-11-11T21:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1550298",
-  "tour": "t8880",
-  "what": "Canterbury v Northern Districts",
-  "to": "2026-11-11T21:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521211",
-  "tour": "hun_w",
-  "what": "Birmingham Phoenix (Women) v Welsh Fire (Women)",
-  "to": "2026-08-01T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521212",
-  "tour": "hun_w",
-  "what": "London Spirit (Women) v Southern Brave (Women)",
-  "to": "2026-08-01T13:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521213",
-  "tour": "hun_w",
-  "what": "Trent Rockets (Women) v Sunrisers Leeds (Women)",
-  "to": "2026-08-02T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521214",
-  "tour": "hun_w",
-  "what": "MI London (Women) v Manchester Super Giants (Women)",
-  "to": "2026-08-02T13:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521215",
-  "tour": "hun_w",
-  "what": "Welsh Fire (Women) v Southern Brave (Women)",
-  "to": "2026-08-03T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521216",
-  "tour": "hun_w",
-  "what": "Sunrisers Leeds (Women) v London Spirit (Women)",
-  "to": "2026-08-04T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521217",
-  "tour": "hun_w",
-  "what": "Manchester Super Giants (Women) v Welsh Fire (Women)",
-  "to": "2026-08-05T10:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521218",
-  "tour": "hun_w",
-  "what": "Trent Rockets (Women) v Birmingham Phoenix (Women)",
-  "to": "2026-08-05T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521219",
-  "tour": "hun_w",
-  "what": "London Spirit (Women) v MI London (Women)",
-  "to": "2026-08-06T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521220",
-  "tour": "hun_w",
-  "what": "Birmingham Phoenix (Women) v Sunrisers Leeds (Women)",
-  "to": "2026-08-07T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521221",
-  "tour": "hun_w",
-  "what": "MI London (Women) v Trent Rockets (Women)",
-  "to": "2026-08-08T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521222",
-  "tour": "hun_w",
-  "what": "Southern Brave (Women) v Manchester Super Giants (Women)",
-  "to": "2026-08-08T13:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521223",
-  "tour": "hun_w",
-  "what": "Sunrisers Leeds (Women) v Welsh Fire (Women)",
-  "to": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521224",
-  "tour": "hun_w",
-  "what": "London Spirit (Women) v Birmingham Phoenix (Women)",
-  "to": "2026-08-09T13:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521225",
-  "tour": "hun_w",
-  "what": "Trent Rockets (Women) v Southern Brave (Women)",
-  "to": "2026-08-10T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521226",
-  "tour": "hun_w",
-  "what": "Manchester Super Giants (Women) v Sunrisers Leeds (Women)",
-  "to": "2026-08-11T13:45:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521227",
-  "tour": "hun_w",
-  "what": "Welsh Fire (Women) v London Spirit (Women)",
-  "to": "2026-08-12T10:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521228",
-  "tour": "hun_w",
-  "what": "Birmingham Phoenix (Women) v MI London (Women)",
-  "to": "2026-08-12T14:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521229",
-  "tour": "hun_w",
-  "what": "Southern Brave (Women) v Sunrisers Leeds (Women)",
-  "to": "2026-08-14T13:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1521230",
-  "tour": "hun_w",
-  "what": "Sunrisers Leeds (Women) v Trent Rockets (Women)",
-  "to": "2026-08-16T13:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1540220",
-  "tour": "t20898",
-  "what": "Guyana Amazon Warriors Women v Trinbago Knight Riders Women",
-  "to": "2026-09-17T18:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545775",
-  "tour": "t8897",
-  "what": "New South Wales Women v Queensland Women",
-  "to": "2026-09-29T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545774",
-  "tour": "t8897",
-  "what": "Victoria Women v South Australia Women",
-  "to": "2026-09-29T03:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545776",
-  "tour": "t8897",
-  "what": "Western Australia Women v Tasmania Women",
-  "to": "2026-09-29T05:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545778",
-  "tour": "t8897",
-  "what": "New South Wales Women v Queensland Women",
-  "to": "2026-10-01T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545777",
-  "tour": "t8897",
-  "what": "Victoria Women v South Australia Women",
-  "to": "2026-10-01T03:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545779",
-  "tour": "t8897",
-  "what": "Western Australia Women v Tasmania Women",
-  "to": "2026-10-01T05:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545780",
-  "tour": "t8897",
-  "what": "South Australia Women v Western Australia Women",
-  "to": "2026-12-14T00:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545781",
-  "tour": "t8897",
-  "what": "Australian Capital Territory Women v New South Wales Women",
-  "to": "2026-12-15T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545782",
-  "tour": "t8897",
-  "what": "South Australia Women v Western Australia Women",
-  "to": "2026-12-16T00:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545783",
-  "tour": "t8897",
-  "what": "Australian Capital Territory Women v New South Wales Women",
-  "to": "2026-12-17T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545784",
-  "tour": "t8897",
-  "what": "Tasmania Women v Victoria Women",
-  "to": "2026-12-20T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545785",
-  "tour": "t8897",
-  "what": "Tasmania Women v Victoria Women",
-  "to": "2026-12-22T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545786",
-  "tour": "t8897",
-  "what": "Queensland Women v Australian Capital Territory Women",
-  "to": "2027-01-04T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545787",
-  "tour": "t8897",
-  "what": "Queensland Women v Australian Capital Territory Women",
-  "to": "2027-01-06T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545796",
-  "tour": "t8897",
-  "what": "Queensland Women v Tasmania Women",
-  "to": "2027-01-31T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545799",
-  "tour": "t8897",
-  "what": "New South Wales Women v Victoria Women",
-  "to": "2027-02-04T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1545813",
-  "tour": "t8897",
-  "what": "Australian Capital Territory Women v Tasmania Women",
-  "to": "2027-03-12T00:00:00Z"
- },
- {
-  "kind": "added",
-  "id": "1548891",
-  "tour": "asia_w",
-  "what": "Hong Kong Women v Thailand Women",
-  "to": "2026-08-28T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1548892",
-  "tour": "asia_w",
-  "what": "United Arab Emirates Women v Sri Lanka Women",
-  "to": "2026-08-29T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1548893",
-  "tour": "asia_w",
-  "what": "India Women v Thailand Women",
-  "to": "2026-08-30T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1548894",
-  "tour": "asia_w",
-  "what": "Bangladesh Women v Indonesia Women",
-  "to": "2026-08-31T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1548895",
-  "tour": "asia_w",
-  "what": "Pakistan Women v Thailand Women",
-  "to": "2026-09-01T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1548896",
-  "tour": "asia_w",
-  "what": "Indonesia Women v Sri Lanka Women",
-  "to": "2026-09-02T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1548897",
-  "tour": "asia_w",
-  "what": "Hong Kong Women v India Women",
-  "to": "2026-09-03T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1548898",
-  "tour": "asia_w",
-  "what": "United Arab Emirates Women v Indonesia Women",
-  "to": "2026-09-04T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1548899",
-  "tour": "asia_w",
-  "what": "India Women v Pakistan Women",
-  "to": "2026-09-05T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1548900",
-  "tour": "asia_w",
-  "what": "Bangladesh Women v Sri Lanka Women",
-  "to": "2026-09-06T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1548901",
-  "tour": "asia_w",
-  "what": "Hong Kong Women v Pakistan Women",
-  "to": "2026-09-07T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1548902",
-  "tour": "asia_w",
-  "what": "United Arab Emirates Women v Bangladesh Women",
-  "to": "2026-09-08T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1548903",
-  "tour": "asia_w",
-  "what": "Bangladesh Women v India Women",
-  "to": "2026-09-10T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1548904",
-  "tour": "asia_w",
-  "what": "Pakistan Women v Sri Lanka Women",
-  "to": "2026-09-11T14:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1548905",
-  "tour": "asia_w",
-  "what": "India Women v Sri Lanka Women",
-  "to": "2026-09-13T14:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1545998",
-  "tour": "t19439",
-  "what": "Scotland v United Arab Emirates",
-  "from": "2026-08-03T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1545999",
-  "tour": "t19439",
-  "what": "Canada v United Arab Emirates",
-  "from": "2026-08-05T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1546000",
-  "tour": "t19439",
-  "what": "Scotland v Canada",
-  "from": "2026-08-07T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1546001",
-  "tour": "t19439",
-  "what": "Scotland v United Arab Emirates",
-  "from": "2026-08-09T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1546002",
-  "tour": "t19439",
-  "what": "Canada v United Arab Emirates",
-  "from": "2026-08-11T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1546003",
-  "tour": "t19439",
-  "what": "Scotland v Canada",
-  "from": "2026-08-13T10:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547873",
-  "tour": "eutpl",
-  "what": "Belfast Wolves v Dublin Guardians",
   "from": "2026-08-27T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1550139",
-  "tour": "t24694",
-  "what": "South Africa A v Bangladesh A",
-  "from": "2026-09-09T07:30:00Z"
+  "id": "1513433",
+  "tour": "t8204",
+  "what": "Northamptonshire v Kent",
+  "from": "2026-08-27T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553239",
-  "tour": "t23802",
-  "what": "England Lions v Sri Lanka",
-  "from": "2026-09-11T17:30:00Z"
+  "id": "1513434",
+  "tour": "t8204",
+  "what": "Worcestershire v Lancashire",
+  "from": "2026-08-27T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553777",
-  "tour": "t8836",
-  "what": "Ghani v Khan Research Laboratories",
-  "from": "2026-09-12T05:00:00Z"
+  "id": "1513435",
+  "tour": "t8204",
+  "what": "Durham v Gloucestershire",
+  "from": "2026-08-27T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553778",
-  "tour": "t8836",
-  "what": "Hyderabad Kingsmen Academy v Markhor IT Solutions",
-  "from": "2026-09-12T05:00:00Z"
+  "id": "1547874",
+  "tour": "eutpl",
+  "what": "Edinburgh Castle Rockers v Glasgow Cosmic",
+  "from": "2026-08-27T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553779",
-  "tour": "t8836",
-  "what": "Oil & Gas Development Company Limited v Pakistan Television",
-  "from": "2026-09-12T05:00:00Z"
+  "id": "1547875",
+  "tour": "eutpl",
+  "what": "Amsterdam Flames v Edinburgh Castle Rockers",
+  "from": "2026-08-28T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553780",
-  "tour": "t8836",
-  "what": "State Bank of Pakistan v Sui Northern Gas Pipelines Limited",
-  "from": "2026-09-12T05:00:00Z"
+  "id": "1547876",
+  "tour": "eutpl",
+  "what": "Glasgow Cosmic v Dublin Guardians",
+  "from": "2026-08-29T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1552021",
-  "tour": "t24725",
-  "what": "India A Women v Australia A Women",
-  "from": "2026-09-12T12:30:00Z"
+  "id": "1547877",
+  "tour": "eutpl",
+  "what": "Rotterdam Dockers v Belfast Wolves",
+  "from": "2026-08-29T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553240",
-  "tour": "t23802",
-  "what": "England Lions v Sri Lanka",
-  "from": "2026-09-13T13:30:00Z"
+  "id": "1547878",
+  "tour": "eutpl",
+  "what": "Amsterdam Flames v Belfast Wolves",
+  "from": "2026-08-30T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1552022",
-  "tour": "t24725",
-  "what": "India A Women v Australia A Women",
-  "from": "2026-09-15T12:30:00Z"
+  "id": "1547879",
+  "tour": "eutpl",
+  "what": "Edinburgh Castle Rockers v Dublin Guardians",
+  "from": "2026-08-30T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1552023",
-  "tour": "t24725",
-  "what": "India A Women v Australia A Women",
-  "from": "2026-09-17T12:30:00Z"
+  "id": "1496552",
+  "tour": "t23803",
+  "what": "England Women v Ireland Women",
+  "from": "2026-09-01T12:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553781",
-  "tour": "t8836",
-  "what": "Ghani v Sui Northern Gas Pipelines Limited",
-  "from": "2026-09-18T05:00:00Z"
+  "id": "1547880",
+  "tour": "eutpl",
+  "what": "Rotterdam Dockers v Glasgow Cosmic",
+  "from": "2026-09-01T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553782",
-  "tour": "t8836",
-  "what": "Khan Research Laboratories v Markhor IT Solutions",
-  "from": "2026-09-18T05:00:00Z"
+  "id": "1547881",
+  "tour": "eutpl",
+  "what": "Rotterdam Dockers v Dublin Guardians",
+  "from": "2026-09-02T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553783",
-  "tour": "t8836",
-  "what": "Pakistan Television v State Bank of Pakistan",
-  "from": "2026-09-18T05:00:00Z"
+  "id": "1513436",
+  "tour": "t8204",
+  "what": "Gloucestershire v Derbyshire",
+  "from": "2026-09-02T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553784",
-  "tour": "t8836",
-  "what": "Hyderabad Kingsmen Academy v Oil & Gas Development Company Limited",
-  "from": "2026-09-18T05:00:00Z"
+  "id": "1513437",
+  "tour": "t8204",
+  "what": "Kent v Worcestershire",
+  "from": "2026-09-02T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1552024",
-  "tour": "t24725",
-  "what": "India A Women v Australia A Women",
-  "from": "2026-09-20T08:30:00Z"
+  "id": "1513438",
+  "tour": "t8204",
+  "what": "Northamptonshire v Durham",
+  "from": "2026-09-02T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1552025",
-  "tour": "t24725",
-  "what": "India A Women v Australia A Women",
-  "from": "2026-09-23T03:30:00Z"
+  "id": "1513439",
+  "tour": "t8204",
+  "what": "Middlesex v Lancashire",
+  "from": "2026-09-02T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553786",
-  "tour": "t8836",
-  "what": "Khan Research Laboratories v Oil & Gas Development Company Limited",
-  "from": "2026-09-24T05:00:00Z"
+  "id": "1547882",
+  "tour": "eutpl",
+  "what": "Belfast Wolves v Edinburgh Castle Rockers",
+  "from": "2026-09-02T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553787",
-  "tour": "t8836",
-  "what": "Markhor IT Solutions v Sui Northern Gas Pipelines Limited",
-  "from": "2026-09-24T05:00:00Z"
+  "id": "1549528",
+  "tour": "t1549518",
+  "what": "Namibia v Zimbabwe",
+  "from": "2026-09-03T12:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553785",
-  "tour": "t8836",
-  "what": "Ghani v State Bank of Pakistan",
-  "from": "2026-09-24T05:00:00Z"
+  "id": "1496553",
+  "tour": "t23803",
+  "what": "England Women v Ireland Women",
+  "from": "2026-09-03T12:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553788",
-  "tour": "t8836",
-  "what": "Hyderabad Kingsmen Academy v Pakistan Television",
-  "from": "2026-09-24T05:00:00Z"
+  "id": "1547883",
+  "tour": "eutpl",
+  "what": "Amsterdam Flames v Glasgow Cosmic",
+  "from": "2026-09-03T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554975",
-  "tour": "t24796",
-  "what": "Zimbabwe Women v West Indies Women",
-  "from": "2026-09-24T07:30:00Z"
+  "id": "1551072",
+  "tour": "t24742",
+  "what": "Belgium Women v Portugal Women",
+  "from": "2026-09-04T07:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1552026",
-  "tour": "t24725",
-  "what": "India A Women v Australia A Women",
-  "from": "2026-09-25T08:30:00Z"
+  "id": "1551073",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Portugal Women",
+  "from": "2026-09-04T11:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554589",
-  "tour": "t1554562",
-  "what": "Ghana v Sierra Leone",
-  "from": "2026-09-25T09:00:00Z"
+  "id": "1547884",
+  "tour": "eutpl",
+  "what": "Glasgow Cosmic v Belfast Wolves",
+  "from": "2026-09-04T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554976",
-  "tour": "t24796",
-  "what": "Zimbabwe Women v West Indies Women",
-  "from": "2026-09-27T07:30:00Z"
+  "id": "1551074",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Belgium Women",
+  "from": "2026-09-04T14:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554593",
-  "tour": "t1554562",
-  "what": "Nigeria A v Ghana",
-  "from": "2026-09-27T09:00:00Z"
+  "id": "1551075",
+  "tour": "t24742",
+  "what": "Belgium Women v Portugal Women",
+  "from": "2026-09-05T07:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1556876",
-  "tour": "t1556872",
-  "what": "Vancouver Warriors Women v Toronto Sixers Women",
-  "from": "2026-09-29T20:30:00Z"
+  "id": "1547885",
+  "tour": "eutpl",
+  "what": "Rotterdam Dockers v Edinburgh Castle Rockers",
+  "from": "2026-09-05T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553789",
-  "tour": "t8836",
-  "what": "Ghani v Markhor IT Solutions",
-  "from": "2026-09-30T05:00:00Z"
+  "id": "1551076",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Belgium Women",
+  "from": "2026-09-05T11:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553790",
-  "tour": "t8836",
-  "what": "Khan Research Laboratories v Hyderabad Kingsmen Academy",
-  "from": "2026-09-30T05:00:00Z"
+  "id": "1547886",
+  "tour": "eutpl",
+  "what": "Amsterdam Flames v Dublin Guardians",
+  "from": "2026-09-05T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553791",
-  "tour": "t8836",
-  "what": "Pakistan Television v Sui Northern Gas Pipelines Limited",
-  "from": "2026-09-30T05:00:00Z"
+  "id": "1551077",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Portugal Women",
+  "from": "2026-09-05T14:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553792",
-  "tour": "t8836",
-  "what": "Oil & Gas Development Company Limited v State Bank of Pakistan",
-  "from": "2026-09-30T05:00:00Z"
+  "id": "1551078",
+  "tour": "t24742",
+  "what": "Belgium Women v Portugal Women",
+  "from": "2026-09-06T07:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554977",
-  "tour": "t24796",
-  "what": "Zimbabwe Women v West Indies Women",
-  "from": "2026-09-30T07:30:00Z"
+  "id": "1547887",
+  "tour": "eutpl",
+  "what": "Glasgow Cosmic v Edinburgh Castle Rockers",
+  "from": "2026-09-06T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1556877",
-  "tour": "t1556872",
-  "what": "Vancouver Anchors Women v Toronto Sixers Women",
-  "from": "2026-10-01T05:45:00Z"
+  "id": "1496554",
+  "tour": "t23803",
+  "what": "England Women v Ireland Women",
+  "from": "2026-09-06T10:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1556878",
-  "tour": "t1556872",
-  "what": "Vancouver Anchors Women v Vancouver Warriors Women",
-  "from": "2026-10-01T20:30:00Z"
+  "id": "1551079",
+  "tour": "t24742",
+  "what": "Czech Republic Women v Portugal Women",
+  "from": "2026-09-06T11:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554707",
-  "tour": "t1554704",
-  "what": "Pakistan Women Under-19s v Bangladesh Women Under-19s",
-  "from": "2026-10-02T05:00:00Z"
+  "id": "1547888",
+  "tour": "eutpl",
+  "what": "Amsterdam Flames v Rotterdam Dockers",
+  "from": "2026-09-06T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1556879",
-  "tour": "t1556872",
-  "what": "Vancouver Anchors Women v Toronto Sixers Women",
-  "from": "2026-10-02T20:30:00Z"
+  "id": "1513440",
+  "tour": "t8204",
+  "what": "Derbyshire v Kent",
+  "from": "2026-09-08T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554708",
-  "tour": "t1554704",
-  "what": "Pakistan Women Under-19s v Sri Lanka Women Under-19s",
-  "from": "2026-10-03T05:00:00Z"
+  "id": "1513441",
+  "tour": "t8204",
+  "what": "Worcestershire v Northamptonshire",
+  "from": "2026-09-08T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554978",
-  "tour": "t24796",
-  "what": "Zimbabwe Women v West Indies Women",
-  "from": "2026-10-03T11:00:00Z"
+  "id": "1513442",
+  "tour": "t8204",
+  "what": "Durham v Middlesex",
+  "from": "2026-09-08T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554409",
-  "tour": "t19439",
-  "what": "Namibia v United Arab Emirates",
-  "from": "2026-10-03T15:00:00Z"
+  "id": "1513443",
+  "tour": "t8204",
+  "what": "Lancashire v Gloucestershire",
+  "from": "2026-09-08T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1556880",
-  "tour": "t1556872",
-  "what": "Vancouver Warriors Women v Toronto Sixers Women",
-  "from": "2026-10-04T01:30:00Z"
+  "id": "1547889",
+  "tour": "eutpl",
+  "what": "Dublin Guardians v Belfast Wolves",
+  "from": "2026-09-09T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554709",
-  "tour": "t1554704",
-  "what": "Bangladesh Women Under-19s v Sri Lanka Women Under-19s",
-  "from": "2026-10-05T05:00:00Z"
+  "id": "1547890",
+  "tour": "eutpl",
+  "what": "Rotterdam Dockers v Glasgow Cosmic",
+  "from": "2026-09-10T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554979",
-  "tour": "t24796",
-  "what": "Zimbabwe Women v West Indies Women",
-  "from": "2026-10-05T10:00:00Z"
+  "id": "1547891",
+  "tour": "eutpl",
+  "what": "Belfast Wolves v Amsterdam Flames",
+  "from": "2026-09-10T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554410",
-  "tour": "t19439",
-  "what": "United States of America v United Arab Emirates",
-  "from": "2026-10-05T15:00:00Z"
+  "id": "1547893",
+  "tour": "eutpl",
+  "what": "Belfast Wolves v Rotterdam Dockers",
+  "from": "2026-09-12T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554710",
-  "tour": "t1554704",
-  "what": "Pakistan Women Under-19s v Bangladesh Women Under-19s",
-  "from": "2026-10-06T05:00:00Z"
+  "id": "1547894",
+  "tour": "eutpl",
+  "what": "Dublin Guardians v Glasgow Cosmic",
+  "from": "2026-09-12T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553796",
-  "tour": "t8836",
-  "what": "Hyderabad Kingsmen Academy v Sui Northern Gas Pipelines Limited",
-  "from": "2026-10-06T05:00:00Z"
+  "id": "1547895",
+  "tour": "eutpl",
+  "what": "Edinburgh Castle Rockers v Amsterdam Flames",
+  "from": "2026-09-13T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553793",
-  "tour": "t8836",
-  "what": "Ghani v Pakistan Television",
-  "from": "2026-10-06T05:00:00Z"
+  "id": "1547896",
+  "tour": "eutpl",
+  "what": "Belfast Wolves v Glasgow Cosmic",
+  "from": "2026-09-13T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553794",
-  "tour": "t8836",
-  "what": "Khan Research Laboratories v State Bank of Pakistan",
-  "from": "2026-10-06T05:00:00Z"
+  "id": "1547897",
+  "tour": "eutpl",
+  "what": "Dublin Guardians v Amsterdam Flames",
+  "from": "2026-09-15T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553795",
-  "tour": "t8836",
-  "what": "Markhor IT Solutions v Oil & Gas Development Company Limited",
-  "from": "2026-10-06T05:00:00Z"
+  "id": "1513444",
+  "tour": "t8204",
+  "what": "Durham v Worcestershire",
+  "from": "2026-09-15T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554980",
-  "tour": "t24796",
-  "what": "Zimbabwe Women v West Indies Women",
-  "from": "2026-10-07T10:00:00Z"
+  "id": "1513445",
+  "tour": "t8204",
+  "what": "Northamptonshire v Derbyshire",
+  "from": "2026-09-15T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554411",
-  "tour": "t19439",
-  "what": "United States of America v Namibia",
-  "from": "2026-10-07T15:00:00Z"
+  "id": "1513446",
+  "tour": "t8204",
+  "what": "Gloucestershire v Middlesex",
+  "from": "2026-09-15T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554711",
-  "tour": "t1554704",
-  "what": "Bangladesh Women Under-19s v Sri Lanka Women Under-19s",
-  "from": "2026-10-08T05:00:00Z"
+  "id": "1513447",
+  "tour": "t8204",
+  "what": "Kent v Lancashire",
+  "from": "2026-09-15T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554712",
-  "tour": "t1554704",
-  "what": "Pakistan Women Under-19s v Sri Lanka Women Under-19s",
-  "from": "2026-10-09T05:00:00Z"
+  "id": "1547898",
+  "tour": "eutpl",
+  "what": "Edinburgh Castle Rockers v Rotterdam Dockers",
+  "from": "2026-09-15T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554415",
-  "tour": "t19439",
-  "what": "Oman v Canada",
-  "from": "2026-10-09T06:00:00Z"
+  "id": "1547899",
+  "tour": "eutpl",
+  "what": "Glasgow Cosmic v Amsterdam Flames",
+  "from": "2026-09-16T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554412",
-  "tour": "t19439",
-  "what": "Namibia v United Arab Emirates",
-  "from": "2026-10-09T15:00:00Z"
+  "id": "1547900",
+  "tour": "eutpl",
+  "what": "Belfast Wolves v Edinburgh Castle Rockers",
+  "from": "2026-09-17T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546541",
-  "tour": "t8050",
-  "what": "Sikkim v Meghalaya",
-  "from": "2026-10-11T02:45:00Z"
+  "id": "1547901",
+  "tour": "eutpl",
+  "what": "Dublin Guardians v Rotterdam Dockers",
+  "from": "2026-09-17T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546534",
-  "tour": "t8050",
-  "what": "Bengal v Delhi",
-  "from": "2026-10-11T03:30:00Z"
+  "id": "1547902",
+  "tour": "eutpl",
+  "what": "Belfast Wolves v Amsterdam Flames",
+  "from": "2026-09-19T13:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546525",
-  "tour": "t8050",
-  "what": "Bihar v Uttar Pradesh",
-  "from": "2026-10-11T03:30:00Z"
+  "id": "1544845",
+  "tour": "marsh",
+  "what": "Queensland v New South Wales",
+  "from": "2026-09-22T04:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546529",
-  "tour": "t8050",
-  "what": "Andhra v Karnataka",
-  "from": "2026-10-11T04:00:00Z"
+  "id": "1513448",
+  "tour": "t8204",
+  "what": "Kent v Gloucestershire",
+  "from": "2026-09-24T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546524",
-  "tour": "t8050",
-  "what": "Goa v Baroda",
-  "from": "2026-10-11T04:00:00Z"
+  "id": "1513449",
+  "tour": "t8204",
+  "what": "Middlesex v Northamptonshire",
+  "from": "2026-09-24T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546533",
-  "tour": "t8050",
-  "what": "Gujarat v Odisha",
-  "from": "2026-10-11T04:00:00Z"
+  "id": "1513450",
+  "tour": "t8204",
+  "what": "Worcestershire v Derbyshire",
+  "from": "2026-09-24T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546536",
-  "tour": "t8050",
-  "what": "Haryana v Himachal Pradesh",
-  "from": "2026-10-11T04:00:00Z"
+  "id": "1513451",
+  "tour": "t8204",
+  "what": "Lancashire v Durham",
+  "from": "2026-09-24T09:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546528",
-  "tour": "t8050",
-  "what": "Hyderabad (India) v Tripura",
-  "from": "2026-10-11T04:00:00Z"
+  "id": "1551837",
+  "tour": "t8656",
+  "what": "Western Province v Knights",
+  "from": "2026-09-27T16:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546526",
-  "tour": "t8050",
-  "what": "Jammu & Kashmir v Madhya Pradesh",
-  "from": "2026-10-11T04:00:00Z"
+  "id": "1545775",
+  "tour": "t8897",
+  "what": "New South Wales Women v Queensland Women",
+  "from": "2026-09-29T00:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546540",
-  "tour": "t8050",
-  "what": "Mizoram v Manipur",
-  "from": "2026-10-11T04:00:00Z"
+  "id": "1545774",
+  "tour": "t8897",
+  "what": "Victoria Women v South Australia Women",
+  "from": "2026-09-29T03:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546539",
-  "tour": "t8050",
-  "what": "Mumbai v Chandigarh",
-  "from": "2026-10-11T04:00:00Z"
+  "id": "1545776",
+  "tour": "t8897",
+  "what": "Western Australia Women v Tasmania Women",
+  "from": "2026-09-29T05:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546530",
-  "tour": "t8050",
-  "what": "Punjab v Assam",
-  "from": "2026-10-11T04:00:00Z"
+  "id": "1545778",
+  "tour": "t8897",
+  "what": "New South Wales Women v Queensland Women",
+  "from": "2026-10-01T00:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554713",
-  "tour": "t1554704",
-  "what": "Pakistan Women Under-19s v Bangladesh Women Under-19s",
-  "from": "2026-10-11T05:00:00Z"
+  "id": "1545777",
+  "tour": "t8897",
+  "what": "Victoria Women v South Australia Women",
+  "from": "2026-10-01T03:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554416",
-  "tour": "t19439",
-  "what": "Canada v Nepal",
-  "from": "2026-10-11T06:00:00Z"
+  "id": "1545779",
+  "tour": "t8897",
+  "what": "Western Australia Women v Tasmania Women",
+  "from": "2026-10-01T05:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554413",
-  "tour": "t19439",
-  "what": "United States of America v United Arab Emirates",
-  "from": "2026-10-11T15:00:00Z"
+  "id": "1554575",
+  "tour": "t1554555",
+  "what": "Malaysia v Maldives",
+  "from": "2026-10-11T01:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554714",
-  "tour": "t1554704",
-  "what": "Pakistan Women Under-19s v Sri Lanka Women Under-19s",
-  "from": "2026-10-12T05:00:00Z"
+  "id": "1554576",
+  "tour": "t1554555",
+  "what": "China v Singapore",
+  "from": "2026-10-11T01:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553798",
-  "tour": "t8836",
-  "what": "Khan Research Laboratories v Pakistan Television",
-  "from": "2026-10-12T05:00:00Z"
+  "id": "1554577",
+  "tour": "t1554555",
+  "what": "Malaysia v Singapore",
+  "from": "2026-10-12T01:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553799",
-  "tour": "t8836",
-  "what": "Markhor IT Solutions v State Bank of Pakistan",
-  "from": "2026-10-12T05:00:00Z"
+  "id": "1554579",
+  "tour": "t1554555",
+  "what": "China v Saudi Arabia",
+  "from": "2026-10-12T01:15:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554549",
-  "tour": "t1554524",
-  "what": "Myanmar v Thailand",
-  "from": "2026-10-12T06:00:00Z"
+  "id": "1551866",
+  "tour": "t8656",
+  "what": "North West v Dolphins",
+  "from": "2026-10-13T16:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554417",
-  "tour": "t19439",
-  "what": "Oman v Nepal",
-  "from": "2026-10-13T06:00:00Z"
+  "id": "1557520",
+  "tour": "t23028",
+  "what": "Uganda v Zambia",
+  "from": "2026-10-20T09:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554414",
-  "tour": "t19439",
-  "what": "United States of America v Namibia",
-  "from": "2026-10-13T15:00:00Z"
+  "id": "1557521",
+  "tour": "t23028",
+  "what": "Lesotho v Mozambique",
+  "from": "2026-10-20T13:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554715",
-  "tour": "t1554704",
-  "what": "Bangladesh Women Under-19s v Sri Lanka Women Under-19s",
-  "from": "2026-10-14T05:00:00Z"
+  "id": "1557522",
+  "tour": "t23028",
+  "what": "Nigeria v Gambia",
+  "from": "2026-10-20T13:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553797",
-  "tour": "t8836",
-  "what": "Ghani v Hyderabad Kingsmen Academy",
-  "from": "2026-10-14T05:00:00Z"
+  "id": "1557525",
+  "tour": "t23028",
+  "what": "Nigeria v Zambia",
+  "from": "2026-10-21T13:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553800",
-  "tour": "t8836",
-  "what": "Oil & Gas Development Company Limited v Sui Northern Gas Pipelines Limited",
-  "from": "2026-10-14T05:00:00Z"
+  "id": "1557527",
+  "tour": "t23028",
+  "what": "Lesotho v Zambia",
+  "from": "2026-10-23T09:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554418",
-  "tour": "t19439",
-  "what": "Oman v Canada",
-  "from": "2026-10-15T06:00:00Z"
+  "id": "1557529",
+  "tour": "t23028",
+  "what": "Mozambique v Uganda",
+  "from": "2026-10-24T09:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1558244",
-  "tour": "t1558221",
-  "what": "Austria Women v Sweden Women",
-  "from": "2026-10-15T07:00:00Z"
+  "id": "1557530",
+  "tour": "t23028",
+  "what": "Gambia v Zambia",
+  "from": "2026-10-24T13:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1558543",
-  "tour": "t24268",
-  "what": "Governor-General XI Women v New Zealand Women",
-  "from": "2026-10-15T08:15:00Z"
+  "id": "1559952",
+  "tour": "t1559944",
+  "what": "Brampton Blazers v Toronto Kings",
+  "from": "2026-10-24T14:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1558245",
-  "tour": "t1558221",
-  "what": "Bulgaria Women v Sweden Women",
-  "from": "2026-10-15T11:00:00Z"
+  "id": "1558571",
+  "tour": "t24838",
+  "what": "Mexico Women v Argentina Women",
+  "from": "2026-10-24T14:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554716",
-  "tour": "t1554704",
-  "what": "Bangladesh Women Under-19s v Sri Lanka Women Under-19s",
-  "from": "2026-10-16T06:00:00Z"
+  "id": "1559953",
+  "tour": "t1559944",
+  "what": "Mississauga Skyhawks v Montreal Warriors",
+  "from": "2026-10-24T19:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1558246",
-  "tour": "t1558221",
-  "what": "Romania Women v Bulgaria Women",
-  "from": "2026-10-16T07:00:00Z"
+  "id": "1558572",
+  "tour": "t24838",
+  "what": "Mexico Women v Argentina Women",
+  "from": "2026-10-24T19:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1558247",
-  "tour": "t1558221",
-  "what": "Austria Women v Bulgaria Women",
-  "from": "2026-10-16T11:00:00Z"
+  "id": "1559954",
+  "tour": "t1559944",
+  "what": "Toronto Kings v Vancouver Guardians",
+  "from": "2026-10-24T23:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554419",
-  "tour": "t19439",
-  "what": "Canada v Nepal",
-  "from": "2026-10-17T06:00:00Z"
+  "id": "1557532",
+  "tour": "t23028",
+  "what": "Gambia v Lesotho",
+  "from": "2026-10-25T09:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1558248",
-  "tour": "t1558221",
-  "what": "Romania Women v Austria Women",
-  "from": "2026-10-17T07:00:00Z"
+  "id": "1559955",
+  "tour": "t1559944",
+  "what": "Mississauga Skyhawks v Vancouver Guardians",
+  "from": "2026-10-25T14:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1558249",
-  "tour": "t1558221",
-  "what": "Romania Women v Sweden Women",
-  "from": "2026-10-17T11:00:00Z"
+  "id": "1559957",
+  "tour": "t1559944",
+  "what": "Montreal Warriors v Toronto Kings",
+  "from": "2026-10-26T14:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546559",
-  "tour": "t8050",
-  "what": "Meghalaya v Manipur",
-  "from": "2026-10-18T03:00:00Z"
+  "id": "1559958",
+  "tour": "t1559944",
+  "what": "Brampton Blazers v Mississauga Skyhawks",
+  "from": "2026-10-26T19:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546550",
-  "tour": "t8050",
-  "what": "Assam v Tripura",
-  "from": "2026-10-18T03:15:00Z"
+  "id": "1558233",
+  "tour": "t24830",
+  "what": "Namibia v Ireland",
+  "from": "2026-10-27T07:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546543",
-  "tour": "t8050",
-  "what": "Baroda v Bihar",
-  "from": "2026-10-18T04:00:00Z"
+  "id": "1559960",
+  "tour": "t1559944",
+  "what": "Mississauga Skyhawks v Toronto Kings",
+  "from": "2026-10-28T23:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546548",
-  "tour": "t8050",
-  "what": "Karnataka v Saurashtra",
-  "from": "2026-10-18T04:00:00Z"
+  "id": "1559961",
+  "tour": "t1559944",
+  "what": "Montreal Warriors v Vancouver Guardians",
+  "from": "2026-10-29T14:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546544",
-  "tour": "t8050",
-  "what": "Puducherry v Madhya Pradesh",
-  "from": "2026-10-18T04:00:00Z"
+  "id": "1559962",
+  "tour": "t1559944",
+  "what": "Mississauga Skyhawks v Toronto Kings",
+  "from": "2026-10-29T23:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546546",
-  "tour": "t8050",
-  "what": "Uttar Pradesh v Goa",
-  "from": "2026-10-18T04:00:00Z"
+  "id": "1559963",
+  "tour": "t1559944",
+  "what": "Brampton Blazers v Vancouver Guardians",
+  "from": "2026-10-30T14:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1558250",
-  "tour": "t1558221",
-  "what": "Austria Women v Sweden Women",
-  "from": "2026-10-18T07:00:00Z"
+  "id": "1550287",
+  "tour": "t8880",
+  "what": "Northern Districts v Auckland",
+  "from": "2026-10-30T21:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1528722",
-  "tour": "t24268",
-  "what": "Australia Women v New Zealand Women",
-  "from": "2026-10-18T08:15:00Z"
+  "id": "1559964",
+  "tour": "t1559944",
+  "what": "Montreal Warriors v Toronto Kings",
+  "from": "2026-10-30T23:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1558251",
-  "tour": "t1558221",
-  "what": "Romania Women v Bulgaria Women",
-  "from": "2026-10-18T11:00:00Z"
+  "id": "1559965",
+  "tour": "t1559944",
+  "what": "Montreal Warriors v Vancouver Guardians",
+  "from": "2026-10-31T14:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553801",
-  "tour": "t8836",
-  "what": "Ghani v Oil & Gas Development Company Limited",
-  "from": "2026-10-19T05:00:00Z"
+  "id": "1559966",
+  "tour": "t1559944",
+  "what": "Brampton Blazers v Mississauga Skyhawks",
+  "from": "2026-10-31T23:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553802",
-  "tour": "t8836",
-  "what": "Khan Research Laboratories v Sui Northern Gas Pipelines Limited",
-  "from": "2026-10-19T05:00:00Z"
+  "id": "1559967",
+  "tour": "t1559944",
+  "what": "Toronto Kings v Mississauga Skyhawks",
+  "from": "2026-11-01T15:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553803",
-  "tour": "t8836",
-  "what": "Pakistan Television v Markhor IT Solutions",
-  "from": "2026-10-19T05:00:00Z"
+  "id": "1559968",
+  "tour": "t1559944",
+  "what": "Montreal Warriors v Brampton Blazers",
+  "from": "2026-11-02T00:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553804",
-  "tour": "t8836",
-  "what": "Hyderabad Kingsmen Academy v State Bank of Pakistan",
-  "from": "2026-10-19T05:00:00Z"
+  "id": "1558430",
+  "tour": "t1558428",
+  "what": "Malaysia Under-19s v Sri Lanka Under-19s",
+  "from": "2026-11-05T05:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554420",
-  "tour": "t19439",
-  "what": "Oman v Nepal",
-  "from": "2026-10-19T06:00:00Z"
+  "id": "1558432",
+  "tour": "t1558428",
+  "what": "Pakistan Under-19s v United Arab Emirates Under-19s",
+  "from": "2026-11-06T05:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1528723",
-  "tour": "t24268",
-  "what": "Australia Women v New Zealand Women",
-  "from": "2026-10-20T08:15:00Z"
+  "id": "1558433",
+  "tour": "t1558428",
+  "what": "India Under-19s v Nepal Under-19s",
+  "from": "2026-11-06T05:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1559563",
-  "tour": "t19439",
-  "what": "United Arab Emirates v Netherlands",
-  "from": "2026-10-25T05:30:00Z"
+  "id": "1560719",
+  "tour": "t21353",
+  "what": "Rwanda Women v United States of America Women",
+  "from": "2026-11-06T11:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1553805",
-  "tour": "t8836",
-  "what": "State Bank of Pakistan v Markhor IT Solutions",
-  "from": "2026-10-27T05:00:00Z"
+  "id": "1558436",
+  "tour": "t1558428",
+  "what": "Nepal Under-19s v United Arab Emirates Under-19s",
+  "from": "2026-11-08T05:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1559564",
-  "tour": "t19439",
-  "what": "Netherlands v Oman",
-  "from": "2026-10-27T05:30:00Z"
+  "id": "1558437",
+  "tour": "t1558428",
+  "what": "India Under-19s v Pakistan Under-19s",
+  "from": "2026-11-08T05:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1559565",
-  "tour": "t19439",
-  "what": "United Arab Emirates v Oman",
-  "from": "2026-10-29T05:30:00Z"
+  "id": "1558440",
+  "tour": "t1558428",
+  "what": "India Under-19s v United Arab Emirates Under-19s",
+  "from": "2026-11-10T05:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1559566",
-  "tour": "t19439",
-  "what": "United Arab Emirates v Netherlands",
-  "from": "2026-10-31T05:30:00Z"
+  "id": "1558441",
+  "tour": "t1558428",
+  "what": "Nepal Under-19s v Pakistan Under-19s",
+  "from": "2026-11-10T05:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1559567",
-  "tour": "t19439",
-  "what": "Netherlands v Oman",
-  "from": "2026-11-02T05:30:00Z"
+  "id": "1558444",
+  "tour": "t1558428",
+  "what": "India Under-19s v Pakistan Under-19s",
+  "from": "2026-11-14T05:00:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1559568",
-  "tour": "t19439",
-  "what": "United Arab Emirates v Oman",
-  "from": "2026-11-04T05:30:00Z"
+  "id": "1550299",
+  "tour": "t8880",
+  "what": "Auckland v Wellington",
+  "from": "2027-02-02T21:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546605",
-  "tour": "t8050",
-  "what": "Karnataka v Chhattisgarh",
-  "from": "2027-01-17T04:00:00Z"
+  "id": "1550301",
+  "tour": "t8880",
+  "what": "Otago v Northern Districts",
+  "from": "2027-02-02T21:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546611",
-  "tour": "t8050",
-  "what": "Maharashtra v Keralam",
-  "from": "2027-01-17T04:00:00Z"
+  "id": "1550302",
+  "tour": "t8880",
+  "what": "Canterbury v Auckland",
+  "from": "2027-02-04T21:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546612",
-  "tour": "t8050",
-  "what": "Railways v Haryana",
-  "from": "2027-01-17T04:00:00Z"
+  "id": "1550303",
+  "tour": "t8880",
+  "what": "Northern Districts v Wellington",
+  "from": "2027-02-04T21:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1546643",
-  "tour": "t8050",
-  "what": "Chhattisgarh v Tripura",
-  "from": "2027-02-01T04:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1546651",
-  "tour": "t8050",
-  "what": "Himachal Pradesh v Railways",
-  "from": "2027-02-01T04:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1546639",
-  "tour": "t8050",
-  "what": "Jammu & Kashmir v Goa",
-  "from": "2027-02-01T04:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1550457",
-  "tour": "t8818",
-  "what": "Auckland Women v Central Districts Women",
-  "from": "2027-02-05T21:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1550458",
-  "tour": "t8818",
-  "what": "Canterbury Women v Northern Districts Women",
-  "from": "2027-02-05T21:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1550459",
-  "tour": "t8818",
-  "what": "Otago Women v Wellington Women",
-  "from": "2027-02-05T21:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1550460",
-  "tour": "t8818",
-  "what": "Auckland Women v Central Districts Women",
+  "id": "1550304",
+  "tour": "t8880",
+  "what": "Central Districts v Otago",
   "from": "2027-02-06T21:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1550462",
-  "tour": "t8818",
-  "what": "Canterbury Women v Northern Districts Women",
-  "from": "2027-02-07T21:30:00Z"
+  "id": "1550305",
+  "tour": "t8880",
+  "what": "Auckland v Central Districts",
+  "from": "2027-02-09T21:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1550463",
-  "tour": "t8818",
-  "what": "Auckland Women v Canterbury Women",
+  "id": "1550306",
+  "tour": "t8880",
+  "what": "Northern Districts v Canterbury",
+  "from": "2027-02-09T21:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1550307",
+  "tour": "t8880",
+  "what": "Otago v Wellington",
+  "from": "2027-02-09T21:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1550309",
+  "tour": "t8880",
+  "what": "Canterbury v Wellington",
   "from": "2027-02-12T21:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1550464",
-  "tour": "t8818",
-  "what": "Central Districts Women v Wellington Women",
+  "id": "1550310",
+  "tour": "t8880",
+  "what": "Otago v Auckland",
   "from": "2027-02-12T21:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1550465",
-  "tour": "t8818",
-  "what": "Northern Districts Women v Otago Women",
-  "from": "2027-02-12T21:30:00Z"
+  "id": "1550312",
+  "tour": "t8880",
+  "what": "Wellington v Central Districts",
+  "from": "2027-02-15T21:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1550466",
-  "tour": "t8818",
-  "what": "Auckland Women v Canterbury Women",
-  "from": "2027-02-13T21:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1550467",
-  "tour": "t8818",
-  "what": "Central Districts Women v Wellington Women",
-  "from": "2027-02-13T21:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1550468",
-  "tour": "t8818",
-  "what": "Northern Districts Women v Otago Women",
-  "from": "2027-02-13T21:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1550469",
-  "tour": "t8818",
+  "id": "1550314",
+  "tour": "t8880",
   "what": "TBA v TBA",
-  "from": "2027-02-19T21:30:00Z"
+  "from": "2027-02-18T21:30:00Z"
  },
  {
   "kind": "dropped",
-  "id": "1554139",
-  "tour": "t22562",
-  "what": "Easterns Women v KwaZulu-Natal Inland Women",
-  "from": "2027-03-07T08:00:00Z"
+  "id": "1550315",
+  "tour": "t8880",
+  "what": "TBA v TBA",
+  "from": "2027-02-20T21:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1528725",
+  "tour": "t24268",
+  "what": "Australia Women v New Zealand Women",
+  "from": "2027-03-06T03:50:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1528726",
+  "tour": "t24268",
+  "what": "Australia Women v New Zealand Women",
+  "from": "2027-03-08T03:50:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1528727",
+  "tour": "t24268",
+  "what": "Australia Women v New Zealand Women",
+  "from": "2027-03-09T23:05:00Z"
  }
 ]
