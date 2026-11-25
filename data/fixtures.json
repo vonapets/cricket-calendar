@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T18:47:53Z",
+ "generated_at": "2026-11-25T23:12:20Z",
  "source": "ESPN public cricket feed (site.api.espn.com)",
  "window_start": "2026-08-01",
  "window_end": "2027-12-31",
@@ -165,7 +165,7 @@
    "color": "#6d675d",
    "start": "2026-08-12",
    "end": "2026-09-16",
-   "matches": 44,
+   "matches": 49,
    "india": false,
    "world": false,
    "formats": [
@@ -222,7 +222,7 @@
    "color": "#7a8899",
    "start": "2026-08-19",
    "end": "2026-09-19",
-   "matches": 25,
+   "matches": 26,
    "india": false,
    "world": false,
    "formats": [
@@ -452,7 +452,7 @@
    "color": "#7a8899",
    "start": "2026-08-31",
    "end": "2026-09-17",
-   "matches": 8,
+   "matches": 9,
    "india": false,
    "world": false,
    "formats": [
@@ -491,8 +491,8 @@
    "group": "Discovered",
    "color": "#7a8899",
    "start": "2026-09-02",
-   "end": "2026-09-14",
-   "matches": 4,
+   "end": "2026-09-16",
+   "matches": 5,
    "india": false,
    "world": false,
    "formats": [
@@ -838,8 +838,8 @@
    "group": "Discovered",
    "color": "#7a8899",
    "start": "2026-09-19",
-   "end": "2026-09-25",
-   "matches": 4,
+   "end": "2026-09-28",
+   "matches": 5,
    "india": false,
    "world": false,
    "formats": [
@@ -954,7 +954,7 @@
    "color": "#7a8899",
    "start": "2026-09-24",
    "end": "2026-10-03",
-   "matches": 9,
+   "matches": 8,
    "india": false,
    "world": true,
    "formats": [
@@ -1109,7 +1109,7 @@
    "color": "#7a8899",
    "start": "2026-09-29",
    "end": "2027-03-20",
-   "matches": 43,
+   "matches": 40,
    "india": false,
    "world": false,
    "formats": [
@@ -1861,7 +1861,7 @@
    "color": "#7a8899",
    "start": "2026-11-05",
    "end": "2026-11-14",
-   "matches": 11,
+   "matches": 8,
    "india": false,
    "world": true,
    "formats": [
@@ -1927,6 +1927,25 @@
    ],
    "in_india": false,
    "tier": "major",
+   "planned": false
+  },
+  {
+   "key": "t24831",
+   "id": "24831",
+   "name": "Bangladesh Under-19s tour of Oman 2026/27",
+   "short": "Bangladesh Under-19s in Oman 2026-27",
+   "group": "Discovered",
+   "color": "#7a8899",
+   "start": "2026-11-07",
+   "end": "2026-11-12",
+   "matches": 3,
+   "india": false,
+   "world": false,
+   "formats": [
+    "ODI"
+   ],
+   "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -2120,6 +2139,44 @@
    ],
    "in_india": false,
    "tier": "major",
+   "planned": false
+  },
+  {
+   "key": "t24764",
+   "id": "24764",
+   "name": "England Women Under-19s tour of India 2026/27",
+   "short": "England Women Under-19s in India 2026-27",
+   "group": "Discovered",
+   "color": "#7a8899",
+   "start": "2026-11-26",
+   "end": "2026-12-06",
+   "matches": 5,
+   "india": false,
+   "world": false,
+   "formats": [
+    "ODI"
+   ],
+   "in_india": true,
+   "tier": "minor",
+   "planned": false
+  },
+  {
+   "key": "t1564156",
+   "id": "1564156",
+   "name": "Naresh Shrestha Memorial U19 Men's National Cricket Tournament 2026/27",
+   "short": "Naresh Shrestha Me",
+   "group": "Discovered",
+   "color": "#7a8899",
+   "start": "2026-11-26",
+   "end": "2026-12-10",
+   "matches": 22,
+   "india": false,
+   "world": false,
+   "formats": [
+    "ODI"
+   ],
+   "in_india": false,
+   "tier": "minor",
    "planned": false
   },
   {
@@ -3997,6 +4054,116 @@
    "away_score": "132/3 (14.4/20 ov, target 132)",
    "venue": "Police Park Ground, Colombo",
    "city": "Colombo",
+   "country": "Sri Lanka",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1535515",
+   "tour": "slt20",
+   "utc": "2026-08-12T04:15:00Z",
+   "ts": 1786508100,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group A",
+   "home": "Burgher Recreation Club",
+   "away": "Police Sports Club",
+   "home_score": "88",
+   "away_score": "91/4 (15.3/20 ov, target 89)",
+   "venue": "Surrey Village Ground, Maggona",
+   "city": "Maggona",
+   "country": "Sri Lanka",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1535512",
+   "tour": "slt20",
+   "utc": "2026-08-12T04:15:00Z",
+   "ts": 1786508100,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group A",
+   "home": "Colombo Cricket Club",
+   "away": "Nugegoda Sports Welfare Club",
+   "home_score": "135/5 (17.4/20 ov, target 135)",
+   "away_score": "134/9",
+   "venue": "Colts Cricket Club Ground, Colombo",
+   "city": "Colombo",
+   "country": "Sri Lanka",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1535517",
+   "tour": "slt20",
+   "utc": "2026-08-12T08:30:00Z",
+   "ts": 1786523400,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group B",
+   "home": "Colts Cricket Club",
+   "away": "Sinhalese Sports Club",
+   "home_score": "110 (17.3/20 ov, target 168)",
+   "away_score": "167/7",
+   "venue": "Police Park Ground, Colombo",
+   "city": "Colombo",
+   "country": "Sri Lanka",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1535513",
+   "tour": "slt20",
+   "utc": "2026-08-12T08:30:00Z",
+   "ts": 1786523400,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group B",
+   "home": "Panadura Sports Club",
+   "away": "Ace Capital Cricket Club",
+   "home_score": "127/9",
+   "away_score": "131/5 (16.2/20 ov, target 128)",
+   "venue": "Colts Cricket Club Ground, Colombo",
+   "city": "Colombo",
+   "country": "Sri Lanka",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1535514",
+   "tour": "slt20",
+   "utc": "2026-08-12T08:30:00Z",
+   "ts": 1786523400,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Group A",
+   "home": "Tamil Union Cricket and Athletic Club",
+   "away": "Kurunegala Youth Cricket Club",
+   "home_score": "116/5 (14.3/20 ov, target 116)",
+   "away_score": "115/9",
+   "venue": "Surrey Village Ground, Maggona",
+   "city": "Maggona",
    "country": "Sri Lanka",
    "format": "T20",
    "note": "Final",
@@ -12564,6 +12731,28 @@
    "india": false
   },
   {
+   "id": "1552896",
+   "tour": "t24681",
+   "utc": "2026-09-16T02:00:00Z",
+   "ts": 1789524000,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "2nd T20I",
+   "home": "Malaysia",
+   "away": "United Arab Emirates",
+   "home_score": "156/9 (20/20 ov)",
+   "away_score": "157/3 (17.4/20 ov, target 157)",
+   "venue": "Bayuemas Oval, Kuala Lumpur",
+   "city": "Kuala Lumpur",
+   "country": "Malaysia",
+   "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1551338",
    "tour": "t18479",
    "utc": "2026-09-16T05:30:00Z",
@@ -12623,6 +12812,50 @@
    "city": "Kigali City",
    "country": "Rwanda",
    "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1513606",
+   "tour": "t23080",
+   "utc": "2026-09-16T09:30:00Z",
+   "ts": 1789551000,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "Eliminator",
+   "home": "Hampshire Women",
+   "away": "Surrey Women",
+   "home_score": "303/5",
+   "away_score": "109 (27.3/50 ov, target 304)",
+   "venue": "The Rose Bowl, Southampton",
+   "city": "Southampton",
+   "country": "England",
+   "format": "ODI",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1552321",
+   "tour": "t24740",
+   "utc": "2026-09-16T09:30:00Z",
+   "ts": 1789551000,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "4th Youth ODI",
+   "home": "England Under-19s",
+   "away": "Pakistan Under-19s",
+   "home_score": "150 (20.4/50 ov, target 351)",
+   "away_score": "350/4",
+   "venue": "Sir Paul Getty's Ground, Wormsley",
+   "city": "Wormsley",
+   "country": "England",
+   "format": "ODI",
    "note": "Final",
    "tbd": false,
    "disrupted": false,
@@ -15535,7 +15768,7 @@
   },
   {
    "id": "1552772",
-   "tour": "t22547",
+   "tour": "t24735",
    "utc": "2026-09-28T00:00:00Z",
    "ts": 1790553600,
    "status": "Final",
@@ -28295,7 +28528,7 @@
   },
   {
    "id": "1558435",
-   "tour": "t1558428",
+   "tour": "t24831",
    "utc": "2026-11-07T05:00:00Z",
    "ts": 1794027600,
    "status": "Final",
@@ -29108,28 +29341,6 @@
    "india": false
   },
   {
-   "id": "1558438",
-   "tour": "t1558428",
-   "utc": "2026-11-09T05:00:00Z",
-   "ts": 1794200400,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "9th Match, Group B",
-   "home": "Bangladesh Under-19s",
-   "away": "Malaysia Under-19s",
-   "home_score": "303/8",
-   "away_score": "98 (30.5/50 ov, target 304)",
-   "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)",
-   "city": "Al Amarat",
-   "country": "Oman",
-   "format": "ODI",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1561217",
    "tour": "t1561006",
    "utc": "2026-11-09T05:00:00Z",
@@ -29343,6 +29554,28 @@
    "city": "Islamabad",
    "country": "Pakistan",
    "format": "Test",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1558438",
+   "tour": "t24831",
+   "utc": "2026-11-09T05:00:00Z",
+   "ts": 1794200400,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "9th Match, Group B",
+   "home": "Bangladesh Under-19s",
+   "away": "Malaysia Under-19s",
+   "home_score": "303/8",
+   "away_score": "98 (30.5/50 ov, target 304)",
+   "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)",
+   "city": "Al Amarat",
+   "country": "Oman",
+   "format": "ODI",
    "note": "Final",
    "tbd": false,
    "disrupted": false,
@@ -30032,28 +30265,6 @@
    "india": false
   },
   {
-   "id": "1558442",
-   "tour": "t1558428",
-   "utc": "2026-11-12T05:00:00Z",
-   "ts": 1794459600,
-   "status": "Final",
-   "status_long": "Final",
-   "round": "1st Semi-Final",
-   "home": "Bangladesh Under-19s",
-   "away": "Pakistan Under-19s",
-   "home_score": "138",
-   "away_score": "141/1 (21.5/50 ov, target 139)",
-   "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)",
-   "city": "Al Amarat",
-   "country": "Oman",
-   "format": "ODI",
-   "note": "Final",
-   "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1557543",
    "tour": "t24142",
    "utc": "2026-11-12T05:00:00Z",
@@ -30091,6 +30302,28 @@
    "city": "Ajman",
    "country": "United Arab Emirates",
    "format": "T20",
+   "note": "Final",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1558442",
+   "tour": "t24831",
+   "utc": "2026-11-12T05:00:00Z",
+   "ts": 1794459600,
+   "status": "Final",
+   "status_long": "Final",
+   "round": "1st Semi-Final",
+   "home": "Bangladesh Under-19s",
+   "away": "Pakistan Under-19s",
+   "home_score": "138",
+   "away_score": "141/1 (21.5/50 ov, target 139)",
+   "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)",
+   "city": "Al Amarat",
+   "country": "Oman",
+   "format": "ODI",
    "note": "Final",
    "tbd": false,
    "disrupted": false,
@@ -36874,6 +37107,28 @@
    "india": false
   },
   {
+   "id": "1564157",
+   "tour": "t1564156",
+   "utc": "2026-11-26T03:15:00Z",
+   "ts": 1795662900,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "1st Match",
+   "home": "Sudur Paschim Province Under-19s",
+   "away": "Lumbini Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Fapla International Cricket Ground, Dhangadi",
+   "city": "Dhangadi",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1546775",
    "tour": "t8661",
    "utc": "2026-11-26T03:30:00Z",
@@ -37380,6 +37635,28 @@
    "india": false
   },
   {
+   "id": "1554271",
+   "tour": "t24764",
+   "utc": "2026-11-26T12:30:00Z",
+   "ts": 1795696200,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "1st unofficial T20I",
+   "home": "India Women Under-19s",
+   "away": "England Women Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Kotambi Stadium, Vadodara",
+   "city": "Vadodara",
+   "country": "India",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1557449",
    "tour": "t20921",
    "utc": "2026-11-26T14:30:00Z",
@@ -37483,6 +37760,50 @@
    "city": "Kuala Lumpur",
    "country": "Malaysia",
    "format": "T20",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564159",
+   "tour": "t1564156",
+   "utc": "2026-11-27T03:15:00Z",
+   "ts": 1795749300,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "3rd Match",
+   "home": "Gandaki Province Under-19s",
+   "away": "Madhesh Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Mahendranagar Cricket Ground, Mahendranagar",
+   "city": "Mahendranagar",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564158",
+   "tour": "t1564156",
+   "utc": "2026-11-27T03:15:00Z",
+   "ts": 1795749300,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "2nd Match",
+   "home": "Karnali Province Under-19s",
+   "away": "Lumbini Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Fapla International Cricket Ground, Dhangadi",
+   "city": "Dhangadi",
+   "country": "Nepal",
+   "format": "ODI",
    "note": "Scheduled",
    "tbd": false,
    "disrupted": false,
@@ -37908,6 +38229,50 @@
    "india": false
   },
   {
+   "id": "1564161",
+   "tour": "t1564156",
+   "utc": "2026-11-28T03:15:00Z",
+   "ts": 1795835700,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "5th Match",
+   "home": "Gandaki Province Under-19s",
+   "away": "Koshi Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Mahendranagar Cricket Ground, Mahendranagar",
+   "city": "Mahendranagar",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564160",
+   "tour": "t1564156",
+   "utc": "2026-11-28T03:15:00Z",
+   "ts": 1795835700,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "4th Match",
+   "home": "Sudur Paschim Province Under-19s",
+   "away": "Karnali Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Fapla International Cricket Ground, Dhangadi",
+   "city": "Dhangadi",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1543980",
    "tour": "t21284",
    "utc": "2026-11-28T04:40:00Z",
@@ -37944,6 +38309,28 @@
    "venue": "Kingsmead, Durban",
    "city": "Durban",
    "country": "South Africa",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1554272",
+   "tour": "t24764",
+   "utc": "2026-11-28T07:30:00Z",
+   "ts": 1795851000,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "2nd unofficial T20I",
+   "home": "India Women Under-19s",
+   "away": "England Women Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Kotambi Stadium, Vadodara",
+   "city": "Vadodara",
+   "country": "India",
    "format": "ODI",
    "note": "Scheduled",
    "tbd": false,
@@ -38165,6 +38552,50 @@
    "city": "Adelaide",
    "country": "Australia",
    "format": "Women's T20",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564163",
+   "tour": "t1564156",
+   "utc": "2026-11-29T03:15:00Z",
+   "ts": 1795922100,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "7th Match",
+   "home": "Bagmati Province Under-19s",
+   "away": "Koshi Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Mahendranagar Cricket Ground, Mahendranagar",
+   "city": "Mahendranagar",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564162",
+   "tour": "t1564156",
+   "utc": "2026-11-29T03:15:00Z",
+   "ts": 1795922100,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "6th Match",
+   "home": "Sudur Paschim Province Under-19s",
+   "away": "Madhesh Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Fapla International Cricket Ground, Dhangadi",
+   "city": "Dhangadi",
+   "country": "Nepal",
+   "format": "ODI",
    "note": "Scheduled",
    "tbd": false,
    "disrupted": false,
@@ -38480,6 +38911,50 @@
    "india": false
   },
   {
+   "id": "1564165",
+   "tour": "t1564156",
+   "utc": "2026-12-01T03:15:00Z",
+   "ts": 1796094900,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "9th Match",
+   "home": "Bagmati Province Under-19s",
+   "away": "Karnali Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Mahendranagar Cricket Ground, Mahendranagar",
+   "city": "Mahendranagar",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564164",
+   "tour": "t1564156",
+   "utc": "2026-12-01T03:15:00Z",
+   "ts": 1796094900,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "8th Match",
+   "home": "Lumbini Province Under-19s",
+   "away": "Madhesh Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Fapla International Cricket Ground, Dhangadi",
+   "city": "Dhangadi",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1525664",
    "tour": "t24484",
    "utc": "2026-12-01T11:30:00Z",
@@ -38494,6 +38969,28 @@
    "venue": "Buffalo Park, KuGumpo City",
    "city": "KuGompo City",
    "country": "South Africa",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1554273",
+   "tour": "t24764",
+   "utc": "2026-12-01T12:30:00Z",
+   "ts": 1796128200,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "3rd unofficial T20I",
+   "home": "India Women Under-19s",
+   "away": "England Women Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "CB Patel International Cricket Stadium",
+   "city": "Surat",
+   "country": "India",
    "format": "ODI",
    "note": "Scheduled",
    "tbd": false,
@@ -38517,6 +39014,50 @@
    "city": "Sharjah",
    "country": "United Arab Emirates",
    "format": "T20",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564167",
+   "tour": "t1564156",
+   "utc": "2026-12-02T03:15:00Z",
+   "ts": 1796181300,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "11th Match",
+   "home": "Gandaki Province Under-19s",
+   "away": "Karnali Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Mahendranagar Cricket Ground, Mahendranagar",
+   "city": "Mahendranagar",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564166",
+   "tour": "t1564156",
+   "utc": "2026-12-02T03:15:00Z",
+   "ts": 1796181300,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "10th Match",
+   "home": "Koshi Province Under-19s",
+   "away": "Lumbini Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Fapla International Cricket Ground, Dhangadi",
+   "city": "Dhangadi",
+   "country": "Nepal",
+   "format": "ODI",
    "note": "Scheduled",
    "tbd": false,
    "disrupted": false,
@@ -38766,6 +39307,50 @@
    "india": false
   },
   {
+   "id": "1564168",
+   "tour": "t1564156",
+   "utc": "2026-12-03T03:15:00Z",
+   "ts": 1796267700,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "12th Match",
+   "home": "Bagmati Province Under-19s",
+   "away": "Madhesh Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Fapla International Cricket Ground, Dhangadi",
+   "city": "Dhangadi",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564169",
+   "tour": "t1564156",
+   "utc": "2026-12-03T03:15:00Z",
+   "ts": 1796267700,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "13th Match",
+   "home": "Sudur Paschim Province Under-19s",
+   "away": "Gandaki Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Mahendranagar Cricket Ground, Mahendranagar",
+   "city": "Mahendranagar",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1561238",
    "tour": "t1561006",
    "utc": "2026-12-03T05:00:00Z",
@@ -38942,6 +39527,28 @@
    "india": false
   },
   {
+   "id": "1554274",
+   "tour": "t24764",
+   "utc": "2026-12-03T12:30:00Z",
+   "ts": 1796301000,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "4th unofficial T20I",
+   "home": "India Women Under-19s",
+   "away": "England Women Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "CB Patel International Cricket Stadium",
+   "city": "Surat",
+   "country": "India",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1557459",
    "tour": "t20921",
    "utc": "2026-12-03T14:30:00Z",
@@ -38957,6 +39564,50 @@
    "city": "Dubai",
    "country": "United Arab Emirates",
    "format": "T20",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564170",
+   "tour": "t1564156",
+   "utc": "2026-12-04T03:15:00Z",
+   "ts": 1796354100,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "14th Match",
+   "home": "Bagmati Province Under-19s",
+   "away": "Lumbini Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Fapla International Cricket Ground, Dhangadi",
+   "city": "Dhangadi",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564171",
+   "tour": "t1564156",
+   "utc": "2026-12-04T03:15:00Z",
+   "ts": 1796354100,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "15th Match",
+   "home": "Sudur Paschim Province Under-19s",
+   "away": "Koshi Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Mahendranagar Cricket Ground, Mahendranagar",
+   "city": "Mahendranagar",
+   "country": "Nepal",
+   "format": "ODI",
    "note": "Scheduled",
    "tbd": false,
    "disrupted": false,
@@ -39206,6 +39857,50 @@
    "india": false
   },
   {
+   "id": "1564172",
+   "tour": "t1564156",
+   "utc": "2026-12-06T03:15:00Z",
+   "ts": 1796526900,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "16th Match",
+   "home": "Gandaki Province Under-19s",
+   "away": "Lumbini Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Fapla International Cricket Ground, Dhangadi",
+   "city": "Dhangadi",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564173",
+   "tour": "t1564156",
+   "utc": "2026-12-06T03:15:00Z",
+   "ts": 1796526900,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "17th Match",
+   "home": "Karnali Province Under-19s",
+   "away": "Koshi Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Mahendranagar Cricket Ground, Mahendranagar",
+   "city": "Mahendranagar",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1546799",
    "tour": "t8661",
    "utc": "2026-12-06T03:30:00Z",
@@ -39242,6 +39937,28 @@
    "venue": "Kingsmead, Durban",
    "city": "Durban",
    "country": "South Africa",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1554275",
+   "tour": "t24764",
+   "utc": "2026-12-06T07:30:00Z",
+   "ts": 1796542200,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "5th unofficial T20I",
+   "home": "India Women Under-19s",
+   "away": "England Women Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "CB Patel International Cricket Stadium",
+   "city": "Surat",
+   "country": "India",
    "format": "ODI",
    "note": "Scheduled",
    "tbd": false,
@@ -39426,6 +40143,50 @@
    "india": false
   },
   {
+   "id": "1564175",
+   "tour": "t1564156",
+   "utc": "2026-12-07T03:15:00Z",
+   "ts": 1796613300,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "19th Match",
+   "home": "Karnali Province Under-19s",
+   "away": "Madhesh Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Mahendranagar Cricket Ground, Mahendranagar",
+   "city": "Mahendranagar",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564174",
+   "tour": "t1564156",
+   "utc": "2026-12-07T03:15:00Z",
+   "ts": 1796613300,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "18th Match",
+   "home": "Sudur Paschim Province Under-19s",
+   "away": "Bagmati Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Fapla International Cricket Ground, Dhangadi",
+   "city": "Dhangadi",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
    "id": "1525666",
    "tour": "t24484",
    "utc": "2026-12-07T11:30:00Z",
@@ -39463,6 +40224,50 @@
    "city": "Abu Dhabi",
    "country": "United Arab Emirates",
    "format": "T20",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564176",
+   "tour": "t1564156",
+   "utc": "2026-12-08T03:15:00Z",
+   "ts": 1796699700,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "20th Match",
+   "home": "Bagmati Province Under-19s",
+   "away": "Gandaki Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Fapla International Cricket Ground, Dhangadi",
+   "city": "Dhangadi",
+   "country": "Nepal",
+   "format": "ODI",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564177",
+   "tour": "t1564156",
+   "utc": "2026-12-08T03:15:00Z",
+   "ts": 1796699700,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "21st Match",
+   "home": "Koshi Province Under-19s",
+   "away": "Madhesh Province Under-19s",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Mahendranagar Cricket Ground, Mahendranagar",
+   "city": "Mahendranagar",
+   "country": "Nepal",
+   "format": "ODI",
    "note": "Scheduled",
    "tbd": false,
    "disrupted": false,
@@ -39705,6 +40510,28 @@
    "city": "Sharjah",
    "country": "United Arab Emirates",
    "format": "T20",
+   "note": "Scheduled",
+   "tbd": false,
+   "disrupted": false,
+   "finished": false,
+   "india": false
+  },
+  {
+   "id": "1564178",
+   "tour": "t1564156",
+   "utc": "2026-12-10T03:15:00Z",
+   "ts": 1796872500,
+   "status": "Schedu",
+   "status_long": "Scheduled",
+   "round": "Final",
+   "home": "TBA",
+   "away": "TBA",
+   "home_score": "",
+   "away_score": "",
+   "venue": "Fapla International Cricket Ground, Dhangadi",
+   "city": "Dhangadi",
+   "country": "Nepal",
+   "format": "ODI",
    "note": "Scheduled",
    "tbd": false,
    "disrupted": false,
@@ -43474,28 +44301,6 @@
    "india": false
   },
   {
-   "id": "1545798",
-   "tour": "t8897",
-   "utc": "2027-02-03T00:00:00Z",
-   "ts": 1801612800,
-   "status": "Schedu",
-   "status_long": "Scheduled",
-   "round": " at Canberra",
-   "home": "Australian Capital Territory Women",
-   "away": "Western Australia Women",
-   "home_score": "",
-   "away_score": "",
-   "venue": "Phillip Oval, Canberra",
-   "city": "Canberra",
-   "country": "Australia",
-   "format": "ODI",
-   "note": "Scheduled",
-   "tbd": true,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1545799",
    "tour": "t8897",
    "utc": "2027-02-04T00:00:00Z",
@@ -44970,28 +45775,6 @@
    "india": false
   },
   {
-   "id": "1545805",
-   "tour": "t8897",
-   "utc": "2027-02-21T00:00:00Z",
-   "ts": 1803168000,
-   "status": "Schedu",
-   "status_long": "Scheduled",
-   "round": " at Sydney",
-   "home": "New South Wales Women",
-   "away": "South Australia Women",
-   "home_score": "",
-   "away_score": "",
-   "venue": "Cricket Central, Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "format": "ODI",
-   "note": "Scheduled",
-   "tbd": true,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
    "id": "1545804",
    "tour": "t8897",
    "utc": "2027-02-21T00:00:00Z",
@@ -45867,28 +46650,6 @@
    "format": "ODI",
    "note": "Scheduled",
    "tbd": false,
-   "disrupted": false,
-   "finished": false,
-   "india": false
-  },
-  {
-   "id": "1545810",
-   "tour": "t8897",
-   "utc": "2027-03-10T00:00:00Z",
-   "ts": 1804636800,
-   "status": "Schedu",
-   "status_long": "Scheduled",
-   "round": " at Canberra",
-   "home": "Australian Capital Territory Women",
-   "away": "Tasmania Women",
-   "home_score": "",
-   "away_score": "",
-   "venue": "Phillip Oval, Canberra",
-   "city": "Canberra",
-   "country": "Australia",
-   "format": "ODI",
-   "note": "Scheduled",
-   "tbd": true,
    "disrupted": false,
    "finished": false,
    "india": false
@@ -47019,741 +47780,279 @@
  "changes": [
   {
    "kind": "added",
-   "id": "1558209",
-   "tour": "t24832",
-   "what": "Oman Under-19s v Afghanistan Under-19s",
-   "to": "2026-10-27T05:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1528550",
-   "tour": "t24263",
-   "what": "Ireland v Afghanistan",
-   "to": "2026-08-05T09:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552021",
-   "tour": "t24725",
-   "what": "India A Women v Australia A Women",
-   "to": "2026-09-12T12:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552312",
-   "tour": "t24737",
-   "what": "Japan Women v Malaysia Women",
-   "to": "2026-09-12T01:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1549966",
-   "tour": "acc_pc",
-   "what": "Nepal v Oman",
-   "to": "2026-09-10T01:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551340",
-   "tour": "t18479",
-   "what": "Maiwand Champions v Pamir Legends",
-   "to": "2026-09-22T05:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551341",
-   "tour": "t18479",
-   "what": "Mah-e-Par Stars v Hindukush Strikers",
-   "to": "2026-09-22T05:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1554132",
-   "tour": "t22562",
-   "what": "Northern Cape Women v Boland Women",
-   "to": "2027-02-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1554140",
-   "tour": "t22562",
-   "what": "Kei Women v Border Women",
-   "to": "2027-03-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1554141",
-   "tour": "t22562",
-   "what": "Limpopo Women v Easterns Women",
-   "to": "2027-03-14T08:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559440",
-   "tour": "t19553",
-   "what": "Kenya v Denmark",
-   "to": "2026-10-21T06:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559441",
-   "tour": "t19553",
-   "what": "Papua New Guinea v Jersey",
-   "to": "2026-10-22T06:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559448",
-   "tour": "t19553",
-   "what": "Jersey v Kuwait",
-   "to": "2026-10-27T06:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559449",
-   "tour": "t19553",
-   "what": "Denmark v Qatar",
-   "to": "2026-10-28T06:45:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513430",
-   "tour": "t8204",
-   "what": "Lancashire v Northamptonshire",
-   "to": "2026-08-20T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513431",
-   "tour": "t8204",
-   "what": "Gloucestershire v Worcestershire",
-   "to": "2026-08-20T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513432",
-   "tour": "t8204",
-   "what": "Derbyshire v Middlesex",
-   "to": "2026-08-27T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513435",
-   "tour": "t8204",
-   "what": "Durham v Gloucestershire",
-   "to": "2026-08-27T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513436",
-   "tour": "t8204",
-   "what": "Gloucestershire v Derbyshire",
-   "to": "2026-09-02T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513437",
-   "tour": "t8204",
-   "what": "Kent v Worcestershire",
-   "to": "2026-09-02T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513438",
-   "tour": "t8204",
-   "what": "Northamptonshire v Durham",
-   "to": "2026-09-02T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513446",
-   "tour": "t8204",
-   "what": "Gloucestershire v Middlesex",
-   "to": "2026-09-15T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547872",
-   "tour": "eutpl",
-   "what": "Rotterdam Dockers v Amsterdam Flames",
-   "to": "2026-08-26T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547873",
-   "tour": "eutpl",
-   "what": "Belfast Wolves v Dublin Guardians",
-   "to": "2026-08-27T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547874",
-   "tour": "eutpl",
-   "what": "Edinburgh Castle Rockers v Glasgow Cosmic",
-   "to": "2026-08-27T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547876",
-   "tour": "eutpl",
-   "what": "Glasgow Cosmic v Dublin Guardians",
-   "to": "2026-08-29T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547878",
-   "tour": "eutpl",
-   "what": "Amsterdam Flames v Belfast Wolves",
-   "to": "2026-08-30T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547879",
-   "tour": "eutpl",
-   "what": "Edinburgh Castle Rockers v Dublin Guardians",
-   "to": "2026-08-30T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547880",
-   "tour": "eutpl",
-   "what": "Rotterdam Dockers v Glasgow Cosmic",
-   "to": "2026-09-01T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547881",
-   "tour": "eutpl",
-   "what": "Rotterdam Dockers v Dublin Guardians",
-   "to": "2026-09-02T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547882",
-   "tour": "eutpl",
-   "what": "Belfast Wolves v Edinburgh Castle Rockers",
-   "to": "2026-09-02T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547883",
-   "tour": "eutpl",
-   "what": "Amsterdam Flames v Glasgow Cosmic",
-   "to": "2026-09-03T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547884",
-   "tour": "eutpl",
-   "what": "Glasgow Cosmic v Belfast Wolves",
-   "to": "2026-09-04T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547885",
-   "tour": "eutpl",
-   "what": "Rotterdam Dockers v Edinburgh Castle Rockers",
-   "to": "2026-09-05T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547886",
-   "tour": "eutpl",
-   "what": "Amsterdam Flames v Dublin Guardians",
-   "to": "2026-09-05T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547887",
-   "tour": "eutpl",
-   "what": "Glasgow Cosmic v Edinburgh Castle Rockers",
-   "to": "2026-09-06T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547888",
-   "tour": "eutpl",
-   "what": "Amsterdam Flames v Rotterdam Dockers",
-   "to": "2026-09-06T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547889",
-   "tour": "eutpl",
-   "what": "Dublin Guardians v Belfast Wolves",
-   "to": "2026-09-09T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547890",
-   "tour": "eutpl",
-   "what": "Rotterdam Dockers v Glasgow Cosmic",
-   "to": "2026-09-10T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547891",
-   "tour": "eutpl",
-   "what": "Belfast Wolves v Amsterdam Flames",
-   "to": "2026-09-10T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547892",
-   "tour": "eutpl",
-   "what": "Dublin Guardians v Edinburgh Castle Rockers",
-   "to": "2026-09-11T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547893",
-   "tour": "eutpl",
-   "what": "Belfast Wolves v Rotterdam Dockers",
-   "to": "2026-09-12T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547894",
-   "tour": "eutpl",
-   "what": "Dublin Guardians v Glasgow Cosmic",
-   "to": "2026-09-12T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547895",
-   "tour": "eutpl",
-   "what": "Edinburgh Castle Rockers v Amsterdam Flames",
-   "to": "2026-09-13T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547896",
-   "tour": "eutpl",
-   "what": "Belfast Wolves v Glasgow Cosmic",
-   "to": "2026-09-13T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547897",
-   "tour": "eutpl",
-   "what": "Dublin Guardians v Amsterdam Flames",
-   "to": "2026-09-15T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547898",
-   "tour": "eutpl",
-   "what": "Edinburgh Castle Rockers v Rotterdam Dockers",
-   "to": "2026-09-15T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547899",
-   "tour": "eutpl",
-   "what": "Glasgow Cosmic v Amsterdam Flames",
-   "to": "2026-09-16T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547900",
-   "tour": "eutpl",
-   "what": "Belfast Wolves v Edinburgh Castle Rockers",
-   "to": "2026-09-17T09:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547901",
-   "tour": "eutpl",
-   "what": "Dublin Guardians v Rotterdam Dockers",
-   "to": "2026-09-17T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547902",
-   "tour": "eutpl",
-   "what": "Belfast Wolves v Amsterdam Flames",
-   "to": "2026-09-19T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1547903",
-   "tour": "eutpl",
-   "what": "Belfast Wolves v Edinburgh Castle Rockers",
-   "to": "2026-09-20T13:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1546002",
-   "tour": "t19439",
-   "what": "Canada v United Arab Emirates",
-   "to": "2026-08-11T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1554410",
-   "tour": "t19439",
-   "what": "United States of America v United Arab Emirates",
-   "to": "2026-10-05T15:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1557531",
-   "tour": "t23028",
-   "what": "Nigeria v Lesotho",
-   "to": "2026-10-24T13:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544842",
-   "tour": "marsh",
-   "what": "Western Australia v South Australia",
-   "to": "2026-09-18T06:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1544844",
-   "tour": "marsh",
-   "what": "Western Australia v Tasmania",
-   "to": "2026-09-20T06:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559952",
-   "tour": "t1559944",
-   "what": "Brampton Blazers v Toronto Kings",
-   "to": "2026-10-24T14:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559953",
-   "tour": "t1559944",
-   "what": "Mississauga Skyhawks v Montreal Warriors",
-   "to": "2026-10-24T19:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559954",
-   "tour": "t1559944",
-   "what": "Toronto Kings v Vancouver Guardians",
-   "to": "2026-10-24T23:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1559963",
-   "tour": "t1559944",
-   "what": "Brampton Blazers v Vancouver Guardians",
-   "to": "2026-10-30T14:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1555666",
-   "tour": "t8814",
-   "what": "Dhaka Division v Rangpur Division",
-   "to": "2026-10-03T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1555667",
-   "tour": "t8814",
-   "what": "Khulna Division v Barishal Division",
-   "to": "2026-10-03T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552795",
-   "tour": "t23315",
-   "what": "Cayman Islands v Bahamas",
-   "to": "2026-09-24T15:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1552798",
-   "tour": "t23315",
-   "what": "Cayman Islands v Bahamas",
-   "to": "2026-09-24T19:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1554714",
-   "tour": "t1554704",
-   "what": "Pakistan Women Under-19s v Sri Lanka Women Under-19s",
-   "to": "2026-10-12T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1553779",
-   "tour": "t8836",
-   "what": "Oil & Gas Development Company Limited v Pakistan Television",
-   "to": "2026-09-12T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1553780",
-   "tour": "t8836",
-   "what": "State Bank of Pakistan v Sui Northern Gas Pipelines Limited",
-   "to": "2026-09-12T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1553784",
-   "tour": "t8836",
-   "what": "Hyderabad Kingsmen Academy v Oil & Gas Development Company Limited",
-   "to": "2026-09-18T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1553794",
-   "tour": "t8836",
-   "what": "Khan Research Laboratories v State Bank of Pakistan",
-   "to": "2026-10-06T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1553795",
-   "tour": "t8836",
-   "what": "Markhor IT Solutions v Oil & Gas Development Company Limited",
-   "to": "2026-10-06T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1553803",
-   "tour": "t8836",
-   "what": "Pakistan Television v Markhor IT Solutions",
-   "to": "2026-10-19T05:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513498",
-   "tour": "t8335",
-   "what": "Hampshire v Glamorgan",
-   "to": "2026-08-05T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1513499",
-   "tour": "t8335",
-   "what": "Surrey v Kent",
-   "to": "2026-08-05T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535525",
-   "tour": "slt20",
-   "what": "Colts Cricket Club v Panadura Sports Club",
-   "to": "2026-08-20T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535526",
-   "tour": "slt20",
-   "what": "Nondescripts Cricket Club v Bloomfield Cricket and Athletic Club",
-   "to": "2026-08-20T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535529",
-   "tour": "slt20",
-   "what": "Sinhalese Sports Club v Badureliya Sports Club",
-   "to": "2026-08-20T04:15:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535524",
-   "tour": "slt20",
-   "what": "Burgher Recreation Club v Colombo Cricket Club",
-   "to": "2026-08-20T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535528",
-   "tour": "slt20",
-   "what": "Police Sports Club v Kurunegala Youth Cricket Club",
-   "to": "2026-08-20T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1535527",
-   "tour": "slt20",
-   "what": "Tamil Union Cricket and Athletic Club v Moors Sports Club",
-   "to": "2026-08-20T08:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534399",
-   "tour": "t8859",
-   "what": "Derbyshire 2nd XI v Northamptonshire 2nd XI",
-   "to": "2026-08-17T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534403",
-   "tour": "t8859",
-   "what": "Gloucestershire 2nd XI v Durham 2nd XI",
-   "to": "2026-08-18T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534404",
-   "tour": "t8859",
-   "what": "Leicestershire 2nd XI v Hampshire 2nd XI",
-   "to": "2026-08-18T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534401",
-   "tour": "t8859",
-   "what": "Middlesex 2nd XI v Sussex 2nd XI",
-   "to": "2026-08-18T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534405",
-   "tour": "t8859",
-   "what": "Nottinghamshire 2nd XI v Somerset 2nd XI",
-   "to": "2026-08-18T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1534406",
-   "tour": "t8859",
-   "what": "Surrey 2nd XI v Kent 2nd XI",
-   "to": "2026-08-18T10:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1551071",
-   "tour": "t24741",
-   "what": "Serbia Women v Bulgaria Women",
-   "to": "2026-09-06T12:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1555257",
-   "tour": "t18940",
-   "what": "Brazil A Women v Costa Rica Women",
-   "to": "2026-09-24T12:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1555258",
-   "tour": "t18940",
-   "what": "Brazil A Women v Chile Women",
-   "to": "2026-09-24T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1555259",
-   "tour": "t18940",
-   "what": "Chile Women v Costa Rica Women",
-   "to": "2026-09-25T12:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1555260",
-   "tour": "t18940",
-   "what": "Brazil A Women v Costa Rica Women",
-   "to": "2026-09-25T16:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558393",
-   "tour": "t22804",
-   "what": "Sydney Sixers Women v Australian Capital Territory Women",
-   "to": "2026-10-12T23:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558394",
-   "tour": "t22804",
-   "what": "Adelaide Strikers Women v Perth Scorchers Women",
-   "to": "2026-10-13T03:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1558407",
-   "tour": "t22804",
-   "what": "Adelaide Strikers Women v Perth Scorchers Women",
-   "to": "2026-10-19T23:00:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1548898",
-   "tour": "asia_w",
-   "what": "United Arab Emirates Women v Indonesia Women",
-   "to": "2026-09-04T14:30:00Z"
-  },
-  {
-   "kind": "added",
-   "id": "1548901",
-   "tour": "asia_w",
-   "what": "Hong Kong Women v Pakistan Women",
-   "to": "2026-09-07T14:30:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1535515",
-   "tour": "slt20",
-   "what": "Burgher Recreation Club v Police Sports Club",
-   "from": "2026-08-12T04:15:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1535512",
-   "tour": "slt20",
-   "what": "Colombo Cricket Club v Nugegoda Sports Welfare Club",
-   "from": "2026-08-12T04:15:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1535517",
-   "tour": "slt20",
-   "what": "Colts Cricket Club v Sinhalese Sports Club",
-   "from": "2026-08-12T08:30:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1535513",
-   "tour": "slt20",
-   "what": "Panadura Sports Club v Ace Capital Cricket Club",
-   "from": "2026-08-12T08:30:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1535514",
-   "tour": "slt20",
-   "what": "Tamil Union Cricket and Athletic Club v Kurunegala Youth Cricket Club",
-   "from": "2026-08-12T08:30:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1552896",
-   "tour": "t24681",
-   "what": "Malaysia v United Arab Emirates",
-   "from": "2026-09-16T02:00:00Z"
-  },
-  {
-   "kind": "dropped",
-   "id": "1513606",
-   "tour": "t23080",
-   "what": "Hampshire Women v Surrey Women",
-   "from": "2026-09-16T09:30:00Z"
-  },
-  {
-   "kind": "dropped",
    "id": "1552321",
    "tour": "t24740",
    "what": "England Under-19s v Pakistan Under-19s",
-   "from": "2026-09-16T09:30:00Z"
+   "to": "2026-09-16T09:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1552896",
+   "tour": "t24681",
+   "what": "Malaysia v United Arab Emirates",
+   "to": "2026-09-16T02:00:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1513606",
+   "tour": "t23080",
+   "what": "Hampshire Women v Surrey Women",
+   "to": "2026-09-16T09:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1535515",
+   "tour": "slt20",
+   "what": "Burgher Recreation Club v Police Sports Club",
+   "to": "2026-08-12T04:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1535512",
+   "tour": "slt20",
+   "what": "Colombo Cricket Club v Nugegoda Sports Welfare Club",
+   "to": "2026-08-12T04:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1535517",
+   "tour": "slt20",
+   "what": "Colts Cricket Club v Sinhalese Sports Club",
+   "to": "2026-08-12T08:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1535513",
+   "tour": "slt20",
+   "what": "Panadura Sports Club v Ace Capital Cricket Club",
+   "to": "2026-08-12T08:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1535514",
+   "tour": "slt20",
+   "what": "Tamil Union Cricket and Athletic Club v Kurunegala Youth Cricket Club",
+   "to": "2026-08-12T08:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1554271",
+   "tour": "t24764",
+   "what": "India Women Under-19s v England Women Under-19s",
+   "to": "2026-11-26T12:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1554272",
+   "tour": "t24764",
+   "what": "India Women Under-19s v England Women Under-19s",
+   "to": "2026-11-28T07:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1554273",
+   "tour": "t24764",
+   "what": "India Women Under-19s v England Women Under-19s",
+   "to": "2026-12-01T12:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1554274",
+   "tour": "t24764",
+   "what": "India Women Under-19s v England Women Under-19s",
+   "to": "2026-12-03T12:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1554275",
+   "tour": "t24764",
+   "what": "India Women Under-19s v England Women Under-19s",
+   "to": "2026-12-06T07:30:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564157",
+   "tour": "t1564156",
+   "what": "Sudur Paschim Province Under-19s v Lumbini Province Under-19s",
+   "to": "2026-11-26T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564159",
+   "tour": "t1564156",
+   "what": "Gandaki Province Under-19s v Madhesh Province Under-19s",
+   "to": "2026-11-27T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564158",
+   "tour": "t1564156",
+   "what": "Karnali Province Under-19s v Lumbini Province Under-19s",
+   "to": "2026-11-27T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564161",
+   "tour": "t1564156",
+   "what": "Gandaki Province Under-19s v Koshi Province Under-19s",
+   "to": "2026-11-28T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564160",
+   "tour": "t1564156",
+   "what": "Sudur Paschim Province Under-19s v Karnali Province Under-19s",
+   "to": "2026-11-28T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564163",
+   "tour": "t1564156",
+   "what": "Bagmati Province Under-19s v Koshi Province Under-19s",
+   "to": "2026-11-29T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564162",
+   "tour": "t1564156",
+   "what": "Sudur Paschim Province Under-19s v Madhesh Province Under-19s",
+   "to": "2026-11-29T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564165",
+   "tour": "t1564156",
+   "what": "Bagmati Province Under-19s v Karnali Province Under-19s",
+   "to": "2026-12-01T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564164",
+   "tour": "t1564156",
+   "what": "Lumbini Province Under-19s v Madhesh Province Under-19s",
+   "to": "2026-12-01T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564167",
+   "tour": "t1564156",
+   "what": "Gandaki Province Under-19s v Karnali Province Under-19s",
+   "to": "2026-12-02T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564166",
+   "tour": "t1564156",
+   "what": "Koshi Province Under-19s v Lumbini Province Under-19s",
+   "to": "2026-12-02T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564168",
+   "tour": "t1564156",
+   "what": "Bagmati Province Under-19s v Madhesh Province Under-19s",
+   "to": "2026-12-03T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564169",
+   "tour": "t1564156",
+   "what": "Sudur Paschim Province Under-19s v Gandaki Province Under-19s",
+   "to": "2026-12-03T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564170",
+   "tour": "t1564156",
+   "what": "Bagmati Province Under-19s v Lumbini Province Under-19s",
+   "to": "2026-12-04T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564171",
+   "tour": "t1564156",
+   "what": "Sudur Paschim Province Under-19s v Koshi Province Under-19s",
+   "to": "2026-12-04T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564172",
+   "tour": "t1564156",
+   "what": "Gandaki Province Under-19s v Lumbini Province Under-19s",
+   "to": "2026-12-06T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564173",
+   "tour": "t1564156",
+   "what": "Karnali Province Under-19s v Koshi Province Under-19s",
+   "to": "2026-12-06T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564175",
+   "tour": "t1564156",
+   "what": "Karnali Province Under-19s v Madhesh Province Under-19s",
+   "to": "2026-12-07T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564174",
+   "tour": "t1564156",
+   "what": "Sudur Paschim Province Under-19s v Bagmati Province Under-19s",
+   "to": "2026-12-07T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564176",
+   "tour": "t1564156",
+   "what": "Bagmati Province Under-19s v Gandaki Province Under-19s",
+   "to": "2026-12-08T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564177",
+   "tour": "t1564156",
+   "what": "Koshi Province Under-19s v Madhesh Province Under-19s",
+   "to": "2026-12-08T03:15:00Z"
+  },
+  {
+   "kind": "added",
+   "id": "1564178",
+   "tour": "t1564156",
+   "what": "TBA v TBA",
+   "to": "2026-12-10T03:15:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1545798",
+   "tour": "t8897",
+   "what": "Australian Capital Territory Women v Western Australia Women",
+   "from": "2027-02-03T00:00:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1545805",
+   "tour": "t8897",
+   "what": "New South Wales Women v South Australia Women",
+   "from": "2027-02-21T00:00:00Z"
+  },
+  {
+   "kind": "dropped",
+   "id": "1545810",
+   "tour": "t8897",
+   "what": "Australian Capital Territory Women v Tasmania Women",
+   "from": "2027-03-10T00:00:00Z"
   }
  ],
  "counts": {
-  "tournaments": 121,
-  "fixtures": 2031,
+  "tournaments": 124,
+  "fixtures": 2063,
   "india": 60,
   "major": 42,
   "projected": 6,
   "projected_matches": 219,
-  "failures": 2
+  "failures": 1
  },
  "projection_horizon": "2027-03-31",
  "unpublished": [
@@ -47784,7 +48083,7 @@
   {
    "id": "24233",
    "name": "India Women tour of South Africa 2026",
-   "matches": 4,
+   "matches": 5,
    "last_seen": "2026-04-17 to 2026-04-27"
   },
   {
@@ -47808,8 +48107,8 @@
   {
    "id": "24294",
    "name": "New Zealand A tour of Sri Lanka 2026",
-   "matches": 5,
-   "last_seen": "2026-04-05 to 2026-04-23"
+   "matches": 1,
+   "last_seen": "2026-04-11 to 2026-04-11"
   },
   {
    "id": "24246",
@@ -47822,6 +48121,12 @@
    "name": "New Zealand tour of Ireland 2026",
    "matches": 1,
    "last_seen": "2026-05-27 to 2026-05-27"
+  },
+  {
+   "id": "24259",
+   "name": "Pakistan Women tour of Ireland 2026",
+   "matches": 4,
+   "last_seen": "2026-05-29 to 2026-06-04"
   },
   {
    "id": "24326",
@@ -47846,12 +48151,6 @@
    "name": "West Indies Women tour of Ireland 2026",
    "matches": 7,
    "last_seen": "2026-05-28 to 2026-07-15"
-  },
-  {
-   "id": "24356",
-   "name": "Zimbabwe Women tour of Pakistan 2026",
-   "matches": 5,
-   "last_seen": "2026-05-04 to 2026-05-14"
   },
   {
    "id": "8604",
@@ -47879,8 +48178,7 @@
   }
  ],
  "failures": [
-  "Bangladesh Under-19s tour of Oman 2026/27 2026: giving up on https://site.api.espn.com/apis/site/v2/sports/cricket/24831/scoreboard?dates=2026: HTTP Error 502: Bad Gateway",
-  "Pakistan Women tour of Ireland 2026 2026: giving up on https://site.api.espn.com/apis/site/v2/sports/cricket/24259/scoreboard?dates=2026: HTTP Error 502: Bad Gateway"
+  "Zimbabwe Women tour of Pakistan 2026 2026: giving up on https://site.api.espn.com/apis/site/v2/sports/cricket/24356/scoreboard?dates=2026: HTTP Error 502: Bad Gateway"
  ],
  "warnings": []
 }

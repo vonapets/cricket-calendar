@@ -950,5 +950,21 @@
   "short": "ILT20",
   "group": "Discovered",
   "color": "#7a8899"
+ },
+ "24764": {
+  "id": "24764",
+  "key": "t24764",
+  "name": "England Women Under-19s tour of India 2026/27",
+  "short": "England Women Under-19s in India 2026-27",
+  "group": "Discovered",
+  "color": "#7a8899"
+ },
+ "1564156": {
+  "id": "1564156",
+  "key": "t1564156",
+  "name": "Naresh Shrestha Memorial U19 Men's National Cricket Tournament 2026/27",
+  "short": "Naresh Shrestha Me",
+  "group": "Discovered",
+  "color": "#7a8899"
  }
 }
