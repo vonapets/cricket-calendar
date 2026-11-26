@@ -1,38 +1,212 @@
 [
  {
-  "kind": "moved",
-  "id": "1525664",
-  "tour": "t24484",
-  "what": "South Africa v Bangladesh",
-  "from": "2026-12-01T11:30:00Z",
-  "to": "2026-12-01T08:00:00Z"
+  "kind": "dropped",
+  "id": "1521218",
+  "tour": "hun_w",
+  "what": "Trent Rockets (Women) v Birmingham Phoenix (Women)",
+  "from": "2026-08-05T14:00:00Z"
  },
  {
-  "kind": "added",
-  "id": "1559698",
-  "tour": "t8838",
-  "what": "Mid West Rhinos v Mashonaland Eagles",
-  "to": "2026-11-24T07:30:00Z"
+  "kind": "dropped",
+  "id": "1528551",
+  "tour": "t24263",
+  "what": "Ireland v Afghanistan",
+  "from": "2026-08-07T09:45:00Z"
  },
  {
-  "kind": "added",
-  "id": "1545798",
-  "tour": "t8897",
-  "what": "Australian Capital Territory Women v Western Australia Women",
-  "to": "2027-02-03T00:00:00Z"
+  "kind": "dropped",
+  "id": "1513507",
+  "tour": "t8335",
+  "what": "Yorkshire v Derbyshire",
+  "from": "2026-08-07T10:00:00Z"
  },
  {
-  "kind": "added",
-  "id": "1545805",
-  "tour": "t8897",
-  "what": "New South Wales Women v South Australia Women",
-  "to": "2027-02-21T00:00:00Z"
+  "kind": "dropped",
+  "id": "1513508",
+  "tour": "t8335",
+  "what": "Derbyshire v Middlesex",
+  "from": "2026-08-09T10:00:00Z"
  },
  {
-  "kind": "added",
-  "id": "1545810",
-  "tour": "t8897",
-  "what": "Australian Capital Territory Women v Tasmania Women",
-  "to": "2027-03-10T00:00:00Z"
+  "kind": "dropped",
+  "id": "1513509",
+  "tour": "t8335",
+  "what": "Durham v Essex",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513510",
+  "tour": "t8335",
+  "what": "Glamorgan v Worcestershire",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513511",
+  "tour": "t8335",
+  "what": "Gloucestershire v Nottinghamshire",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513514",
+  "tour": "t8335",
+  "what": "Sussex v Hampshire",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513522",
+  "tour": "t8335",
+  "what": "Warwickshire v Kent",
+  "from": "2026-08-11T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535521",
+  "tour": "slt20",
+  "what": "Ace Capital Cricket Club v Colts Cricket Club",
+  "from": "2026-08-16T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535523",
+  "tour": "slt20",
+  "what": "Kurunegala Youth Cricket Club v Moors Sports Club",
+  "from": "2026-08-16T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535522",
+  "tour": "slt20",
+  "what": "Nondescripts Cricket Club v Badureliya Sports Club",
+  "from": "2026-08-16T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535520",
+  "tour": "slt20",
+  "what": "Nugegoda Sports Welfare Club v Burgher Recreation Club",
+  "from": "2026-08-17T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513584",
+  "tour": "t23080",
+  "what": "Essex Women v Somerset Women",
+  "from": "2026-08-19T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535526",
+  "tour": "slt20",
+  "what": "Nondescripts Cricket Club v Bloomfield Cricket and Athletic Club",
+  "from": "2026-08-20T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535527",
+  "tour": "slt20",
+  "what": "Tamil Union Cricket and Athletic Club v Moors Sports Club",
+  "from": "2026-08-20T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547420",
+  "tour": "t8832",
+  "what": "Ace Capital Cricket Club v Colombo Cricket Club",
+  "from": "2026-08-21T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547421",
+  "tour": "t8832",
+  "what": "Nugegoda Sports Welfare Club v Panadura Sports Club",
+  "from": "2026-08-21T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535535",
+  "tour": "slt20",
+  "what": "Badureliya Sports Club v Ace Capital Cricket Club",
+  "from": "2026-08-24T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535533",
+  "tour": "slt20",
+  "what": "Bloomfield Cricket and Athletic Club v Sinhalese Sports Club",
+  "from": "2026-08-24T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1558244",
+  "tour": "t1558221",
+  "what": "Austria Women v Sweden Women",
+  "from": "2026-10-15T07:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1558245",
+  "tour": "t1558221",
+  "what": "Bulgaria Women v Sweden Women",
+  "from": "2026-10-15T11:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1558246",
+  "tour": "t1558221",
+  "what": "Romania Women v Bulgaria Women",
+  "from": "2026-10-16T07:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1558247",
+  "tour": "t1558221",
+  "what": "Austria Women v Bulgaria Women",
+  "from": "2026-10-16T11:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1558248",
+  "tour": "t1558221",
+  "what": "Romania Women v Austria Women",
+  "from": "2026-10-17T07:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1558249",
+  "tour": "t1558221",
+  "what": "Romania Women v Sweden Women",
+  "from": "2026-10-17T11:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1558250",
+  "tour": "t1558221",
+  "what": "Austria Women v Sweden Women",
+  "from": "2026-10-18T07:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1558251",
+  "tour": "t1558221",
+  "what": "Romania Women v Bulgaria Women",
+  "from": "2026-10-18T11:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554138",
+  "tour": "t22562",
+  "what": "Boland Women v Free State Women",
+  "from": "2027-03-07T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1554139",
+  "tour": "t22562",
+  "what": "Easterns Women v KwaZulu-Natal Inland Women",
+  "from": "2027-03-07T08:00:00Z"
  }
 ]
