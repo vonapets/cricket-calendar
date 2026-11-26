@@ -1,268 +1,38 @@
 [
  {
-  "kind": "added",
-  "id": "1552321",
-  "tour": "t24740",
-  "what": "England Under-19s v Pakistan Under-19s",
-  "to": "2026-09-16T09:30:00Z"
+  "kind": "moved",
+  "id": "1525664",
+  "tour": "t24484",
+  "what": "South Africa v Bangladesh",
+  "from": "2026-12-01T11:30:00Z",
+  "to": "2026-12-01T08:00:00Z"
  },
  {
   "kind": "added",
-  "id": "1552896",
-  "tour": "t24681",
-  "what": "Malaysia v United Arab Emirates",
-  "to": "2026-09-16T02:00:00Z"
+  "id": "1559698",
+  "tour": "t8838",
+  "what": "Mid West Rhinos v Mashonaland Eagles",
+  "to": "2026-11-24T07:30:00Z"
  },
  {
   "kind": "added",
-  "id": "1513606",
-  "tour": "t23080",
-  "what": "Hampshire Women v Surrey Women",
-  "to": "2026-09-16T09:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535515",
-  "tour": "slt20",
-  "what": "Burgher Recreation Club v Police Sports Club",
-  "to": "2026-08-12T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535512",
-  "tour": "slt20",
-  "what": "Colombo Cricket Club v Nugegoda Sports Welfare Club",
-  "to": "2026-08-12T04:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535517",
-  "tour": "slt20",
-  "what": "Colts Cricket Club v Sinhalese Sports Club",
-  "to": "2026-08-12T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535513",
-  "tour": "slt20",
-  "what": "Panadura Sports Club v Ace Capital Cricket Club",
-  "to": "2026-08-12T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1535514",
-  "tour": "slt20",
-  "what": "Tamil Union Cricket and Athletic Club v Kurunegala Youth Cricket Club",
-  "to": "2026-08-12T08:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554271",
-  "tour": "t24764",
-  "what": "India Women Under-19s v England Women Under-19s",
-  "to": "2026-11-26T12:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554272",
-  "tour": "t24764",
-  "what": "India Women Under-19s v England Women Under-19s",
-  "to": "2026-11-28T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554273",
-  "tour": "t24764",
-  "what": "India Women Under-19s v England Women Under-19s",
-  "to": "2026-12-01T12:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554274",
-  "tour": "t24764",
-  "what": "India Women Under-19s v England Women Under-19s",
-  "to": "2026-12-03T12:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1554275",
-  "tour": "t24764",
-  "what": "India Women Under-19s v England Women Under-19s",
-  "to": "2026-12-06T07:30:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564157",
-  "tour": "t1564156",
-  "what": "Sudur Paschim Province Under-19s v Lumbini Province Under-19s",
-  "to": "2026-11-26T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564159",
-  "tour": "t1564156",
-  "what": "Gandaki Province Under-19s v Madhesh Province Under-19s",
-  "to": "2026-11-27T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564158",
-  "tour": "t1564156",
-  "what": "Karnali Province Under-19s v Lumbini Province Under-19s",
-  "to": "2026-11-27T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564161",
-  "tour": "t1564156",
-  "what": "Gandaki Province Under-19s v Koshi Province Under-19s",
-  "to": "2026-11-28T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564160",
-  "tour": "t1564156",
-  "what": "Sudur Paschim Province Under-19s v Karnali Province Under-19s",
-  "to": "2026-11-28T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564163",
-  "tour": "t1564156",
-  "what": "Bagmati Province Under-19s v Koshi Province Under-19s",
-  "to": "2026-11-29T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564162",
-  "tour": "t1564156",
-  "what": "Sudur Paschim Province Under-19s v Madhesh Province Under-19s",
-  "to": "2026-11-29T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564165",
-  "tour": "t1564156",
-  "what": "Bagmati Province Under-19s v Karnali Province Under-19s",
-  "to": "2026-12-01T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564164",
-  "tour": "t1564156",
-  "what": "Lumbini Province Under-19s v Madhesh Province Under-19s",
-  "to": "2026-12-01T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564167",
-  "tour": "t1564156",
-  "what": "Gandaki Province Under-19s v Karnali Province Under-19s",
-  "to": "2026-12-02T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564166",
-  "tour": "t1564156",
-  "what": "Koshi Province Under-19s v Lumbini Province Under-19s",
-  "to": "2026-12-02T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564168",
-  "tour": "t1564156",
-  "what": "Bagmati Province Under-19s v Madhesh Province Under-19s",
-  "to": "2026-12-03T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564169",
-  "tour": "t1564156",
-  "what": "Sudur Paschim Province Under-19s v Gandaki Province Under-19s",
-  "to": "2026-12-03T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564170",
-  "tour": "t1564156",
-  "what": "Bagmati Province Under-19s v Lumbini Province Under-19s",
-  "to": "2026-12-04T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564171",
-  "tour": "t1564156",
-  "what": "Sudur Paschim Province Under-19s v Koshi Province Under-19s",
-  "to": "2026-12-04T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564172",
-  "tour": "t1564156",
-  "what": "Gandaki Province Under-19s v Lumbini Province Under-19s",
-  "to": "2026-12-06T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564173",
-  "tour": "t1564156",
-  "what": "Karnali Province Under-19s v Koshi Province Under-19s",
-  "to": "2026-12-06T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564175",
-  "tour": "t1564156",
-  "what": "Karnali Province Under-19s v Madhesh Province Under-19s",
-  "to": "2026-12-07T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564174",
-  "tour": "t1564156",
-  "what": "Sudur Paschim Province Under-19s v Bagmati Province Under-19s",
-  "to": "2026-12-07T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564176",
-  "tour": "t1564156",
-  "what": "Bagmati Province Under-19s v Gandaki Province Under-19s",
-  "to": "2026-12-08T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564177",
-  "tour": "t1564156",
-  "what": "Koshi Province Under-19s v Madhesh Province Under-19s",
-  "to": "2026-12-08T03:15:00Z"
- },
- {
-  "kind": "added",
-  "id": "1564178",
-  "tour": "t1564156",
-  "what": "TBA v TBA",
-  "to": "2026-12-10T03:15:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1545798",
   "tour": "t8897",
   "what": "Australian Capital Territory Women v Western Australia Women",
-  "from": "2027-02-03T00:00:00Z"
+  "to": "2027-02-03T00:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1545805",
   "tour": "t8897",
   "what": "New South Wales Women v South Australia Women",
-  "from": "2027-02-21T00:00:00Z"
+  "to": "2027-02-21T00:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1545810",
   "tour": "t8897",
   "what": "Australian Capital Territory Women v Tasmania Women",
-  "from": "2027-03-10T00:00:00Z"
+  "to": "2027-03-10T00:00:00Z"
  }
 ]
