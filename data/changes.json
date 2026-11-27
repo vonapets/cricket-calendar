@@ -1,420 +1,359 @@
 [
  {
-  "kind": "moved",
-  "id": "1561036",
-  "tour": "t1561011",
-  "what": "Faisalabad Region v Islamabad Region",
-  "from": "2026-12-03T05:00:00Z",
-  "to": "2026-12-01T05:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1561034",
-  "tour": "t1561011",
-  "what": "Karachi Region Blues v Peshawar Region Blues",
-  "from": "2026-12-03T05:00:00Z",
-  "to": "2026-12-01T05:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1561035",
-  "tour": "t1561011",
-  "what": "Lahore Region Whites v Sialkot Region Blues",
-  "from": "2026-12-03T05:00:00Z",
-  "to": "2026-12-01T05:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1561037",
-  "tour": "t1561011",
-  "what": "Multan Region v Federally Administered Tribal Areas",
-  "from": "2026-12-03T05:00:00Z",
-  "to": "2026-12-01T05:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1561040",
-  "tour": "t1561011",
-  "what": "Faisalabad Region v Lahore Region Whites",
-  "from": "2026-12-09T05:00:00Z",
-  "to": "2026-12-06T05:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1561038",
-  "tour": "t1561011",
-  "what": "Federally Administered Tribal Areas v Karachi Region Blues",
-  "from": "2026-12-09T05:00:00Z",
-  "to": "2026-12-06T05:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1561041",
-  "tour": "t1561011",
-  "what": "Peshawar Region Blues v Islamabad Region",
-  "from": "2026-12-09T05:00:00Z",
-  "to": "2026-12-06T05:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1561039",
-  "tour": "t1561011",
-  "what": "Sialkot Region Blues v Multan Region",
-  "from": "2026-12-09T05:00:00Z",
-  "to": "2026-12-06T05:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1561042",
-  "tour": "t1561011",
-  "what": "TBA v TBA",
-  "from": "2026-12-15T05:00:00Z",
-  "to": "2026-12-12T05:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546788",
-  "tour": "t8661",
-  "what": "Keralam v Vidarbha",
-  "from": "2026-11-30T03:30:00Z",
-  "to": "2026-11-30T05:30:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546789",
-  "tour": "t8661",
-  "what": "Andhra v Mumbai",
-  "from": "2026-11-30T03:30:00Z",
-  "to": "2026-11-30T08:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546790",
-  "tour": "t8661",
-  "what": "Baroda v Delhi",
-  "from": "2026-11-30T03:30:00Z",
-  "to": "2026-11-30T11:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546792",
-  "tour": "t8661",
-  "what": "Rajasthan v Andhra",
-  "from": "2026-12-02T03:30:00Z",
-  "to": "2026-12-02T05:30:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546793",
-  "tour": "t8661",
-  "what": "Delhi v Vidarbha",
-  "from": "2026-12-02T03:30:00Z",
-  "to": "2026-12-02T08:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546794",
-  "tour": "t8661",
-  "what": "Punjab v Mumbai",
-  "from": "2026-12-02T03:30:00Z",
-  "to": "2026-12-02T11:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546796",
-  "tour": "t8661",
-  "what": "Baroda v Vidarbha",
-  "from": "2026-12-04T03:30:00Z",
-  "to": "2026-12-04T05:30:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546797",
-  "tour": "t8661",
-  "what": "Rajasthan v Mumbai",
-  "from": "2026-12-04T03:30:00Z",
-  "to": "2026-12-04T08:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546798",
-  "tour": "t8661",
-  "what": "Delhi v Keralam",
-  "from": "2026-12-04T03:30:00Z",
-  "to": "2026-12-04T11:00:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546799",
-  "tour": "t8661",
-  "what": "TBA v TBA",
-  "from": "2026-12-06T03:30:00Z",
-  "to": "2026-12-06T11:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547411",
-  "tour": "t8832",
-  "what": "Sinhalese Sports Club v Police Sports Club",
-  "from": "2026-08-14T04:15:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1549947",
   "tour": "acc_pc",
   "what": "Hong Kong v Saudi Arabia",
-  "from": "2026-08-30T01:30:00Z"
+  "to": "2026-08-30T01:30:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1547436",
-  "tour": "t8832",
-  "what": "Badureliya Sports Club v Nondescripts Cricket Club",
-  "from": "2026-08-30T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547437",
-  "tour": "t8832",
-  "what": "Colts Cricket Club v Burgher Recreation Club",
-  "from": "2026-08-30T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547433",
-  "tour": "t8832",
-  "what": "Moors Sports Club v Ace Capital Cricket Club",
-  "from": "2026-08-30T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547435",
-  "tour": "t8832",
-  "what": "Police Sports Club v Bloomfield Cricket and Athletic Club",
-  "from": "2026-08-30T04:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1548893",
-  "tour": "asia_w",
-  "what": "India Women v Thailand Women",
-  "from": "2026-08-30T14:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552910",
-  "tour": "t1552900",
-  "what": "Botswana v Uganda",
-  "from": "2026-09-10T07:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552911",
-  "tour": "t1552900",
-  "what": "Rwanda v Sierra Leone",
-  "from": "2026-09-10T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552912",
-  "tour": "t1552900",
-  "what": "Rwanda v Uganda",
-  "from": "2026-09-11T07:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552913",
-  "tour": "t1552900",
-  "what": "Botswana v Kenya",
-  "from": "2026-09-11T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552914",
-  "tour": "t1552900",
-  "what": "Kenya v Uganda",
-  "from": "2026-09-12T07:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552916",
-  "tour": "t1552900",
-  "what": "Kenya v Sierra Leone",
-  "from": "2026-09-13T07:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552921",
-  "tour": "t1552900",
-  "what": "Rwanda v Sierra Leone",
-  "from": "2026-09-16T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552922",
-  "tour": "t1552900",
-  "what": "Rwanda v Uganda",
-  "from": "2026-09-17T07:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552923",
-  "tour": "t1552900",
-  "what": "Botswana v Kenya",
-  "from": "2026-09-17T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552924",
-  "tour": "t1552900",
-  "what": "Kenya v Uganda",
-  "from": "2026-09-18T07:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552925",
-  "tour": "t1552900",
-  "what": "Botswana v Sierra Leone",
-  "from": "2026-09-18T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1555386",
-  "tour": "t23315",
-  "what": "Cayman Islands v Bermuda",
-  "from": "2026-09-23T15:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552797",
-  "tour": "t23315",
-  "what": "Cayman Islands v Bermuda",
-  "from": "2026-09-23T19:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552796",
-  "tour": "t23315",
-  "what": "Bahamas v Bermuda",
-  "from": "2026-09-25T15:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552800",
-  "tour": "t23315",
-  "what": "Bahamas v Bermuda",
-  "from": "2026-09-26T18:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554533",
-  "tour": "t1554524",
-  "what": "Bhutan v Myanmar",
-  "from": "2026-10-05T01:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554534",
-  "tour": "t1554524",
-  "what": "Bahrain v Thailand",
-  "from": "2026-10-05T01:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554568",
-  "tour": "t1554555",
-  "what": "China v Maldives",
-  "from": "2026-10-08T06:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554569",
-  "tour": "t1554555",
-  "what": "Saudi Arabia v Singapore",
-  "from": "2026-10-08T06:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554570",
-  "tour": "t1554555",
-  "what": "Malaysia v Hong Kong",
-  "from": "2026-10-08T06:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554544",
-  "tour": "t1554524",
-  "what": "Myanmar v Qatar",
-  "from": "2026-10-09T01:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554571",
-  "tour": "t1554555",
-  "what": "Malaysia v Saudi Arabia",
-  "from": "2026-10-09T06:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554572",
-  "tour": "t1554555",
-  "what": "China v Hong Kong",
-  "from": "2026-10-09T06:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554574",
-  "tour": "t1554555",
-  "what": "Hong Kong v Saudi Arabia",
-  "from": "2026-10-11T01:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554575",
-  "tour": "t1554555",
-  "what": "Malaysia v Maldives",
-  "from": "2026-10-11T01:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554576",
-  "tour": "t1554555",
-  "what": "China v Singapore",
-  "from": "2026-10-11T01:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1546525",
-  "tour": "t8050",
-  "what": "Bihar v Uttar Pradesh",
-  "from": "2026-10-11T03:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554578",
-  "tour": "t1554555",
-  "what": "Hong Kong v Maldives",
-  "from": "2026-10-12T01:15:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1554579",
-  "tour": "t1554555",
-  "what": "China v Saudi Arabia",
-  "from": "2026-10-12T01:15:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1558244",
   "tour": "t1558221",
   "what": "Austria Women v Sweden Women",
-  "from": "2026-10-15T07:00:00Z"
+  "to": "2026-10-15T07:00:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1558245",
   "tour": "t1558221",
   "what": "Bulgaria Women v Sweden Women",
-  "from": "2026-10-15T11:00:00Z"
+  "to": "2026-10-15T11:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554533",
+  "tour": "t1554524",
+  "what": "Bhutan v Myanmar",
+  "to": "2026-10-05T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554534",
+  "tour": "t1554524",
+  "what": "Bahrain v Thailand",
+  "to": "2026-10-05T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554544",
+  "tour": "t1554524",
+  "what": "Myanmar v Qatar",
+  "to": "2026-10-09T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554568",
+  "tour": "t1554555",
+  "what": "China v Maldives",
+  "to": "2026-10-08T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554569",
+  "tour": "t1554555",
+  "what": "Saudi Arabia v Singapore",
+  "to": "2026-10-08T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554570",
+  "tour": "t1554555",
+  "what": "Malaysia v Hong Kong",
+  "to": "2026-10-08T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554571",
+  "tour": "t1554555",
+  "what": "Malaysia v Saudi Arabia",
+  "to": "2026-10-09T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554572",
+  "tour": "t1554555",
+  "what": "China v Hong Kong",
+  "to": "2026-10-09T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554574",
+  "tour": "t1554555",
+  "what": "Hong Kong v Saudi Arabia",
+  "to": "2026-10-11T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554575",
+  "tour": "t1554555",
+  "what": "Malaysia v Maldives",
+  "to": "2026-10-11T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554576",
+  "tour": "t1554555",
+  "what": "China v Singapore",
+  "to": "2026-10-11T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554578",
+  "tour": "t1554555",
+  "what": "Hong Kong v Maldives",
+  "to": "2026-10-12T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1554579",
+  "tour": "t1554555",
+  "what": "China v Saudi Arabia",
+  "to": "2026-10-12T01:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552910",
+  "tour": "t1552900",
+  "what": "Botswana v Uganda",
+  "to": "2026-09-10T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552911",
+  "tour": "t1552900",
+  "what": "Rwanda v Sierra Leone",
+  "to": "2026-09-10T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552912",
+  "tour": "t1552900",
+  "what": "Rwanda v Uganda",
+  "to": "2026-09-11T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552913",
+  "tour": "t1552900",
+  "what": "Botswana v Kenya",
+  "to": "2026-09-11T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552914",
+  "tour": "t1552900",
+  "what": "Kenya v Uganda",
+  "to": "2026-09-12T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552916",
+  "tour": "t1552900",
+  "what": "Kenya v Sierra Leone",
+  "to": "2026-09-13T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552921",
+  "tour": "t1552900",
+  "what": "Rwanda v Sierra Leone",
+  "to": "2026-09-16T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552922",
+  "tour": "t1552900",
+  "what": "Rwanda v Uganda",
+  "to": "2026-09-17T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552923",
+  "tour": "t1552900",
+  "what": "Botswana v Kenya",
+  "to": "2026-09-17T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552924",
+  "tour": "t1552900",
+  "what": "Kenya v Uganda",
+  "to": "2026-09-18T07:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552925",
+  "tour": "t1552900",
+  "what": "Botswana v Sierra Leone",
+  "to": "2026-09-18T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1555386",
+  "tour": "t23315",
+  "what": "Cayman Islands v Bermuda",
+  "to": "2026-09-23T15:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552797",
+  "tour": "t23315",
+  "what": "Cayman Islands v Bermuda",
+  "to": "2026-09-23T19:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552796",
+  "tour": "t23315",
+  "what": "Bahamas v Bermuda",
+  "to": "2026-09-25T15:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552800",
+  "tour": "t23315",
+  "what": "Bahamas v Bermuda",
+  "to": "2026-09-26T18:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547411",
+  "tour": "t8832",
+  "what": "Sinhalese Sports Club v Police Sports Club",
+  "to": "2026-08-14T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547436",
+  "tour": "t8832",
+  "what": "Badureliya Sports Club v Nondescripts Cricket Club",
+  "to": "2026-08-30T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547437",
+  "tour": "t8832",
+  "what": "Colts Cricket Club v Burgher Recreation Club",
+  "to": "2026-08-30T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547433",
+  "tour": "t8832",
+  "what": "Moors Sports Club v Ace Capital Cricket Club",
+  "to": "2026-08-30T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547435",
+  "tour": "t8832",
+  "what": "Police Sports Club v Bloomfield Cricket and Athletic Club",
+  "to": "2026-08-30T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1546525",
+  "tour": "t8050",
+  "what": "Bihar v Uttar Pradesh",
+  "to": "2026-10-11T03:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1548893",
+  "tour": "asia_w",
+  "what": "India Women v Thailand Women",
+  "to": "2026-08-30T14:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1528551",
+  "tour": "t24263",
+  "what": "Ireland v Afghanistan",
+  "from": "2026-08-07T09:45:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547873",
+  "tour": "eutpl",
+  "what": "Belfast Wolves v Dublin Guardians",
+  "from": "2026-08-27T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547874",
+  "tour": "eutpl",
+  "what": "Edinburgh Castle Rockers v Glasgow Cosmic",
+  "from": "2026-08-27T13:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547876",
+  "tour": "eutpl",
+  "what": "Glasgow Cosmic v Dublin Guardians",
+  "from": "2026-08-29T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1548896",
+  "tour": "asia_w",
+  "what": "Indonesia Women v Sri Lanka Women",
+  "from": "2026-09-02T14:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1549955",
+  "tour": "acc_pc",
+  "what": "Malaysia v Nepal",
+  "from": "2026-09-03T01:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551066",
+  "tour": "t24741",
+  "what": "Serbia Women v Croatia Women",
+  "from": "2026-09-04T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551068",
+  "tour": "t24741",
+  "what": "Bulgaria Women v Croatia Women",
+  "from": "2026-09-05T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535536",
+  "tour": "slt20",
+  "what": "Tamil Union Cricket and Athletic Club v Panadura Sports Club",
+  "from": "2026-09-09T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535537",
+  "tour": "slt20",
+  "what": "Sinhalese Sports Club v Police Sports Club",
+  "from": "2026-09-09T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1535539",
+  "tour": "slt20",
+  "what": "Ace Capital Cricket Club v Colombo Cricket Club",
+  "from": "2026-09-09T08:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513600",
+  "tour": "t23080",
+  "what": "Essex Women v Yorkshire Women",
+  "from": "2026-09-09T09:30:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547889",
+  "tour": "eutpl",
+  "what": "Dublin Guardians v Belfast Wolves",
+  "from": "2026-09-09T13:15:00Z"
  }
 ]
