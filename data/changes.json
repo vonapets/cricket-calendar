@@ -1,94 +1,121 @@
 [
  {
   "kind": "added",
-  "id": "1547443",
-  "tour": "t8832",
-  "what": "Burgher Recreation Club v Badureliya Sports Club",
-  "to": "2026-09-03T04:15:00Z"
- },
- {
-  "kind": "moved",
-  "id": "1546770",
-  "tour": "t8661",
-  "what": "TBA v TBA",
-  "from": "2026-11-24T05:30:00Z",
-  "to": "2026-11-24T07:00:00Z"
- },
- {
-  "kind": "dropped",
   "id": "1547873",
   "tour": "eutpl",
   "what": "Belfast Wolves v Dublin Guardians",
-  "from": "2026-08-27T09:30:00Z"
+  "to": "2026-08-27T09:30:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1547874",
   "tour": "eutpl",
   "what": "Edinburgh Castle Rockers v Glasgow Cosmic",
-  "from": "2026-08-27T13:15:00Z"
+  "to": "2026-08-27T13:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1547876",
   "tour": "eutpl",
   "what": "Glasgow Cosmic v Dublin Guardians",
-  "from": "2026-08-29T09:30:00Z"
+  "to": "2026-08-29T09:30:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1551066",
-  "tour": "t24741",
-  "what": "Serbia Women v Croatia Women",
-  "from": "2026-09-04T08:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1551070",
-  "tour": "t24741",
-  "what": "Serbia Women v Croatia Women",
-  "from": "2026-09-06T08:00:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1547444",
-  "tour": "t8832",
-  "what": "Colombo Cricket Club v Sinhalese Sports Club",
-  "from": "2026-09-07T04:15:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1547889",
   "tour": "eutpl",
   "what": "Dublin Guardians v Belfast Wolves",
-  "from": "2026-09-09T13:15:00Z"
+  "to": "2026-09-09T13:15:00Z"
  },
  {
-  "kind": "dropped",
-  "id": "1552911",
-  "tour": "t1552900",
-  "what": "Rwanda v Sierra Leone",
-  "from": "2026-09-10T11:30:00Z"
- },
- {
-  "kind": "dropped",
-  "id": "1552913",
-  "tour": "t1552900",
-  "what": "Botswana v Kenya",
-  "from": "2026-09-11T11:30:00Z"
- },
- {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1554544",
   "tour": "t1554524",
   "what": "Myanmar v Qatar",
-  "from": "2026-10-09T01:15:00Z"
+  "to": "2026-10-09T01:15:00Z"
  },
  {
-  "kind": "dropped",
+  "kind": "added",
   "id": "1554549",
   "tour": "t1554524",
   "what": "Myanmar v Thailand",
-  "from": "2026-10-12T06:00:00Z"
+  "to": "2026-10-12T06:00:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552911",
+  "tour": "t1552900",
+  "what": "Rwanda v Sierra Leone",
+  "to": "2026-09-10T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1552913",
+  "tour": "t1552900",
+  "what": "Botswana v Kenya",
+  "to": "2026-09-11T11:30:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1547444",
+  "tour": "t8832",
+  "what": "Colombo Cricket Club v Sinhalese Sports Club",
+  "to": "2026-09-07T04:15:00Z"
+ },
+ {
+  "kind": "added",
+  "id": "1551070",
+  "tour": "t24741",
+  "what": "Serbia Women v Croatia Women",
+  "to": "2026-09-06T08:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513503",
+  "tour": "t8335",
+  "what": "Leicestershire v Warwickshire",
+  "from": "2026-08-07T13:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513505",
+  "tour": "t8335",
+  "what": "Somerset v Surrey",
+  "from": "2026-08-07T13:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513512",
+  "tour": "t8335",
+  "what": "Kent v Leicestershire",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1513514",
+  "tour": "t8335",
+  "what": "Sussex v Hampshire",
+  "from": "2026-08-09T10:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1547441",
+  "tour": "t8832",
+  "what": "Police Sports Club v Colts Cricket Club",
+  "from": "2026-09-03T04:15:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1551067",
+  "tour": "t24741",
+  "what": "Bulgaria Women v Croatia Women",
+  "from": "2026-09-04T12:00:00Z"
+ },
+ {
+  "kind": "dropped",
+  "id": "1549966",
+  "tour": "acc_pc",
+  "what": "Nepal v Oman",
+  "from": "2026-09-10T01:30:00Z"
  }
 ]
